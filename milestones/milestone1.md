@@ -3,7 +3,7 @@ APEC (Asia Pacific Enthusiastic Coding)
 
 ## Members
 
-- Tina Du <tinawdu@uchicago.edu>
+- Tina Dou <tdou@uchicago.edu>
 - Mauro Ttito <maurottito@uchicago.edu>
 - Ryota Shimizu<ryotas@uchicago.edu>
 - Jose Pajuelo <jpajuelo@uchicago.edu>

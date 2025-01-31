@@ -1,8 +1,7 @@
 import httpx
 
-response = httpx.get("https://www.census.gov/foreign-trade/reference/codes/index.html/?api_key=a4790051a25236cfca83e83b4957639b278298d2")
-print("Status Code:", response.status_code)
-print("Headers:")
+response = httpx.get("https://www.census.gov/foreign-trade/reference/codes/index.html?api_key=a4790051a25236cfca83e83b4957639b278298d2")
+
 for key, val in response.headers.items():
   print(f"   {key}: {val}")
 print("Body (start):", repr(response.text[:50]))

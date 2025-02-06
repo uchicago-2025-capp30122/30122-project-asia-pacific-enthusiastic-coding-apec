@@ -9,6 +9,13 @@ except KeyError:
         "described in the README."
     )
 DEFAULT_ARGS = {"api_key": API_KEY, "format": "json", "limit": "100"}
+
+
+February 6 (Tina&Jose):
+The ouput of the function get_data_cesus was change
+now dont print but create a json file
+
+
 '''
 # Info from https://www.census.gov/data/developers/data-sets/international-trade.html
 
@@ -38,10 +45,8 @@ def get_data_census(param):
     response_data = {"headers": dict(response.headers),  # save header in dict
                      "body": response.json()
                      }
-    with open("production.json","w") as f:
-            
+    #
+    with open("data_extracted.json","w") as f:       
         json.dump(response_data, f, indent=2)
     
-    print(type(response_data))
-
-    print("hello")
+    #print(response_data)

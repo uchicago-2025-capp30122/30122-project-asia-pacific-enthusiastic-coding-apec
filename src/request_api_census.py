@@ -25,7 +25,7 @@ def get_data_census(param):
     # get_data_census("/timeseries/intltrade/exports/statehsexport?get=group(IT00EXPORTSTATEHS)&E_COMMODITY=-&time=2024-10&US_STATE=*&ucgid=W0100Y1WO")
 
 
-    #get_data_census("/2022/ecncomp?get=NAICS2017,RCPTOT)
+    #get_data_census("/2022/ecncomp?get=NAICS2017,RCPTOT") ##Domestic production
     """
     url = "https://api.census.gov/data"
     url_fetch = url+param
@@ -38,6 +38,10 @@ def get_data_census(param):
     response_data = {"headers": dict(response.headers),  # save header in dict
                      "body": response.json()
                      }
+    with open("production.json","w") as f:
+            
+        json.dump(response_data, f, indent=2)
+    
+    print(type(response_data))
 
-    json_output = json.dumps(response_data, indent=2)
-    print(json_output)
+    print("hello")

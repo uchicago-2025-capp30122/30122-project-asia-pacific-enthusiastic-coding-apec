@@ -26,7 +26,7 @@ def get_data_census(param):
     """
     url = "https://api.census.gov/data"
     url_fetch = url+param
-    response = httpx.get(url_fetch)
+    response = httpx.get(url_fetch, timeout=30.0)
 
     # for key, val in response.headers.items():
     #    print(f"   {key}: {val}")

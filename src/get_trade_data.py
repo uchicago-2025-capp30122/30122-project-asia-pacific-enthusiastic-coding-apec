@@ -3,7 +3,7 @@ import json
 import pandas as pd
 
 
-def combine_url_with_params(url, params):
+def combine_url_with_params(url: str, params: dict):
     """
     Use httpx.URL to create a URL joined to its parameters, suitable for use
     for cache keys.
@@ -27,17 +27,18 @@ def combine_url_with_params(url, params):
     return str(url.copy_with(params=params))
 
 
-
-def get_data_census(year, month, export=True, CTY_NAME = None, NAICS = None):
+def get_data_census(year: str, month: str, export: bool = True, 
+                    CTY_NAME: str = None, NAICS: str = None):
     """
     Fetching trade data from the Census.
     Input:
-        export: True-export, False-import
-        year: 4-digit year
-        month: 2-digit month
+        year (str): 4-digit year
+        month (str): 2-digit month
+        export (bool): True-export, False-import
         CTY_NAME = country name
         NAICS = NAICS code
-    Output:
+
+    Return:
         return json output
     """
     url = "https://api.census.gov/data/timeseries/intltrade"
@@ -45,39 +46,42 @@ def get_data_census(year, month, export=True, CTY_NAME = None, NAICS = None):
     
     if export:
         url = url+"/exports/statenaics"
-        params["get"] = "CTY_CODE,CTY_NAME,NAICS,NAICS_LDESC,ALL_VAL_MO"
+        params["get"] = "CTY_CODE,NAICS_LDESC,ALL_VAL_MO"  # ,CTY_NAME,NAICS
     else:
         url = url+"/imports/statenaics"
-        params["get"] = "CTY_CODE,CTY_NAME,NAICS,NAICS_LDESC,GEN_VAL_MO"
+        params["get"] = "CTY_CODE,NAICS_LDESC,GEN_VAL_MO"  # ,CTY_NAME,NAICS
 
     url_fetch = combine_url_with_params(url, params)
-    
+    print(url_fetch)
     response = httpx.get(url_fetch, timeout=30.0)
-
     response_data = {"headers": dict(response.headers),  # save header in dict
                      "body": response.json()}
 
     return json.dumps(response_data, indent=2)
 
 
-def top_n_value(data, n, export = True):
+def top_n_value(data: str, n: int, export: bool = True):
     """
     Given the retrieved json data, return top N values.
     
     Input:
-        data: json data
-        n: the number of top values we get
-        export: True-export, False-import
-    Output:
-        dataframe
+        data (str): json data
+        n (int): the number of top values we get
+        export (bool): True-export, False-import
+    
+    Return:
+        pd.dataframe: DataFrame with top n values
     """
     json_data = json.loads(data)
     df = pd.DataFrame(json_data["body"][1:], columns = json_data["body"][0])
-    
-    value = "GEN_VAL_MO"
-    if export:
-        value = "ALL_VAL_MO"
+        
+    value = "ALL_VAL_MO" if export else "GEN_VAL_MO"  # export - import
 
     df[value] =  df[value].replace("-", 0)
     df[value] =  df[value].astype(int)
     return df.nlargest(n, value)
+
+
+# ipython3 example
+# data = src.get_trade_data.get_data_census("2022", "09")  # export=True, CTY_NAME = None, NAICS = None
+# src.get_trade_data.top_n_value(data, 8, True)

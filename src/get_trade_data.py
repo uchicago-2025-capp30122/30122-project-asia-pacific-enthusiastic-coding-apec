@@ -41,6 +41,9 @@ def get_data_census(year: str, month: str, export: bool = True,
     Return:
         return json output
     """
+    assert len(year) == 4, "year should be 2-digit number"
+    assert len(month) == 2, "month should be 2-digit number"
+    
     url = "https://api.census.gov/data/timeseries/intltrade"
     params = {"YEAR": year, "MONTH":month, "CTY_NAME":CTY_NAME, "NAICS":NAICS}
     

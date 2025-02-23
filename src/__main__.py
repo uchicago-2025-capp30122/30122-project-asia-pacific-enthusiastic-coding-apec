@@ -1,7 +1,14 @@
-import sys
-from request_api_census import get_data_census
+from dash import Dash, html
+from dash_bootstrap_components.themes import BOOTSTRAP
+from components.layout import create_layout
 
-get_data_census("/timeseries/intltradeimports/naics?get=E_COMMODITY_SDESC,CTY_NAME,ALL_VAL_YR,DIST_NAME,E_COMMODITY_SDESC&time=2013-24-1&key=a4790051a25236cfca83e83b4957639b278298d2")
+
+def main() -> None:
+    app = Dash(external_stylesheets=[BOOTSTRAP])
+    app.title = "Trade data APEC"
+    app.layout = create_layout(app)
+    app.run()
+
 
 if __name__ == "__main__":
     main()

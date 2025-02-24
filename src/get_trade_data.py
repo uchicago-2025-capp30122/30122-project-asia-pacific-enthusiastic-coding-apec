@@ -1,6 +1,21 @@
 import httpx
 import json
 import pandas as pd
+from pathlib import Path
+import re
+import time
+
+CACHE_DIR = Path(__file__).parent / "_cache"
+
+class FetchException(Exception):
+    """
+    Turn a httpx.Response into an exception.
+    """
+
+    def __init__(self, response: httpx.Response):
+        super().__init__(
+            f"{response.status_code} retrieving {response.url}: {response.text}"
+        )
 
 
 def combine_url_with_params(url: str, params: dict):
@@ -27,10 +42,26 @@ def combine_url_with_params(url: str, params: dict):
     return str(url.copy_with(params=params))
 
 
+def url_to_cache_key(url: str) -> str:
+    """
+    Convert a URL to a cache key that can be stored on disk.
+
+    1) All keys would be lower case.
+    2) The leading http(s):// would be removed.
+    3) The remaining characters would all be specific characters.
+       Any other characters would be converted to `_`.
+    """
+    removed_http = re.sub(r"https?://", "", url.lower())
+    return re.sub(r"[^abcdefghijklmnopqrstuvwxyz1234567890%+,\^=._]", "_", 
+                  removed_http )
+
+
+
 def get_data_census(year: str, month: str, export: bool = True, 
                     CTY_NAME: str = None, NAICS: str = None):
     """
-    Fetching trade data from the Census.
+    Fetching trade data from the Census. This function also caches all GET 
+    requests it makes, by writing the successful responses to disk.
     Input:
         year (str): 4-digit year
         month (str): 2-digit month
@@ -44,6 +75,8 @@ def get_data_census(year: str, month: str, export: bool = True,
     assert len(year) == 4, "year should be 2-digit number"
     assert len(month) == 2, "month should be 2-digit number"
     
+    CACHE_DIR.mkdir(exist_ok=True)
+
     url = "https://api.census.gov/data/timeseries/intltrade"
     params = {"YEAR": year, "MONTH":month, "CTY_NAME":CTY_NAME, "NAICS":NAICS}
     
@@ -55,26 +88,41 @@ def get_data_census(year: str, month: str, export: bool = True,
         params["get"] = "CTY_CODE,NAICS_LDESC,GEN_VAL_MO"  # ,CTY_NAME,NAICS
 
     url_fetch = combine_url_with_params(url, params)
-    print(url_fetch)
-    response = httpx.get(url_fetch, timeout=30.0)
-    response_data = {"headers": dict(response.headers),  # save header in dict
-                     "body": response.json()}
 
-    return json.dumps(response_data, indent=2)
+    cache_key = url_to_cache_key(url_fetch)
+    cache_file = CACHE_DIR/cache_key
+
+    # If there is a cache, return it. Otherwise send a request.
+    if cache_file.exists():
+        with open (cache_file, "r") as f:
+            return json.dumps(json.load(f))
+
+    time.sleep(0.5)
+    response = httpx.get(url_fetch, timeout=30.0)
+
+    if response.status_code == 200:
+        response_data = {"headers": dict(response.headers),  # save header in dict
+                        "body": response.json()}
+        with open(cache_file, "w") as f:
+            json.dump(response_data, f, indent=2)
+
+        return json.dumps(response_data, indent=2)
+    raise FetchException(response)
+
+
 
 
 def top_n_value(data: str, n: int, export: bool = True):
-    """
-    Given the retrieved json data, return top N values.
+    #Given the retrieved json data, return top N values.
     
-    Input:
-        data (str): json data
-        n (int): the number of top values we get
-        export (bool): True-export, False-import
+    #Input:
+        #data (str): json data
+        #n (int): the number of top values we get
+        #export (bool): True-export, False-import
     
-    Return:
-        pd.dataframe: DataFrame with top n values
-    """
+    #Return:
+        #pd.dataframe: DataFrame with top n values
+
     json_data = json.loads(data)
     df = pd.DataFrame(json_data["body"][1:], columns = json_data["body"][0])
         

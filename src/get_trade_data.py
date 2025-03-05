@@ -72,7 +72,7 @@ def get_data_census(year: str, month: str, export: bool = True,
     Return:
         return json output
     """
-    assert len(year) == 4, "year should be 2-digit number"
+    assert len(year) == 4, "year should be 4-digit number"
     assert len(month) == 2, "month should be 2-digit number"
     
     CACHE_DIR.mkdir(exist_ok=True)

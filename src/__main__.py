@@ -1,6 +1,6 @@
 from dash import Dash, html
 from dash_bootstrap_components.themes import BOOTSTRAP
-from components.layout import create_layout
+from .components.layout import create_layout
 
 
 def main() -> None:

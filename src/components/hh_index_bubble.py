@@ -13,6 +13,7 @@ PARENT_DIR = Path(__file__).parent.parent
 sys.path.append(str(PARENT_DIR))
 import get_trade_data
 import import_production
+from get_data_prod_agri import get_data_agri, api_key, url, params
 
 
 
@@ -46,14 +47,21 @@ def add_production_data(hhi_df: pd.DataFrame):
     Output:
         Dataframe with added production data.
     """
-
-    print(f"csv exist{os.path.exists(PARENT_DIR / "four_digits_NAICS.csv")}")
-    if not os.path.exists(PARENT_DIR / "four_digits_NAICS.csv"):
+    if not os.path.exists(PARENT_DIR / "data/four_digits_NAICS.csv"):
         import_production.get_data_census(
             "/2022/ecncomp?get=NAICS2017,RCPTOT&for=state:*")
     
+    if not os.path.exists(PARENT_DIR / "data/agriculture_NAICS.csv"):
+        get_data_agri(url, params)
+    
     # Create a dic of {NAICS: production} to find values efficiently
-    df = pd.read_csv(PARENT_DIR / "four_digits_NAICS.csv")
+    df_pro = pd.read_csv(PARENT_DIR / "data/four_digits_NAICS.csv")
+    df_agri = pd.read_csv(PARENT_DIR / "data/agriculture_NAICS.csv")
+    df_agri = df_agri.rename(columns = {"NAICS": "NAIC 2017-4digits"})
+    df_agri["Production"] = df_agri["Production"].str.replace(
+                                                        ",", "").astype(float)
+    df = pd.concat([df_pro, df_agri], ignore_index=True)
+
     production_dic = pd.Series(df["Production"].values * 1000, 
                         index = df["NAIC 2017-4digits"].astype(str)).to_dict()
     

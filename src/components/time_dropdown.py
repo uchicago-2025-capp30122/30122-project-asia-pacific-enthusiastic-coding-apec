@@ -15,7 +15,7 @@ def render() -> html.Div:
             dcc.Dropdown(
                 id=ids.YEAR_DROPDOWN,
                 options=[{"label": year, "value": str(year)} 
-                         for year in range(2010, current_year)],
+                         for year in range(2010, current_year+1)],
                 value=str(current_year - 1), 
                 multi=False,
             ),

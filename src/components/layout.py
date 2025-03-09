@@ -1,5 +1,5 @@
 from dash import Dash, html
-from . import nation_dropdown, bar_chart, tree_map, map, time_dropdown, hh_index_bubble
+from . import nation_dropdown, bar_chart, tree_map, map, time_dropdown, hh_index_bubble, dependency, naics_dropdown
 
 
 def create_layout(app: Dash) -> html.Div:
@@ -29,6 +29,17 @@ def create_layout(app: Dash) -> html.Div:
                     children=[time_dropdown.render()]
                 ),
                 hh_index_bubble.render(app)
-            ])
+            ]),
+        html.Div(
+            className="independency-div",
+            children=[
+                html.H1(app.title),
+                html.Hr(),
+                html.Div(
+                    className="dropdown-container",
+                    children=[naics_dropdown.render()]
+                ),
+                dependency.render(app)
+            ]),
     ])
         

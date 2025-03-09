@@ -62,7 +62,8 @@ def add_production_data(hhi_df: pd.DataFrame):
                                                         ",", "").astype(float)
     df = pd.concat([df_pro, df_agri], ignore_index=True)
 
-    production_dic = pd.Series(df["Production"].values * 1000, 
+    # convert values per month in dollars
+    production_dic = pd.Series(df["Production"].values * 1000 / 12, 
                         index = df["NAIC 2017-4digits"].astype(str)).to_dict()
     
     hhi_df["Production"] = hhi_df["NAICS"].apply(lambda key: 
@@ -86,7 +87,7 @@ def render(app: Dash) -> html.Div:
             year (str): 4-digit year
             month (str): 2-digit month
         Output:
-            None(Create a png file)
+            plotly.graph_objects.Figure(scatter plot)
         """
         data = json.loads(
             get_trade_data.get_data_census(year, month, False, None, None))

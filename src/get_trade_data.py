@@ -4,8 +4,10 @@ import pandas as pd
 from pathlib import Path
 import re
 import time
+import datetime
 
 CACHE_DIR = Path(__file__).parent / "_cache"
+DATA_DIR = Path(__file__).parent / "data"
 
 class FetchException(Exception):
     """
@@ -73,7 +75,8 @@ def get_data_census(year: str, month: str, export: bool = True,
         return json output
     """
     assert len(year) == 4, "year should be 4-digit number"
-    assert len(month) == 2, "month should be 2-digit number"
+    if month is not None:
+        assert len(month) == 2, "month should be 2-digit number"
     
     CACHE_DIR.mkdir(exist_ok=True)
 
@@ -110,8 +113,23 @@ def get_data_census(year: str, month: str, export: bool = True,
     raise FetchException(response)
 
 
+"""
+def get_all_trade_data():
+    DATA_DIR.mkdir(exist_ok=True)
+    all_csv = DATA_DIR / "all_trade_data.csv"
+    if not all_csv.exists():
+        all_df = []
+        for year in range(2010, datetime.datetime.now().year + 1):
+            data = json.loads(get_data_census(str(year), None, False, None, None))
+            df = pd.DataFrame(data["body"][1:], columns = data["body"][0])
+            all_df.append(df)
+        
+        combined_df = pd.concat(all_df, ignore_index=True)
 
+        combined_df.to_csv(all_csv, index=False)
+"""
 
+"""
 def top_n_value(data: str, n: int, export: bool = True):
     #Given the retrieved json data, return top N values.
     
@@ -131,7 +149,7 @@ def top_n_value(data: str, n: int, export: bool = True):
     df[value] =  df[value].replace("-", 0)
     df[value] =  df[value].astype(int)
     return df.nlargest(n, value)
-
+"""
 
 # ipython3 example
 # data = src.get_trade_data.get_data_census("2022", "09")  # export=True, CTY_NAME = None, NAICS = None

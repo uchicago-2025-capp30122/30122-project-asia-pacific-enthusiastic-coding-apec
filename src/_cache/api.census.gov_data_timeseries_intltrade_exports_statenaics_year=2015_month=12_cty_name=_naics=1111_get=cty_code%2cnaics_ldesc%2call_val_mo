@@ -1,0 +1,1712 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Sun, 09 Mar 2025 08:50:37 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a458a19c8446c6637f7d73e51ff1e453941a828ca7f26387752f6301eba657b8fa490afefb4ca09adf5e799fac7719d351; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5200",
+      "OILSEEDS AND GRAINS",
+      "1821906",
+      "2015",
+      "12",
+      "UNITED ARAB EMIRATES",
+      "1111"
+    ],
+    [
+      "5210",
+      "OILSEEDS AND GRAINS",
+      "11907754",
+      "2015",
+      "12",
+      "YEMEN",
+      "1111"
+    ],
+    [
+      "5230",
+      "OILSEEDS AND GRAINS",
+      "13370",
+      "2015",
+      "12",
+      "OMAN",
+      "1111"
+    ],
+    [
+      "5250",
+      "OILSEEDS AND GRAINS",
+      "48382",
+      "2015",
+      "12",
+      "BAHRAIN",
+      "1111"
+    ],
+    [
+      "5310",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "AFGHANISTAN",
+      "1111"
+    ],
+    [
+      "5330",
+      "OILSEEDS AND GRAINS",
+      "9635029",
+      "2015",
+      "12",
+      "INDIA",
+      "1111"
+    ],
+    [
+      "5350",
+      "OILSEEDS AND GRAINS",
+      "2566151",
+      "2015",
+      "12",
+      "PAKISTAN",
+      "1111"
+    ],
+    [
+      "5360",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "NEPAL",
+      "1111"
+    ],
+    [
+      "5380",
+      "OILSEEDS AND GRAINS",
+      "35971068",
+      "2015",
+      "12",
+      "BANGLADESH",
+      "1111"
+    ],
+    [
+      "5420",
+      "OILSEEDS AND GRAINS",
+      "620879",
+      "2015",
+      "12",
+      "SRI LANKA",
+      "1111"
+    ],
+    [
+      "5460",
+      "OILSEEDS AND GRAINS",
+      "1244268",
+      "2015",
+      "12",
+      "BURMA",
+      "1111"
+    ],
+    [
+      "5490",
+      "OILSEEDS AND GRAINS",
+      "61774681",
+      "2015",
+      "12",
+      "THAILAND",
+      "1111"
+    ],
+    [
+      "5520",
+      "OILSEEDS AND GRAINS",
+      "52174408",
+      "2015",
+      "12",
+      "VIETNAM",
+      "1111"
+    ],
+    [
+      "5530",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "LAOS",
+      "1111"
+    ],
+    [
+      "5550",
+      "OILSEEDS AND GRAINS",
+      "187653",
+      "2015",
+      "12",
+      "CAMBODIA",
+      "1111"
+    ],
+    [
+      "5570",
+      "OILSEEDS AND GRAINS",
+      "23564437",
+      "2015",
+      "12",
+      "MALAYSIA",
+      "1111"
+    ],
+    [
+      "5590",
+      "OILSEEDS AND GRAINS",
+      "321167",
+      "2015",
+      "12",
+      "SINGAPORE",
+      "1111"
+    ],
+    [
+      "5600",
+      "OILSEEDS AND GRAINS",
+      "69943082",
+      "2015",
+      "12",
+      "INDONESIA",
+      "1111"
+    ],
+    [
+      "5610",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "BRUNEI",
+      "1111"
+    ],
+    [
+      "5650",
+      "OILSEEDS AND GRAINS",
+      "32311976",
+      "2015",
+      "12",
+      "PHILIPPINES",
+      "1111"
+    ],
+    [
+      "5700",
+      "OILSEEDS AND GRAINS",
+      "1600807676",
+      "2015",
+      "12",
+      "CHINA",
+      "1111"
+    ],
+    [
+      "5740",
+      "OILSEEDS AND GRAINS",
+      "39654",
+      "2015",
+      "12",
+      "MONGOLIA",
+      "1111"
+    ],
+    [
+      "5800",
+      "OILSEEDS AND GRAINS",
+      "75979059",
+      "2015",
+      "12",
+      "KOREA, SOUTH",
+      "1111"
+    ],
+    [
+      "5820",
+      "OILSEEDS AND GRAINS",
+      "1244473",
+      "2015",
+      "12",
+      "HONG KONG",
+      "1111"
+    ],
+    [
+      "5830",
+      "OILSEEDS AND GRAINS",
+      "71551697",
+      "2015",
+      "12",
+      "TAIWAN",
+      "1111"
+    ],
+    [
+      "5880",
+      "OILSEEDS AND GRAINS",
+      "209990132",
+      "2015",
+      "12",
+      "JAPAN",
+      "1111"
+    ],
+    [
+      "6021",
+      "OILSEEDS AND GRAINS",
+      "450366",
+      "2015",
+      "12",
+      "AUSTRALIA",
+      "1111"
+    ],
+    [
+      "6141",
+      "OILSEEDS AND GRAINS",
+      "128080",
+      "2015",
+      "12",
+      "NEW ZEALAND",
+      "1111"
+    ],
+    [
+      "6150",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "SAMOA",
+      "1111"
+    ],
+    [
+      "6414",
+      "OILSEEDS AND GRAINS",
+      "184245",
+      "2015",
+      "12",
+      "FRENCH POLYNESIA",
+      "1111"
+    ],
+    [
+      "2483",
+      "OILSEEDS AND GRAINS",
+      "6336",
+      "2015",
+      "12",
+      "ST KITTS AND NEVIS",
+      "1111"
+    ],
+    [
+      "2484",
+      "OILSEEDS AND GRAINS",
+      "16745",
+      "2015",
+      "12",
+      "ANTIGUA AND BARBUDA",
+      "1111"
+    ],
+    [
+      "2486",
+      "OILSEEDS AND GRAINS",
+      "8725",
+      "2015",
+      "12",
+      "DOMINICA",
+      "1111"
+    ],
+    [
+      "2487",
+      "OILSEEDS AND GRAINS",
+      "229146",
+      "2015",
+      "12",
+      "ST LUCIA",
+      "1111"
+    ],
+    [
+      "2488",
+      "OILSEEDS AND GRAINS",
+      "19959",
+      "2015",
+      "12",
+      "ST VINCENT AND THE GRENADINES",
+      "1111"
+    ],
+    [
+      "2489",
+      "OILSEEDS AND GRAINS",
+      "2767",
+      "2015",
+      "12",
+      "GRENADA",
+      "1111"
+    ],
+    [
+      "2720",
+      "OILSEEDS AND GRAINS",
+      "71204",
+      "2015",
+      "12",
+      "BARBADOS",
+      "1111"
+    ],
+    [
+      "2740",
+      "OILSEEDS AND GRAINS",
+      "1833421",
+      "2015",
+      "12",
+      "TRINIDAD AND TOBAGO",
+      "1111"
+    ],
+    [
+      "2774",
+      "OILSEEDS AND GRAINS",
+      "39397",
+      "2015",
+      "12",
+      "SINT MAARTEN",
+      "1111"
+    ],
+    [
+      "2777",
+      "OILSEEDS AND GRAINS",
+      "34704",
+      "2015",
+      "12",
+      "CURACAO",
+      "1111"
+    ],
+    [
+      "2779",
+      "OILSEEDS AND GRAINS",
+      "39324",
+      "2015",
+      "12",
+      "ARUBA",
+      "1111"
+    ],
+    [
+      "2831",
+      "OILSEEDS AND GRAINS",
+      "117851",
+      "2015",
+      "12",
+      "GUADELOUPE",
+      "1111"
+    ],
+    [
+      "2839",
+      "OILSEEDS AND GRAINS",
+      "38080",
+      "2015",
+      "12",
+      "MARTINIQUE",
+      "1111"
+    ],
+    [
+      "3010",
+      "OILSEEDS AND GRAINS",
+      "122629873",
+      "2015",
+      "12",
+      "COLOMBIA",
+      "1111"
+    ],
+    [
+      "3070",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "VENEZUELA",
+      "1111"
+    ],
+    [
+      "3120",
+      "OILSEEDS AND GRAINS",
+      "179928",
+      "2015",
+      "12",
+      "GUYANA",
+      "1111"
+    ],
+    [
+      "3150",
+      "OILSEEDS AND GRAINS",
+      "234526",
+      "2015",
+      "12",
+      "SURINAME",
+      "1111"
+    ],
+    [
+      "3170",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "FRENCH GUIANA",
+      "1111"
+    ],
+    [
+      "3310",
+      "OILSEEDS AND GRAINS",
+      "4672022",
+      "2015",
+      "12",
+      "ECUADOR",
+      "1111"
+    ],
+    [
+      "3330",
+      "OILSEEDS AND GRAINS",
+      "52565162",
+      "2015",
+      "12",
+      "PERU",
+      "1111"
+    ],
+    [
+      "3350",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "BOLIVIA",
+      "1111"
+    ],
+    [
+      "3370",
+      "OILSEEDS AND GRAINS",
+      "470027",
+      "2015",
+      "12",
+      "CHILE",
+      "1111"
+    ],
+    [
+      "3510",
+      "OILSEEDS AND GRAINS",
+      "12629126",
+      "2015",
+      "12",
+      "BRAZIL",
+      "1111"
+    ],
+    [
+      "3530",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "PARAGUAY",
+      "1111"
+    ],
+    [
+      "3550",
+      "OILSEEDS AND GRAINS",
+      "20007",
+      "2015",
+      "12",
+      "URUGUAY",
+      "1111"
+    ],
+    [
+      "3570",
+      "OILSEEDS AND GRAINS",
+      "699329",
+      "2015",
+      "12",
+      "ARGENTINA",
+      "1111"
+    ],
+    [
+      "4000",
+      "OILSEEDS AND GRAINS",
+      "3312",
+      "2015",
+      "12",
+      "ICELAND",
+      "1111"
+    ],
+    [
+      "4010",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "SWEDEN",
+      "1111"
+    ],
+    [
+      "4039",
+      "OILSEEDS AND GRAINS",
+      "20966",
+      "2015",
+      "12",
+      "NORWAY",
+      "1111"
+    ],
+    [
+      "4050",
+      "OILSEEDS AND GRAINS",
+      "12474",
+      "2015",
+      "12",
+      "FINLAND",
+      "1111"
+    ],
+    [
+      "4099",
+      "OILSEEDS AND GRAINS",
+      "46000",
+      "2015",
+      "12",
+      "DENMARK",
+      "1111"
+    ],
+    [
+      "4120",
+      "OILSEEDS AND GRAINS",
+      "29996724",
+      "2015",
+      "12",
+      "UNITED KINGDOM",
+      "1111"
+    ],
+    [
+      "4190",
+      "OILSEEDS AND GRAINS",
+      "146470",
+      "2015",
+      "12",
+      "IRELAND",
+      "1111"
+    ],
+    [
+      "4210",
+      "OILSEEDS AND GRAINS",
+      "26404241",
+      "2015",
+      "12",
+      "NETHERLANDS",
+      "1111"
+    ],
+    [
+      "4231",
+      "OILSEEDS AND GRAINS",
+      "10014071",
+      "2015",
+      "12",
+      "BELGIUM",
+      "1111"
+    ],
+    [
+      "4279",
+      "OILSEEDS AND GRAINS",
+      "6660565",
+      "2015",
+      "12",
+      "FRANCE",
+      "1111"
+    ],
+    [
+      "4280",
+      "OILSEEDS AND GRAINS",
+      "173122687",
+      "2015",
+      "12",
+      "GERMANY",
+      "1111"
+    ],
+    [
+      "4330",
+      "OILSEEDS AND GRAINS",
+      "998255",
+      "2015",
+      "12",
+      "AUSTRIA",
+      "1111"
+    ],
+    [
+      "4351",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "CZECH REPUBLIC",
+      "1111"
+    ],
+    [
+      "6820",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "MICRONESIA",
+      "1111"
+    ],
+    [
+      "6863",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "FIJI",
+      "1111"
+    ],
+    [
+      "7140",
+      "OILSEEDS AND GRAINS",
+      "2165160",
+      "2015",
+      "12",
+      "MOROCCO",
+      "1111"
+    ],
+    [
+      "7210",
+      "OILSEEDS AND GRAINS",
+      "295348",
+      "2015",
+      "12",
+      "ALGERIA",
+      "1111"
+    ],
+    [
+      "7230",
+      "OILSEEDS AND GRAINS",
+      "9684207",
+      "2015",
+      "12",
+      "TUNISIA",
+      "1111"
+    ],
+    [
+      "7250",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "LIBYA",
+      "1111"
+    ],
+    [
+      "7290",
+      "OILSEEDS AND GRAINS",
+      "35566421",
+      "2015",
+      "12",
+      "EGYPT",
+      "1111"
+    ],
+    [
+      "7321",
+      "OILSEEDS AND GRAINS",
+      "1330354",
+      "2015",
+      "12",
+      "SUDAN",
+      "1111"
+    ],
+    [
+      "7323",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "SOUTH SUDAN",
+      "1111"
+    ],
+    [
+      "7380",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "EQUATORIAL GUINEA",
+      "1111"
+    ],
+    [
+      "7410",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "MAURITANIA",
+      "1111"
+    ],
+    [
+      "7420",
+      "OILSEEDS AND GRAINS",
+      "252156",
+      "2015",
+      "12",
+      "CAMEROON",
+      "1111"
+    ],
+    [
+      "7440",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "SENEGAL",
+      "1111"
+    ],
+    [
+      "7450",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "MALI",
+      "1111"
+    ],
+    [
+      "7470",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "SIERRA LEONE",
+      "1111"
+    ],
+    [
+      "7480",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "COTE D'IVOIRE",
+      "1111"
+    ],
+    [
+      "7490",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "GHANA",
+      "1111"
+    ],
+    [
+      "7510",
+      "OILSEEDS AND GRAINS",
+      "47220",
+      "2015",
+      "12",
+      "NIGER",
+      "1111"
+    ],
+    [
+      "7520",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "TOGO",
+      "1111"
+    ],
+    [
+      "7530",
+      "OILSEEDS AND GRAINS",
+      "41389577",
+      "2015",
+      "12",
+      "NIGERIA",
+      "1111"
+    ],
+    [
+      "7540",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "CENTRAL AFRICAN REPUBLIC",
+      "1111"
+    ],
+    [
+      "7560",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "CHAD",
+      "1111"
+    ],
+    [
+      "7580",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "ST HELENA",
+      "1111"
+    ],
+    [
+      "7600",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "BURKINA FASO",
+      "1111"
+    ],
+    [
+      "7610",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "BENIN",
+      "1111"
+    ],
+    [
+      "7620",
+      "OILSEEDS AND GRAINS",
+      "1422011",
+      "2015",
+      "12",
+      "ANGOLA",
+      "1111"
+    ],
+    [
+      "7630",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "CONGO (BRAZZAVILLE)",
+      "1111"
+    ],
+    [
+      "7643",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "CABO VERDE",
+      "1111"
+    ],
+    [
+      "7644",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "SAO TOME AND PRINCIPE",
+      "1111"
+    ],
+    [
+      "7650",
+      "OILSEEDS AND GRAINS",
+      "48683",
+      "2015",
+      "12",
+      "LIBERIA",
+      "1111"
+    ],
+    [
+      "7660",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "CONGO (KINSHASA)",
+      "1111"
+    ],
+    [
+      "7670",
+      "OILSEEDS AND GRAINS",
+      "11018",
+      "2015",
+      "12",
+      "BURUNDI",
+      "1111"
+    ],
+    [
+      "7700",
+      "OILSEEDS AND GRAINS",
+      "1518554",
+      "2015",
+      "12",
+      "SOMALIA",
+      "1111"
+    ],
+    [
+      "7749",
+      "OILSEEDS AND GRAINS",
+      "27194138",
+      "2015",
+      "12",
+      "ETHIOPIA",
+      "1111"
+    ],
+    [
+      "7770",
+      "OILSEEDS AND GRAINS",
+      "9034321",
+      "2015",
+      "12",
+      "DJIBOUTI",
+      "1111"
+    ],
+    [
+      "7780",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "UGANDA",
+      "1111"
+    ],
+    [
+      "7790",
+      "OILSEEDS AND GRAINS",
+      "2586708",
+      "2015",
+      "12",
+      "KENYA",
+      "1111"
+    ],
+    [
+      "2482",
+      "OILSEEDS AND GRAINS",
+      "2563",
+      "2015",
+      "12",
+      "BRITISH VIRGIN ISLANDS",
+      "1111"
+    ],
+    [
+      "4370",
+      "OILSEEDS AND GRAINS",
+      "4119978",
+      "2015",
+      "12",
+      "HUNGARY",
+      "1111"
+    ],
+    [
+      "4419",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "SWITZERLAND",
+      "1111"
+    ],
+    [
+      "4470",
+      "OILSEEDS AND GRAINS",
+      "4245",
+      "2015",
+      "12",
+      "ESTONIA",
+      "1111"
+    ],
+    [
+      "4510",
+      "OILSEEDS AND GRAINS",
+      "21379",
+      "2015",
+      "12",
+      "LITHUANIA",
+      "1111"
+    ],
+    [
+      "4550",
+      "OILSEEDS AND GRAINS",
+      "93938",
+      "2015",
+      "12",
+      "POLAND",
+      "1111"
+    ],
+    [
+      "4621",
+      "OILSEEDS AND GRAINS",
+      "45056519",
+      "2015",
+      "12",
+      "RUSSIA",
+      "1111"
+    ],
+    [
+      "4623",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "UKRAINE",
+      "1111"
+    ],
+    [
+      "4631",
+      "OILSEEDS AND GRAINS",
+      "12140",
+      "2015",
+      "12",
+      "ARMENIA",
+      "1111"
+    ],
+    [
+      "4634",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "KAZAKHSTAN",
+      "1111"
+    ],
+    [
+      "4635",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "KYRGYZSTAN",
+      "1111"
+    ],
+    [
+      "4700",
+      "OILSEEDS AND GRAINS",
+      "131783015",
+      "2015",
+      "12",
+      "SPAIN",
+      "1111"
+    ],
+    [
+      "4710",
+      "OILSEEDS AND GRAINS",
+      "11952376",
+      "2015",
+      "12",
+      "PORTUGAL",
+      "1111"
+    ],
+    [
+      "4759",
+      "OILSEEDS AND GRAINS",
+      "34827774",
+      "2015",
+      "12",
+      "ITALY",
+      "1111"
+    ],
+    [
+      "4791",
+      "OILSEEDS AND GRAINS",
+      "69680",
+      "2015",
+      "12",
+      "CROATIA",
+      "1111"
+    ],
+    [
+      "4792",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "SLOVENIA",
+      "1111"
+    ],
+    [
+      "4793",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "BOSNIA AND HERZEGOVINA",
+      "1111"
+    ],
+    [
+      "4801",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "SERBIA",
+      "1111"
+    ],
+    [
+      "4840",
+      "OILSEEDS AND GRAINS",
+      "475905",
+      "2015",
+      "12",
+      "GREECE",
+      "1111"
+    ],
+    [
+      "4850",
+      "OILSEEDS AND GRAINS",
+      "1036162",
+      "2015",
+      "12",
+      "ROMANIA",
+      "1111"
+    ],
+    [
+      "4870",
+      "OILSEEDS AND GRAINS",
+      "68050",
+      "2015",
+      "12",
+      "BULGARIA",
+      "1111"
+    ],
+    [
+      "4890",
+      "OILSEEDS AND GRAINS",
+      "28129626",
+      "2015",
+      "12",
+      "TURKEY",
+      "1111"
+    ],
+    [
+      "4910",
+      "OILSEEDS AND GRAINS",
+      "32042",
+      "2015",
+      "12",
+      "CYPRUS",
+      "1111"
+    ],
+    [
+      "5020",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "SYRIA",
+      "1111"
+    ],
+    [
+      "5040",
+      "OILSEEDS AND GRAINS",
+      "260424",
+      "2015",
+      "12",
+      "LEBANON",
+      "1111"
+    ],
+    [
+      "5050",
+      "OILSEEDS AND GRAINS",
+      "1940359",
+      "2015",
+      "12",
+      "IRAQ",
+      "1111"
+    ],
+    [
+      "5070",
+      "OILSEEDS AND GRAINS",
+      "21944457",
+      "2015",
+      "12",
+      "IRAN",
+      "1111"
+    ],
+    [
+      "5081",
+      "OILSEEDS AND GRAINS",
+      "16569231",
+      "2015",
+      "12",
+      "ISRAEL",
+      "1111"
+    ],
+    [
+      "5110",
+      "OILSEEDS AND GRAINS",
+      "209036",
+      "2015",
+      "12",
+      "JORDAN",
+      "1111"
+    ],
+    [
+      "5130",
+      "OILSEEDS AND GRAINS",
+      "36476",
+      "2015",
+      "12",
+      "KUWAIT",
+      "1111"
+    ],
+    [
+      "5170",
+      "OILSEEDS AND GRAINS",
+      "54563815",
+      "2015",
+      "12",
+      "SAUDI ARABIA",
+      "1111"
+    ],
+    [
+      "5180",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "QATAR",
+      "1111"
+    ],
+    [
+      "-",
+      "OILSEEDS AND GRAINS",
+      "3740033266",
+      "2015",
+      "12",
+      "TOTAL FOR ALL COUNTRIES",
+      "1111"
+    ],
+    [
+      "0003",
+      "OILSEEDS AND GRAINS",
+      "431886031",
+      "2015",
+      "12",
+      "EUROPEAN UNION",
+      "1111"
+    ],
+    [
+      "1XXX",
+      "OILSEEDS AND GRAINS",
+      "443952390",
+      "2015",
+      "12",
+      "NORTH AMERICA",
+      "1111"
+    ],
+    [
+      "4XXX",
+      "OILSEEDS AND GRAINS",
+      "505108594",
+      "2015",
+      "12",
+      "EUROPE",
+      "1111"
+    ],
+    [
+      "7XXX",
+      "OILSEEDS AND GRAINS",
+      "141837895",
+      "2015",
+      "12",
+      "AFRICA",
+      "1111"
+    ],
+    [
+      "0014",
+      "OILSEEDS AND GRAINS",
+      "2086292145",
+      "2015",
+      "12",
+      "PACIFIC RIM COUNTRIES",
+      "1111"
+    ],
+    [
+      "5XXX",
+      "OILSEEDS AND GRAINS",
+      "2359242700",
+      "2015",
+      "12",
+      "ASIA",
+      "1111"
+    ],
+    [
+      "0017",
+      "OILSEEDS AND GRAINS",
+      "61871886",
+      "2015",
+      "12",
+      "CAFTA-DR",
+      "1111"
+    ],
+    [
+      "6XXX",
+      "OILSEEDS AND GRAINS",
+      "762691",
+      "2015",
+      "12",
+      "AUSTRALIA AND OCEANIA",
+      "1111"
+    ],
+    [
+      "0020",
+      "OILSEEDS AND GRAINS",
+      "443952390",
+      "2015",
+      "12",
+      "NAFTA",
+      "1111"
+    ],
+    [
+      "0021",
+      "OILSEEDS AND GRAINS",
+      "664441208",
+      "2015",
+      "12",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1111"
+    ],
+    [
+      "0022",
+      "OILSEEDS AND GRAINS",
+      "1206351907",
+      "2015",
+      "12",
+      "OECD",
+      "1111"
+    ],
+    [
+      "0023",
+      "OILSEEDS AND GRAINS",
+      "509018931",
+      "2015",
+      "12",
+      "NATO",
+      "1111"
+    ],
+    [
+      "0024",
+      "OILSEEDS AND GRAINS",
+      "587400019",
+      "2015",
+      "12",
+      "LAFTA",
+      "1111"
+    ],
+    [
+      "0025",
+      "OILSEEDS AND GRAINS",
+      "396455499",
+      "2015",
+      "12",
+      "EURO AREA",
+      "1111"
+    ],
+    [
+      "0026",
+      "OILSEEDS AND GRAINS",
+      "2742285332",
+      "2015",
+      "12",
+      "APEC",
+      "1111"
+    ],
+    [
+      "0027",
+      "OILSEEDS AND GRAINS",
+      "241521672",
+      "2015",
+      "12",
+      "ASEAN",
+      "1111"
+    ],
+    [
+      "0028",
+      "OILSEEDS AND GRAINS",
+      "54299605",
+      "2015",
+      "12",
+      "CACM",
+      "1111"
+    ],
+    [
+      "1220",
+      "OILSEEDS AND GRAINS",
+      "50237917",
+      "2015",
+      "12",
+      "CANADA",
+      "1111"
+    ],
+    [
+      "2010",
+      "OILSEEDS AND GRAINS",
+      "393714473",
+      "2015",
+      "12",
+      "MEXICO",
+      "1111"
+    ],
+    [
+      "2050",
+      "OILSEEDS AND GRAINS",
+      "21902709",
+      "2015",
+      "12",
+      "GUATEMALA",
+      "1111"
+    ],
+    [
+      "2080",
+      "OILSEEDS AND GRAINS",
+      "1328537",
+      "2015",
+      "12",
+      "BELIZE",
+      "1111"
+    ],
+    [
+      "2110",
+      "OILSEEDS AND GRAINS",
+      "11228166",
+      "2015",
+      "12",
+      "EL SALVADOR",
+      "1111"
+    ],
+    [
+      "2150",
+      "OILSEEDS AND GRAINS",
+      "8405345",
+      "2015",
+      "12",
+      "HONDURAS",
+      "1111"
+    ],
+    [
+      "2190",
+      "OILSEEDS AND GRAINS",
+      "3384439",
+      "2015",
+      "12",
+      "NICARAGUA",
+      "1111"
+    ],
+    [
+      "2230",
+      "OILSEEDS AND GRAINS",
+      "9378946",
+      "2015",
+      "12",
+      "COSTA RICA",
+      "1111"
+    ],
+    [
+      "2250",
+      "OILSEEDS AND GRAINS",
+      "12732634",
+      "2015",
+      "12",
+      "PANAMA",
+      "1111"
+    ],
+    [
+      "2320",
+      "OILSEEDS AND GRAINS",
+      "74869",
+      "2015",
+      "12",
+      "BERMUDA",
+      "1111"
+    ],
+    [
+      "2360",
+      "OILSEEDS AND GRAINS",
+      "52429",
+      "2015",
+      "12",
+      "BAHAMAS",
+      "1111"
+    ],
+    [
+      "2390",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "CUBA",
+      "1111"
+    ],
+    [
+      "2410",
+      "OILSEEDS AND GRAINS",
+      "14056509",
+      "2015",
+      "12",
+      "JAMAICA",
+      "1111"
+    ],
+    [
+      "2430",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "TURKS AND CAICOS ISLANDS",
+      "1111"
+    ],
+    [
+      "2440",
+      "OILSEEDS AND GRAINS",
+      "8766",
+      "2015",
+      "12",
+      "CAYMAN ISLANDS",
+      "1111"
+    ],
+    [
+      "2450",
+      "OILSEEDS AND GRAINS",
+      "2436669",
+      "2015",
+      "12",
+      "HAITI",
+      "1111"
+    ],
+    [
+      "2470",
+      "OILSEEDS AND GRAINS",
+      "7572281",
+      "2015",
+      "12",
+      "DOMINICAN REPUBLIC",
+      "1111"
+    ],
+    [
+      "2481",
+      "OILSEEDS AND GRAINS",
+      "6475",
+      "2015",
+      "12",
+      "ANGUILLA",
+      "1111"
+    ],
+    [
+      "7830",
+      "OILSEEDS AND GRAINS",
+      "376583",
+      "2015",
+      "12",
+      "TANZANIA",
+      "1111"
+    ],
+    [
+      "7850",
+      "OILSEEDS AND GRAINS",
+      "3513",
+      "2015",
+      "12",
+      "MAURITIUS",
+      "1111"
+    ],
+    [
+      "7870",
+      "OILSEEDS AND GRAINS",
+      "355153",
+      "2015",
+      "12",
+      "MOZAMBIQUE",
+      "1111"
+    ],
+    [
+      "7880",
+      "OILSEEDS AND GRAINS",
+      "82578",
+      "2015",
+      "12",
+      "MADAGASCAR",
+      "1111"
+    ],
+    [
+      "7881",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "MAYOTTE",
+      "1111"
+    ],
+    [
+      "7904",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "REUNION",
+      "1111"
+    ],
+    [
+      "7910",
+      "OILSEEDS AND GRAINS",
+      "6179145",
+      "2015",
+      "12",
+      "SOUTH AFRICA",
+      "1111"
+    ],
+    [
+      "7920",
+      "OILSEEDS AND GRAINS",
+      "1941557",
+      "2015",
+      "12",
+      "NAMIBIA",
+      "1111"
+    ],
+    [
+      "7960",
+      "OILSEEDS AND GRAINS",
+      "353490",
+      "2015",
+      "12",
+      "ZIMBABWE",
+      "1111"
+    ],
+    [
+      "7970",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2015",
+      "12",
+      "MALAWI",
+      "1111"
+    ],
+    [
+      "2XXX",
+      "OILSEEDS AND GRAINS",
+      "95028996",
+      "2015",
+      "12",
+      "CENTRAL AMERICA",
+      "1111"
+    ],
+    [
+      "3XXX",
+      "OILSEEDS AND GRAINS",
+      "194100000",
+      "2015",
+      "12",
+      "SOUTH AMERICA",
+      "1111"
+    ],
+    [
+      "0001",
+      "OILSEEDS AND GRAINS",
+      "128085971",
+      "2015",
+      "12",
+      "OPEC",
+      "1111"
+    ]
+  ]
+}

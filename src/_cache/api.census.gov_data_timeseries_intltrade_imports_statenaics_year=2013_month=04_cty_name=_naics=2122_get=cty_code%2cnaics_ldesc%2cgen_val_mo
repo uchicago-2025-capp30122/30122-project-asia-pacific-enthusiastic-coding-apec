@@ -1,0 +1,623 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Sun, 09 Mar 2025 08:21:38 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a45de484ba18b76bd7ccd8876fa51475ad7183f36009715644d7a4a4e85938f38ad9f959721e89e0798acac763b77c9163; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5330",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "INDIA",
+      "2122"
+    ],
+    [
+      "5490",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "THAILAND",
+      "2122"
+    ],
+    [
+      "5520",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "VIETNAM",
+      "2122"
+    ],
+    [
+      "5570",
+      "METAL ORES",
+      "653059",
+      "2013",
+      "04",
+      "MALAYSIA",
+      "2122"
+    ],
+    [
+      "5700",
+      "METAL ORES",
+      "161049",
+      "2013",
+      "04",
+      "CHINA",
+      "2122"
+    ],
+    [
+      "5880",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "JAPAN",
+      "2122"
+    ],
+    [
+      "6021",
+      "METAL ORES",
+      "114952614",
+      "2013",
+      "04",
+      "AUSTRALIA",
+      "2122"
+    ],
+    [
+      "6141",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "NEW ZEALAND",
+      "2122"
+    ],
+    [
+      "2740",
+      "METAL ORES",
+      "10549",
+      "2013",
+      "04",
+      "TRINIDAD AND TOBAGO",
+      "2122"
+    ],
+    [
+      "3010",
+      "METAL ORES",
+      "302831",
+      "2013",
+      "04",
+      "COLOMBIA",
+      "2122"
+    ],
+    [
+      "3120",
+      "METAL ORES",
+      "3397319",
+      "2013",
+      "04",
+      "GUYANA",
+      "2122"
+    ],
+    [
+      "3310",
+      "METAL ORES",
+      "701982",
+      "2013",
+      "04",
+      "ECUADOR",
+      "2122"
+    ],
+    [
+      "3330",
+      "METAL ORES",
+      "4753167",
+      "2013",
+      "04",
+      "PERU",
+      "2122"
+    ],
+    [
+      "3350",
+      "METAL ORES",
+      "4232914",
+      "2013",
+      "04",
+      "BOLIVIA",
+      "2122"
+    ],
+    [
+      "3370",
+      "METAL ORES",
+      "2156445",
+      "2013",
+      "04",
+      "CHILE",
+      "2122"
+    ],
+    [
+      "3510",
+      "METAL ORES",
+      "7940439",
+      "2013",
+      "04",
+      "BRAZIL",
+      "2122"
+    ],
+    [
+      "3570",
+      "METAL ORES",
+      "120000",
+      "2013",
+      "04",
+      "ARGENTINA",
+      "2122"
+    ],
+    [
+      "4010",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "SWEDEN",
+      "2122"
+    ],
+    [
+      "4039",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "NORWAY",
+      "2122"
+    ],
+    [
+      "4120",
+      "METAL ORES",
+      "405824",
+      "2013",
+      "04",
+      "UNITED KINGDOM",
+      "2122"
+    ],
+    [
+      "4210",
+      "METAL ORES",
+      "84865",
+      "2013",
+      "04",
+      "NETHERLANDS",
+      "2122"
+    ],
+    [
+      "4231",
+      "METAL ORES",
+      "13331",
+      "2013",
+      "04",
+      "BELGIUM",
+      "2122"
+    ],
+    [
+      "4279",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "FRANCE",
+      "2122"
+    ],
+    [
+      "4280",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "GERMANY",
+      "2122"
+    ],
+    [
+      "4330",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "AUSTRIA",
+      "2122"
+    ],
+    [
+      "7140",
+      "METAL ORES",
+      "51051",
+      "2013",
+      "04",
+      "MOROCCO",
+      "2122"
+    ],
+    [
+      "7460",
+      "METAL ORES",
+      "7344472",
+      "2013",
+      "04",
+      "GUINEA",
+      "2122"
+    ],
+    [
+      "7470",
+      "METAL ORES",
+      "159500",
+      "2013",
+      "04",
+      "SIERRA LEONE",
+      "2122"
+    ],
+    [
+      "7480",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "COTE D'IVOIRE",
+      "2122"
+    ],
+    [
+      "7490",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "GHANA",
+      "2122"
+    ],
+    [
+      "7530",
+      "METAL ORES",
+      "78000",
+      "2013",
+      "04",
+      "NIGERIA",
+      "2122"
+    ],
+    [
+      "7550",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "GABON",
+      "2122"
+    ],
+    [
+      "7690",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "RWANDA",
+      "2122"
+    ],
+    [
+      "4621",
+      "METAL ORES",
+      "168000",
+      "2013",
+      "04",
+      "RUSSIA",
+      "2122"
+    ],
+    [
+      "4623",
+      "METAL ORES",
+      "361848",
+      "2013",
+      "04",
+      "UKRAINE",
+      "2122"
+    ],
+    [
+      "4633",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "GEORGIA",
+      "2122"
+    ],
+    [
+      "4634",
+      "METAL ORES",
+      "4200",
+      "2013",
+      "04",
+      "KAZAKHSTAN",
+      "2122"
+    ],
+    [
+      "4700",
+      "METAL ORES",
+      "909465",
+      "2013",
+      "04",
+      "SPAIN",
+      "2122"
+    ],
+    [
+      "4710",
+      "METAL ORES",
+      "1651000",
+      "2013",
+      "04",
+      "PORTUGAL",
+      "2122"
+    ],
+    [
+      "4759",
+      "METAL ORES",
+      "188055",
+      "2013",
+      "04",
+      "ITALY",
+      "2122"
+    ],
+    [
+      "4890",
+      "METAL ORES",
+      "1644500",
+      "2013",
+      "04",
+      "TURKEY",
+      "2122"
+    ],
+    [
+      "-",
+      "METAL ORES",
+      "258266480",
+      "2013",
+      "04",
+      "TOTAL FOR ALL COUNTRIES",
+      "2122"
+    ],
+    [
+      "0003",
+      "METAL ORES",
+      "3252540",
+      "2013",
+      "04",
+      "EUROPEAN UNION",
+      "2122"
+    ],
+    [
+      "1XXX",
+      "METAL ORES",
+      "58428281",
+      "2013",
+      "04",
+      "NORTH AMERICA",
+      "2122"
+    ],
+    [
+      "4XXX",
+      "METAL ORES",
+      "5431088",
+      "2013",
+      "04",
+      "EUROPE",
+      "2122"
+    ],
+    [
+      "7XXX",
+      "METAL ORES",
+      "42362982",
+      "2013",
+      "04",
+      "AFRICA",
+      "2122"
+    ],
+    [
+      "0014",
+      "METAL ORES",
+      "115766722",
+      "2013",
+      "04",
+      "PACIFIC RIM COUNTRIES",
+      "2122"
+    ],
+    [
+      "5XXX",
+      "METAL ORES",
+      "814108",
+      "2013",
+      "04",
+      "ASIA",
+      "2122"
+    ],
+    [
+      "6XXX",
+      "METAL ORES",
+      "114952614",
+      "2013",
+      "04",
+      "AUSTRALIA AND OCEANIA",
+      "2122"
+    ],
+    [
+      "0020",
+      "METAL ORES",
+      "58428281",
+      "2013",
+      "04",
+      "NAFTA",
+      "2122"
+    ],
+    [
+      "0021",
+      "METAL ORES",
+      "24850756",
+      "2013",
+      "04",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2122"
+    ],
+    [
+      "0022",
+      "METAL ORES",
+      "180434380",
+      "2013",
+      "04",
+      "OECD",
+      "2122"
+    ],
+    [
+      "0023",
+      "METAL ORES",
+      "58682343",
+      "2013",
+      "04",
+      "NATO",
+      "2122"
+    ],
+    [
+      "0024",
+      "METAL ORES",
+      "24850756",
+      "2013",
+      "04",
+      "LAFTA",
+      "2122"
+    ],
+    [
+      "0025",
+      "METAL ORES",
+      "2846716",
+      "2013",
+      "04",
+      "EURO AREA",
+      "2122"
+    ],
+    [
+      "0026",
+      "METAL ORES",
+      "181272615",
+      "2013",
+      "04",
+      "APEC",
+      "2122"
+    ],
+    [
+      "0027",
+      "METAL ORES",
+      "653059",
+      "2013",
+      "04",
+      "ASEAN",
+      "2122"
+    ],
+    [
+      "1220",
+      "METAL ORES",
+      "53785303",
+      "2013",
+      "04",
+      "CANADA",
+      "2122"
+    ],
+    [
+      "2010",
+      "METAL ORES",
+      "4642978",
+      "2013",
+      "04",
+      "MEXICO",
+      "2122"
+    ],
+    [
+      "2410",
+      "METAL ORES",
+      "12661761",
+      "2013",
+      "04",
+      "JAMAICA",
+      "2122"
+    ],
+    [
+      "7870",
+      "METAL ORES",
+      "3547572",
+      "2013",
+      "04",
+      "MOZAMBIQUE",
+      "2122"
+    ],
+    [
+      "7910",
+      "METAL ORES",
+      "31182387",
+      "2013",
+      "04",
+      "SOUTH AFRICA",
+      "2122"
+    ],
+    [
+      "7920",
+      "METAL ORES",
+      "0",
+      "2013",
+      "04",
+      "NAMIBIA",
+      "2122"
+    ],
+    [
+      "2XXX",
+      "METAL ORES",
+      "12672310",
+      "2013",
+      "04",
+      "CENTRAL AMERICA",
+      "2122"
+    ],
+    [
+      "3XXX",
+      "METAL ORES",
+      "23605097",
+      "2013",
+      "04",
+      "SOUTH AMERICA",
+      "2122"
+    ],
+    [
+      "0001",
+      "METAL ORES",
+      "779982",
+      "2013",
+      "04",
+      "OPEC",
+      "2122"
+    ]
+  ]
+}

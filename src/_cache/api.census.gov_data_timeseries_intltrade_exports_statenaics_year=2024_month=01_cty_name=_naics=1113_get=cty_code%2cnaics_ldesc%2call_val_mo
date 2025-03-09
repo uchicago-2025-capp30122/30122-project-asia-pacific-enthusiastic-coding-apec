@@ -1,0 +1,1253 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Sun, 09 Mar 2025 08:55:04 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a430a1500cc79ffabc9da898b149afdc4552eae8d43fc87af11a46c66d2612775874269bca24299e3970bdb2a863e97046; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "-",
+      "FRUITS AND TREE NUTS",
+      "1218953070",
+      "2024",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "1113"
+    ],
+    [
+      "0003",
+      "FRUITS AND TREE NUTS",
+      "236213052",
+      "2024",
+      "01",
+      "EUROPEAN UNION",
+      "1113"
+    ],
+    [
+      "0014",
+      "FRUITS AND TREE NUTS",
+      "250476118",
+      "2024",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "1113"
+    ],
+    [
+      "0017",
+      "FRUITS AND TREE NUTS",
+      "9716166",
+      "2024",
+      "01",
+      "CAFTA-DR",
+      "1113"
+    ],
+    [
+      "0020",
+      "FRUITS AND TREE NUTS",
+      "383511690",
+      "2024",
+      "01",
+      "NAFTA",
+      "1113"
+    ],
+    [
+      "0021",
+      "FRUITS AND TREE NUTS",
+      "101909466",
+      "2024",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1113"
+    ],
+    [
+      "0022",
+      "FRUITS AND TREE NUTS",
+      "807996137",
+      "2024",
+      "01",
+      "OECD",
+      "1113"
+    ],
+    [
+      "0023",
+      "FRUITS AND TREE NUTS",
+      "591399686",
+      "2024",
+      "01",
+      "NATO",
+      "1113"
+    ],
+    [
+      "0024",
+      "FRUITS AND TREE NUTS",
+      "91265528",
+      "2024",
+      "01",
+      "LAFTA",
+      "1113"
+    ],
+    [
+      "0025",
+      "FRUITS AND TREE NUTS",
+      "226577943",
+      "2024",
+      "01",
+      "EURO AREA",
+      "1113"
+    ],
+    [
+      "0026",
+      "FRUITS AND TREE NUTS",
+      "667749231",
+      "2024",
+      "01",
+      "APEC",
+      "1113"
+    ],
+    [
+      "0027",
+      "FRUITS AND TREE NUTS",
+      "39540193",
+      "2024",
+      "01",
+      "ASEAN",
+      "1113"
+    ],
+    [
+      "0028",
+      "FRUITS AND TREE NUTS",
+      "7155313",
+      "2024",
+      "01",
+      "CACM",
+      "1113"
+    ],
+    [
+      "1220",
+      "FRUITS AND TREE NUTS",
+      "304415758",
+      "2024",
+      "01",
+      "CANADA",
+      "1113"
+    ],
+    [
+      "1XXX",
+      "FRUITS AND TREE NUTS",
+      "383511690",
+      "2024",
+      "01",
+      "NORTH AMERICA",
+      "1113"
+    ],
+    [
+      "2010",
+      "FRUITS AND TREE NUTS",
+      "79095932",
+      "2024",
+      "01",
+      "MEXICO",
+      "1113"
+    ],
+    [
+      "2050",
+      "FRUITS AND TREE NUTS",
+      "3375717",
+      "2024",
+      "01",
+      "GUATEMALA",
+      "1113"
+    ],
+    [
+      "2110",
+      "FRUITS AND TREE NUTS",
+      "1394620",
+      "2024",
+      "01",
+      "EL SALVADOR",
+      "1113"
+    ],
+    [
+      "2150",
+      "FRUITS AND TREE NUTS",
+      "491264",
+      "2024",
+      "01",
+      "HONDURAS",
+      "1113"
+    ],
+    [
+      "2190",
+      "FRUITS AND TREE NUTS",
+      "536069",
+      "2024",
+      "01",
+      "NICARAGUA",
+      "1113"
+    ],
+    [
+      "2230",
+      "FRUITS AND TREE NUTS",
+      "1357643",
+      "2024",
+      "01",
+      "COSTA RICA",
+      "1113"
+    ],
+    [
+      "2250",
+      "FRUITS AND TREE NUTS",
+      "771099",
+      "2024",
+      "01",
+      "PANAMA",
+      "1113"
+    ],
+    [
+      "2320",
+      "FRUITS AND TREE NUTS",
+      "1387518",
+      "2024",
+      "01",
+      "BERMUDA",
+      "1113"
+    ],
+    [
+      "2360",
+      "FRUITS AND TREE NUTS",
+      "2127428",
+      "2024",
+      "01",
+      "BAHAMAS",
+      "1113"
+    ],
+    [
+      "2390",
+      "FRUITS AND TREE NUTS",
+      "53003",
+      "2024",
+      "01",
+      "CUBA",
+      "1113"
+    ],
+    [
+      "2410",
+      "FRUITS AND TREE NUTS",
+      "293502",
+      "2024",
+      "01",
+      "JAMAICA",
+      "1113"
+    ],
+    [
+      "2430",
+      "FRUITS AND TREE NUTS",
+      "682713",
+      "2024",
+      "01",
+      "TURKS AND CAICOS ISLANDS",
+      "1113"
+    ],
+    [
+      "2440",
+      "FRUITS AND TREE NUTS",
+      "1470526",
+      "2024",
+      "01",
+      "CAYMAN ISLANDS",
+      "1113"
+    ],
+    [
+      "2450",
+      "FRUITS AND TREE NUTS",
+      "103670",
+      "2024",
+      "01",
+      "HAITI",
+      "1113"
+    ],
+    [
+      "2470",
+      "FRUITS AND TREE NUTS",
+      "2560853",
+      "2024",
+      "01",
+      "DOMINICAN REPUBLIC",
+      "1113"
+    ],
+    [
+      "2481",
+      "FRUITS AND TREE NUTS",
+      "2652",
+      "2024",
+      "01",
+      "ANGUILLA",
+      "1113"
+    ],
+    [
+      "2482",
+      "FRUITS AND TREE NUTS",
+      "174143",
+      "2024",
+      "01",
+      "BRITISH VIRGIN ISLANDS",
+      "1113"
+    ],
+    [
+      "2483",
+      "FRUITS AND TREE NUTS",
+      "160808",
+      "2024",
+      "01",
+      "ST KITTS AND NEVIS",
+      "1113"
+    ],
+    [
+      "2484",
+      "FRUITS AND TREE NUTS",
+      "117989",
+      "2024",
+      "01",
+      "ANTIGUA AND BARBUDA",
+      "1113"
+    ],
+    [
+      "2485",
+      "FRUITS AND TREE NUTS",
+      "4101",
+      "2024",
+      "01",
+      "MONTSERRAT",
+      "1113"
+    ],
+    [
+      "2487",
+      "FRUITS AND TREE NUTS",
+      "64788",
+      "2024",
+      "01",
+      "ST LUCIA",
+      "1113"
+    ],
+    [
+      "2488",
+      "FRUITS AND TREE NUTS",
+      "104742",
+      "2024",
+      "01",
+      "ST VINCENT AND THE GRENADINES",
+      "1113"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "35737",
+      "2024",
+      "01",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2720",
+      "FRUITS AND TREE NUTS",
+      "729656",
+      "2024",
+      "01",
+      "BARBADOS",
+      "1113"
+    ],
+    [
+      "2740",
+      "FRUITS AND TREE NUTS",
+      "1186019",
+      "2024",
+      "01",
+      "TRINIDAD AND TOBAGO",
+      "1113"
+    ],
+    [
+      "2774",
+      "FRUITS AND TREE NUTS",
+      "96075",
+      "2024",
+      "01",
+      "SINT MAARTEN",
+      "1113"
+    ],
+    [
+      "2777",
+      "FRUITS AND TREE NUTS",
+      "166637",
+      "2024",
+      "01",
+      "CURACAO",
+      "1113"
+    ],
+    [
+      "2779",
+      "FRUITS AND TREE NUTS",
+      "493703",
+      "2024",
+      "01",
+      "ARUBA",
+      "1113"
+    ],
+    [
+      "2XXX",
+      "FRUITS AND TREE NUTS",
+      "19942675",
+      "2024",
+      "01",
+      "CENTRAL AMERICA",
+      "1113"
+    ],
+    [
+      "3010",
+      "FRUITS AND TREE NUTS",
+      "3465499",
+      "2024",
+      "01",
+      "COLOMBIA",
+      "1113"
+    ],
+    [
+      "3070",
+      "FRUITS AND TREE NUTS",
+      "871541",
+      "2024",
+      "01",
+      "VENEZUELA",
+      "1113"
+    ],
+    [
+      "3120",
+      "FRUITS AND TREE NUTS",
+      "224386",
+      "2024",
+      "01",
+      "GUYANA",
+      "1113"
+    ],
+    [
+      "3150",
+      "FRUITS AND TREE NUTS",
+      "48434",
+      "2024",
+      "01",
+      "SURINAME",
+      "1113"
+    ],
+    [
+      "3310",
+      "FRUITS AND TREE NUTS",
+      "272082",
+      "2024",
+      "01",
+      "ECUADOR",
+      "1113"
+    ],
+    [
+      "3330",
+      "FRUITS AND TREE NUTS",
+      "2916697",
+      "2024",
+      "01",
+      "PERU",
+      "1113"
+    ],
+    [
+      "3370",
+      "FRUITS AND TREE NUTS",
+      "2809216",
+      "2024",
+      "01",
+      "CHILE",
+      "1113"
+    ],
+    [
+      "3510",
+      "FRUITS AND TREE NUTS",
+      "1308021",
+      "2024",
+      "01",
+      "BRAZIL",
+      "1113"
+    ],
+    [
+      "3550",
+      "FRUITS AND TREE NUTS",
+      "76000",
+      "2024",
+      "01",
+      "URUGUAY",
+      "1113"
+    ],
+    [
+      "3570",
+      "FRUITS AND TREE NUTS",
+      "450540",
+      "2024",
+      "01",
+      "ARGENTINA",
+      "1113"
+    ],
+    [
+      "3XXX",
+      "FRUITS AND TREE NUTS",
+      "12442416",
+      "2024",
+      "01",
+      "SOUTH AMERICA",
+      "1113"
+    ],
+    [
+      "4000",
+      "FRUITS AND TREE NUTS",
+      "98961",
+      "2024",
+      "01",
+      "ICELAND",
+      "1113"
+    ],
+    [
+      "4010",
+      "FRUITS AND TREE NUTS",
+      "529410",
+      "2024",
+      "01",
+      "SWEDEN",
+      "1113"
+    ],
+    [
+      "4039",
+      "FRUITS AND TREE NUTS",
+      "1433121",
+      "2024",
+      "01",
+      "NORWAY",
+      "1113"
+    ],
+    [
+      "4050",
+      "FRUITS AND TREE NUTS",
+      "102108",
+      "2024",
+      "01",
+      "FINLAND",
+      "1113"
+    ],
+    [
+      "4099",
+      "FRUITS AND TREE NUTS",
+      "2594092",
+      "2024",
+      "01",
+      "DENMARK",
+      "1113"
+    ],
+    [
+      "4120",
+      "FRUITS AND TREE NUTS",
+      "13147757",
+      "2024",
+      "01",
+      "UNITED KINGDOM",
+      "1113"
+    ],
+    [
+      "4190",
+      "FRUITS AND TREE NUTS",
+      "421255",
+      "2024",
+      "01",
+      "IRELAND",
+      "1113"
+    ],
+    [
+      "4210",
+      "FRUITS AND TREE NUTS",
+      "40537884",
+      "2024",
+      "01",
+      "NETHERLANDS",
+      "1113"
+    ],
+    [
+      "4231",
+      "FRUITS AND TREE NUTS",
+      "20068928",
+      "2024",
+      "01",
+      "BELGIUM",
+      "1113"
+    ],
+    [
+      "4239",
+      "FRUITS AND TREE NUTS",
+      "549120",
+      "2024",
+      "01",
+      "LUXEMBOURG",
+      "1113"
+    ],
+    [
+      "4279",
+      "FRUITS AND TREE NUTS",
+      "10856642",
+      "2024",
+      "01",
+      "FRANCE",
+      "1113"
+    ],
+    [
+      "4280",
+      "FRUITS AND TREE NUTS",
+      "57322615",
+      "2024",
+      "01",
+      "GERMANY",
+      "1113"
+    ],
+    [
+      "4351",
+      "FRUITS AND TREE NUTS",
+      "1455840",
+      "2024",
+      "01",
+      "CZECH REPUBLIC",
+      "1113"
+    ],
+    [
+      "4359",
+      "FRUITS AND TREE NUTS",
+      "422400",
+      "2024",
+      "01",
+      "SLOVAKIA",
+      "1113"
+    ],
+    [
+      "4419",
+      "FRUITS AND TREE NUTS",
+      "1221838",
+      "2024",
+      "01",
+      "SWITZERLAND",
+      "1113"
+    ],
+    [
+      "4470",
+      "FRUITS AND TREE NUTS",
+      "873334",
+      "2024",
+      "01",
+      "ESTONIA",
+      "1113"
+    ],
+    [
+      "4490",
+      "FRUITS AND TREE NUTS",
+      "671880",
+      "2024",
+      "01",
+      "LATVIA",
+      "1113"
+    ],
+    [
+      "4510",
+      "FRUITS AND TREE NUTS",
+      "2902166",
+      "2024",
+      "01",
+      "LITHUANIA",
+      "1113"
+    ],
+    [
+      "4550",
+      "FRUITS AND TREE NUTS",
+      "3936778",
+      "2024",
+      "01",
+      "POLAND",
+      "1113"
+    ],
+    [
+      "4623",
+      "FRUITS AND TREE NUTS",
+      "311200",
+      "2024",
+      "01",
+      "UKRAINE",
+      "1113"
+    ],
+    [
+      "4633",
+      "FRUITS AND TREE NUTS",
+      "1689990",
+      "2024",
+      "01",
+      "GEORGIA",
+      "1113"
+    ],
+    [
+      "4634",
+      "FRUITS AND TREE NUTS",
+      "744540",
+      "2024",
+      "01",
+      "KAZAKHSTAN",
+      "1113"
+    ],
+    [
+      "4700",
+      "FRUITS AND TREE NUTS",
+      "55005962",
+      "2024",
+      "01",
+      "SPAIN",
+      "1113"
+    ],
+    [
+      "4710",
+      "FRUITS AND TREE NUTS",
+      "295806",
+      "2024",
+      "01",
+      "PORTUGAL",
+      "1113"
+    ],
+    [
+      "4730",
+      "FRUITS AND TREE NUTS",
+      "308000",
+      "2024",
+      "01",
+      "MALTA",
+      "1113"
+    ],
+    [
+      "4759",
+      "FRUITS AND TREE NUTS",
+      "31491766",
+      "2024",
+      "01",
+      "ITALY",
+      "1113"
+    ],
+    [
+      "4791",
+      "FRUITS AND TREE NUTS",
+      "502920",
+      "2024",
+      "01",
+      "CROATIA",
+      "1113"
+    ],
+    [
+      "4792",
+      "FRUITS AND TREE NUTS",
+      "73900",
+      "2024",
+      "01",
+      "SLOVENIA",
+      "1113"
+    ],
+    [
+      "4793",
+      "FRUITS AND TREE NUTS",
+      "105306",
+      "2024",
+      "01",
+      "BOSNIA AND HERZEGOVINA",
+      "1113"
+    ],
+    [
+      "4801",
+      "FRUITS AND TREE NUTS",
+      "153544",
+      "2024",
+      "01",
+      "SERBIA",
+      "1113"
+    ],
+    [
+      "4840",
+      "FRUITS AND TREE NUTS",
+      "3457796",
+      "2024",
+      "01",
+      "GREECE",
+      "1113"
+    ],
+    [
+      "4850",
+      "FRUITS AND TREE NUTS",
+      "342577",
+      "2024",
+      "01",
+      "ROMANIA",
+      "1113"
+    ],
+    [
+      "4870",
+      "FRUITS AND TREE NUTS",
+      "776412",
+      "2024",
+      "01",
+      "BULGARIA",
+      "1113"
+    ],
+    [
+      "4890",
+      "FRUITS AND TREE NUTS",
+      "38566083",
+      "2024",
+      "01",
+      "TURKEY",
+      "1113"
+    ],
+    [
+      "4910",
+      "FRUITS AND TREE NUTS",
+      "713461",
+      "2024",
+      "01",
+      "CYPRUS",
+      "1113"
+    ],
+    [
+      "4XXX",
+      "FRUITS AND TREE NUTS",
+      "293685392",
+      "2024",
+      "01",
+      "EUROPE",
+      "1113"
+    ],
+    [
+      "5040",
+      "FRUITS AND TREE NUTS",
+      "4204469",
+      "2024",
+      "01",
+      "LEBANON",
+      "1113"
+    ],
+    [
+      "5050",
+      "FRUITS AND TREE NUTS",
+      "6944080",
+      "2024",
+      "01",
+      "IRAQ",
+      "1113"
+    ],
+    [
+      "5081",
+      "FRUITS AND TREE NUTS",
+      "12237336",
+      "2024",
+      "01",
+      "ISRAEL",
+      "1113"
+    ],
+    [
+      "5110",
+      "FRUITS AND TREE NUTS",
+      "4787775",
+      "2024",
+      "01",
+      "JORDAN",
+      "1113"
+    ],
+    [
+      "5130",
+      "FRUITS AND TREE NUTS",
+      "3369189",
+      "2024",
+      "01",
+      "KUWAIT",
+      "1113"
+    ],
+    [
+      "5170",
+      "FRUITS AND TREE NUTS",
+      "12005021",
+      "2024",
+      "01",
+      "SAUDI ARABIA",
+      "1113"
+    ],
+    [
+      "5180",
+      "FRUITS AND TREE NUTS",
+      "1198832",
+      "2024",
+      "01",
+      "QATAR",
+      "1113"
+    ],
+    [
+      "5200",
+      "FRUITS AND TREE NUTS",
+      "49258207",
+      "2024",
+      "01",
+      "UNITED ARAB EMIRATES",
+      "1113"
+    ],
+    [
+      "5230",
+      "FRUITS AND TREE NUTS",
+      "1223946",
+      "2024",
+      "01",
+      "OMAN",
+      "1113"
+    ],
+    [
+      "5250",
+      "FRUITS AND TREE NUTS",
+      "719713",
+      "2024",
+      "01",
+      "BAHRAIN",
+      "1113"
+    ],
+    [
+      "5330",
+      "FRUITS AND TREE NUTS",
+      "111698154",
+      "2024",
+      "01",
+      "INDIA",
+      "1113"
+    ],
+    [
+      "5350",
+      "FRUITS AND TREE NUTS",
+      "902051",
+      "2024",
+      "01",
+      "PAKISTAN",
+      "1113"
+    ],
+    [
+      "5360",
+      "FRUITS AND TREE NUTS",
+      "74448",
+      "2024",
+      "01",
+      "NEPAL",
+      "1113"
+    ],
+    [
+      "5420",
+      "FRUITS AND TREE NUTS",
+      "133310",
+      "2024",
+      "01",
+      "SRI LANKA",
+      "1113"
+    ],
+    [
+      "5490",
+      "FRUITS AND TREE NUTS",
+      "9965360",
+      "2024",
+      "01",
+      "THAILAND",
+      "1113"
+    ],
+    [
+      "5520",
+      "FRUITS AND TREE NUTS",
+      "18070150",
+      "2024",
+      "01",
+      "VIETNAM",
+      "1113"
+    ],
+    [
+      "5550",
+      "FRUITS AND TREE NUTS",
+      "336721",
+      "2024",
+      "01",
+      "CAMBODIA",
+      "1113"
+    ],
+    [
+      "5570",
+      "FRUITS AND TREE NUTS",
+      "4690916",
+      "2024",
+      "01",
+      "MALAYSIA",
+      "1113"
+    ],
+    [
+      "5590",
+      "FRUITS AND TREE NUTS",
+      "3208627",
+      "2024",
+      "01",
+      "SINGAPORE",
+      "1113"
+    ],
+    [
+      "5600",
+      "FRUITS AND TREE NUTS",
+      "1777495",
+      "2024",
+      "01",
+      "INDONESIA",
+      "1113"
+    ],
+    [
+      "5650",
+      "FRUITS AND TREE NUTS",
+      "1490924",
+      "2024",
+      "01",
+      "PHILIPPINES",
+      "1113"
+    ],
+    [
+      "5700",
+      "FRUITS AND TREE NUTS",
+      "71427055",
+      "2024",
+      "01",
+      "CHINA",
+      "1113"
+    ],
+    [
+      "5800",
+      "FRUITS AND TREE NUTS",
+      "56511833",
+      "2024",
+      "01",
+      "KOREA, SOUTH",
+      "1113"
+    ],
+    [
+      "5820",
+      "FRUITS AND TREE NUTS",
+      "23191022",
+      "2024",
+      "01",
+      "HONG KONG",
+      "1113"
+    ],
+    [
+      "5830",
+      "FRUITS AND TREE NUTS",
+      "19715580",
+      "2024",
+      "01",
+      "TAIWAN",
+      "1113"
+    ],
+    [
+      "5880",
+      "FRUITS AND TREE NUTS",
+      "47552088",
+      "2024",
+      "01",
+      "JAPAN",
+      "1113"
+    ],
+    [
+      "5XXX",
+      "FRUITS AND TREE NUTS",
+      "466694302",
+      "2024",
+      "01",
+      "ASIA",
+      "1113"
+    ],
+    [
+      "6021",
+      "FRUITS AND TREE NUTS",
+      "16155947",
+      "2024",
+      "01",
+      "AUSTRALIA",
+      "1113"
+    ],
+    [
+      "6863",
+      "FRUITS AND TREE NUTS",
+      "27902",
+      "2024",
+      "01",
+      "FIJI",
+      "1113"
+    ],
+    [
+      "6141",
+      "FRUITS AND TREE NUTS",
+      "4754631",
+      "2024",
+      "01",
+      "NEW ZEALAND",
+      "1113"
+    ],
+    [
+      "6414",
+      "FRUITS AND TREE NUTS",
+      "139419",
+      "2024",
+      "01",
+      "FRENCH POLYNESIA",
+      "1113"
+    ],
+    [
+      "6820",
+      "FRUITS AND TREE NUTS",
+      "53712",
+      "2024",
+      "01",
+      "MICRONESIA",
+      "1113"
+    ],
+    [
+      "6864",
+      "FRUITS AND TREE NUTS",
+      "36450",
+      "2024",
+      "01",
+      "TONGA",
+      "1113"
+    ],
+    [
+      "6XXX",
+      "FRUITS AND TREE NUTS",
+      "21168061",
+      "2024",
+      "01",
+      "AUSTRALIA AND OCEANIA",
+      "1113"
+    ],
+    [
+      "7140",
+      "FRUITS AND TREE NUTS",
+      "13717070",
+      "2024",
+      "01",
+      "MOROCCO",
+      "1113"
+    ],
+    [
+      "7210",
+      "FRUITS AND TREE NUTS",
+      "4477357",
+      "2024",
+      "01",
+      "ALGERIA",
+      "1113"
+    ],
+    [
+      "7230",
+      "FRUITS AND TREE NUTS",
+      "97240",
+      "2024",
+      "01",
+      "TUNISIA",
+      "1113"
+    ],
+    [
+      "7250",
+      "FRUITS AND TREE NUTS",
+      "1673738",
+      "2024",
+      "01",
+      "LIBYA",
+      "1113"
+    ],
+    [
+      "7290",
+      "FRUITS AND TREE NUTS",
+      "573807",
+      "2024",
+      "01",
+      "EGYPT",
+      "1113"
+    ],
+    [
+      "7440",
+      "FRUITS AND TREE NUTS",
+      "114612",
+      "2024",
+      "01",
+      "SENEGAL",
+      "1113"
+    ],
+    [
+      "7470",
+      "FRUITS AND TREE NUTS",
+      "3300",
+      "2024",
+      "01",
+      "SIERRA LEONE",
+      "1113"
+    ],
+    [
+      "7850",
+      "FRUITS AND TREE NUTS",
+      "30630",
+      "2024",
+      "01",
+      "MAURITIUS",
+      "1113"
+    ],
+    [
+      "7905",
+      "FRUITS AND TREE NUTS",
+      "18126",
+      "2024",
+      "01",
+      "FRENCH SOUTHERN AND ANTARCTIC LANDS",
+      "1113"
+    ],
+    [
+      "7910",
+      "FRUITS AND TREE NUTS",
+      "802654",
+      "2024",
+      "01",
+      "SOUTH AFRICA",
+      "1113"
+    ],
+    [
+      "7XXX",
+      "FRUITS AND TREE NUTS",
+      "21508534",
+      "2024",
+      "01",
+      "AFRICA",
+      "1113"
+    ]
+  ]
+}

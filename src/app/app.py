@@ -4,7 +4,7 @@ import dash_bootstrap_components as dbc
 
 app = Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.UNITED])
 
-custom_order = ["Home", "Descriptive", "Dependance", "Simulation"]
+custom_order = ["Home", "Descriptive", "Treemap", "Dependance", "Simulation"]
 
 sorted_pages = sorted(
     dash.page_registry.values(),

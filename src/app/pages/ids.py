@@ -16,6 +16,8 @@ MAP_IMPORT = "map-import"
 MAP_EXPORT = "map-export"
 HHINDEX_CHART = "hhindex-chart"
 DEPENDENCY_GRAPH = "dependency-graph"
+TREE_MAP_IMPORT = "tree-map-import"
+TREE_MAP_EXPORT = "tree-map-export"
 
 
 NAICS_OPTION = (

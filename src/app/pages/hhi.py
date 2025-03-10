@@ -14,7 +14,7 @@ PARENT_DIR = Path(__file__).parent.parent.parent
 sys.path.append(str(PARENT_DIR))
 import get_trade_data
 import import_production
-from get_data_prod_agri import get_data_agri, api_key, url, params
+from get_data_prod_agri import get_data_agri, url, params
 
 # 0. Register as Dash page
 dash.register_page(__name__, path="/hhi",

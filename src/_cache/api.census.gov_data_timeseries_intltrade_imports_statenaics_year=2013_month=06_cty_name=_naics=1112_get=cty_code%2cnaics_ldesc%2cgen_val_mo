@@ -1,0 +1,848 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 07:26:49 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a474737ffa435fd7c5482a231b7d0992cc0cb5ab7b4970644d4a062a257c3b61f03794f10e9ae55508933ebbd857b2ca57; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5330",
+      "VEGETABLES AND MELONS",
+      "1449563",
+      "2013",
+      "06",
+      "INDIA",
+      "1112"
+    ],
+    [
+      "5350",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "PAKISTAN",
+      "1112"
+    ],
+    [
+      "5380",
+      "VEGETABLES AND MELONS",
+      "8900",
+      "2013",
+      "06",
+      "BANGLADESH",
+      "1112"
+    ],
+    [
+      "5490",
+      "VEGETABLES AND MELONS",
+      "4376370",
+      "2013",
+      "06",
+      "THAILAND",
+      "1112"
+    ],
+    [
+      "5520",
+      "VEGETABLES AND MELONS",
+      "18834",
+      "2013",
+      "06",
+      "VIETNAM",
+      "1112"
+    ],
+    [
+      "5570",
+      "VEGETABLES AND MELONS",
+      "12780",
+      "2013",
+      "06",
+      "MALAYSIA",
+      "1112"
+    ],
+    [
+      "5600",
+      "VEGETABLES AND MELONS",
+      "18690",
+      "2013",
+      "06",
+      "INDONESIA",
+      "1112"
+    ],
+    [
+      "5650",
+      "VEGETABLES AND MELONS",
+      "31681",
+      "2013",
+      "06",
+      "PHILIPPINES",
+      "1112"
+    ],
+    [
+      "5700",
+      "VEGETABLES AND MELONS",
+      "19616904",
+      "2013",
+      "06",
+      "CHINA",
+      "1112"
+    ],
+    [
+      "5800",
+      "VEGETABLES AND MELONS",
+      "25950",
+      "2013",
+      "06",
+      "KOREA, SOUTH",
+      "1112"
+    ],
+    [
+      "5820",
+      "VEGETABLES AND MELONS",
+      "2475",
+      "2013",
+      "06",
+      "HONG KONG",
+      "1112"
+    ],
+    [
+      "5830",
+      "VEGETABLES AND MELONS",
+      "134402",
+      "2013",
+      "06",
+      "TAIWAN",
+      "1112"
+    ],
+    [
+      "5880",
+      "VEGETABLES AND MELONS",
+      "441713",
+      "2013",
+      "06",
+      "JAPAN",
+      "1112"
+    ],
+    [
+      "6021",
+      "VEGETABLES AND MELONS",
+      "390535",
+      "2013",
+      "06",
+      "AUSTRALIA",
+      "1112"
+    ],
+    [
+      "6141",
+      "VEGETABLES AND MELONS",
+      "3014796",
+      "2013",
+      "06",
+      "NEW ZEALAND",
+      "1112"
+    ],
+    [
+      "2489",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "GRENADA",
+      "1112"
+    ],
+    [
+      "2740",
+      "VEGETABLES AND MELONS",
+      "46820",
+      "2013",
+      "06",
+      "TRINIDAD AND TOBAGO",
+      "1112"
+    ],
+    [
+      "3010",
+      "VEGETABLES AND MELONS",
+      "191154",
+      "2013",
+      "06",
+      "COLOMBIA",
+      "1112"
+    ],
+    [
+      "3120",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "GUYANA",
+      "1112"
+    ],
+    [
+      "3310",
+      "VEGETABLES AND MELONS",
+      "424675",
+      "2013",
+      "06",
+      "ECUADOR",
+      "1112"
+    ],
+    [
+      "3330",
+      "VEGETABLES AND MELONS",
+      "17541644",
+      "2013",
+      "06",
+      "PERU",
+      "1112"
+    ],
+    [
+      "3350",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "BOLIVIA",
+      "1112"
+    ],
+    [
+      "3370",
+      "VEGETABLES AND MELONS",
+      "8246184",
+      "2013",
+      "06",
+      "CHILE",
+      "1112"
+    ],
+    [
+      "3510",
+      "VEGETABLES AND MELONS",
+      "208110",
+      "2013",
+      "06",
+      "BRAZIL",
+      "1112"
+    ],
+    [
+      "3570",
+      "VEGETABLES AND MELONS",
+      "1203669",
+      "2013",
+      "06",
+      "ARGENTINA",
+      "1112"
+    ],
+    [
+      "4010",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "SWEDEN",
+      "1112"
+    ],
+    [
+      "4099",
+      "VEGETABLES AND MELONS",
+      "946502",
+      "2013",
+      "06",
+      "DENMARK",
+      "1112"
+    ],
+    [
+      "4120",
+      "VEGETABLES AND MELONS",
+      "423878",
+      "2013",
+      "06",
+      "UNITED KINGDOM",
+      "1112"
+    ],
+    [
+      "4190",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "IRELAND",
+      "1112"
+    ],
+    [
+      "4210",
+      "VEGETABLES AND MELONS",
+      "9083449",
+      "2013",
+      "06",
+      "NETHERLANDS",
+      "1112"
+    ],
+    [
+      "4231",
+      "VEGETABLES AND MELONS",
+      "403566",
+      "2013",
+      "06",
+      "BELGIUM",
+      "1112"
+    ],
+    [
+      "4279",
+      "VEGETABLES AND MELONS",
+      "2133646",
+      "2013",
+      "06",
+      "FRANCE",
+      "1112"
+    ],
+    [
+      "4280",
+      "VEGETABLES AND MELONS",
+      "170542",
+      "2013",
+      "06",
+      "GERMANY",
+      "1112"
+    ],
+    [
+      "4330",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "AUSTRIA",
+      "1112"
+    ],
+    [
+      "4351",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "CZECH REPUBLIC",
+      "1112"
+    ],
+    [
+      "6863",
+      "VEGETABLES AND MELONS",
+      "43919",
+      "2013",
+      "06",
+      "FIJI",
+      "1112"
+    ],
+    [
+      "6864",
+      "VEGETABLES AND MELONS",
+      "4865",
+      "2013",
+      "06",
+      "TONGA",
+      "1112"
+    ],
+    [
+      "7490",
+      "VEGETABLES AND MELONS",
+      "407102",
+      "2013",
+      "06",
+      "GHANA",
+      "1112"
+    ],
+    [
+      "7520",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "TOGO",
+      "1112"
+    ],
+    [
+      "7530",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "NIGERIA",
+      "1112"
+    ],
+    [
+      "7790",
+      "VEGETABLES AND MELONS",
+      "82322",
+      "2013",
+      "06",
+      "KENYA",
+      "1112"
+    ],
+    [
+      "4370",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "HUNGARY",
+      "1112"
+    ],
+    [
+      "4419",
+      "VEGETABLES AND MELONS",
+      "2487",
+      "2013",
+      "06",
+      "SWITZERLAND",
+      "1112"
+    ],
+    [
+      "4470",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "ESTONIA",
+      "1112"
+    ],
+    [
+      "4490",
+      "VEGETABLES AND MELONS",
+      "241588",
+      "2013",
+      "06",
+      "LATVIA",
+      "1112"
+    ],
+    [
+      "4550",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "POLAND",
+      "1112"
+    ],
+    [
+      "4621",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "RUSSIA",
+      "1112"
+    ],
+    [
+      "4700",
+      "VEGETABLES AND MELONS",
+      "700125",
+      "2013",
+      "06",
+      "SPAIN",
+      "1112"
+    ],
+    [
+      "4759",
+      "VEGETABLES AND MELONS",
+      "368699",
+      "2013",
+      "06",
+      "ITALY",
+      "1112"
+    ],
+    [
+      "4793",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "BOSNIA AND HERZEGOVINA",
+      "1112"
+    ],
+    [
+      "4840",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "GREECE",
+      "1112"
+    ],
+    [
+      "4870",
+      "VEGETABLES AND MELONS",
+      "16560",
+      "2013",
+      "06",
+      "BULGARIA",
+      "1112"
+    ],
+    [
+      "4890",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "TURKEY",
+      "1112"
+    ],
+    [
+      "5040",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "LEBANON",
+      "1112"
+    ],
+    [
+      "5081",
+      "VEGETABLES AND MELONS",
+      "1653652",
+      "2013",
+      "06",
+      "ISRAEL",
+      "1112"
+    ],
+    [
+      "5083",
+      "VEGETABLES AND MELONS",
+      "36954",
+      "2013",
+      "06",
+      "WEST BANK ADMINISTERED BY ISRAEL",
+      "1112"
+    ],
+    [
+      "5110",
+      "VEGETABLES AND MELONS",
+      "17500",
+      "2013",
+      "06",
+      "JORDAN",
+      "1112"
+    ],
+    [
+      "-",
+      "VEGETABLES AND MELONS",
+      "502518593",
+      "2013",
+      "06",
+      "TOTAL FOR ALL COUNTRIES",
+      "1112"
+    ],
+    [
+      "0003",
+      "VEGETABLES AND MELONS",
+      "14488555",
+      "2013",
+      "06",
+      "EUROPEAN UNION",
+      "1112"
+    ],
+    [
+      "1XXX",
+      "VEGETABLES AND MELONS",
+      "412813564",
+      "2013",
+      "06",
+      "NORTH AMERICA",
+      "1112"
+    ],
+    [
+      "4XXX",
+      "VEGETABLES AND MELONS",
+      "14491042",
+      "2013",
+      "06",
+      "EUROPE",
+      "1112"
+    ],
+    [
+      "7XXX",
+      "VEGETABLES AND MELONS",
+      "1182831",
+      "2013",
+      "06",
+      "AFRICA",
+      "1112"
+    ],
+    [
+      "0014",
+      "VEGETABLES AND MELONS",
+      "23689926",
+      "2013",
+      "06",
+      "PACIFIC RIM COUNTRIES",
+      "1112"
+    ],
+    [
+      "5XXX",
+      "VEGETABLES AND MELONS",
+      "27846368",
+      "2013",
+      "06",
+      "ASIA",
+      "1112"
+    ],
+    [
+      "0017",
+      "VEGETABLES AND MELONS",
+      "13549928",
+      "2013",
+      "06",
+      "CAFTA-DR",
+      "1112"
+    ],
+    [
+      "6XXX",
+      "VEGETABLES AND MELONS",
+      "3454115",
+      "2013",
+      "06",
+      "AUSTRALIA AND OCEANIA",
+      "1112"
+    ],
+    [
+      "0020",
+      "VEGETABLES AND MELONS",
+      "412813564",
+      "2013",
+      "06",
+      "NAFTA",
+      "1112"
+    ],
+    [
+      "0021",
+      "VEGETABLES AND MELONS",
+      "324589312",
+      "2013",
+      "06",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1112"
+    ],
+    [
+      "0022",
+      "VEGETABLES AND MELONS",
+      "440819288",
+      "2013",
+      "06",
+      "OECD",
+      "1112"
+    ],
+    [
+      "0023",
+      "VEGETABLES AND MELONS",
+      "144159621",
+      "2013",
+      "06",
+      "NATO",
+      "1112"
+    ],
+    [
+      "0024",
+      "VEGETABLES AND MELONS",
+      "310957934",
+      "2013",
+      "06",
+      "LAFTA",
+      "1112"
+    ],
+    [
+      "0025",
+      "VEGETABLES AND MELONS",
+      "12860027",
+      "2013",
+      "06",
+      "EURO AREA",
+      "1112"
+    ],
+    [
+      "0026",
+      "VEGETABLES AND MELONS",
+      "466686522",
+      "2013",
+      "06",
+      "APEC",
+      "1112"
+    ],
+    [
+      "0027",
+      "VEGETABLES AND MELONS",
+      "4458355",
+      "2013",
+      "06",
+      "ASEAN",
+      "1112"
+    ],
+    [
+      "0028",
+      "VEGETABLES AND MELONS",
+      "9969591",
+      "2013",
+      "06",
+      "CACM",
+      "1112"
+    ],
+    [
+      "1220",
+      "VEGETABLES AND MELONS",
+      "129671066",
+      "2013",
+      "06",
+      "CANADA",
+      "1112"
+    ],
+    [
+      "2010",
+      "VEGETABLES AND MELONS",
+      "283142498",
+      "2013",
+      "06",
+      "MEXICO",
+      "1112"
+    ],
+    [
+      "2050",
+      "VEGETABLES AND MELONS",
+      "5401821",
+      "2013",
+      "06",
+      "GUATEMALA",
+      "1112"
+    ],
+    [
+      "2110",
+      "VEGETABLES AND MELONS",
+      "312740",
+      "2013",
+      "06",
+      "EL SALVADOR",
+      "1112"
+    ],
+    [
+      "2150",
+      "VEGETABLES AND MELONS",
+      "790425",
+      "2013",
+      "06",
+      "HONDURAS",
+      "1112"
+    ],
+    [
+      "2190",
+      "VEGETABLES AND MELONS",
+      "557895",
+      "2013",
+      "06",
+      "NICARAGUA",
+      "1112"
+    ],
+    [
+      "2230",
+      "VEGETABLES AND MELONS",
+      "2906710",
+      "2013",
+      "06",
+      "COSTA RICA",
+      "1112"
+    ],
+    [
+      "2250",
+      "VEGETABLES AND MELONS",
+      "45750",
+      "2013",
+      "06",
+      "PANAMA",
+      "1112"
+    ],
+    [
+      "2410",
+      "VEGETABLES AND MELONS",
+      "1237039",
+      "2013",
+      "06",
+      "JAMAICA",
+      "1112"
+    ],
+    [
+      "2450",
+      "VEGETABLES AND MELONS",
+      "35700",
+      "2013",
+      "06",
+      "HAITI",
+      "1112"
+    ],
+    [
+      "2470",
+      "VEGETABLES AND MELONS",
+      "3580337",
+      "2013",
+      "06",
+      "DOMINICAN REPUBLIC",
+      "1112"
+    ],
+    [
+      "7830",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2013",
+      "06",
+      "TANZANIA",
+      "1112"
+    ],
+    [
+      "7910",
+      "VEGETABLES AND MELONS",
+      "693407",
+      "2013",
+      "06",
+      "SOUTH AFRICA",
+      "1112"
+    ],
+    [
+      "2XXX",
+      "VEGETABLES AND MELONS",
+      "14915237",
+      "2013",
+      "06",
+      "CENTRAL AMERICA",
+      "1112"
+    ],
+    [
+      "3XXX",
+      "VEGETABLES AND MELONS",
+      "27815436",
+      "2013",
+      "06",
+      "SOUTH AMERICA",
+      "1112"
+    ],
+    [
+      "0001",
+      "VEGETABLES AND MELONS",
+      "424675",
+      "2013",
+      "06",
+      "OPEC",
+      "1112"
+    ]
+  ]
+}

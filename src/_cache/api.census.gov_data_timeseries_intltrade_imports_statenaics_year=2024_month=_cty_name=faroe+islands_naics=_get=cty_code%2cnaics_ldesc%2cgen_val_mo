@@ -1,0 +1,4673 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:21:42 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4fc5fc17f4795f8722778f015933c8138748647342401f76b278bbdbf4c081c93a3051462a310e452f02d33dd80e68e67; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "4091",
+      "PAPER",
+      "3119",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "322"
+    ],
+    [
+      "4091",
+      "PAPER",
+      "0",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "322"
+    ],
+    [
+      "4091",
+      "PAPER",
+      "0",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "322"
+    ],
+    [
+      "4091",
+      "PAPER",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "322"
+    ],
+    [
+      "4091",
+      "PAPER",
+      "10104",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "322"
+    ],
+    [
+      "4091",
+      "PAPER",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "322"
+    ],
+    [
+      "4091",
+      "PAPER",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "322"
+    ],
+    [
+      "4091",
+      "PAPER",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "322"
+    ],
+    [
+      "4091",
+      "PAPER",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "322"
+    ],
+    [
+      "4091",
+      "PAPER",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "322"
+    ],
+    [
+      "4091",
+      "PAPER",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "322"
+    ],
+    [
+      "4091",
+      "PAPER",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "322"
+    ],
+    [
+      "4091",
+      "CONVERTED PAPER PRODUCTS",
+      "3119",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "3222"
+    ],
+    [
+      "4091",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "3222"
+    ],
+    [
+      "4091",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "3222"
+    ],
+    [
+      "4091",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "3222"
+    ],
+    [
+      "4091",
+      "CONVERTED PAPER PRODUCTS",
+      "10104",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3222"
+    ],
+    [
+      "4091",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3222"
+    ],
+    [
+      "4091",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3222"
+    ],
+    [
+      "4091",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3222"
+    ],
+    [
+      "4091",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3222"
+    ],
+    [
+      "4091",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3222"
+    ],
+    [
+      "4091",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3222"
+    ],
+    [
+      "4091",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3222"
+    ],
+    [
+      "4091",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "41481",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3231"
+    ],
+    [
+      "4091",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3231"
+    ],
+    [
+      "4091",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3231"
+    ],
+    [
+      "4091",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "139890",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "326"
+    ],
+    [
+      "4091",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "85920",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "326"
+    ],
+    [
+      "4091",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "11920",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "326"
+    ],
+    [
+      "4091",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "7327",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "326"
+    ],
+    [
+      "4091",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "5213",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "326"
+    ],
+    [
+      "4091",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "42435",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "326"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 3",
+      "146439",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "33"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "33"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 3",
+      "30755",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "33"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 3",
+      "47389",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "33"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "33"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 3",
+      "32098",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "33"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 3",
+      "5794",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "33"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 3",
+      "86444",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "33"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 3",
+      "41500",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "33"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "33"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 3",
+      "5549",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "33"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 3",
+      "49651",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "33"
+    ],
+    [
+      "4091",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "24107492",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "-"
+    ],
+    [
+      "4091",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "21647050",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "-"
+    ],
+    [
+      "4091",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "23273447",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "-"
+    ],
+    [
+      "4091",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "22070294",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "-"
+    ],
+    [
+      "4091",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "18198130",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "-"
+    ],
+    [
+      "4091",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "10835726",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "-"
+    ],
+    [
+      "4091",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "20880324",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "-"
+    ],
+    [
+      "4091",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "20279383",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "-"
+    ],
+    [
+      "4091",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "25279623",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "-"
+    ],
+    [
+      "4091",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "21846107",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "-"
+    ],
+    [
+      "4091",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "19854404",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "-"
+    ],
+    [
+      "4091",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "21180552",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "-"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "23839597",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "11"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "21137915",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "11"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "23030319",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "11"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "21606096",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "11"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "18105374",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "11"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "10651587",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "11"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "20624317",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "11"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "19939771",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "11"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "25092716",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "11"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "21659139",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "11"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "19611156",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "11"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "20905778",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "11"
+    ],
+    [
+      "4091",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "20498993",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "1125"
+    ],
+    [
+      "4091",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "18386408",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "1125"
+    ],
+    [
+      "4091",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "20876231",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "1125"
+    ],
+    [
+      "4091",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "16614772",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "1125"
+    ],
+    [
+      "4091",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "15369327",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "1125"
+    ],
+    [
+      "4091",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "9097614",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "1125"
+    ],
+    [
+      "4091",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "16557105",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "1125"
+    ],
+    [
+      "4091",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "15687322",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "1125"
+    ],
+    [
+      "4091",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "21185010",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "1125"
+    ],
+    [
+      "4091",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "18632492",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "1125"
+    ],
+    [
+      "4091",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "15318673",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "1125"
+    ],
+    [
+      "4091",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "16179142",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "1125"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "3340604",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "1141"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "2751507",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "1141"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "2154088",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "1141"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "4991324",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "1141"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "2736047",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "1141"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "1553973",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "1141"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "4067212",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "1141"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "4252449",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "1141"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "3907706",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "1141"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "3026647",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "1141"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "4292483",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "1141"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "4726636",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "1141"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART1",
+      "108446",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "31"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART1",
+      "170730",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "31"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART1",
+      "206466",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "31"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART1",
+      "413503",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "31"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART1",
+      "79013",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "31"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART1",
+      "149531",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "31"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART1",
+      "95662",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "31"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART1",
+      "148260",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "31"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART1",
+      "124408",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "31"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART1",
+      "128185",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "31"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART1",
+      "176065",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "31"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART1",
+      "167617",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "31"
+    ],
+    [
+      "4091",
+      "MANUFACTURED GOODS",
+      "258004",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "31-33"
+    ],
+    [
+      "4091",
+      "MANUFACTURED GOODS",
+      "170730",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "31-33"
+    ],
+    [
+      "4091",
+      "MANUFACTURED GOODS",
+      "237221",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "31-33"
+    ],
+    [
+      "4091",
+      "MANUFACTURED GOODS",
+      "460892",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "31-33"
+    ],
+    [
+      "4091",
+      "MANUFACTURED GOODS",
+      "89117",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "31-33"
+    ],
+    [
+      "4091",
+      "MANUFACTURED GOODS",
+      "181629",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "31-33"
+    ],
+    [
+      "4091",
+      "MANUFACTURED GOODS",
+      "241346",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "31-33"
+    ],
+    [
+      "4091",
+      "MANUFACTURED GOODS",
+      "320624",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "31-33"
+    ],
+    [
+      "4091",
+      "MANUFACTURED GOODS",
+      "177828",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "31-33"
+    ],
+    [
+      "4091",
+      "MANUFACTURED GOODS",
+      "176993",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "31-33"
+    ],
+    [
+      "4091",
+      "MANUFACTURED GOODS",
+      "186827",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "31-33"
+    ],
+    [
+      "4091",
+      "MANUFACTURED GOODS",
+      "259703",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "31-33"
+    ],
+    [
+      "4091",
+      "FOOD AND KINDRED PRODUCTS",
+      "108446",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "311"
+    ],
+    [
+      "4091",
+      "FOOD AND KINDRED PRODUCTS",
+      "170730",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "311"
+    ],
+    [
+      "4091",
+      "FOOD AND KINDRED PRODUCTS",
+      "202540",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "311"
+    ],
+    [
+      "4091",
+      "FOOD AND KINDRED PRODUCTS",
+      "413503",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "311"
+    ],
+    [
+      "4091",
+      "FOOD AND KINDRED PRODUCTS",
+      "78399",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "311"
+    ],
+    [
+      "4091",
+      "FOOD AND KINDRED PRODUCTS",
+      "149531",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "311"
+    ],
+    [
+      "4091",
+      "FOOD AND KINDRED PRODUCTS",
+      "95662",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "311"
+    ],
+    [
+      "4091",
+      "FOOD AND KINDRED PRODUCTS",
+      "148260",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "311"
+    ],
+    [
+      "4091",
+      "FOOD AND KINDRED PRODUCTS",
+      "124408",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "311"
+    ],
+    [
+      "4091",
+      "FOOD AND KINDRED PRODUCTS",
+      "128185",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "311"
+    ],
+    [
+      "4091",
+      "FOOD AND KINDRED PRODUCTS",
+      "176065",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "311"
+    ],
+    [
+      "4091",
+      "FOOD AND KINDRED PRODUCTS",
+      "158603",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "311"
+    ],
+    [
+      "4091",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "82710",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "3116"
+    ],
+    [
+      "4091",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "170730",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "3116"
+    ],
+    [
+      "4091",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "155970",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "3116"
+    ],
+    [
+      "4091",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "39000",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "3116"
+    ],
+    [
+      "4091",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3116"
+    ],
+    [
+      "4091",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3116"
+    ],
+    [
+      "4091",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "14537",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3116"
+    ],
+    [
+      "4091",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3116"
+    ],
+    [
+      "4091",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3116"
+    ],
+    [
+      "4091",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3116"
+    ],
+    [
+      "4091",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3116"
+    ],
+    [
+      "4091",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3116"
+    ],
+    [
+      "4091",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "25736",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "3117"
+    ],
+    [
+      "4091",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "0",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "3117"
+    ],
+    [
+      "4091",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "46570",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "3117"
+    ],
+    [
+      "4091",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "374503",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "3117"
+    ],
+    [
+      "4091",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "78399",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3117"
+    ],
+    [
+      "4091",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "149531",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3117"
+    ],
+    [
+      "4091",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "81125",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3117"
+    ],
+    [
+      "4091",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "148260",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3117"
+    ],
+    [
+      "4091",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "124408",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3117"
+    ],
+    [
+      "4091",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "128185",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3117"
+    ],
+    [
+      "4091",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "176065",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3117"
+    ],
+    [
+      "4091",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "158603",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3117"
+    ],
+    [
+      "4091",
+      "TEXTILES AND FABRICS",
+      "614",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "313"
+    ],
+    [
+      "4091",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "313"
+    ],
+    [
+      "4091",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "313"
+    ],
+    [
+      "4091",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "313"
+    ],
+    [
+      "4091",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "313"
+    ],
+    [
+      "4091",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "313"
+    ],
+    [
+      "4091",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "313"
+    ],
+    [
+      "4091",
+      "TEXTILES AND FABRICS",
+      "9014",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "313"
+    ],
+    [
+      "4091",
+      "FIBERS, YARNS, AND THREADS",
+      "9014",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3131"
+    ],
+    [
+      "4091",
+      "FABRICS",
+      "614",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3132"
+    ],
+    [
+      "4091",
+      "FABRICS",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3132"
+    ],
+    [
+      "4091",
+      "FABRICS",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3132"
+    ],
+    [
+      "4091",
+      "FABRICS",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3132"
+    ],
+    [
+      "4091",
+      "FABRICS",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3132"
+    ],
+    [
+      "4091",
+      "FABRICS",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3132"
+    ],
+    [
+      "4091",
+      "FABRICS",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3132"
+    ],
+    [
+      "4091",
+      "FABRICS",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3132"
+    ],
+    [
+      "4091",
+      "TEXTILE MILL PRODUCTS",
+      "396",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "314"
+    ],
+    [
+      "4091",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "314"
+    ],
+    [
+      "4091",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "314"
+    ],
+    [
+      "4091",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "314"
+    ],
+    [
+      "4091",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "314"
+    ],
+    [
+      "4091",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "314"
+    ],
+    [
+      "4091",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "314"
+    ],
+    [
+      "4091",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "314"
+    ],
+    [
+      "4091",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "314"
+    ],
+    [
+      "4091",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "314"
+    ],
+    [
+      "4091",
+      "TEXTILE FURNISHINGS",
+      "396",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "3141"
+    ],
+    [
+      "4091",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "3141"
+    ],
+    [
+      "4091",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3141"
+    ],
+    [
+      "4091",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3141"
+    ],
+    [
+      "4091",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3141"
+    ],
+    [
+      "4091",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3141"
+    ],
+    [
+      "4091",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3141"
+    ],
+    [
+      "4091",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3141"
+    ],
+    [
+      "4091",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3141"
+    ],
+    [
+      "4091",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3141"
+    ],
+    [
+      "4091",
+      "APPAREL AND ACCESSORIES",
+      "2156",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "315"
+    ],
+    [
+      "4091",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "315"
+    ],
+    [
+      "4091",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "315"
+    ],
+    [
+      "4091",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "315"
+    ],
+    [
+      "4091",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "315"
+    ],
+    [
+      "4091",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "315"
+    ],
+    [
+      "4091",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "315"
+    ],
+    [
+      "4091",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "315"
+    ],
+    [
+      "4091",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "315"
+    ],
+    [
+      "4091",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "315"
+    ],
+    [
+      "4091",
+      "KNIT APPAREL",
+      "253",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "3151"
+    ],
+    [
+      "4091",
+      "KNIT APPAREL",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "3151"
+    ],
+    [
+      "4091",
+      "KNIT APPAREL",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3151"
+    ],
+    [
+      "4091",
+      "KNIT APPAREL",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3151"
+    ],
+    [
+      "4091",
+      "KNIT APPAREL",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3151"
+    ],
+    [
+      "4091",
+      "KNIT APPAREL",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3151"
+    ],
+    [
+      "4091",
+      "KNIT APPAREL",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3151"
+    ],
+    [
+      "4091",
+      "KNIT APPAREL",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3151"
+    ],
+    [
+      "4091",
+      "KNIT APPAREL",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3151"
+    ],
+    [
+      "4091",
+      "KNIT APPAREL",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3151"
+    ],
+    [
+      "4091",
+      "APPAREL ACCESSORIES",
+      "284",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "3159"
+    ],
+    [
+      "4091",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "3159"
+    ],
+    [
+      "4091",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3159"
+    ],
+    [
+      "4091",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3159"
+    ],
+    [
+      "4091",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3159"
+    ],
+    [
+      "4091",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3159"
+    ],
+    [
+      "4091",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3159"
+    ],
+    [
+      "4091",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3159"
+    ],
+    [
+      "4091",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3159"
+    ],
+    [
+      "4091",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3159"
+    ],
+    [
+      "4091",
+      "LEATHER AND ALLIED PRODUCTS",
+      "1374",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "316"
+    ],
+    [
+      "4091",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "316"
+    ],
+    [
+      "4091",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "316"
+    ],
+    [
+      "4091",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "316"
+    ],
+    [
+      "4091",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "316"
+    ],
+    [
+      "4091",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "316"
+    ],
+    [
+      "4091",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "316"
+    ],
+    [
+      "4091",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "316"
+    ],
+    [
+      "4091",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "316"
+    ],
+    [
+      "4091",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "316"
+    ],
+    [
+      "4091",
+      "LEATHER AND HIDE TANNING",
+      "422",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "3161"
+    ],
+    [
+      "4091",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "3161"
+    ],
+    [
+      "4091",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3161"
+    ],
+    [
+      "4091",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3161"
+    ],
+    [
+      "4091",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3161"
+    ],
+    [
+      "4091",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3161"
+    ],
+    [
+      "4091",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3161"
+    ],
+    [
+      "4091",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3161"
+    ],
+    [
+      "4091",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3161"
+    ],
+    [
+      "4091",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3161"
+    ],
+    [
+      "4091",
+      "OTHER LEATHER PRODUCTS",
+      "952",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "3169"
+    ],
+    [
+      "4091",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "3169"
+    ],
+    [
+      "4091",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3169"
+    ],
+    [
+      "4091",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3169"
+    ],
+    [
+      "4091",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3169"
+    ],
+    [
+      "4091",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3169"
+    ],
+    [
+      "4091",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3169"
+    ],
+    [
+      "4091",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3169"
+    ],
+    [
+      "4091",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3169"
+    ],
+    [
+      "4091",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3169"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 2",
+      "3119",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "32"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "32"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "32"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "32"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 2",
+      "10104",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "32"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "32"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 2",
+      "139890",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "32"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 2",
+      "85920",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "32"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 2",
+      "11920",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "32"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 2",
+      "48808",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "32"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 2",
+      "5213",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "32"
+    ],
+    [
+      "4091",
+      "MANUFACTURING, PART 2",
+      "42435",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "32"
+    ],
+    [
+      "4091",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "69555",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "3336"
+    ],
+    [
+      "4091",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "3336"
+    ],
+    [
+      "4091",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "3336"
+    ],
+    [
+      "4091",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "3336"
+    ],
+    [
+      "4091",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3336"
+    ],
+    [
+      "4091",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3336"
+    ],
+    [
+      "4091",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3336"
+    ],
+    [
+      "4091",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3336"
+    ],
+    [
+      "4091",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3336"
+    ],
+    [
+      "4091",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3336"
+    ],
+    [
+      "4091",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3336"
+    ],
+    [
+      "4091",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3336"
+    ],
+    [
+      "4091",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "86444",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "334"
+    ],
+    [
+      "4091",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "334"
+    ],
+    [
+      "4091",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "334"
+    ],
+    [
+      "4091",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "334"
+    ],
+    [
+      "4091",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "41750",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "334"
+    ],
+    [
+      "4091",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "86444",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3345"
+    ],
+    [
+      "4091",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3345"
+    ],
+    [
+      "4091",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3345"
+    ],
+    [
+      "4091",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3345"
+    ],
+    [
+      "4091",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "41750",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3345"
+    ],
+    [
+      "4091",
+      "TRANSPORTATION EQUIPMENT",
+      "41500",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "336"
+    ],
+    [
+      "4091",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "336"
+    ],
+    [
+      "4091",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "336"
+    ],
+    [
+      "4091",
+      "TRANSPORTATION EQUIPMENT",
+      "7901",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "336"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "3000",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "93"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2267",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "93"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "93"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "93"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "93"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "93"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "93"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "93"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "93"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2475",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "93"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "4039",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "93"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "3000",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "930"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2267",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "930"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "930"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "930"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "930"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "930"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "930"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "930"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "930"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2475",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "930"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "4039",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "930"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "3000",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "9300"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2267",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "9300"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "9300"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "9300"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "9300"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "9300"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "9300"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "9300"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "9300"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2475",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "9300"
+    ],
+    [
+      "4091",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "4039",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "9300"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "334080",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "980"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "980"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "980"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "980"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "980"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "980"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "980"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "980"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "980"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "39674",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "980"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "980"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9891",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "990"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1325",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "990"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3640",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "990"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3306",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "990"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3639",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "990"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2510",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "990"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14661",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "990"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "18988",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "990"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9079",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "990"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9975",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "990"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14272",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "990"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "11032",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "990"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9891",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "9900"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1325",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "9900"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3640",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "9900"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3306",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "9900"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3639",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "9900"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2510",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "9900"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14661",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "9900"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "18988",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "9900"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9079",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "9900"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9975",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "9900"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14272",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "9900"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "11032",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "9900"
+    ],
+    [
+      "4091",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "41481",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "323"
+    ],
+    [
+      "4091",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "323"
+    ],
+    [
+      "4091",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "323"
+    ],
+    [
+      "4091",
+      "RUBBER PRODUCTS",
+      "139890",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3262"
+    ],
+    [
+      "4091",
+      "RUBBER PRODUCTS",
+      "85920",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3262"
+    ],
+    [
+      "4091",
+      "RUBBER PRODUCTS",
+      "11920",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3262"
+    ],
+    [
+      "4091",
+      "RUBBER PRODUCTS",
+      "7327",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3262"
+    ],
+    [
+      "4091",
+      "RUBBER PRODUCTS",
+      "5213",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3262"
+    ],
+    [
+      "4091",
+      "RUBBER PRODUCTS",
+      "42435",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3262"
+    ],
+    [
+      "4091",
+      "APPAREL",
+      "1619",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "3152"
+    ],
+    [
+      "4091",
+      "APPAREL",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "3152"
+    ],
+    [
+      "4091",
+      "APPAREL",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3152"
+    ],
+    [
+      "4091",
+      "APPAREL",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3152"
+    ],
+    [
+      "4091",
+      "APPAREL",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3152"
+    ],
+    [
+      "4091",
+      "APPAREL",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3152"
+    ],
+    [
+      "4091",
+      "APPAREL",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3152"
+    ],
+    [
+      "4091",
+      "APPAREL",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3152"
+    ],
+    [
+      "4091",
+      "APPAREL",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3152"
+    ],
+    [
+      "4091",
+      "APPAREL",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3152"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "76884",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "335"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "335"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "335"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "335"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "335"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "335"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "335"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "335"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "335"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "335"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "335"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "335"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "76884",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "3359"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "3359"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "3359"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "3359"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3359"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3359"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3359"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3359"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3359"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3359"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3359"
+    ],
+    [
+      "4091",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3359"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "334080",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "98"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "98"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "98"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "98"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "98"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "98"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "98"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "98"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "98"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "39674",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "98"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "98"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "334080",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "9800"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "9800"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "9800"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "9800"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "9800"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "9800"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "9800"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "9800"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "9800"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "39674",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "9800"
+    ],
+    [
+      "4091",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "9800"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9891",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "99"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1325",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "99"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3640",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "99"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3306",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "99"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3639",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "99"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2510",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "99"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14661",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "99"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "18988",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "99"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9079",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "99"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9975",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "99"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14272",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "99"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "11032",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "99"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "30755",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "339"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "339"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "339"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "339"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "339"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "339"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "339"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "339"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "339"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "339"
+    ],
+    [
+      "4091",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "20498993",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "112"
+    ],
+    [
+      "4091",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "18386408",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "112"
+    ],
+    [
+      "4091",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "20876231",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "112"
+    ],
+    [
+      "4091",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "16614772",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "112"
+    ],
+    [
+      "4091",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "15369327",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "112"
+    ],
+    [
+      "4091",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "9097614",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "112"
+    ],
+    [
+      "4091",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "16557105",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "112"
+    ],
+    [
+      "4091",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "15687322",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "112"
+    ],
+    [
+      "4091",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "21185010",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "112"
+    ],
+    [
+      "4091",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "18632492",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "112"
+    ],
+    [
+      "4091",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "15318673",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "112"
+    ],
+    [
+      "4091",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "16179142",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "112"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "3340604",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "114"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "2751507",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "114"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "2154088",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "114"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "4991324",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "114"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "2736047",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "114"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "1553973",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "114"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "4067212",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "114"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "4252449",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "114"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "3907706",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "114"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "3026647",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "114"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "4292483",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "114"
+    ],
+    [
+      "4091",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "4726636",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "114"
+    ],
+    [
+      "4091",
+      "MOTOR VEHICLE PARTS",
+      "41500",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3363"
+    ],
+    [
+      "4091",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3363"
+    ],
+    [
+      "4091",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3363"
+    ],
+    [
+      "4091",
+      "MOTOR VEHICLE PARTS",
+      "7901",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3363"
+    ],
+    [
+      "4091",
+      "FURNITURE AND FIXTURES",
+      "32098",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "337"
+    ],
+    [
+      "4091",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "337"
+    ],
+    [
+      "4091",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "337"
+    ],
+    [
+      "4091",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "337"
+    ],
+    [
+      "4091",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "337"
+    ],
+    [
+      "4091",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "337"
+    ],
+    [
+      "4091",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "337"
+    ],
+    [
+      "4091",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "32098",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3372"
+    ],
+    [
+      "4091",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3372"
+    ],
+    [
+      "4091",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3372"
+    ],
+    [
+      "4091",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3372"
+    ],
+    [
+      "4091",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3372"
+    ],
+    [
+      "4091",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3372"
+    ],
+    [
+      "4091",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3372"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "30755",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "3399"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "3399"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3399"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3399"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3399"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3399"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3399"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3399"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3399"
+    ],
+    [
+      "4091",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3399"
+    ],
+    [
+      "4091",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "69555",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "333"
+    ],
+    [
+      "4091",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "02",
+      "FAROE ISLANDS",
+      "333"
+    ],
+    [
+      "4091",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "03",
+      "FAROE ISLANDS",
+      "333"
+    ],
+    [
+      "4091",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "47389",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "333"
+    ],
+    [
+      "4091",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "333"
+    ],
+    [
+      "4091",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "333"
+    ],
+    [
+      "4091",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "5794",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "333"
+    ],
+    [
+      "4091",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "333"
+    ],
+    [
+      "4091",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "333"
+    ],
+    [
+      "4091",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "333"
+    ],
+    [
+      "4091",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "5549",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "333"
+    ],
+    [
+      "4091",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "333"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "47389",
+      "2024",
+      "04",
+      "FAROE ISLANDS",
+      "3331"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "FAROE ISLANDS",
+      "3331"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "FAROE ISLANDS",
+      "3331"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "5794",
+      "2024",
+      "07",
+      "FAROE ISLANDS",
+      "3331"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "FAROE ISLANDS",
+      "3331"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "FAROE ISLANDS",
+      "3331"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "FAROE ISLANDS",
+      "3331"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "5549",
+      "2024",
+      "11",
+      "FAROE ISLANDS",
+      "3331"
+    ],
+    [
+      "4091",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "FAROE ISLANDS",
+      "3331"
+    ]
+  ]
+}

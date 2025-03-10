@@ -161,6 +161,7 @@ def get_data_import(naics, date_index):
 
     fig = px.treemap(data_import, path=[px.Constant("world"), 'continent', 'CTY_NAME'],
                      color='USD',
+                     values = "USD",
                      hover_data=['iso_alpha3'],
                      color_continuous_scale='RdBu',
                      color_continuous_midpoint=midpoint_value
@@ -220,6 +221,7 @@ def get_data_export(naics, date_index):
 
     fig = px.treemap(data_export, path=[px.Constant("world"), 'continent', 'CTY_NAME'],
                      color='USD',
+                     values = "USD",
                      hover_data=['iso_alpha3'],
                      color_continuous_scale='RdBu',
                      color_continuous_midpoint=midpoint_value

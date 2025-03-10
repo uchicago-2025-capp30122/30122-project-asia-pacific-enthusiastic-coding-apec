@@ -1,0 +1,7427 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:19:58 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a43edcbc30def856702de00d8710e4ed66f264ca29855352ea43fab709eabea6aecc1f0cb54cd1628005c4267d9c4d2de0; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "7930",
+      "PAPER",
+      "7137",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "322"
+    ],
+    [
+      "7930",
+      "PAPER",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "322"
+    ],
+    [
+      "7930",
+      "PAPER",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "322"
+    ],
+    [
+      "7930",
+      "PAPER",
+      "9183",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "322"
+    ],
+    [
+      "7930",
+      "PAPER",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "322"
+    ],
+    [
+      "7930",
+      "PAPER",
+      "13405",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "322"
+    ],
+    [
+      "7930",
+      "PAPER",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "322"
+    ],
+    [
+      "7930",
+      "PAPER",
+      "6000",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "322"
+    ],
+    [
+      "7930",
+      "PAPER",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "322"
+    ],
+    [
+      "7930",
+      "PAPER",
+      "5911",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "322"
+    ],
+    [
+      "7930",
+      "PAPER",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "322"
+    ],
+    [
+      "7930",
+      "CONVERTED PAPER PRODUCTS",
+      "7137",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3222"
+    ],
+    [
+      "7930",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3222"
+    ],
+    [
+      "7930",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3222"
+    ],
+    [
+      "7930",
+      "CONVERTED PAPER PRODUCTS",
+      "9183",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3222"
+    ],
+    [
+      "7930",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3222"
+    ],
+    [
+      "7930",
+      "CONVERTED PAPER PRODUCTS",
+      "13405",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3222"
+    ],
+    [
+      "7930",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3222"
+    ],
+    [
+      "7930",
+      "CONVERTED PAPER PRODUCTS",
+      "6000",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3222"
+    ],
+    [
+      "7930",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3222"
+    ],
+    [
+      "7930",
+      "CONVERTED PAPER PRODUCTS",
+      "5911",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3222"
+    ],
+    [
+      "7930",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3222"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "9989",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3231"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "6458",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3231"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "19425",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3231"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3231"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3231"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3231"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "16774",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3231"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3231"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "14914",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3231"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3231"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3231"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "4840",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "324"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "324"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "324"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "324"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "324"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "324"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "324"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "324"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "324"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "324"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "324"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "4840",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3241"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3241"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3241"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3241"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3241"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3241"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3241"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3241"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3241"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3241"
+    ],
+    [
+      "7930",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3241"
+    ],
+    [
+      "7930",
+      "CHEMICALS",
+      "14072",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "325"
+    ],
+    [
+      "7930",
+      "CHEMICALS",
+      "30803",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "325"
+    ],
+    [
+      "7930",
+      "CHEMICALS",
+      "129037",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "325"
+    ],
+    [
+      "7930",
+      "CHEMICALS",
+      "14421",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "325"
+    ],
+    [
+      "7930",
+      "CHEMICALS",
+      "5400",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "325"
+    ],
+    [
+      "7930",
+      "CHEMICALS",
+      "60850",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "325"
+    ],
+    [
+      "7930",
+      "CHEMICALS",
+      "33968",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "325"
+    ],
+    [
+      "7930",
+      "CHEMICALS",
+      "3017",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "325"
+    ],
+    [
+      "7930",
+      "CHEMICALS",
+      "101422",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "325"
+    ],
+    [
+      "7930",
+      "CHEMICALS",
+      "24099",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "325"
+    ],
+    [
+      "7930",
+      "CHEMICALS",
+      "4595",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "325"
+    ],
+    [
+      "7930",
+      "CHEMICALS",
+      "6140",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "325"
+    ],
+    [
+      "7930",
+      "BASIC CHEMICALS",
+      "73200",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3251"
+    ],
+    [
+      "7930",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3251"
+    ],
+    [
+      "7930",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3251"
+    ],
+    [
+      "7930",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3251"
+    ],
+    [
+      "7930",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3251"
+    ],
+    [
+      "7930",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3251"
+    ],
+    [
+      "7930",
+      "BASIC CHEMICALS",
+      "17226",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3251"
+    ],
+    [
+      "7930",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3251"
+    ],
+    [
+      "7930",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3251"
+    ],
+    [
+      "7930",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3251"
+    ],
+    [
+      "7930",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "3200",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3252"
+    ],
+    [
+      "7930",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3252"
+    ],
+    [
+      "7930",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3252"
+    ],
+    [
+      "7930",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3252"
+    ],
+    [
+      "7930",
+      "PHARMACEUTICALS AND MEDICINES",
+      "27603",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3254"
+    ],
+    [
+      "7930",
+      "PHARMACEUTICALS AND MEDICINES",
+      "55837",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3254"
+    ],
+    [
+      "7930",
+      "PHARMACEUTICALS AND MEDICINES",
+      "9621",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3254"
+    ],
+    [
+      "7930",
+      "PHARMACEUTICALS AND MEDICINES",
+      "5400",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3254"
+    ],
+    [
+      "7930",
+      "PHARMACEUTICALS AND MEDICINES",
+      "54337",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3254"
+    ],
+    [
+      "7930",
+      "PHARMACEUTICALS AND MEDICINES",
+      "26198",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3254"
+    ],
+    [
+      "7930",
+      "PHARMACEUTICALS AND MEDICINES",
+      "3017",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3254"
+    ],
+    [
+      "7930",
+      "PHARMACEUTICALS AND MEDICINES",
+      "25170",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3254"
+    ],
+    [
+      "7930",
+      "PHARMACEUTICALS AND MEDICINES",
+      "24099",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3254"
+    ],
+    [
+      "7930",
+      "PHARMACEUTICALS AND MEDICINES",
+      "4595",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3254"
+    ],
+    [
+      "7930",
+      "PHARMACEUTICALS AND MEDICINES",
+      "2940",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3254"
+    ],
+    [
+      "7930",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "3200",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3256"
+    ],
+    [
+      "7930",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3256"
+    ],
+    [
+      "7930",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "4800",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3256"
+    ],
+    [
+      "7930",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3256"
+    ],
+    [
+      "7930",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "6513",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3256"
+    ],
+    [
+      "7930",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "4800",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3256"
+    ],
+    [
+      "7930",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3256"
+    ],
+    [
+      "7930",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "3246",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3256"
+    ],
+    [
+      "7930",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3256"
+    ],
+    [
+      "7930",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3256"
+    ],
+    [
+      "7930",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "3200",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3256"
+    ],
+    [
+      "7930",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "2970",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3259"
+    ],
+    [
+      "7930",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3259"
+    ],
+    [
+      "7930",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "52580",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3259"
+    ],
+    [
+      "7930",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3259"
+    ],
+    [
+      "7930",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3259"
+    ],
+    [
+      "7930",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3259"
+    ],
+    [
+      "7930",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "3588",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "326"
+    ],
+    [
+      "7930",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "326"
+    ],
+    [
+      "7930",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "19200",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "326"
+    ],
+    [
+      "7930",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "326"
+    ],
+    [
+      "7930",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "6616",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "326"
+    ],
+    [
+      "7930",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "6483",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "326"
+    ],
+    [
+      "7930",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "16400",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "326"
+    ],
+    [
+      "7930",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "10276",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "326"
+    ],
+    [
+      "7930",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "326"
+    ],
+    [
+      "7930",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "15273",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "326"
+    ],
+    [
+      "7930",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "326"
+    ],
+    [
+      "7930",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "9361",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "326"
+    ],
+    [
+      "7930",
+      "PLASTICS PRODUCTS",
+      "19200",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3261"
+    ],
+    [
+      "7930",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3261"
+    ],
+    [
+      "7930",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3261"
+    ],
+    [
+      "7930",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3261"
+    ],
+    [
+      "7930",
+      "PLASTICS PRODUCTS",
+      "16400",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3261"
+    ],
+    [
+      "7930",
+      "PLASTICS PRODUCTS",
+      "7500",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3261"
+    ],
+    [
+      "7930",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3261"
+    ],
+    [
+      "7930",
+      "PLASTICS PRODUCTS",
+      "11273",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3261"
+    ],
+    [
+      "7930",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3261"
+    ],
+    [
+      "7930",
+      "PLASTICS PRODUCTS",
+      "9361",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3261"
+    ],
+    [
+      "7930",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "3000",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "327"
+    ],
+    [
+      "7930",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "4553",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "327"
+    ],
+    [
+      "7930",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "327"
+    ],
+    [
+      "7930",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "327"
+    ],
+    [
+      "7930",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "327"
+    ],
+    [
+      "7930",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "327"
+    ],
+    [
+      "7930",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "327"
+    ],
+    [
+      "7930",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "327"
+    ],
+    [
+      "7930",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "327"
+    ],
+    [
+      "7930",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "327"
+    ],
+    [
+      "7930",
+      "GLASS AND GLASS PRODUCTS",
+      "4553",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3272"
+    ],
+    [
+      "7930",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3272"
+    ],
+    [
+      "7930",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3272"
+    ],
+    [
+      "7930",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3272"
+    ],
+    [
+      "7930",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3272"
+    ],
+    [
+      "7930",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3272"
+    ],
+    [
+      "7930",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3272"
+    ],
+    [
+      "7930",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3272"
+    ],
+    [
+      "7930",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3272"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 3",
+      "1513004",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "33"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 3",
+      "4535348",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "33"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 3",
+      "5655275",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "33"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 3",
+      "2509557",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "33"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 3",
+      "1113979",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "33"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 3",
+      "47110108",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "33"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 3",
+      "2127238",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "33"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 3",
+      "1681769",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "33"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 3",
+      "5568776",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "33"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 3",
+      "1771510",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "33"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 3",
+      "3252843",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "33"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 3",
+      "6880514",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "33"
+    ],
+    [
+      "7930",
+      "PRIMARY METAL MANUFACTURING",
+      "10185",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "331"
+    ],
+    [
+      "7930",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "331"
+    ],
+    [
+      "7930",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "331"
+    ],
+    [
+      "7930",
+      "PRIMARY METAL MANUFACTURING",
+      "4047",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "331"
+    ],
+    [
+      "7930",
+      "PRIMARY METAL MANUFACTURING",
+      "60576",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "331"
+    ],
+    [
+      "7930",
+      "PRIMARY METAL MANUFACTURING",
+      "17548",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "331"
+    ],
+    [
+      "7930",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "331"
+    ],
+    [
+      "7930",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "331"
+    ],
+    [
+      "7930",
+      "PRIMARY METAL MANUFACTURING",
+      "3150",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "331"
+    ],
+    [
+      "7930",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "331"
+    ],
+    [
+      "7930",
+      "PRIMARY METAL MANUFACTURING",
+      "11929",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "331"
+    ],
+    [
+      "7930",
+      "PRIMARY METAL MANUFACTURING",
+      "21085",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "331"
+    ],
+    [
+      "7930",
+      "IRON AND STEEL AND FERROALLOY",
+      "4053",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3311"
+    ],
+    [
+      "7930",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3311"
+    ],
+    [
+      "7930",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3311"
+    ],
+    [
+      "7930",
+      "IRON AND STEEL AND FERROALLOY",
+      "4047",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3311"
+    ],
+    [
+      "7930",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3311"
+    ],
+    [
+      "7930",
+      "IRON AND STEEL AND FERROALLOY",
+      "5000",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3311"
+    ],
+    [
+      "7930",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3311"
+    ],
+    [
+      "7930",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3311"
+    ],
+    [
+      "7930",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3311"
+    ],
+    [
+      "7930",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3311"
+    ],
+    [
+      "7930",
+      "IRON AND STEEL AND FERROALLOY",
+      "11929",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3311"
+    ],
+    [
+      "7930",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3311"
+    ],
+    [
+      "7930",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "21085",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3312"
+    ],
+    [
+      "7930",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "3150",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3313"
+    ],
+    [
+      "7930",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3313"
+    ],
+    [
+      "7930",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3313"
+    ],
+    [
+      "7930",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3313"
+    ],
+    [
+      "7930",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2053852",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "-"
+    ],
+    [
+      "7930",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "6920620",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "-"
+    ],
+    [
+      "7930",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "7561552",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "-"
+    ],
+    [
+      "7930",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3550852",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "-"
+    ],
+    [
+      "7930",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1975143",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "-"
+    ],
+    [
+      "7930",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "47605790",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "-"
+    ],
+    [
+      "7930",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3684926",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "-"
+    ],
+    [
+      "7930",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2565701",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "-"
+    ],
+    [
+      "7930",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "7580793",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "-"
+    ],
+    [
+      "7930",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "11818827",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "-"
+    ],
+    [
+      "7930",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "5669313",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "-"
+    ],
+    [
+      "7930",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3340087",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "-"
+    ],
+    [
+      "7930",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "19673",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "11"
+    ],
+    [
+      "7930",
+      "OTHER ANIMALS",
+      "19673",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "1129"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART1",
+      "10091",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "31"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART1",
+      "4027",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "31"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART1",
+      "8942",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "31"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART1",
+      "2916",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "31"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "31"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "31"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART1",
+      "2780",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "31"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART1",
+      "3200",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "31"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "31"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART1",
+      "4000",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "31"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "31"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "31"
+    ],
+    [
+      "7930",
+      "MANUFACTURED GOODS",
+      "1540755",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "31-33"
+    ],
+    [
+      "7930",
+      "MANUFACTURED GOODS",
+      "4592144",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "31-33"
+    ],
+    [
+      "7930",
+      "MANUFACTURED GOODS",
+      "5821912",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "31-33"
+    ],
+    [
+      "7930",
+      "MANUFACTURED GOODS",
+      "2550872",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "31-33"
+    ],
+    [
+      "7930",
+      "MANUFACTURED GOODS",
+      "1135178",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "31-33"
+    ],
+    [
+      "7930",
+      "MANUFACTURED GOODS",
+      "47177441",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "31-33"
+    ],
+    [
+      "7930",
+      "MANUFACTURED GOODS",
+      "2193791",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "31-33"
+    ],
+    [
+      "7930",
+      "MANUFACTURED GOODS",
+      "1715036",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "31-33"
+    ],
+    [
+      "7930",
+      "MANUFACTURED GOODS",
+      "5676198",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "31-33"
+    ],
+    [
+      "7930",
+      "MANUFACTURED GOODS",
+      "1829796",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "31-33"
+    ],
+    [
+      "7930",
+      "MANUFACTURED GOODS",
+      "3263349",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "31-33"
+    ],
+    [
+      "7930",
+      "MANUFACTURED GOODS",
+      "6917700",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "31-33"
+    ],
+    [
+      "7930",
+      "FOOD AND KINDRED PRODUCTS",
+      "2916",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "311"
+    ],
+    [
+      "7930",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "311"
+    ],
+    [
+      "7930",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "311"
+    ],
+    [
+      "7930",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "311"
+    ],
+    [
+      "7930",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "311"
+    ],
+    [
+      "7930",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "311"
+    ],
+    [
+      "7930",
+      "FOOD AND KINDRED PRODUCTS",
+      "4000",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "311"
+    ],
+    [
+      "7930",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "311"
+    ],
+    [
+      "7930",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "311"
+    ],
+    [
+      "7930",
+      "FOODS, NESOI",
+      "2916",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3119"
+    ],
+    [
+      "7930",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3119"
+    ],
+    [
+      "7930",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3119"
+    ],
+    [
+      "7930",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3119"
+    ],
+    [
+      "7930",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3119"
+    ],
+    [
+      "7930",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3119"
+    ],
+    [
+      "7930",
+      "FOODS, NESOI",
+      "4000",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3119"
+    ],
+    [
+      "7930",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3119"
+    ],
+    [
+      "7930",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3119"
+    ],
+    [
+      "7930",
+      "TEXTILES AND FABRICS",
+      "10091",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "313"
+    ],
+    [
+      "7930",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "313"
+    ],
+    [
+      "7930",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "313"
+    ],
+    [
+      "7930",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "313"
+    ],
+    [
+      "7930",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "313"
+    ],
+    [
+      "7930",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "313"
+    ],
+    [
+      "7930",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "313"
+    ],
+    [
+      "7930",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "313"
+    ],
+    [
+      "7930",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "313"
+    ],
+    [
+      "7930",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "313"
+    ],
+    [
+      "7930",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "313"
+    ],
+    [
+      "7930",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "313"
+    ],
+    [
+      "7930",
+      "FABRICS",
+      "10091",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3132"
+    ],
+    [
+      "7930",
+      "FABRICS",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3132"
+    ],
+    [
+      "7930",
+      "FABRICS",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3132"
+    ],
+    [
+      "7930",
+      "FABRICS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3132"
+    ],
+    [
+      "7930",
+      "FABRICS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3132"
+    ],
+    [
+      "7930",
+      "FABRICS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3132"
+    ],
+    [
+      "7930",
+      "FABRICS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3132"
+    ],
+    [
+      "7930",
+      "FABRICS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3132"
+    ],
+    [
+      "7930",
+      "FABRICS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3132"
+    ],
+    [
+      "7930",
+      "FABRICS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3132"
+    ],
+    [
+      "7930",
+      "FABRICS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3132"
+    ],
+    [
+      "7930",
+      "FABRICS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3132"
+    ],
+    [
+      "7930",
+      "TEXTILE MILL PRODUCTS",
+      "2780",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "314"
+    ],
+    [
+      "7930",
+      "TEXTILE MILL PRODUCTS",
+      "3200",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "314"
+    ],
+    [
+      "7930",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "314"
+    ],
+    [
+      "7930",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "314"
+    ],
+    [
+      "7930",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "314"
+    ],
+    [
+      "7930",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "314"
+    ],
+    [
+      "7930",
+      "TEXTILE FURNISHINGS",
+      "2780",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3141"
+    ],
+    [
+      "7930",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3141"
+    ],
+    [
+      "7930",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3141"
+    ],
+    [
+      "7930",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3141"
+    ],
+    [
+      "7930",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3141"
+    ],
+    [
+      "7930",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3141"
+    ],
+    [
+      "7930",
+      "OTHER TEXTILE PRODUCTS",
+      "3200",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3149"
+    ],
+    [
+      "7930",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3149"
+    ],
+    [
+      "7930",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3149"
+    ],
+    [
+      "7930",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3149"
+    ],
+    [
+      "7930",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3149"
+    ],
+    [
+      "7930",
+      "APPAREL AND ACCESSORIES",
+      "4027",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "315"
+    ],
+    [
+      "7930",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "315"
+    ],
+    [
+      "7930",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "315"
+    ],
+    [
+      "7930",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "315"
+    ],
+    [
+      "7930",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "315"
+    ],
+    [
+      "7930",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "315"
+    ],
+    [
+      "7930",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "315"
+    ],
+    [
+      "7930",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "315"
+    ],
+    [
+      "7930",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "315"
+    ],
+    [
+      "7930",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "315"
+    ],
+    [
+      "7930",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "315"
+    ],
+    [
+      "7930",
+      "LEATHER AND ALLIED PRODUCTS",
+      "8942",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "316"
+    ],
+    [
+      "7930",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "316"
+    ],
+    [
+      "7930",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "316"
+    ],
+    [
+      "7930",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "316"
+    ],
+    [
+      "7930",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "316"
+    ],
+    [
+      "7930",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "316"
+    ],
+    [
+      "7930",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "316"
+    ],
+    [
+      "7930",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "316"
+    ],
+    [
+      "7930",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "316"
+    ],
+    [
+      "7930",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "316"
+    ],
+    [
+      "7930",
+      "FOOTWEAR",
+      "8942",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3162"
+    ],
+    [
+      "7930",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3162"
+    ],
+    [
+      "7930",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3162"
+    ],
+    [
+      "7930",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3162"
+    ],
+    [
+      "7930",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3162"
+    ],
+    [
+      "7930",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3162"
+    ],
+    [
+      "7930",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3162"
+    ],
+    [
+      "7930",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3162"
+    ],
+    [
+      "7930",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3162"
+    ],
+    [
+      "7930",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3162"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 2",
+      "17660",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "32"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 2",
+      "52769",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "32"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 2",
+      "157695",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "32"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 2",
+      "38399",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "32"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 2",
+      "21199",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "32"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 2",
+      "67333",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "32"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 2",
+      "63773",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "32"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 2",
+      "30067",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "32"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 2",
+      "107422",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "32"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 2",
+      "54286",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "32"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 2",
+      "10506",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "32"
+    ],
+    [
+      "7930",
+      "MANUFACTURING, PART 2",
+      "37186",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "32"
+    ],
+    [
+      "7930",
+      "INDUSTRIAL MACHINERY",
+      "63202",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3332"
+    ],
+    [
+      "7930",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3332"
+    ],
+    [
+      "7930",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3332"
+    ],
+    [
+      "7930",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3332"
+    ],
+    [
+      "7930",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "11296",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3333"
+    ],
+    [
+      "7930",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "48990",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3333"
+    ],
+    [
+      "7930",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "13050",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3333"
+    ],
+    [
+      "7930",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3333"
+    ],
+    [
+      "7930",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "2520",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3333"
+    ],
+    [
+      "7930",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "5400",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3333"
+    ],
+    [
+      "7930",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3333"
+    ],
+    [
+      "7930",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3333"
+    ],
+    [
+      "7930",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "4680",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3333"
+    ],
+    [
+      "7930",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3333"
+    ],
+    [
+      "7930",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3333"
+    ],
+    [
+      "7930",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "8997",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3334"
+    ],
+    [
+      "7930",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3334"
+    ],
+    [
+      "7930",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "3216",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3334"
+    ],
+    [
+      "7930",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "7628",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3334"
+    ],
+    [
+      "7930",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "2823",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3334"
+    ],
+    [
+      "7930",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "3070",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3334"
+    ],
+    [
+      "7930",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "2546",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3334"
+    ],
+    [
+      "7930",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "5998",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3334"
+    ],
+    [
+      "7930",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "2843",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3334"
+    ],
+    [
+      "7930",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "178438",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3334"
+    ],
+    [
+      "7930",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "329897",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3334"
+    ],
+    [
+      "7930",
+      "METALWORKING MACHINERY",
+      "11073",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3335"
+    ],
+    [
+      "7930",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3335"
+    ],
+    [
+      "7930",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "6460",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3336"
+    ],
+    [
+      "7930",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "14489",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3336"
+    ],
+    [
+      "7930",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "27994",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3336"
+    ],
+    [
+      "7930",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "16006",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3336"
+    ],
+    [
+      "7930",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "7375",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3336"
+    ],
+    [
+      "7930",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3336"
+    ],
+    [
+      "7930",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "22687",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3336"
+    ],
+    [
+      "7930",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "58000",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3336"
+    ],
+    [
+      "7930",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "4254",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3336"
+    ],
+    [
+      "7930",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "56240",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3336"
+    ],
+    [
+      "7930",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "112470",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3339"
+    ],
+    [
+      "7930",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "115000",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3339"
+    ],
+    [
+      "7930",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "99000",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3339"
+    ],
+    [
+      "7930",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "153905",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3339"
+    ],
+    [
+      "7930",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "17936",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3339"
+    ],
+    [
+      "7930",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "80969",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3339"
+    ],
+    [
+      "7930",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "4211",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3339"
+    ],
+    [
+      "7930",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "5220",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3339"
+    ],
+    [
+      "7930",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "21109",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3339"
+    ],
+    [
+      "7930",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "6307",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3339"
+    ],
+    [
+      "7930",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "14604",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3339"
+    ],
+    [
+      "7930",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "58376",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3339"
+    ],
+    [
+      "7930",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "243415",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "334"
+    ],
+    [
+      "7930",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "508049",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "334"
+    ],
+    [
+      "7930",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "648941",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "334"
+    ],
+    [
+      "7930",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "149776",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "334"
+    ],
+    [
+      "7930",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "285961",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "334"
+    ],
+    [
+      "7930",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "345229",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "334"
+    ],
+    [
+      "7930",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "100402",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "334"
+    ],
+    [
+      "7930",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "404075",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "334"
+    ],
+    [
+      "7930",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "525445",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "334"
+    ],
+    [
+      "7930",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "1302247",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "334"
+    ],
+    [
+      "7930",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "878200",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "334"
+    ],
+    [
+      "7930",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "3623177",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "334"
+    ],
+    [
+      "7930",
+      "COMPUTER EQUIPMENT",
+      "88522",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3341"
+    ],
+    [
+      "7930",
+      "COMPUTER EQUIPMENT",
+      "59017",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3341"
+    ],
+    [
+      "7930",
+      "COMPUTER EQUIPMENT",
+      "20100",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3341"
+    ],
+    [
+      "7930",
+      "COMPUTER EQUIPMENT",
+      "66150",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3341"
+    ],
+    [
+      "7930",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3341"
+    ],
+    [
+      "7930",
+      "COMPUTER EQUIPMENT",
+      "31704",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3341"
+    ],
+    [
+      "7930",
+      "COMPUTER EQUIPMENT",
+      "20277",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3341"
+    ],
+    [
+      "7930",
+      "COMPUTER EQUIPMENT",
+      "6037",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3341"
+    ],
+    [
+      "7930",
+      "COMPUTER EQUIPMENT",
+      "79465",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3341"
+    ],
+    [
+      "7930",
+      "COMPUTER EQUIPMENT",
+      "5500",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3341"
+    ],
+    [
+      "7930",
+      "COMPUTER EQUIPMENT",
+      "74812",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3341"
+    ],
+    [
+      "7930",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "18850",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3343"
+    ],
+    [
+      "7930",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "45029",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3343"
+    ],
+    [
+      "7930",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "3148",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3343"
+    ],
+    [
+      "7930",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "3478",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3343"
+    ],
+    [
+      "7930",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3343"
+    ],
+    [
+      "7930",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "6198",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3343"
+    ],
+    [
+      "7930",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3343"
+    ],
+    [
+      "7930",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "6972",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3343"
+    ],
+    [
+      "7930",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "53135",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3343"
+    ],
+    [
+      "7930",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3343"
+    ],
+    [
+      "7930",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3343"
+    ],
+    [
+      "7930",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "83054",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3344"
+    ],
+    [
+      "7930",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3344"
+    ],
+    [
+      "7930",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "11721",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3344"
+    ],
+    [
+      "7930",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "8555",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3344"
+    ],
+    [
+      "7930",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "11672",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3344"
+    ],
+    [
+      "7930",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "19102",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3344"
+    ],
+    [
+      "7930",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3344"
+    ],
+    [
+      "7930",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "2961",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3344"
+    ],
+    [
+      "7930",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "8254",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3344"
+    ],
+    [
+      "7930",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "24728",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3344"
+    ],
+    [
+      "7930",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3344"
+    ],
+    [
+      "7930",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3344"
+    ],
+    [
+      "7930",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "143842",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3345"
+    ],
+    [
+      "7930",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "400677",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3345"
+    ],
+    [
+      "7930",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "435259",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3345"
+    ],
+    [
+      "7930",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "43342",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3345"
+    ],
+    [
+      "7930",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "112417",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3345"
+    ],
+    [
+      "7930",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "218506",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3345"
+    ],
+    [
+      "7930",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "62500",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3345"
+    ],
+    [
+      "7930",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "324544",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3345"
+    ],
+    [
+      "7930",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "49277",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3345"
+    ],
+    [
+      "7930",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "298948",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3345"
+    ],
+    [
+      "7930",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "163022",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3345"
+    ],
+    [
+      "7930",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "1615788",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3345"
+    ],
+    [
+      "7930",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "10052",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3351"
+    ],
+    [
+      "7930",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3351"
+    ],
+    [
+      "7930",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3351"
+    ],
+    [
+      "7930",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3351"
+    ],
+    [
+      "7930",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3351"
+    ],
+    [
+      "7930",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3351"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "6582",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3352"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3352"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3352"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3352"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3352"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3352"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3352"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3352"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3352"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3352"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT",
+      "37135",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3353"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3353"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3353"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT",
+      "21722",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3353"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT",
+      "6006",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3353"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT",
+      "14498",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3353"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3353"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3353"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT",
+      "21763",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3353"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3353"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT",
+      "3319",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3353"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3353"
+    ],
+    [
+      "7930",
+      "TRANSPORTATION EQUIPMENT",
+      "76521",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "336"
+    ],
+    [
+      "7930",
+      "TRANSPORTATION EQUIPMENT",
+      "137266",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "336"
+    ],
+    [
+      "7930",
+      "TRANSPORTATION EQUIPMENT",
+      "4046502",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "336"
+    ],
+    [
+      "7930",
+      "TRANSPORTATION EQUIPMENT",
+      "1703775",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "336"
+    ],
+    [
+      "7930",
+      "TRANSPORTATION EQUIPMENT",
+      "457425",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "336"
+    ],
+    [
+      "7930",
+      "TRANSPORTATION EQUIPMENT",
+      "5438069",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "336"
+    ],
+    [
+      "7930",
+      "TRANSPORTATION EQUIPMENT",
+      "503974",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "336"
+    ],
+    [
+      "7930",
+      "TRANSPORTATION EQUIPMENT",
+      "822127",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "336"
+    ],
+    [
+      "7930",
+      "TRANSPORTATION EQUIPMENT",
+      "3177135",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "336"
+    ],
+    [
+      "7930",
+      "TRANSPORTATION EQUIPMENT",
+      "272277",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "336"
+    ],
+    [
+      "7930",
+      "TRANSPORTATION EQUIPMENT",
+      "345380",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "336"
+    ],
+    [
+      "7930",
+      "TRANSPORTATION EQUIPMENT",
+      "910411",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "336"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLES",
+      "47552",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3361"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLES",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3361"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLES",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3361"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLES",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3361"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "513097",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "990"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2328476",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "990"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1739640",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "990"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "999980",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "990"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "839965",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "990"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "428349",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "990"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1491135",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "990"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "850665",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "990"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1904595",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "990"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1510291",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "990"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2405964",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "990"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4881454",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "990"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "513097",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "9900"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2328476",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "9900"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1739640",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "9900"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "999980",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "9900"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "839965",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "9900"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "428349",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "9900"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1491135",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "9900"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "850665",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "9900"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1904595",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "9900"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2405964",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "9900"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4881454",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "9900"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1510291",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "9900"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "9989",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "323"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "6458",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "323"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "19425",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "323"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "323"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "323"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "323"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "16774",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "323"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "323"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "14914",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "323"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "323"
+    ],
+    [
+      "7930",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "323"
+    ],
+    [
+      "7930",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "14072",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3253"
+    ],
+    [
+      "7930",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3253"
+    ],
+    [
+      "7930",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3253"
+    ],
+    [
+      "7930",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3253"
+    ],
+    [
+      "7930",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3253"
+    ],
+    [
+      "7930",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3253"
+    ],
+    [
+      "7930",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3253"
+    ],
+    [
+      "7930",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3253"
+    ],
+    [
+      "7930",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3253"
+    ],
+    [
+      "7930",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3253"
+    ],
+    [
+      "7930",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3253"
+    ],
+    [
+      "7930",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3253"
+    ],
+    [
+      "7930",
+      "RUBBER PRODUCTS",
+      "3588",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3262"
+    ],
+    [
+      "7930",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3262"
+    ],
+    [
+      "7930",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3262"
+    ],
+    [
+      "7930",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3262"
+    ],
+    [
+      "7930",
+      "RUBBER PRODUCTS",
+      "6616",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3262"
+    ],
+    [
+      "7930",
+      "RUBBER PRODUCTS",
+      "6483",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3262"
+    ],
+    [
+      "7930",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3262"
+    ],
+    [
+      "7930",
+      "RUBBER PRODUCTS",
+      "2776",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3262"
+    ],
+    [
+      "7930",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3262"
+    ],
+    [
+      "7930",
+      "RUBBER PRODUCTS",
+      "4000",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3262"
+    ],
+    [
+      "7930",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3262"
+    ],
+    [
+      "7930",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3262"
+    ],
+    [
+      "7930",
+      "APPAREL",
+      "4027",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3152"
+    ],
+    [
+      "7930",
+      "APPAREL",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3152"
+    ],
+    [
+      "7930",
+      "APPAREL",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3152"
+    ],
+    [
+      "7930",
+      "APPAREL",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3152"
+    ],
+    [
+      "7930",
+      "APPAREL",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3152"
+    ],
+    [
+      "7930",
+      "APPAREL",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3152"
+    ],
+    [
+      "7930",
+      "APPAREL",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3152"
+    ],
+    [
+      "7930",
+      "APPAREL",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3152"
+    ],
+    [
+      "7930",
+      "APPAREL",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3152"
+    ],
+    [
+      "7930",
+      "APPAREL",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3152"
+    ],
+    [
+      "7930",
+      "APPAREL",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3152"
+    ],
+    [
+      "7930",
+      "WOOD PRODUCTS",
+      "21685",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "321"
+    ],
+    [
+      "7930",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "21685",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3212"
+    ],
+    [
+      "7930",
+      "COMMUNICATIONS EQUIPMENT",
+      "16519",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3342"
+    ],
+    [
+      "7930",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3342"
+    ],
+    [
+      "7930",
+      "COMMUNICATIONS EQUIPMENT",
+      "97915",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3342"
+    ],
+    [
+      "7930",
+      "COMMUNICATIONS EQUIPMENT",
+      "74631",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3342"
+    ],
+    [
+      "7930",
+      "COMMUNICATIONS EQUIPMENT",
+      "40356",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3342"
+    ],
+    [
+      "7930",
+      "COMMUNICATIONS EQUIPMENT",
+      "107621",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3342"
+    ],
+    [
+      "7930",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3342"
+    ],
+    [
+      "7930",
+      "COMMUNICATIONS EQUIPMENT",
+      "56293",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3342"
+    ],
+    [
+      "7930",
+      "COMMUNICATIONS EQUIPMENT",
+      "454905",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3342"
+    ],
+    [
+      "7930",
+      "COMMUNICATIONS EQUIPMENT",
+      "845971",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3342"
+    ],
+    [
+      "7930",
+      "COMMUNICATIONS EQUIPMENT",
+      "709678",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3342"
+    ],
+    [
+      "7930",
+      "COMMUNICATIONS EQUIPMENT",
+      "1932577",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3342"
+    ],
+    [
+      "7930",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "51888",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3346"
+    ],
+    [
+      "7930",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3346"
+    ],
+    [
+      "7930",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3346"
+    ],
+    [
+      "7930",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3346"
+    ],
+    [
+      "7930",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3346"
+    ],
+    [
+      "7930",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3346"
+    ],
+    [
+      "7930",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3346"
+    ],
+    [
+      "7930",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3346"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "134735",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "335"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "8489",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "335"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "31930",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "335"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "34868",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "335"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "40152",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "335"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "52918",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "335"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "20786",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "335"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "19327",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "335"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "1066739",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "335"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "9087",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "335"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "12747",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "335"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "6756",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "335"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "97600",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3359"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "8489",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3359"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "25348",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3359"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "13146",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3359"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "34146",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3359"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "38420",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3359"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "10734",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3359"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "19327",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3359"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "1044976",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3359"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "9087",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3359"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "9428",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3359"
+    ],
+    [
+      "7930",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "6756",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3359"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "513097",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "99"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2328476",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "99"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1739640",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "99"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "999980",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "99"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "839965",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "99"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "428349",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "99"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1491135",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "99"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "850665",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "99"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1904595",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "99"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1510291",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "99"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2405964",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "99"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4881454",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "99"
+    ],
+    [
+      "7930",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "70781",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3364"
+    ],
+    [
+      "7930",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "137266",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3364"
+    ],
+    [
+      "7930",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "4038786",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3364"
+    ],
+    [
+      "7930",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "1701255",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3364"
+    ],
+    [
+      "7930",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "407150",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3364"
+    ],
+    [
+      "7930",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "5369553",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3364"
+    ],
+    [
+      "7930",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "450064",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3364"
+    ],
+    [
+      "7930",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "663870",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3364"
+    ],
+    [
+      "7930",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "2963161",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3364"
+    ],
+    [
+      "7930",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "224034",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3364"
+    ],
+    [
+      "7930",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "288166",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3364"
+    ],
+    [
+      "7930",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "884075",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3364"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "34261",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3371"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "21550",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3371"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3371"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "2610",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3371"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3371"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "19400",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3371"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3371"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "31780",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3371"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3371"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3371"
+    ],
+    [
+      "7930",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3371"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "899447",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "339"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1844321",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "339"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "436458",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "339"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "424452",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "339"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "135001",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "339"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "41147871",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "339"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "284578",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "339"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "391484",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "339"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "640155",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "339"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "116069",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "339"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "632779",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "339"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1850127",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "339"
+    ],
+    [
+      "7930",
+      "CUTLERY AND HANDTOOLS",
+      "10442",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3322"
+    ],
+    [
+      "7930",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3322"
+    ],
+    [
+      "7930",
+      "CUTLERY AND HANDTOOLS",
+      "16148",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3322"
+    ],
+    [
+      "7930",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3322"
+    ],
+    [
+      "7930",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3322"
+    ],
+    [
+      "7930",
+      "CUTLERY AND HANDTOOLS",
+      "6155",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3322"
+    ],
+    [
+      "7930",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3322"
+    ],
+    [
+      "7930",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3322"
+    ],
+    [
+      "7930",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3322"
+    ],
+    [
+      "7930",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3322"
+    ],
+    [
+      "7930",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3322"
+    ],
+    [
+      "7930",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3322"
+    ],
+    [
+      "7930",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "3938",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3324"
+    ],
+    [
+      "7930",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3324"
+    ],
+    [
+      "7930",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3324"
+    ],
+    [
+      "7930",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3324"
+    ],
+    [
+      "7930",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3324"
+    ],
+    [
+      "7930",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3324"
+    ],
+    [
+      "7930",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3324"
+    ],
+    [
+      "7930",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "3065",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3324"
+    ],
+    [
+      "7930",
+      "HARDWARE",
+      "3029",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3325"
+    ],
+    [
+      "7930",
+      "HARDWARE",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3325"
+    ],
+    [
+      "7930",
+      "HARDWARE",
+      "3029",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3325"
+    ],
+    [
+      "7930",
+      "HARDWARE",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3325"
+    ],
+    [
+      "7930",
+      "HARDWARE",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3325"
+    ],
+    [
+      "7930",
+      "HARDWARE",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3325"
+    ],
+    [
+      "7930",
+      "HARDWARE",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3325"
+    ],
+    [
+      "7930",
+      "HARDWARE",
+      "5505",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3325"
+    ],
+    [
+      "7930",
+      "HARDWARE",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3325"
+    ],
+    [
+      "7930",
+      "HARDWARE",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3325"
+    ],
+    [
+      "7930",
+      "HARDWARE",
+      "3549",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3325"
+    ],
+    [
+      "7930",
+      "SPRINGS AND WIRE PRODUCTS",
+      "10845",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3326"
+    ],
+    [
+      "7930",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3326"
+    ],
+    [
+      "7930",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3326"
+    ],
+    [
+      "7930",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3326"
+    ],
+    [
+      "7930",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3326"
+    ],
+    [
+      "7930",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3326"
+    ],
+    [
+      "7930",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "3000",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3279"
+    ],
+    [
+      "7930",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3279"
+    ],
+    [
+      "7930",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3279"
+    ],
+    [
+      "7930",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3279"
+    ],
+    [
+      "7930",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3279"
+    ],
+    [
+      "7930",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3279"
+    ],
+    [
+      "7930",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3279"
+    ],
+    [
+      "7930",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3279"
+    ],
+    [
+      "7930",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3279"
+    ],
+    [
+      "7930",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3279"
+    ],
+    [
+      "7930",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "19673",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "112"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLE PARTS",
+      "5740",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3363"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3363"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLE PARTS",
+      "7716",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3363"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLE PARTS",
+      "2520",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3363"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLE PARTS",
+      "50275",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3363"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLE PARTS",
+      "68516",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3363"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLE PARTS",
+      "53910",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3363"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLE PARTS",
+      "158257",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3363"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLE PARTS",
+      "166422",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3363"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLE PARTS",
+      "48243",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3363"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLE PARTS",
+      "57214",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3363"
+    ],
+    [
+      "7930",
+      "MOTOR VEHICLE PARTS",
+      "26336",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3363"
+    ],
+    [
+      "7930",
+      "FURNITURE AND FIXTURES",
+      "34261",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "337"
+    ],
+    [
+      "7930",
+      "FURNITURE AND FIXTURES",
+      "21550",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "337"
+    ],
+    [
+      "7930",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "337"
+    ],
+    [
+      "7930",
+      "FURNITURE AND FIXTURES",
+      "2610",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "337"
+    ],
+    [
+      "7930",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "337"
+    ],
+    [
+      "7930",
+      "FURNITURE AND FIXTURES",
+      "19400",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "337"
+    ],
+    [
+      "7930",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "337"
+    ],
+    [
+      "7930",
+      "FURNITURE AND FIXTURES",
+      "31780",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "337"
+    ],
+    [
+      "7930",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "337"
+    ],
+    [
+      "7930",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "337"
+    ],
+    [
+      "7930",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "337"
+    ],
+    [
+      "7930",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "141695",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3391"
+    ],
+    [
+      "7930",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "35143",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3391"
+    ],
+    [
+      "7930",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3391"
+    ],
+    [
+      "7930",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "8108",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3391"
+    ],
+    [
+      "7930",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "3818",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3391"
+    ],
+    [
+      "7930",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "29000",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3391"
+    ],
+    [
+      "7930",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "84370",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3391"
+    ],
+    [
+      "7930",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "3151",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3391"
+    ],
+    [
+      "7930",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3391"
+    ],
+    [
+      "7930",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "6546",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3391"
+    ],
+    [
+      "7930",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3391"
+    ],
+    [
+      "7930",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3391"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "757752",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3399"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1809178",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3399"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "436458",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3399"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "416344",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3399"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "131183",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3399"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "41118871",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3399"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "200208",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3399"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "388333",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3399"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "640155",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3399"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "109523",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3399"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "632779",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3399"
+    ],
+    [
+      "7930",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1850127",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3399"
+    ],
+    [
+      "7930",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "6132",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3314"
+    ],
+    [
+      "7930",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3314"
+    ],
+    [
+      "7930",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3314"
+    ],
+    [
+      "7930",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3314"
+    ],
+    [
+      "7930",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3314"
+    ],
+    [
+      "7930",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3314"
+    ],
+    [
+      "7930",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3314"
+    ],
+    [
+      "7930",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3314"
+    ],
+    [
+      "7930",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3314"
+    ],
+    [
+      "7930",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3314"
+    ],
+    [
+      "7930",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3314"
+    ],
+    [
+      "7930",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3314"
+    ],
+    [
+      "7930",
+      "FOUNDRIES",
+      "60576",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3315"
+    ],
+    [
+      "7930",
+      "FOUNDRIES",
+      "12548",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3315"
+    ],
+    [
+      "7930",
+      "FOUNDRIES",
+      "0",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3315"
+    ],
+    [
+      "7930",
+      "FOUNDRIES",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3315"
+    ],
+    [
+      "7930",
+      "FOUNDRIES",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3315"
+    ],
+    [
+      "7930",
+      "FOUNDRIES",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3315"
+    ],
+    [
+      "7930",
+      "FOUNDRIES",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3315"
+    ],
+    [
+      "7930",
+      "FOUNDRIES",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3315"
+    ],
+    [
+      "7930",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "13716",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "332"
+    ],
+    [
+      "7930",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "26168",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "332"
+    ],
+    [
+      "7930",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "43393",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "332"
+    ],
+    [
+      "7930",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "7979",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "332"
+    ],
+    [
+      "7930",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "65010",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "332"
+    ],
+    [
+      "7930",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "6155",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "332"
+    ],
+    [
+      "7930",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "79076",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "332"
+    ],
+    [
+      "7930",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "33556",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "332"
+    ],
+    [
+      "7930",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "11376",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "332"
+    ],
+    [
+      "7930",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "332"
+    ],
+    [
+      "7930",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "20497",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "332"
+    ],
+    [
+      "7930",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "21795",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "332"
+    ],
+    [
+      "7930",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "4216",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3323"
+    ],
+    [
+      "7930",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3323"
+    ],
+    [
+      "7930",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "3274",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3327"
+    ],
+    [
+      "7930",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3327"
+    ],
+    [
+      "7930",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "2550",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3327"
+    ],
+    [
+      "7930",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3327"
+    ],
+    [
+      "7930",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "36719",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3327"
+    ],
+    [
+      "7930",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3327"
+    ],
+    [
+      "7930",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "15744",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3327"
+    ],
+    [
+      "7930",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3327"
+    ],
+    [
+      "7930",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3327"
+    ],
+    [
+      "7930",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3327"
+    ],
+    [
+      "7930",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3327"
+    ],
+    [
+      "7930",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3327"
+    ],
+    [
+      "7930",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "23139",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3329"
+    ],
+    [
+      "7930",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "24695",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3329"
+    ],
+    [
+      "7930",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "4950",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3329"
+    ],
+    [
+      "7930",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "24353",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3329"
+    ],
+    [
+      "7930",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3329"
+    ],
+    [
+      "7930",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "52487",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3329"
+    ],
+    [
+      "7930",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "33556",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3329"
+    ],
+    [
+      "7930",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "5871",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3329"
+    ],
+    [
+      "7930",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3329"
+    ],
+    [
+      "7930",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "16281",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3329"
+    ],
+    [
+      "7930",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "15181",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3329"
+    ],
+    [
+      "7930",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "134985",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "333"
+    ],
+    [
+      "7930",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1976794",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "333"
+    ],
+    [
+      "7930",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "426501",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "333"
+    ],
+    [
+      "7930",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "184660",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "333"
+    ],
+    [
+      "7930",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "67244",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "333"
+    ],
+    [
+      "7930",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "102318",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "333"
+    ],
+    [
+      "7930",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1119022",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "333"
+    ],
+    [
+      "7930",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "11200",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "333"
+    ],
+    [
+      "7930",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "112996",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "333"
+    ],
+    [
+      "7930",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "71830",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "333"
+    ],
+    [
+      "7930",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1351311",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "333"
+    ],
+    [
+      "7930",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "447163",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "333"
+    ],
+    [
+      "7930",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "22515",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "3331"
+    ],
+    [
+      "7930",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "1841501",
+      "2024",
+      "02",
+      "BOTSWANA",
+      "3331"
+    ],
+    [
+      "7930",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "272051",
+      "2024",
+      "03",
+      "BOTSWANA",
+      "3331"
+    ],
+    [
+      "7930",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "BOTSWANA",
+      "3331"
+    ],
+    [
+      "7930",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "13686",
+      "2024",
+      "05",
+      "BOTSWANA",
+      "3331"
+    ],
+    [
+      "7930",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "BOTSWANA",
+      "3331"
+    ],
+    [
+      "7930",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "1098966",
+      "2024",
+      "07",
+      "BOTSWANA",
+      "3331"
+    ],
+    [
+      "7930",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "3434",
+      "2024",
+      "08",
+      "BOTSWANA",
+      "3331"
+    ],
+    [
+      "7930",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "BOTSWANA",
+      "3331"
+    ],
+    [
+      "7930",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "BOTSWANA",
+      "3331"
+    ],
+    [
+      "7930",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "1142942",
+      "2024",
+      "11",
+      "BOTSWANA",
+      "3331"
+    ],
+    [
+      "7930",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "2650",
+      "2024",
+      "12",
+      "BOTSWANA",
+      "3331"
+    ]
+  ]
+}

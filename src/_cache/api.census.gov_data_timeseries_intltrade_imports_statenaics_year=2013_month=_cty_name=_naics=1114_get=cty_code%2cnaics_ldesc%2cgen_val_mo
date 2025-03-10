@@ -1,0 +1,10001 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 07:28:50 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4178bb7b5bd904fffb1dc82f9100507f23d4f53696ca863a777d2b55b2fd07053872e1ddc0511e0216110a00a629ef052; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "196062083",
+      "2013",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0001",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24730482",
+      "2013",
+      "01",
+      "OPEC",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "25397725",
+      "2013",
+      "01",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9437583",
+      "2013",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19625240",
+      "2013",
+      "01",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "28481247",
+      "2013",
+      "01",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "133531717",
+      "2013",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "58644203",
+      "2013",
+      "01",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "47529795",
+      "2013",
+      "01",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "113902371",
+      "2013",
+      "01",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "25046043",
+      "2013",
+      "01",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "40761134",
+      "2013",
+      "01",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1625215",
+      "2013",
+      "01",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19296530",
+      "2013",
+      "01",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "22026837",
+      "2013",
+      "01",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "28481247",
+      "2013",
+      "01",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6454410",
+      "2013",
+      "01",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6713165",
+      "2013",
+      "01",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3411924",
+      "2013",
+      "01",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "15757",
+      "2013",
+      "01",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "372167",
+      "2013",
+      "01",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8783517",
+      "2013",
+      "01",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4106",
+      "2013",
+      "01",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3547",
+      "2013",
+      "01",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2430",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18102",
+      "2013",
+      "01",
+      "TURKS AND CAICOS ISLANDS",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "328710",
+      "2013",
+      "01",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19650995",
+      "2013",
+      "01",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "80062976",
+      "2013",
+      "01",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24730482",
+      "2013",
+      "01",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "413973",
+      "2013",
+      "01",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "149625",
+      "2013",
+      "01",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1038822",
+      "2013",
+      "01",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "498983",
+      "2013",
+      "01",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "553100",
+      "2013",
+      "01",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "107447961",
+      "2013",
+      "01",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "97810",
+      "2013",
+      "01",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "186276",
+      "2013",
+      "01",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "36583",
+      "2013",
+      "01",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "21650240",
+      "2013",
+      "01",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "177408",
+      "2013",
+      "01",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4271",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18821",
+      "2013",
+      "01",
+      "ANDORRA",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "783541",
+      "2013",
+      "01",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "545492",
+      "2013",
+      "01",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3050",
+      "2013",
+      "01",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3250",
+      "2013",
+      "01",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "23269",
+      "2013",
+      "01",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4621",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3809",
+      "2013",
+      "01",
+      "RUSSIA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "251607",
+      "2013",
+      "01",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2988",
+      "2013",
+      "01",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1588421",
+      "2013",
+      "01",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9763",
+      "2013",
+      "01",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "38027",
+      "2013",
+      "01",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "141816",
+      "2013",
+      "01",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "25562171",
+      "2013",
+      "01",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2064310",
+      "2013",
+      "01",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "467830",
+      "2013",
+      "01",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2565",
+      "2013",
+      "01",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12261",
+      "2013",
+      "01",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1317002",
+      "2013",
+      "01",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "68698",
+      "2013",
+      "01",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "72172",
+      "2013",
+      "01",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "66824",
+      "2013",
+      "01",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "97726",
+      "2013",
+      "01",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2793",
+      "2013",
+      "01",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3031900",
+      "2013",
+      "01",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "481608",
+      "2013",
+      "01",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4607858",
+      "2013",
+      "01",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "513549",
+      "2013",
+      "01",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12807096",
+      "2013",
+      "01",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "444742",
+      "2013",
+      "01",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "118411",
+      "2013",
+      "01",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "563153",
+      "2013",
+      "01",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "35801",
+      "2013",
+      "01",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "585743",
+      "2013",
+      "01",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "295104",
+      "2013",
+      "01",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "522561",
+      "2013",
+      "01",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12341",
+      "2013",
+      "01",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "91646",
+      "2013",
+      "01",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6264",
+      "2013",
+      "01",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1549460",
+      "2013",
+      "01",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "36161193",
+      "2013",
+      "02",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "198692959",
+      "2013",
+      "02",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0001",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24495960",
+      "2013",
+      "02",
+      "OPEC",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "23481012",
+      "2013",
+      "02",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8267038",
+      "2013",
+      "02",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17800245",
+      "2013",
+      "02",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "132421371",
+      "2013",
+      "02",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "63386313",
+      "2013",
+      "02",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "52618352",
+      "2013",
+      "02",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "114621126",
+      "2013",
+      "02",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "22988791",
+      "2013",
+      "02",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "46037895",
+      "2013",
+      "02",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1166357",
+      "2013",
+      "02",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17315920",
+      "2013",
+      "02",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29257395",
+      "2013",
+      "02",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "36161193",
+      "2013",
+      "02",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6903798",
+      "2013",
+      "02",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7361124",
+      "2013",
+      "02",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2603919",
+      "2013",
+      "02",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "62908",
+      "2013",
+      "02",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "308149",
+      "2013",
+      "02",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6979820",
+      "2013",
+      "02",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "484325",
+      "2013",
+      "02",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2430",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "TURKS AND CAICOS ISLANDS",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17800245",
+      "2013",
+      "02",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "81857902",
+      "2013",
+      "02",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24495960",
+      "2013",
+      "02",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "445240",
+      "2013",
+      "02",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "152000",
+      "2013",
+      "02",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "166804",
+      "2013",
+      "02",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "599422",
+      "2013",
+      "02",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "107717328",
+      "2013",
+      "02",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "43726",
+      "2013",
+      "02",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "283551",
+      "2013",
+      "02",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "157205",
+      "2013",
+      "02",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19799892",
+      "2013",
+      "02",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "84346",
+      "2013",
+      "02",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4271",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11744",
+      "2013",
+      "02",
+      "ANDORRA",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1325700",
+      "2013",
+      "02",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "268041",
+      "2013",
+      "02",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7672",
+      "2013",
+      "02",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "140874",
+      "2013",
+      "02",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4621",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "RUSSIA",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7405",
+      "2013",
+      "02",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3925",
+      "2013",
+      "02",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "283911",
+      "2013",
+      "02",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7089",
+      "2013",
+      "02",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1062607",
+      "2013",
+      "02",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14238",
+      "2013",
+      "02",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2160",
+      "2013",
+      "02",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "37150",
+      "2013",
+      "02",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "23541236",
+      "2013",
+      "02",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2049828",
+      "2013",
+      "02",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "208671",
+      "2013",
+      "02",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11705",
+      "2013",
+      "02",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5670",
+      "2013",
+      "02",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "41604",
+      "2013",
+      "02",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "937824",
+      "2013",
+      "02",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "59796",
+      "2013",
+      "02",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "82045",
+      "2013",
+      "02",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "34231",
+      "2013",
+      "02",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10857",
+      "2013",
+      "02",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2378285",
+      "2013",
+      "02",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "322301",
+      "2013",
+      "02",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4213292",
+      "2013",
+      "02",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "701767",
+      "2013",
+      "02",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11057876",
+      "2013",
+      "02",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "408259",
+      "2013",
+      "02",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "74397",
+      "2013",
+      "02",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "482656",
+      "2013",
+      "02",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "108899",
+      "2013",
+      "02",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "432797",
+      "2013",
+      "02",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "199693",
+      "2013",
+      "02",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1043308",
+      "2013",
+      "02",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "44153",
+      "2013",
+      "02",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8748",
+      "2013",
+      "02",
+      "MAURITIUS",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "94827",
+      "2013",
+      "02",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1932425",
+      "2013",
+      "02",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "46325542",
+      "2013",
+      "03",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "151843946",
+      "2013",
+      "03",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0001",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13267019",
+      "2013",
+      "03",
+      "OPEC",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19514691",
+      "2013",
+      "03",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8600485",
+      "2013",
+      "03",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10699952",
+      "2013",
+      "03",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "77788248",
+      "2013",
+      "03",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "70091131",
+      "2013",
+      "03",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "61569082",
+      "2013",
+      "03",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "67088296",
+      "2013",
+      "03",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10415780",
+      "2013",
+      "03",
+      "CACM",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19063517",
+      "2013",
+      "03",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "57673456",
+      "2013",
+      "03",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1416452",
+      "2013",
+      "03",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "42164783",
+      "2013",
+      "03",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "46325542",
+      "2013",
+      "03",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4160759",
+      "2013",
+      "03",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3601008",
+      "2013",
+      "03",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "998451",
+      "2013",
+      "03",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "46881",
+      "2013",
+      "03",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "209604",
+      "2013",
+      "03",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5559836",
+      "2013",
+      "03",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19950",
+      "2013",
+      "03",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2430",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "TURKS AND CAICOS ISLANDS",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "284172",
+      "2013",
+      "03",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10719902",
+      "2013",
+      "03",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "47805992",
+      "2013",
+      "03",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13267019",
+      "2013",
+      "03",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1239730",
+      "2013",
+      "03",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "338888",
+      "2013",
+      "03",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "263908",
+      "2013",
+      "03",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12000",
+      "2013",
+      "03",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "62927537",
+      "2013",
+      "03",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "159679",
+      "2013",
+      "03",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "241566",
+      "2013",
+      "03",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "235699",
+      "2013",
+      "03",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16188142",
+      "2013",
+      "03",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "140310",
+      "2013",
+      "03",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4271",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6858",
+      "2013",
+      "03",
+      "ANDORRA",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "924731",
+      "2013",
+      "03",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "278725",
+      "2013",
+      "03",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4949",
+      "2013",
+      "03",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "44980",
+      "2013",
+      "03",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4621",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "RUSSIA",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "328001",
+      "2013",
+      "03",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10168",
+      "2013",
+      "03",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "957741",
+      "2013",
+      "03",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "125307",
+      "2013",
+      "03",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19646856",
+      "2013",
+      "03",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1238346",
+      "2013",
+      "03",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "258805",
+      "2013",
+      "03",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10990",
+      "2013",
+      "03",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16613",
+      "2013",
+      "03",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1104180",
+      "2013",
+      "03",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "64631",
+      "2013",
+      "03",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "70746",
+      "2013",
+      "03",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "53880",
+      "2013",
+      "03",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "119240",
+      "2013",
+      "03",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3775",
+      "2013",
+      "03",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1131210",
+      "2013",
+      "03",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2337145",
+      "2013",
+      "03",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "212993",
+      "2013",
+      "03",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3467342",
+      "2013",
+      "03",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10089896",
+      "2013",
+      "03",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "86568",
+      "2013",
+      "03",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1070926",
+      "2013",
+      "03",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "133228",
+      "2013",
+      "03",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1204154",
+      "2013",
+      "03",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "215769",
+      "2013",
+      "03",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "57464",
+      "2013",
+      "03",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "369805",
+      "2013",
+      "03",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "59556",
+      "2013",
+      "03",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "MAURITIUS",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2218",
+      "2013",
+      "03",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "133609",
+      "2013",
+      "03",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5070",
+      "2013",
+      "03",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "930059",
+      "2013",
+      "03",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "46537515",
+      "2013",
+      "04",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "187838084",
+      "2013",
+      "04",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0001",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19076731",
+      "2013",
+      "04",
+      "OPEC",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13658535",
+      "2013",
+      "04",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9096606",
+      "2013",
+      "04",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9463363",
+      "2013",
+      "04",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "119626452",
+      "2013",
+      "04",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "63651023",
+      "2013",
+      "04",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "56206459",
+      "2013",
+      "04",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "110163089",
+      "2013",
+      "04",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12961065",
+      "2013",
+      "04",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "59222151",
+      "2013",
+      "04",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1500528",
+      "2013",
+      "04",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9250377",
+      "2013",
+      "04",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "42603462",
+      "2013",
+      "04",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "46537515",
+      "2013",
+      "04",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3934053",
+      "2013",
+      "04",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3680410",
+      "2013",
+      "04",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "375652",
+      "2013",
+      "04",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "88640",
+      "2013",
+      "04",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "98130",
+      "2013",
+      "04",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5007545",
+      "2013",
+      "04",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2430",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "TURKS AND CAICOS ISLANDS",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19076731",
+      "2013",
+      "04",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "212986",
+      "2013",
+      "04",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9463363",
+      "2013",
+      "04",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "84439087",
+      "2013",
+      "04",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1366232",
+      "2013",
+      "04",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "152000",
+      "2013",
+      "04",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "924975",
+      "2013",
+      "04",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "270011",
+      "2013",
+      "04",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "106229036",
+      "2013",
+      "04",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "491980",
+      "2013",
+      "04",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "117465",
+      "2013",
+      "04",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "88208",
+      "2013",
+      "04",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10511470",
+      "2013",
+      "04",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "260522",
+      "2013",
+      "04",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4271",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "ANDORRA",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "660673",
+      "2013",
+      "04",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "637202",
+      "2013",
+      "04",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8345",
+      "2013",
+      "04",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "70505",
+      "2013",
+      "04",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4621",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "RUSSIA",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2766",
+      "2013",
+      "04",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "49277",
+      "2013",
+      "04",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17662",
+      "2013",
+      "04",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "730923",
+      "2013",
+      "04",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5128",
+      "2013",
+      "04",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4323",
+      "2013",
+      "04",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4852",
+      "2013",
+      "04",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "32670",
+      "2013",
+      "04",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13693971",
+      "2013",
+      "04",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "672709",
+      "2013",
+      "04",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "174020",
+      "2013",
+      "04",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14868",
+      "2013",
+      "04",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12729",
+      "2013",
+      "04",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1269628",
+      "2013",
+      "04",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27195",
+      "2013",
+      "04",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "120124",
+      "2013",
+      "04",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "53604",
+      "2013",
+      "04",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29977",
+      "2013",
+      "04",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2789036",
+      "2013",
+      "04",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "373427",
+      "2013",
+      "04",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4270071",
+      "2013",
+      "04",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "466266",
+      "2013",
+      "04",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10273654",
+      "2013",
+      "04",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "659998",
+      "2013",
+      "04",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "334103",
+      "2013",
+      "04",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "994101",
+      "2013",
+      "04",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "74813",
+      "2013",
+      "04",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2500",
+      "2013",
+      "04",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "60821",
+      "2013",
+      "04",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "15205",
+      "2013",
+      "04",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "292441",
+      "2013",
+      "04",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27706",
+      "2013",
+      "04",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "MAURITIUS",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "646444",
+      "2013",
+      "04",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "162268",
+      "2013",
+      "04",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10690",
+      "2013",
+      "04",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "60318701",
+      "2013",
+      "05",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "195351973",
+      "2013",
+      "05",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0001",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19292517",
+      "2013",
+      "05",
+      "OPEC",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14115120",
+      "2013",
+      "05",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10093203",
+      "2013",
+      "05",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10170512",
+      "2013",
+      "05",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "108646961",
+      "2013",
+      "05",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "81578960",
+      "2013",
+      "05",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "70015059",
+      "2013",
+      "05",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "98476449",
+      "2013",
+      "05",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13053990",
+      "2013",
+      "05",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "77236545",
+      "2013",
+      "05",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3141354",
+      "2013",
+      "05",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9923605",
+      "2013",
+      "05",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "55861589",
+      "2013",
+      "05",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "60318701",
+      "2013",
+      "05",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4457112",
+      "2013",
+      "05",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4534897",
+      "2013",
+      "05",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "148220",
+      "2013",
+      "05",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "44991",
+      "2013",
+      "05",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "357299",
+      "2013",
+      "05",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4838198",
+      "2013",
+      "05",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "51987",
+      "2013",
+      "05",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2430",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "TURKS AND CAICOS ISLANDS",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "246907",
+      "2013",
+      "05",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10222499",
+      "2013",
+      "05",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "70332003",
+      "2013",
+      "05",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19292517",
+      "2013",
+      "05",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "199048",
+      "2013",
+      "05",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2633116",
+      "2013",
+      "05",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2706",
+      "2013",
+      "05",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1325297",
+      "2013",
+      "05",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "234650",
+      "2013",
+      "05",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "94019337",
+      "2013",
+      "05",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "786503",
+      "2013",
+      "05",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "183853",
+      "2013",
+      "05",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11698141",
+      "2013",
+      "05",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "37017",
+      "2013",
+      "05",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4271",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "ANDORRA",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "440525",
+      "2013",
+      "05",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "253615",
+      "2013",
+      "05",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8138",
+      "2013",
+      "05",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3259",
+      "2013",
+      "05",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "65718",
+      "2013",
+      "05",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4621",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "RUSSIA",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "28473",
+      "2013",
+      "05",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "588081",
+      "2013",
+      "05",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14153470",
+      "2013",
+      "05",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "21797",
+      "2013",
+      "05",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "38350",
+      "2013",
+      "05",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2586765",
+      "2013",
+      "05",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "280282",
+      "2013",
+      "05",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16818",
+      "2013",
+      "05",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2824529",
+      "2013",
+      "05",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "41699",
+      "2013",
+      "05",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "158254",
+      "2013",
+      "05",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "60362",
+      "2013",
+      "05",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "43322",
+      "2013",
+      "05",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13188",
+      "2013",
+      "05",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1804673",
+      "2013",
+      "05",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "364717",
+      "2013",
+      "05",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6516",
+      "2013",
+      "05",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4790364",
+      "2013",
+      "05",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "521279",
+      "2013",
+      "05",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13512768",
+      "2013",
+      "05",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "631900",
+      "2013",
+      "05",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1698628",
+      "2013",
+      "05",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2330528",
+      "2013",
+      "05",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "36414",
+      "2013",
+      "05",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "83834",
+      "2013",
+      "05",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "504189",
+      "2013",
+      "05",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4830",
+      "2013",
+      "05",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2662",
+      "2013",
+      "05",
+      "MAURITIUS",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2569",
+      "2013",
+      "05",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "160172",
+      "2013",
+      "05",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "794670",
+      "2013",
+      "05",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27752137",
+      "2013",
+      "06",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "120140801",
+      "2013",
+      "06",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0001",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12681197",
+      "2013",
+      "06",
+      "OPEC",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9031403",
+      "2013",
+      "06",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10599423",
+      "2013",
+      "06",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9824693",
+      "2013",
+      "06",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "72862720",
+      "2013",
+      "06",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "42292788",
+      "2013",
+      "06",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "42673964",
+      "2013",
+      "06",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "34004125",
+      "2013",
+      "06",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "63038027",
+      "2013",
+      "06",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8644238",
+      "2013",
+      "06",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1998131",
+      "2013",
+      "06",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9629007",
+      "2013",
+      "06",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24982354",
+      "2013",
+      "06",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27752137",
+      "2013",
+      "06",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2769783",
+      "2013",
+      "06",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4686179",
+      "2013",
+      "06",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "695187",
+      "2013",
+      "06",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "43515",
+      "2013",
+      "06",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "276820",
+      "2013",
+      "06",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2430",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "TURKS AND CAICOS ISLANDS",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3927306",
+      "2013",
+      "06",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "195686",
+      "2013",
+      "06",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9824693",
+      "2013",
+      "06",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "44913798",
+      "2013",
+      "06",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12675219",
+      "2013",
+      "06",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1331508",
+      "2013",
+      "06",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1208149",
+      "2013",
+      "06",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "139570",
+      "2013",
+      "06",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "60268244",
+      "2013",
+      "06",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "122887",
+      "2013",
+      "06",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "101528",
+      "2013",
+      "06",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9632",
+      "2013",
+      "06",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7323713",
+      "2013",
+      "06",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "54212",
+      "2013",
+      "06",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4271",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "ANDORRA",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "108754",
+      "2013",
+      "06",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "673766",
+      "2013",
+      "06",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6240",
+      "2013",
+      "06",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3548",
+      "2013",
+      "06",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "35548",
+      "2013",
+      "06",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4621",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "RUSSIA",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13766",
+      "2013",
+      "06",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "454155",
+      "2013",
+      "06",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9078",
+      "2013",
+      "06",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4810",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2074",
+      "2013",
+      "06",
+      "ALBANIA",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "123654",
+      "2013",
+      "06",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9042555",
+      "2013",
+      "06",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "243001",
+      "2013",
+      "06",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5200",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5978",
+      "2013",
+      "06",
+      "UNITED ARAB EMIRATES",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "117088",
+      "2013",
+      "06",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12206",
+      "2013",
+      "06",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1738491",
+      "2013",
+      "06",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "44256",
+      "2013",
+      "06",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "75970",
+      "2013",
+      "06",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "62261",
+      "2013",
+      "06",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "74992",
+      "2013",
+      "06",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2161",
+      "2013",
+      "06",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2013616",
+      "2013",
+      "06",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "383506",
+      "2013",
+      "06",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4188671",
+      "2013",
+      "06",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "423757",
+      "2013",
+      "06",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9385954",
+      "2013",
+      "06",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1133995",
+      "2013",
+      "06",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2240494",
+      "2013",
+      "06",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3374489",
+      "2013",
+      "06",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19716",
+      "2013",
+      "06",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11760",
+      "2013",
+      "06",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "161858",
+      "2013",
+      "06",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29613",
+      "2013",
+      "06",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4733",
+      "2013",
+      "06",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "173867",
+      "2013",
+      "06",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19447",
+      "2013",
+      "06",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "MAURITIUS",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "71735",
+      "2013",
+      "06",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "492729",
+      "2013",
+      "06",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "21898562",
+      "2013",
+      "07",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "107577434",
+      "2013",
+      "07",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0001",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9520849",
+      "2013",
+      "07",
+      "OPEC",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11817604",
+      "2013",
+      "07",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8377845",
+      "2013",
+      "07",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11057765",
+      "2013",
+      "07",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "64490321",
+      "2013",
+      "07",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "39134462",
+      "2013",
+      "07",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "30816887",
+      "2013",
+      "07",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "53432556",
+      "2013",
+      "07",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10571615",
+      "2013",
+      "07",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2925795",
+      "2013",
+      "07",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "34343879",
+      "2013",
+      "07",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1532728",
+      "2013",
+      "07",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10826959",
+      "2013",
+      "07",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18972767",
+      "2013",
+      "07",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "21898562",
+      "2013",
+      "07",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5346354",
+      "2013",
+      "07",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1384004",
+      "2013",
+      "07",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "43212",
+      "2013",
+      "07",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "117765",
+      "2013",
+      "07",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3935624",
+      "2013",
+      "07",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2505",
+      "2013",
+      "07",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2430",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "TURKS AND CAICOS ISLANDS",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "230806",
+      "2013",
+      "07",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11060270",
+      "2013",
+      "07",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "38026655",
+      "2013",
+      "07",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9515449",
+      "2013",
+      "07",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1127769",
+      "2013",
+      "07",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4631",
+      "2013",
+      "07",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1583487",
+      "2013",
+      "07",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "248770",
+      "2013",
+      "07",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "50506761",
+      "2013",
+      "07",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3780",
+      "2013",
+      "07",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "250610",
+      "2013",
+      "07",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "833156",
+      "2013",
+      "07",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17379",
+      "2013",
+      "07",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8958729",
+      "2013",
+      "07",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "52170",
+      "2013",
+      "07",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4271",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "ANDORRA",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "130972",
+      "2013",
+      "07",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "969883",
+      "2013",
+      "07",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4375",
+      "2013",
+      "07",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8258",
+      "2013",
+      "07",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "75845",
+      "2013",
+      "07",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4621",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "RUSSIA",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "434224",
+      "2013",
+      "07",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4793",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9133",
+      "2013",
+      "07",
+      "BOSNIA AND HERZEGOVINA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6088",
+      "2013",
+      "07",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4810",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "ALBANIA",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14104",
+      "2013",
+      "07",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "64119",
+      "2013",
+      "07",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "47675",
+      "2013",
+      "07",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11880500",
+      "2013",
+      "07",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1595646",
+      "2013",
+      "07",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5170",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5400",
+      "2013",
+      "07",
+      "SAUDI ARABIA",
+      "1114"
+    ],
+    [
+      "5200",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "UNITED ARAB EMIRATES",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "232512",
+      "2013",
+      "07",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9488",
+      "2013",
+      "07",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1313064",
+      "2013",
+      "07",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "43152",
+      "2013",
+      "07",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "73432",
+      "2013",
+      "07",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "59163",
+      "2013",
+      "07",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "39813",
+      "2013",
+      "07",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4104",
+      "2013",
+      "07",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4094834",
+      "2013",
+      "07",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1836788",
+      "2013",
+      "07",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "251801",
+      "2013",
+      "07",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "777951",
+      "2013",
+      "07",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10337148",
+      "2013",
+      "07",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "741274",
+      "2013",
+      "07",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "498685",
+      "2013",
+      "07",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1239959",
+      "2013",
+      "07",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "261833",
+      "2013",
+      "07",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "38733",
+      "2013",
+      "07",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "200612",
+      "2013",
+      "07",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5009",
+      "2013",
+      "07",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "MAURITIUS",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "148047",
+      "2013",
+      "07",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "654234",
+      "2013",
+      "07",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27299177",
+      "2013",
+      "08",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "132670945",
+      "2013",
+      "08",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0001",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9293406",
+      "2013",
+      "08",
+      "OPEC",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "26181562",
+      "2013",
+      "08",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10044089",
+      "2013",
+      "08",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8243294",
+      "2013",
+      "08",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "64656983",
+      "2013",
+      "08",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "61495527",
+      "2013",
+      "08",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "50994078",
+      "2013",
+      "08",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "56413689",
+      "2013",
+      "08",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "23860771",
+      "2013",
+      "08",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "43104778",
+      "2013",
+      "08",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2945320",
+      "2013",
+      "08",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7989960",
+      "2013",
+      "08",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24820794",
+      "2013",
+      "08",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "320627",
+      "2013",
+      "08",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27299177",
+      "2013",
+      "08",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2478383",
+      "2013",
+      "08",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3531174",
+      "2013",
+      "08",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "159400",
+      "2013",
+      "08",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "70091",
+      "2013",
+      "08",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3908668",
+      "2013",
+      "08",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2430",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "TURKS AND CAICOS ISLANDS",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "253334",
+      "2013",
+      "08",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8243294",
+      "2013",
+      "08",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "40640545",
+      "2013",
+      "08",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9293406",
+      "2013",
+      "08",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "954533",
+      "2013",
+      "08",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "50000",
+      "2013",
+      "08",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2010361",
+      "2013",
+      "08",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "986461",
+      "2013",
+      "08",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "53935306",
+      "2013",
+      "08",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6332",
+      "2013",
+      "08",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7181",
+      "2013",
+      "08",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "69908",
+      "2013",
+      "08",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2188718",
+      "2013",
+      "08",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "21170104",
+      "2013",
+      "08",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "36399",
+      "2013",
+      "08",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4271",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "ANDORRA",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "631216",
+      "2013",
+      "08",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1518712",
+      "2013",
+      "08",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8342",
+      "2013",
+      "08",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8345",
+      "2013",
+      "08",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17410",
+      "2013",
+      "08",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4621",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "RUSSIA",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13529",
+      "2013",
+      "08",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "476137",
+      "2013",
+      "08",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4793",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "BOSNIA AND HERZEGOVINA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4810",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "ALBANIA",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10247",
+      "2013",
+      "08",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18982",
+      "2013",
+      "08",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5235",
+      "2013",
+      "08",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "26186797",
+      "2013",
+      "08",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3399129",
+      "2013",
+      "08",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5170",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "SAUDI ARABIA",
+      "1114"
+    ],
+    [
+      "5200",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "UNITED ARAB EMIRATES",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "180327",
+      "2013",
+      "08",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10409",
+      "2013",
+      "08",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2776307",
+      "2013",
+      "08",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "20311",
+      "2013",
+      "08",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "81142",
+      "2013",
+      "08",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "41497",
+      "2013",
+      "08",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "23726",
+      "2013",
+      "08",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2337",
+      "2013",
+      "08",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1687158",
+      "2013",
+      "08",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "347952",
+      "2013",
+      "08",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4450",
+      "2013",
+      "08",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5574487",
+      "2013",
+      "08",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "917313",
+      "2013",
+      "08",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1364027",
+      "2013",
+      "08",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "15066545",
+      "2013",
+      "08",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "922723",
+      "2013",
+      "08",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "441304",
+      "2013",
+      "08",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2880",
+      "2013",
+      "08",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "152167",
+      "2013",
+      "08",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7737",
+      "2013",
+      "08",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "242136",
+      "2013",
+      "08",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8380",
+      "2013",
+      "08",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "MAURITIUS",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "162499",
+      "2013",
+      "08",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "575799",
+      "2013",
+      "08",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "64140763",
+      "2013",
+      "09",
+      "OECD",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "136418428",
+      "2013",
+      "09",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0001",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10041780",
+      "2013",
+      "09",
+      "OPEC",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "28295847",
+      "2013",
+      "09",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8349653",
+      "2013",
+      "09",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8862570",
+      "2013",
+      "09",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29860522",
+      "2013",
+      "09",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "67074107",
+      "2013",
+      "09",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "55769834",
+      "2013",
+      "09",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "58211537",
+      "2013",
+      "09",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27621280",
+      "2013",
+      "09",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "41914115",
+      "2013",
+      "09",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "920190",
+      "2013",
+      "09",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8529577",
+      "2013",
+      "09",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27456153",
+      "2013",
+      "09",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29860522",
+      "2013",
+      "09",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2404369",
+      "2013",
+      "09",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4145560",
+      "2013",
+      "09",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "93209",
+      "2013",
+      "09",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "174440",
+      "2013",
+      "09",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "20758",
+      "2013",
+      "09",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4095610",
+      "2013",
+      "09",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2430",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "TURKS AND CAICOS ISLANDS",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "332993",
+      "2013",
+      "09",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8862570",
+      "2013",
+      "09",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "41277348",
+      "2013",
+      "09",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10041780",
+      "2013",
+      "09",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1128222",
+      "2013",
+      "09",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "146000",
+      "2013",
+      "09",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1832717",
+      "2013",
+      "09",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1381101",
+      "2013",
+      "09",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "55807168",
+      "2013",
+      "09",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "131735",
+      "2013",
+      "09",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "478232",
+      "2013",
+      "09",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19291",
+      "2013",
+      "09",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "25585529",
+      "2013",
+      "09",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "51017",
+      "2013",
+      "09",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4271",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "ANDORRA",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "264393",
+      "2013",
+      "09",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "973381",
+      "2013",
+      "09",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8441",
+      "2013",
+      "09",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2029",
+      "2013",
+      "09",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "46162",
+      "2013",
+      "09",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4621",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "RUSSIA",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14221",
+      "2013",
+      "09",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "705007",
+      "2013",
+      "09",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3980",
+      "2013",
+      "09",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4793",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "BOSNIA AND HERZEGOVINA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4810",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "ALBANIA",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7062",
+      "2013",
+      "09",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7396",
+      "2013",
+      "09",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "41105",
+      "2013",
+      "09",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "28338981",
+      "2013",
+      "09",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2504784",
+      "2013",
+      "09",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5170",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "SAUDI ARABIA",
+      "1114"
+    ],
+    [
+      "5200",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "UNITED ARAB EMIRATES",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "275729",
+      "2013",
+      "09",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2500",
+      "2013",
+      "09",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "722799",
+      "2013",
+      "09",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "20202",
+      "2013",
+      "09",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "95874",
+      "2013",
+      "09",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "52240",
+      "2013",
+      "09",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19088",
+      "2013",
+      "09",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9987",
+      "2013",
+      "09",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1880699",
+      "2013",
+      "09",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "425371",
+      "2013",
+      "09",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4669568",
+      "2013",
+      "09",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "399558",
+      "2013",
+      "09",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11078399",
+      "2013",
+      "09",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "239216",
+      "2013",
+      "09",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "558052",
+      "2013",
+      "09",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "797268",
+      "2013",
+      "09",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "57422",
+      "2013",
+      "09",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3260",
+      "2013",
+      "09",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14282",
+      "2013",
+      "09",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "138235",
+      "2013",
+      "09",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "372355",
+      "2013",
+      "09",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "MAURITIUS",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2342",
+      "2013",
+      "09",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1082006",
+      "2013",
+      "09",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3618",
+      "2013",
+      "09",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1673520",
+      "2013",
+      "09",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "37267050",
+      "2013",
+      "10",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "155619574",
+      "2013",
+      "10",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0001",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11657778",
+      "2013",
+      "10",
+      "OPEC",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "30067364",
+      "2013",
+      "10",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10058589",
+      "2013",
+      "10",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7409816",
+      "2013",
+      "10",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "75476206",
+      "2013",
+      "10",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "74477019",
+      "2013",
+      "10",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "65005602",
+      "2013",
+      "10",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "68066390",
+      "2013",
+      "10",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29523399",
+      "2013",
+      "10",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "52884534",
+      "2013",
+      "10",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1535227",
+      "2013",
+      "10",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7040770",
+      "2013",
+      "10",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "34841500",
+      "2013",
+      "10",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "37267050",
+      "2013",
+      "10",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2425550",
+      "2013",
+      "10",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "81017",
+      "2013",
+      "10",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2520623",
+      "2013",
+      "10",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "86224",
+      "2013",
+      "10",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "47186",
+      "2013",
+      "10",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4305720",
+      "2013",
+      "10",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2430",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "TURKS AND CAICOS ISLANDS",
+      "1114"
+    ],
+    [
+      "2440",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17100",
+      "2013",
+      "10",
+      "CAYMAN ISLANDS",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "369046",
+      "2013",
+      "10",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7426916",
+      "2013",
+      "10",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "48875914",
+      "2013",
+      "10",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11657778",
+      "2013",
+      "10",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1070090",
+      "2013",
+      "10",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "67850",
+      "2013",
+      "10",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3132119",
+      "2013",
+      "10",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "348669",
+      "2013",
+      "10",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "132620",
+      "2013",
+      "10",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "355800",
+      "2013",
+      "10",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "65640840",
+      "2013",
+      "10",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7990",
+      "2013",
+      "10",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "146176",
+      "2013",
+      "10",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "68693",
+      "2013",
+      "10",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "139280",
+      "2013",
+      "10",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2936",
+      "2013",
+      "10",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "25156330",
+      "2013",
+      "10",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4271",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "ANDORRA",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "959384",
+      "2013",
+      "10",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1357871",
+      "2013",
+      "10",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9543",
+      "2013",
+      "10",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16165",
+      "2013",
+      "10",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13231",
+      "2013",
+      "10",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4621",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "RUSSIA",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1968642",
+      "2013",
+      "10",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "137636",
+      "2013",
+      "10",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4793",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "BOSNIA AND HERZEGOVINA",
+      "1114"
+    ],
+    [
+      "4810",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "ALBANIA",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "78676",
+      "2013",
+      "10",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4811",
+      "2013",
+      "10",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "245300",
+      "2013",
+      "10",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "30312664",
+      "2013",
+      "10",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2302127",
+      "2013",
+      "10",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5170",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "SAUDI ARABIA",
+      "1114"
+    ],
+    [
+      "5200",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "UNITED ARAB EMIRATES",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "289616",
+      "2013",
+      "10",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10990",
+      "2013",
+      "10",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1263244",
+      "2013",
+      "10",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "93442",
+      "2013",
+      "10",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "78342",
+      "2013",
+      "10",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "52480",
+      "2013",
+      "10",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "44181",
+      "2013",
+      "10",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3538",
+      "2013",
+      "10",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3386476",
+      "2013",
+      "10",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "406902",
+      "2013",
+      "10",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4809390",
+      "2013",
+      "10",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "402252",
+      "2013",
+      "10",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13142980",
+      "2013",
+      "10",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "273533",
+      "2013",
+      "10",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "601495",
+      "2013",
+      "10",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "875028",
+      "2013",
+      "10",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "75930",
+      "2013",
+      "10",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "82000",
+      "2013",
+      "10",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "125220",
+      "2013",
+      "10",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9285",
+      "2013",
+      "10",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "343869",
+      "2013",
+      "10",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "34714",
+      "2013",
+      "10",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "MAURITIUS",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "275257",
+      "2013",
+      "10",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7821",
+      "2013",
+      "10",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "954096",
+      "2013",
+      "10",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "53031227",
+      "2013",
+      "11",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "158119180",
+      "2013",
+      "11",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0001",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11956321",
+      "2013",
+      "11",
+      "OPEC",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "20105387",
+      "2013",
+      "11",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9829143",
+      "2013",
+      "11",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7686748",
+      "2013",
+      "11",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "73437661",
+      "2013",
+      "11",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "77949501",
+      "2013",
+      "11",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "69979037",
+      "2013",
+      "11",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "65747663",
+      "2013",
+      "11",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19669821",
+      "2013",
+      "11",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "65671780",
+      "2013",
+      "11",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1277812",
+      "2013",
+      "11",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7293991",
+      "2013",
+      "11",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "49991847",
+      "2013",
+      "11",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "53031227",
+      "2013",
+      "11",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3039380",
+      "2013",
+      "11",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2565509",
+      "2013",
+      "11",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "218669",
+      "2013",
+      "11",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "38300",
+      "2013",
+      "11",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "79634",
+      "2013",
+      "11",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4391879",
+      "2013",
+      "11",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3250",
+      "2013",
+      "11",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4709",
+      "2013",
+      "11",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2430",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "TURKS AND CAICOS ISLANDS",
+      "1114"
+    ],
+    [
+      "2440",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "CAYMAN ISLANDS",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11956321",
+      "2013",
+      "11",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "392757",
+      "2013",
+      "11",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7694707",
+      "2013",
+      "11",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "47805160",
+      "2013",
+      "11",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "334002",
+      "2013",
+      "11",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1377993",
+      "2013",
+      "11",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "612710",
+      "2013",
+      "11",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "622097",
+      "2013",
+      "11",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "62708283",
+      "2013",
+      "11",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "166373",
+      "2013",
+      "11",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24352",
+      "2013",
+      "11",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2460",
+      "2013",
+      "11",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16003288",
+      "2013",
+      "11",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "35909",
+      "2013",
+      "11",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4271",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "ANDORRA",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "243359",
+      "2013",
+      "11",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "946621",
+      "2013",
+      "11",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8335",
+      "2013",
+      "11",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29717",
+      "2013",
+      "11",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4621",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "RUSSIA",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5505",
+      "2013",
+      "11",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "28634",
+      "2013",
+      "11",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2401215",
+      "2013",
+      "11",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "181987",
+      "2013",
+      "11",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4793",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "BOSNIA AND HERZEGOVINA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4803",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6731",
+      "2013",
+      "11",
+      "KOSOVO",
+      "1114"
+    ],
+    [
+      "4810",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "ALBANIA",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "20183873",
+      "2013",
+      "11",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "28439",
+      "2013",
+      "11",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4698",
+      "2013",
+      "11",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "66250",
+      "2013",
+      "11",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2281514",
+      "2013",
+      "11",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5170",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "SAUDI ARABIA",
+      "1114"
+    ],
+    [
+      "5200",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "UNITED ARAB EMIRATES",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "231146",
+      "2013",
+      "11",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19541",
+      "2013",
+      "11",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1002449",
+      "2013",
+      "11",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "96966",
+      "2013",
+      "11",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "90923",
+      "2013",
+      "11",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "46280",
+      "2013",
+      "11",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "41194",
+      "2013",
+      "11",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2262299",
+      "2013",
+      "11",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "345533",
+      "2013",
+      "11",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6086193",
+      "2013",
+      "11",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "393011",
+      "2013",
+      "11",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12897049",
+      "2013",
+      "11",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "313840",
+      "2013",
+      "11",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "249870",
+      "2013",
+      "11",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "563710",
+      "2013",
+      "11",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "93026",
+      "2013",
+      "11",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2750",
+      "2013",
+      "11",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29484",
+      "2013",
+      "11",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "196899",
+      "2013",
+      "11",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24528",
+      "2013",
+      "11",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "373767",
+      "2013",
+      "11",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "MAURITIUS",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "317777",
+      "2013",
+      "11",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2100",
+      "2013",
+      "11",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1040331",
+      "2013",
+      "11",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "31470320",
+      "2013",
+      "12",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "138155848",
+      "2013",
+      "12",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0001",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11444333",
+      "2013",
+      "12",
+      "OPEC",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24267781",
+      "2013",
+      "12",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11159680",
+      "2013",
+      "12",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10425487",
+      "2013",
+      "12",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "70127850",
+      "2013",
+      "12",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "60558942",
+      "2013",
+      "12",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "51781040",
+      "2013",
+      "12",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "59702363",
+      "2013",
+      "12",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "23467227",
+      "2013",
+      "12",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "44555301",
+      "2013",
+      "12",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1062868",
+      "2013",
+      "12",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10140359",
+      "2013",
+      "12",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27480312",
+      "2013",
+      "12",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "31470320",
+      "2013",
+      "12",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3990008",
+      "2013",
+      "12",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3277902",
+      "2013",
+      "12",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1202968",
+      "2013",
+      "12",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "36714",
+      "2013",
+      "12",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "346207",
+      "2013",
+      "12",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5276568",
+      "2013",
+      "12",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2430",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "TURKS AND CAICOS ISLANDS",
+      "1114"
+    ],
+    [
+      "2440",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "CAYMAN ISLANDS",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "285128",
+      "2013",
+      "12",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10425487",
+      "2013",
+      "12",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "42106239",
+      "2013",
+      "12",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11444333",
+      "2013",
+      "12",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "215664",
+      "2013",
+      "12",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "292365",
+      "2013",
+      "12",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "803521",
+      "2013",
+      "12",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "357808",
+      "2013",
+      "12",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "407475",
+      "2013",
+      "12",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "84950",
+      "2013",
+      "12",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "55712355",
+      "2013",
+      "12",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "355571",
+      "2013",
+      "12",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "40583",
+      "2013",
+      "12",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9343",
+      "2013",
+      "12",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19388912",
+      "2013",
+      "12",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "90477",
+      "2013",
+      "12",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4271",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "ANDORRA",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "722628",
+      "2013",
+      "12",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "528314",
+      "2013",
+      "12",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6240",
+      "2013",
+      "12",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4904",
+      "2013",
+      "12",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "218516",
+      "2013",
+      "12",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4621",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "RUSSIA",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3627",
+      "2013",
+      "12",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "355845",
+      "2013",
+      "12",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2365468",
+      "2013",
+      "12",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "107610",
+      "2013",
+      "12",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "73370",
+      "2013",
+      "12",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4793",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "BOSNIA AND HERZEGOVINA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4803",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "34095",
+      "2013",
+      "12",
+      "KOSOVO",
+      "1114"
+    ],
+    [
+      "4810",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "ALBANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "149900",
+      "2013",
+      "12",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24455403",
+      "2013",
+      "12",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2268654",
+      "2013",
+      "12",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5791",
+      "2013",
+      "12",
+      "JORDAN",
+      "1114"
+    ],
+    [
+      "5170",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "SAUDI ARABIA",
+      "1114"
+    ],
+    [
+      "5200",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "UNITED ARAB EMIRATES",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "372485",
+      "2013",
+      "12",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19038",
+      "2013",
+      "12",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "829086",
+      "2013",
+      "12",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "77030",
+      "2013",
+      "12",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "69167",
+      "2013",
+      "12",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "46551",
+      "2013",
+      "12",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "35219",
+      "2013",
+      "12",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5815",
+      "2013",
+      "12",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3228852",
+      "2013",
+      "12",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "736644",
+      "2013",
+      "12",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6711",
+      "2013",
+      "12",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5987619",
+      "2013",
+      "12",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "684954",
+      "2013",
+      "12",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14373616",
+      "2013",
+      "12",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "233928",
+      "2013",
+      "12",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "124220",
+      "2013",
+      "12",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "358148",
+      "2013",
+      "12",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "80133",
+      "2013",
+      "12",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "23520",
+      "2013",
+      "12",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7480",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13157",
+      "2013",
+      "12",
+      "COTE D'IVOIRE",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "415812",
+      "2013",
+      "12",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "158149",
+      "2013",
+      "12",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "459445",
+      "2013",
+      "12",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "21197",
+      "2013",
+      "12",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "MAURITIUS",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "189106",
+      "2013",
+      "12",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1360519",
+      "2013",
+      "12",
+      "AFRICA",
+      "1114"
+    ]
+  ]
+}

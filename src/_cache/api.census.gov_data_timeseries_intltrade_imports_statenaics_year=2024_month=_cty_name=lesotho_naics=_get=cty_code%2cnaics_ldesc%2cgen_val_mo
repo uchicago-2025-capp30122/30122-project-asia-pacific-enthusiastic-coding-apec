@@ -1,0 +1,2441 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:32:41 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4ec371f9b747df6697f5fc8a05e18c959ba992264eb2dc895a40d844839596db0fad5bd14cc05440bd7e5a410b4acef10; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "7990",
+      "PAPER",
+      "315",
+      "2024",
+      "12",
+      "LESOTHO",
+      "322"
+    ],
+    [
+      "7990",
+      "CONVERTED PAPER PRODUCTS",
+      "315",
+      "2024",
+      "12",
+      "LESOTHO",
+      "3222"
+    ],
+    [
+      "7990",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "6304",
+      "2024",
+      "08",
+      "LESOTHO",
+      "3231"
+    ],
+    [
+      "7990",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "09",
+      "LESOTHO",
+      "3231"
+    ],
+    [
+      "7990",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "10",
+      "LESOTHO",
+      "3231"
+    ],
+    [
+      "7990",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "3231"
+    ],
+    [
+      "7990",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "12",
+      "LESOTHO",
+      "3231"
+    ],
+    [
+      "7990",
+      "CHEMICALS",
+      "33415",
+      "2024",
+      "10",
+      "LESOTHO",
+      "325"
+    ],
+    [
+      "7990",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "325"
+    ],
+    [
+      "7990",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "LESOTHO",
+      "325"
+    ],
+    [
+      "7990",
+      "PHARMACEUTICALS AND MEDICINES",
+      "33415",
+      "2024",
+      "10",
+      "LESOTHO",
+      "3254"
+    ],
+    [
+      "7990",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "3254"
+    ],
+    [
+      "7990",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "12",
+      "LESOTHO",
+      "3254"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 3",
+      "82822",
+      "2024",
+      "01",
+      "LESOTHO",
+      "33"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 3",
+      "16693444",
+      "2024",
+      "02",
+      "LESOTHO",
+      "33"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 3",
+      "1742452",
+      "2024",
+      "03",
+      "LESOTHO",
+      "33"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 3",
+      "6092962",
+      "2024",
+      "04",
+      "LESOTHO",
+      "33"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 3",
+      "12050337",
+      "2024",
+      "05",
+      "LESOTHO",
+      "33"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 3",
+      "2098937",
+      "2024",
+      "06",
+      "LESOTHO",
+      "33"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 3",
+      "3880547",
+      "2024",
+      "07",
+      "LESOTHO",
+      "33"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 3",
+      "83938",
+      "2024",
+      "08",
+      "LESOTHO",
+      "33"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 3",
+      "174776",
+      "2024",
+      "09",
+      "LESOTHO",
+      "33"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 3",
+      "4248639",
+      "2024",
+      "10",
+      "LESOTHO",
+      "33"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 3",
+      "18063",
+      "2024",
+      "11",
+      "LESOTHO",
+      "33"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 3",
+      "36775099",
+      "2024",
+      "12",
+      "LESOTHO",
+      "33"
+    ],
+    [
+      "7990",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "13285726",
+      "2024",
+      "01",
+      "LESOTHO",
+      "-"
+    ],
+    [
+      "7990",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "29584360",
+      "2024",
+      "02",
+      "LESOTHO",
+      "-"
+    ],
+    [
+      "7990",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "12014852",
+      "2024",
+      "03",
+      "LESOTHO",
+      "-"
+    ],
+    [
+      "7990",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "22555821",
+      "2024",
+      "04",
+      "LESOTHO",
+      "-"
+    ],
+    [
+      "7990",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "21985105",
+      "2024",
+      "05",
+      "LESOTHO",
+      "-"
+    ],
+    [
+      "7990",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "15477925",
+      "2024",
+      "06",
+      "LESOTHO",
+      "-"
+    ],
+    [
+      "7990",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "19712072",
+      "2024",
+      "07",
+      "LESOTHO",
+      "-"
+    ],
+    [
+      "7990",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "10159854",
+      "2024",
+      "08",
+      "LESOTHO",
+      "-"
+    ],
+    [
+      "7990",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "17084032",
+      "2024",
+      "09",
+      "LESOTHO",
+      "-"
+    ],
+    [
+      "7990",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "14838525",
+      "2024",
+      "10",
+      "LESOTHO",
+      "-"
+    ],
+    [
+      "7990",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "10821101",
+      "2024",
+      "11",
+      "LESOTHO",
+      "-"
+    ],
+    [
+      "7990",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "49738312",
+      "2024",
+      "12",
+      "LESOTHO",
+      "-"
+    ],
+    [
+      "7990",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "211896",
+      "2024",
+      "08",
+      "LESOTHO",
+      "11"
+    ],
+    [
+      "7990",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "201105",
+      "2024",
+      "09",
+      "LESOTHO",
+      "11"
+    ],
+    [
+      "7990",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "LESOTHO",
+      "11"
+    ],
+    [
+      "7990",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "11"
+    ],
+    [
+      "7990",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "379638",
+      "2024",
+      "12",
+      "LESOTHO",
+      "11"
+    ],
+    [
+      "7990",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "211896",
+      "2024",
+      "08",
+      "LESOTHO",
+      "1141"
+    ],
+    [
+      "7990",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "201105",
+      "2024",
+      "09",
+      "LESOTHO",
+      "1141"
+    ],
+    [
+      "7990",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "LESOTHO",
+      "1141"
+    ],
+    [
+      "7990",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "1141"
+    ],
+    [
+      "7990",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "379638",
+      "2024",
+      "12",
+      "LESOTHO",
+      "1141"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART1",
+      "13182699",
+      "2024",
+      "01",
+      "LESOTHO",
+      "31"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART1",
+      "12870739",
+      "2024",
+      "02",
+      "LESOTHO",
+      "31"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART1",
+      "10223806",
+      "2024",
+      "03",
+      "LESOTHO",
+      "31"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART1",
+      "16433733",
+      "2024",
+      "04",
+      "LESOTHO",
+      "31"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART1",
+      "9904069",
+      "2024",
+      "05",
+      "LESOTHO",
+      "31"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART1",
+      "13346771",
+      "2024",
+      "06",
+      "LESOTHO",
+      "31"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART1",
+      "15801981",
+      "2024",
+      "07",
+      "LESOTHO",
+      "31"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART1",
+      "9820177",
+      "2024",
+      "08",
+      "LESOTHO",
+      "31"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART1",
+      "16540112",
+      "2024",
+      "09",
+      "LESOTHO",
+      "31"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART1",
+      "9995320",
+      "2024",
+      "10",
+      "LESOTHO",
+      "31"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART1",
+      "10779815",
+      "2024",
+      "11",
+      "LESOTHO",
+      "31"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART1",
+      "12549125",
+      "2024",
+      "12",
+      "LESOTHO",
+      "31"
+    ],
+    [
+      "7990",
+      "MANUFACTURED GOODS",
+      "13265521",
+      "2024",
+      "01",
+      "LESOTHO",
+      "31-33"
+    ],
+    [
+      "7990",
+      "MANUFACTURED GOODS",
+      "29564183",
+      "2024",
+      "02",
+      "LESOTHO",
+      "31-33"
+    ],
+    [
+      "7990",
+      "MANUFACTURED GOODS",
+      "11966258",
+      "2024",
+      "03",
+      "LESOTHO",
+      "31-33"
+    ],
+    [
+      "7990",
+      "MANUFACTURED GOODS",
+      "22526695",
+      "2024",
+      "04",
+      "LESOTHO",
+      "31-33"
+    ],
+    [
+      "7990",
+      "MANUFACTURED GOODS",
+      "21954406",
+      "2024",
+      "05",
+      "LESOTHO",
+      "31-33"
+    ],
+    [
+      "7990",
+      "MANUFACTURED GOODS",
+      "15445708",
+      "2024",
+      "06",
+      "LESOTHO",
+      "31-33"
+    ],
+    [
+      "7990",
+      "MANUFACTURED GOODS",
+      "19682528",
+      "2024",
+      "07",
+      "LESOTHO",
+      "31-33"
+    ],
+    [
+      "7990",
+      "MANUFACTURED GOODS",
+      "9910419",
+      "2024",
+      "08",
+      "LESOTHO",
+      "31-33"
+    ],
+    [
+      "7990",
+      "MANUFACTURED GOODS",
+      "16714888",
+      "2024",
+      "09",
+      "LESOTHO",
+      "31-33"
+    ],
+    [
+      "7990",
+      "MANUFACTURED GOODS",
+      "14277374",
+      "2024",
+      "10",
+      "LESOTHO",
+      "31-33"
+    ],
+    [
+      "7990",
+      "MANUFACTURED GOODS",
+      "10797878",
+      "2024",
+      "11",
+      "LESOTHO",
+      "31-33"
+    ],
+    [
+      "7990",
+      "MANUFACTURED GOODS",
+      "49324539",
+      "2024",
+      "12",
+      "LESOTHO",
+      "31-33"
+    ],
+    [
+      "7990",
+      "APPAREL AND ACCESSORIES",
+      "13182699",
+      "2024",
+      "01",
+      "LESOTHO",
+      "315"
+    ],
+    [
+      "7990",
+      "APPAREL AND ACCESSORIES",
+      "12870739",
+      "2024",
+      "02",
+      "LESOTHO",
+      "315"
+    ],
+    [
+      "7990",
+      "APPAREL AND ACCESSORIES",
+      "10223806",
+      "2024",
+      "03",
+      "LESOTHO",
+      "315"
+    ],
+    [
+      "7990",
+      "APPAREL AND ACCESSORIES",
+      "16433733",
+      "2024",
+      "04",
+      "LESOTHO",
+      "315"
+    ],
+    [
+      "7990",
+      "APPAREL AND ACCESSORIES",
+      "9904069",
+      "2024",
+      "05",
+      "LESOTHO",
+      "315"
+    ],
+    [
+      "7990",
+      "APPAREL AND ACCESSORIES",
+      "13346771",
+      "2024",
+      "06",
+      "LESOTHO",
+      "315"
+    ],
+    [
+      "7990",
+      "APPAREL AND ACCESSORIES",
+      "15801981",
+      "2024",
+      "07",
+      "LESOTHO",
+      "315"
+    ],
+    [
+      "7990",
+      "APPAREL AND ACCESSORIES",
+      "9820177",
+      "2024",
+      "08",
+      "LESOTHO",
+      "315"
+    ],
+    [
+      "7990",
+      "APPAREL AND ACCESSORIES",
+      "16540112",
+      "2024",
+      "09",
+      "LESOTHO",
+      "315"
+    ],
+    [
+      "7990",
+      "APPAREL AND ACCESSORIES",
+      "9995320",
+      "2024",
+      "10",
+      "LESOTHO",
+      "315"
+    ],
+    [
+      "7990",
+      "APPAREL AND ACCESSORIES",
+      "10779815",
+      "2024",
+      "11",
+      "LESOTHO",
+      "315"
+    ],
+    [
+      "7990",
+      "APPAREL AND ACCESSORIES",
+      "12549125",
+      "2024",
+      "12",
+      "LESOTHO",
+      "315"
+    ],
+    [
+      "7990",
+      "KNIT APPAREL",
+      "683",
+      "2024",
+      "01",
+      "LESOTHO",
+      "3151"
+    ],
+    [
+      "7990",
+      "KNIT APPAREL",
+      "0",
+      "2024",
+      "02",
+      "LESOTHO",
+      "3151"
+    ],
+    [
+      "7990",
+      "KNIT APPAREL",
+      "0",
+      "2024",
+      "03",
+      "LESOTHO",
+      "3151"
+    ],
+    [
+      "7990",
+      "KNIT APPAREL",
+      "0",
+      "2024",
+      "04",
+      "LESOTHO",
+      "3151"
+    ],
+    [
+      "7990",
+      "KNIT APPAREL",
+      "1071",
+      "2024",
+      "05",
+      "LESOTHO",
+      "3151"
+    ],
+    [
+      "7990",
+      "KNIT APPAREL",
+      "389",
+      "2024",
+      "06",
+      "LESOTHO",
+      "3151"
+    ],
+    [
+      "7990",
+      "KNIT APPAREL",
+      "18785",
+      "2024",
+      "07",
+      "LESOTHO",
+      "3151"
+    ],
+    [
+      "7990",
+      "KNIT APPAREL",
+      "0",
+      "2024",
+      "08",
+      "LESOTHO",
+      "3151"
+    ],
+    [
+      "7990",
+      "KNIT APPAREL",
+      "10304",
+      "2024",
+      "09",
+      "LESOTHO",
+      "3151"
+    ],
+    [
+      "7990",
+      "KNIT APPAREL",
+      "34003",
+      "2024",
+      "10",
+      "LESOTHO",
+      "3151"
+    ],
+    [
+      "7990",
+      "KNIT APPAREL",
+      "15665",
+      "2024",
+      "11",
+      "LESOTHO",
+      "3151"
+    ],
+    [
+      "7990",
+      "KNIT APPAREL",
+      "7806",
+      "2024",
+      "12",
+      "LESOTHO",
+      "3151"
+    ],
+    [
+      "7990",
+      "APPAREL ACCESSORIES",
+      "2400",
+      "2024",
+      "12",
+      "LESOTHO",
+      "3159"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 2",
+      "6304",
+      "2024",
+      "08",
+      "LESOTHO",
+      "32"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "09",
+      "LESOTHO",
+      "32"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 2",
+      "33415",
+      "2024",
+      "10",
+      "LESOTHO",
+      "32"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "32"
+    ],
+    [
+      "7990",
+      "MANUFACTURING, PART 2",
+      "315",
+      "2024",
+      "12",
+      "LESOTHO",
+      "32"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT",
+      "82822",
+      "2024",
+      "01",
+      "LESOTHO",
+      "3353"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT",
+      "69452",
+      "2024",
+      "02",
+      "LESOTHO",
+      "3353"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT",
+      "93966",
+      "2024",
+      "03",
+      "LESOTHO",
+      "3353"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT",
+      "91408",
+      "2024",
+      "04",
+      "LESOTHO",
+      "3353"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT",
+      "70430",
+      "2024",
+      "05",
+      "LESOTHO",
+      "3353"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT",
+      "93559",
+      "2024",
+      "06",
+      "LESOTHO",
+      "3353"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT",
+      "95289",
+      "2024",
+      "07",
+      "LESOTHO",
+      "3353"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT",
+      "69786",
+      "2024",
+      "08",
+      "LESOTHO",
+      "3353"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT",
+      "154788",
+      "2024",
+      "09",
+      "LESOTHO",
+      "3353"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT",
+      "92044",
+      "2024",
+      "10",
+      "LESOTHO",
+      "3353"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT",
+      "18063",
+      "2024",
+      "11",
+      "LESOTHO",
+      "3353"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT",
+      "84684",
+      "2024",
+      "12",
+      "LESOTHO",
+      "3353"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2800",
+      "2024",
+      "06",
+      "LESOTHO",
+      "93"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "LESOTHO",
+      "93"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "LESOTHO",
+      "93"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "LESOTHO",
+      "93"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "LESOTHO",
+      "93"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "93"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "LESOTHO",
+      "93"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2800",
+      "2024",
+      "06",
+      "LESOTHO",
+      "930"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "LESOTHO",
+      "930"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "LESOTHO",
+      "930"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "LESOTHO",
+      "930"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "LESOTHO",
+      "930"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "930"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "LESOTHO",
+      "930"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2800",
+      "2024",
+      "06",
+      "LESOTHO",
+      "9300"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "LESOTHO",
+      "9300"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "LESOTHO",
+      "9300"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "LESOTHO",
+      "9300"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "LESOTHO",
+      "9300"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "9300"
+    ],
+    [
+      "7990",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "LESOTHO",
+      "9300"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3241",
+      "2024",
+      "02",
+      "LESOTHO",
+      "980"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "19893",
+      "2024",
+      "03",
+      "LESOTHO",
+      "980"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "04",
+      "LESOTHO",
+      "980"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "2025",
+      "2024",
+      "05",
+      "LESOTHO",
+      "980"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "5933",
+      "2024",
+      "06",
+      "LESOTHO",
+      "980"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "8027",
+      "2024",
+      "07",
+      "LESOTHO",
+      "980"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "2094",
+      "2024",
+      "08",
+      "LESOTHO",
+      "980"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "142567",
+      "2024",
+      "09",
+      "LESOTHO",
+      "980"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "527514",
+      "2024",
+      "10",
+      "LESOTHO",
+      "980"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "2443",
+      "2024",
+      "11",
+      "LESOTHO",
+      "980"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "6092",
+      "2024",
+      "12",
+      "LESOTHO",
+      "980"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "20205",
+      "2024",
+      "01",
+      "LESOTHO",
+      "990"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "16936",
+      "2024",
+      "02",
+      "LESOTHO",
+      "990"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28701",
+      "2024",
+      "03",
+      "LESOTHO",
+      "990"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "29126",
+      "2024",
+      "04",
+      "LESOTHO",
+      "990"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28674",
+      "2024",
+      "05",
+      "LESOTHO",
+      "990"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "23484",
+      "2024",
+      "06",
+      "LESOTHO",
+      "990"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "21517",
+      "2024",
+      "07",
+      "LESOTHO",
+      "990"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "35445",
+      "2024",
+      "08",
+      "LESOTHO",
+      "990"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "25472",
+      "2024",
+      "09",
+      "LESOTHO",
+      "990"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "33637",
+      "2024",
+      "10",
+      "LESOTHO",
+      "990"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "20780",
+      "2024",
+      "11",
+      "LESOTHO",
+      "990"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28043",
+      "2024",
+      "12",
+      "LESOTHO",
+      "990"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "20205",
+      "2024",
+      "01",
+      "LESOTHO",
+      "9900"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "16936",
+      "2024",
+      "02",
+      "LESOTHO",
+      "9900"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28701",
+      "2024",
+      "03",
+      "LESOTHO",
+      "9900"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "29126",
+      "2024",
+      "04",
+      "LESOTHO",
+      "9900"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28674",
+      "2024",
+      "05",
+      "LESOTHO",
+      "9900"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "23484",
+      "2024",
+      "06",
+      "LESOTHO",
+      "9900"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "21517",
+      "2024",
+      "07",
+      "LESOTHO",
+      "9900"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "35445",
+      "2024",
+      "08",
+      "LESOTHO",
+      "9900"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "25472",
+      "2024",
+      "09",
+      "LESOTHO",
+      "9900"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "33637",
+      "2024",
+      "10",
+      "LESOTHO",
+      "9900"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "20780",
+      "2024",
+      "11",
+      "LESOTHO",
+      "9900"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28043",
+      "2024",
+      "12",
+      "LESOTHO",
+      "9900"
+    ],
+    [
+      "7990",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "6304",
+      "2024",
+      "08",
+      "LESOTHO",
+      "323"
+    ],
+    [
+      "7990",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "LESOTHO",
+      "323"
+    ],
+    [
+      "7990",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "LESOTHO",
+      "323"
+    ],
+    [
+      "7990",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "323"
+    ],
+    [
+      "7990",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "LESOTHO",
+      "323"
+    ],
+    [
+      "7990",
+      "APPAREL",
+      "13182016",
+      "2024",
+      "01",
+      "LESOTHO",
+      "3152"
+    ],
+    [
+      "7990",
+      "APPAREL",
+      "12870739",
+      "2024",
+      "02",
+      "LESOTHO",
+      "3152"
+    ],
+    [
+      "7990",
+      "APPAREL",
+      "10223806",
+      "2024",
+      "03",
+      "LESOTHO",
+      "3152"
+    ],
+    [
+      "7990",
+      "APPAREL",
+      "16433733",
+      "2024",
+      "04",
+      "LESOTHO",
+      "3152"
+    ],
+    [
+      "7990",
+      "APPAREL",
+      "9902998",
+      "2024",
+      "05",
+      "LESOTHO",
+      "3152"
+    ],
+    [
+      "7990",
+      "APPAREL",
+      "13346382",
+      "2024",
+      "06",
+      "LESOTHO",
+      "3152"
+    ],
+    [
+      "7990",
+      "APPAREL",
+      "15783196",
+      "2024",
+      "07",
+      "LESOTHO",
+      "3152"
+    ],
+    [
+      "7990",
+      "APPAREL",
+      "9820177",
+      "2024",
+      "08",
+      "LESOTHO",
+      "3152"
+    ],
+    [
+      "7990",
+      "APPAREL",
+      "16529808",
+      "2024",
+      "09",
+      "LESOTHO",
+      "3152"
+    ],
+    [
+      "7990",
+      "APPAREL",
+      "9961317",
+      "2024",
+      "10",
+      "LESOTHO",
+      "3152"
+    ],
+    [
+      "7990",
+      "APPAREL",
+      "10764150",
+      "2024",
+      "11",
+      "LESOTHO",
+      "3152"
+    ],
+    [
+      "7990",
+      "APPAREL",
+      "12538919",
+      "2024",
+      "12",
+      "LESOTHO",
+      "3152"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "82822",
+      "2024",
+      "01",
+      "LESOTHO",
+      "335"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "69452",
+      "2024",
+      "02",
+      "LESOTHO",
+      "335"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "93966",
+      "2024",
+      "03",
+      "LESOTHO",
+      "335"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "96125",
+      "2024",
+      "04",
+      "LESOTHO",
+      "335"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "73968",
+      "2024",
+      "05",
+      "LESOTHO",
+      "335"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "93559",
+      "2024",
+      "06",
+      "LESOTHO",
+      "335"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "95289",
+      "2024",
+      "07",
+      "LESOTHO",
+      "335"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "83938",
+      "2024",
+      "08",
+      "LESOTHO",
+      "335"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "162454",
+      "2024",
+      "09",
+      "LESOTHO",
+      "335"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "107611",
+      "2024",
+      "10",
+      "LESOTHO",
+      "335"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "18063",
+      "2024",
+      "11",
+      "LESOTHO",
+      "335"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "109333",
+      "2024",
+      "12",
+      "LESOTHO",
+      "335"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "4717",
+      "2024",
+      "04",
+      "LESOTHO",
+      "3359"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "3538",
+      "2024",
+      "05",
+      "LESOTHO",
+      "3359"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "LESOTHO",
+      "3359"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "LESOTHO",
+      "3359"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "14152",
+      "2024",
+      "08",
+      "LESOTHO",
+      "3359"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "7666",
+      "2024",
+      "09",
+      "LESOTHO",
+      "3359"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "15567",
+      "2024",
+      "10",
+      "LESOTHO",
+      "3359"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "3359"
+    ],
+    [
+      "7990",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "24649",
+      "2024",
+      "12",
+      "LESOTHO",
+      "3359"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3241",
+      "2024",
+      "02",
+      "LESOTHO",
+      "98"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "19893",
+      "2024",
+      "03",
+      "LESOTHO",
+      "98"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "04",
+      "LESOTHO",
+      "98"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "2025",
+      "2024",
+      "05",
+      "LESOTHO",
+      "98"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "5933",
+      "2024",
+      "06",
+      "LESOTHO",
+      "98"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "8027",
+      "2024",
+      "07",
+      "LESOTHO",
+      "98"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "2094",
+      "2024",
+      "08",
+      "LESOTHO",
+      "98"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "142567",
+      "2024",
+      "09",
+      "LESOTHO",
+      "98"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "527514",
+      "2024",
+      "10",
+      "LESOTHO",
+      "98"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "2443",
+      "2024",
+      "11",
+      "LESOTHO",
+      "98"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "6092",
+      "2024",
+      "12",
+      "LESOTHO",
+      "98"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3241",
+      "2024",
+      "02",
+      "LESOTHO",
+      "9800"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "19893",
+      "2024",
+      "03",
+      "LESOTHO",
+      "9800"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "04",
+      "LESOTHO",
+      "9800"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "2025",
+      "2024",
+      "05",
+      "LESOTHO",
+      "9800"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "5933",
+      "2024",
+      "06",
+      "LESOTHO",
+      "9800"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "8027",
+      "2024",
+      "07",
+      "LESOTHO",
+      "9800"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "2094",
+      "2024",
+      "08",
+      "LESOTHO",
+      "9800"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "142567",
+      "2024",
+      "09",
+      "LESOTHO",
+      "9800"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "527514",
+      "2024",
+      "10",
+      "LESOTHO",
+      "9800"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "2443",
+      "2024",
+      "11",
+      "LESOTHO",
+      "9800"
+    ],
+    [
+      "7990",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "6092",
+      "2024",
+      "12",
+      "LESOTHO",
+      "9800"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "20205",
+      "2024",
+      "01",
+      "LESOTHO",
+      "99"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "16936",
+      "2024",
+      "02",
+      "LESOTHO",
+      "99"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28701",
+      "2024",
+      "03",
+      "LESOTHO",
+      "99"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "29126",
+      "2024",
+      "04",
+      "LESOTHO",
+      "99"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28674",
+      "2024",
+      "05",
+      "LESOTHO",
+      "99"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "23484",
+      "2024",
+      "06",
+      "LESOTHO",
+      "99"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "21517",
+      "2024",
+      "07",
+      "LESOTHO",
+      "99"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "35445",
+      "2024",
+      "08",
+      "LESOTHO",
+      "99"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "25472",
+      "2024",
+      "09",
+      "LESOTHO",
+      "99"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "33637",
+      "2024",
+      "10",
+      "LESOTHO",
+      "99"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "20780",
+      "2024",
+      "11",
+      "LESOTHO",
+      "99"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28043",
+      "2024",
+      "12",
+      "LESOTHO",
+      "99"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "16623992",
+      "2024",
+      "02",
+      "LESOTHO",
+      "339"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1648486",
+      "2024",
+      "03",
+      "LESOTHO",
+      "339"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "5996837",
+      "2024",
+      "04",
+      "LESOTHO",
+      "339"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "11976369",
+      "2024",
+      "05",
+      "LESOTHO",
+      "339"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2005378",
+      "2024",
+      "06",
+      "LESOTHO",
+      "339"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "3785258",
+      "2024",
+      "07",
+      "LESOTHO",
+      "339"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "08",
+      "LESOTHO",
+      "339"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "12322",
+      "2024",
+      "09",
+      "LESOTHO",
+      "339"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "4141028",
+      "2024",
+      "10",
+      "LESOTHO",
+      "339"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "339"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "36665766",
+      "2024",
+      "12",
+      "LESOTHO",
+      "339"
+    ],
+    [
+      "7990",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "211896",
+      "2024",
+      "08",
+      "LESOTHO",
+      "114"
+    ],
+    [
+      "7990",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "201105",
+      "2024",
+      "09",
+      "LESOTHO",
+      "114"
+    ],
+    [
+      "7990",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "LESOTHO",
+      "114"
+    ],
+    [
+      "7990",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "114"
+    ],
+    [
+      "7990",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "379638",
+      "2024",
+      "12",
+      "LESOTHO",
+      "114"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "16623992",
+      "2024",
+      "02",
+      "LESOTHO",
+      "3399"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1648486",
+      "2024",
+      "03",
+      "LESOTHO",
+      "3399"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "5996837",
+      "2024",
+      "04",
+      "LESOTHO",
+      "3399"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "11976369",
+      "2024",
+      "05",
+      "LESOTHO",
+      "3399"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2005378",
+      "2024",
+      "06",
+      "LESOTHO",
+      "3399"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "3785258",
+      "2024",
+      "07",
+      "LESOTHO",
+      "3399"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "08",
+      "LESOTHO",
+      "3399"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "12322",
+      "2024",
+      "09",
+      "LESOTHO",
+      "3399"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "4141028",
+      "2024",
+      "10",
+      "LESOTHO",
+      "3399"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "LESOTHO",
+      "3399"
+    ],
+    [
+      "7990",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "36665766",
+      "2024",
+      "12",
+      "LESOTHO",
+      "3399"
+    ]
+  ]
+}

@@ -1,0 +1,7364 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:34:46 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4e873f92cb2422d70d1334f1a2505ad5e8b87c2cf11f0698e805e7bb7056e526b0ebe455db4b621c9f8e98d9a1b054006; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "4751",
+      "PAPER",
+      "38418",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "322"
+    ],
+    [
+      "4751",
+      "PAPER",
+      "134721",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "322"
+    ],
+    [
+      "4751",
+      "PAPER",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "322"
+    ],
+    [
+      "4751",
+      "PAPER",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "322"
+    ],
+    [
+      "4751",
+      "PAPER",
+      "48242",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "322"
+    ],
+    [
+      "4751",
+      "PAPER",
+      "144240",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "322"
+    ],
+    [
+      "4751",
+      "PAPER",
+      "39037",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "322"
+    ],
+    [
+      "4751",
+      "PAPER",
+      "38052",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "322"
+    ],
+    [
+      "4751",
+      "PAPER",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "322"
+    ],
+    [
+      "4751",
+      "PAPER",
+      "38394",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "322"
+    ],
+    [
+      "4751",
+      "PAPER",
+      "142436",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "322"
+    ],
+    [
+      "4751",
+      "PAPER",
+      "139084",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "322"
+    ],
+    [
+      "4751",
+      "CONVERTED PAPER PRODUCTS",
+      "38418",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3222"
+    ],
+    [
+      "4751",
+      "CONVERTED PAPER PRODUCTS",
+      "134721",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3222"
+    ],
+    [
+      "4751",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3222"
+    ],
+    [
+      "4751",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3222"
+    ],
+    [
+      "4751",
+      "CONVERTED PAPER PRODUCTS",
+      "48242",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3222"
+    ],
+    [
+      "4751",
+      "CONVERTED PAPER PRODUCTS",
+      "144240",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3222"
+    ],
+    [
+      "4751",
+      "CONVERTED PAPER PRODUCTS",
+      "39037",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3222"
+    ],
+    [
+      "4751",
+      "CONVERTED PAPER PRODUCTS",
+      "38052",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3222"
+    ],
+    [
+      "4751",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3222"
+    ],
+    [
+      "4751",
+      "CONVERTED PAPER PRODUCTS",
+      "38394",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3222"
+    ],
+    [
+      "4751",
+      "CONVERTED PAPER PRODUCTS",
+      "142436",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3222"
+    ],
+    [
+      "4751",
+      "CONVERTED PAPER PRODUCTS",
+      "139084",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3222"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "17975",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3231"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "2882",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3231"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "20668",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3231"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3231"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3231"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "15830",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3231"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3231"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "17444",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3231"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "7534",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3231"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "5232",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3231"
+    ],
+    [
+      "4751",
+      "CHEMICALS",
+      "3927",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "325"
+    ],
+    [
+      "4751",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "325"
+    ],
+    [
+      "4751",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "325"
+    ],
+    [
+      "4751",
+      "CHEMICALS",
+      "6969",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "325"
+    ],
+    [
+      "4751",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "325"
+    ],
+    [
+      "4751",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "325"
+    ],
+    [
+      "4751",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "325"
+    ],
+    [
+      "4751",
+      "CHEMICALS",
+      "3375",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "325"
+    ],
+    [
+      "4751",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "325"
+    ],
+    [
+      "4751",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "325"
+    ],
+    [
+      "4751",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "325"
+    ],
+    [
+      "4751",
+      "CHEMICALS",
+      "14670",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "325"
+    ],
+    [
+      "4751",
+      "BASIC CHEMICALS",
+      "6969",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3251"
+    ],
+    [
+      "4751",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3251"
+    ],
+    [
+      "4751",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3251"
+    ],
+    [
+      "4751",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3251"
+    ],
+    [
+      "4751",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3251"
+    ],
+    [
+      "4751",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3251"
+    ],
+    [
+      "4751",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3251"
+    ],
+    [
+      "4751",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3251"
+    ],
+    [
+      "4751",
+      "BASIC CHEMICALS",
+      "14670",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3251"
+    ],
+    [
+      "4751",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "3927",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3256"
+    ],
+    [
+      "4751",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3256"
+    ],
+    [
+      "4751",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3256"
+    ],
+    [
+      "4751",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3256"
+    ],
+    [
+      "4751",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3256"
+    ],
+    [
+      "4751",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3256"
+    ],
+    [
+      "4751",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3256"
+    ],
+    [
+      "4751",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3256"
+    ],
+    [
+      "4751",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3256"
+    ],
+    [
+      "4751",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3256"
+    ],
+    [
+      "4751",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3256"
+    ],
+    [
+      "4751",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3256"
+    ],
+    [
+      "4751",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "58949",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "326"
+    ],
+    [
+      "4751",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "16211",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "326"
+    ],
+    [
+      "4751",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "85380",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "326"
+    ],
+    [
+      "4751",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "92402",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "326"
+    ],
+    [
+      "4751",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "112759",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "326"
+    ],
+    [
+      "4751",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "47238",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "326"
+    ],
+    [
+      "4751",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "11305",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "326"
+    ],
+    [
+      "4751",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "34785",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "326"
+    ],
+    [
+      "4751",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "12278",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "326"
+    ],
+    [
+      "4751",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "12788",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "326"
+    ],
+    [
+      "4751",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "20418",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "326"
+    ],
+    [
+      "4751",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "13529",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "326"
+    ],
+    [
+      "4751",
+      "PLASTICS PRODUCTS",
+      "41276",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3261"
+    ],
+    [
+      "4751",
+      "PLASTICS PRODUCTS",
+      "9092",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3261"
+    ],
+    [
+      "4751",
+      "PLASTICS PRODUCTS",
+      "68558",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3261"
+    ],
+    [
+      "4751",
+      "PLASTICS PRODUCTS",
+      "70199",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3261"
+    ],
+    [
+      "4751",
+      "PLASTICS PRODUCTS",
+      "87632",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3261"
+    ],
+    [
+      "4751",
+      "PLASTICS PRODUCTS",
+      "42269",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3261"
+    ],
+    [
+      "4751",
+      "PLASTICS PRODUCTS",
+      "680",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3261"
+    ],
+    [
+      "4751",
+      "PLASTICS PRODUCTS",
+      "17778",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3261"
+    ],
+    [
+      "4751",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3261"
+    ],
+    [
+      "4751",
+      "PLASTICS PRODUCTS",
+      "1021",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3261"
+    ],
+    [
+      "4751",
+      "PLASTICS PRODUCTS",
+      "11272",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3261"
+    ],
+    [
+      "4751",
+      "PLASTICS PRODUCTS",
+      "10850",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3261"
+    ],
+    [
+      "4751",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "108710",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "327"
+    ],
+    [
+      "4751",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "115070",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "327"
+    ],
+    [
+      "4751",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "35781",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "327"
+    ],
+    [
+      "4751",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "99479",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "327"
+    ],
+    [
+      "4751",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "394015",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "327"
+    ],
+    [
+      "4751",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "56171",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "327"
+    ],
+    [
+      "4751",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "49248",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "327"
+    ],
+    [
+      "4751",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "73687",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "327"
+    ],
+    [
+      "4751",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "56820",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "327"
+    ],
+    [
+      "4751",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "140114",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "327"
+    ],
+    [
+      "4751",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "59077",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "327"
+    ],
+    [
+      "4751",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "81670",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "327"
+    ],
+    [
+      "4751",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "106120",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3271"
+    ],
+    [
+      "4751",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "115070",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3271"
+    ],
+    [
+      "4751",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "35781",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3271"
+    ],
+    [
+      "4751",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "99479",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3271"
+    ],
+    [
+      "4751",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "394015",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3271"
+    ],
+    [
+      "4751",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "56171",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3271"
+    ],
+    [
+      "4751",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "49248",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3271"
+    ],
+    [
+      "4751",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "73687",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3271"
+    ],
+    [
+      "4751",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "56820",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3271"
+    ],
+    [
+      "4751",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "131435",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3271"
+    ],
+    [
+      "4751",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "59077",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3271"
+    ],
+    [
+      "4751",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "81670",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3271"
+    ],
+    [
+      "4751",
+      "GLASS AND GLASS PRODUCTS",
+      "2590",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3272"
+    ],
+    [
+      "4751",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3272"
+    ],
+    [
+      "4751",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3272"
+    ],
+    [
+      "4751",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3272"
+    ],
+    [
+      "4751",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3272"
+    ],
+    [
+      "4751",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3272"
+    ],
+    [
+      "4751",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3272"
+    ],
+    [
+      "4751",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3272"
+    ],
+    [
+      "4751",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3272"
+    ],
+    [
+      "4751",
+      "GLASS AND GLASS PRODUCTS",
+      "8679",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3272"
+    ],
+    [
+      "4751",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3272"
+    ],
+    [
+      "4751",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3272"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 3",
+      "1519509",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "33"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 3",
+      "1132085",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "33"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 3",
+      "1708718",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "33"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 3",
+      "2019864",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "33"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 3",
+      "1176421",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "33"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 3",
+      "1115855",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "33"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 3",
+      "1272266",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "33"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 3",
+      "2325857",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "33"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 3",
+      "946159",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "33"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 3",
+      "977541",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "33"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 3",
+      "2127151",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "33"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 3",
+      "1667425",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "33"
+    ],
+    [
+      "4751",
+      "PRIMARY METAL MANUFACTURING",
+      "49352",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "331"
+    ],
+    [
+      "4751",
+      "PRIMARY METAL MANUFACTURING",
+      "266836",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "331"
+    ],
+    [
+      "4751",
+      "PRIMARY METAL MANUFACTURING",
+      "357239",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "331"
+    ],
+    [
+      "4751",
+      "PRIMARY METAL MANUFACTURING",
+      "116300",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "331"
+    ],
+    [
+      "4751",
+      "PRIMARY METAL MANUFACTURING",
+      "79755",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "331"
+    ],
+    [
+      "4751",
+      "PRIMARY METAL MANUFACTURING",
+      "9656",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "331"
+    ],
+    [
+      "4751",
+      "PRIMARY METAL MANUFACTURING",
+      "255813",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "331"
+    ],
+    [
+      "4751",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "49352",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3313"
+    ],
+    [
+      "4751",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "266836",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3313"
+    ],
+    [
+      "4751",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "357239",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3313"
+    ],
+    [
+      "4751",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "116300",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3313"
+    ],
+    [
+      "4751",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "79755",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3313"
+    ],
+    [
+      "4751",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "9656",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3313"
+    ],
+    [
+      "4751",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "253257",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3313"
+    ],
+    [
+      "4751",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1896327",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "-"
+    ],
+    [
+      "4751",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1495398",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "-"
+    ],
+    [
+      "4751",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1938165",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "-"
+    ],
+    [
+      "4751",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2833490",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "-"
+    ],
+    [
+      "4751",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3001584",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "-"
+    ],
+    [
+      "4751",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1559636",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "-"
+    ],
+    [
+      "4751",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1513667",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "-"
+    ],
+    [
+      "4751",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2890285",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "-"
+    ],
+    [
+      "4751",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1140619",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "-"
+    ],
+    [
+      "4751",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1224302",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "-"
+    ],
+    [
+      "4751",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3586664",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "-"
+    ],
+    [
+      "4751",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2152892",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "-"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART1",
+      "27075",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "31"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART1",
+      "8582",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "31"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART1",
+      "61593",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "31"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART1",
+      "112815",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "31"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART1",
+      "148157",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "31"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART1",
+      "1982",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "31"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART1",
+      "50664",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "31"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART1",
+      "344398",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "31"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART1",
+      "108356",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "31"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART1",
+      "19612",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "31"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART1",
+      "7567",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "31"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART1",
+      "210987",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "31"
+    ],
+    [
+      "4751",
+      "MANUFACTURED GOODS",
+      "1810877",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "31-33"
+    ],
+    [
+      "4751",
+      "MANUFACTURED GOODS",
+      "1467491",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "31-33"
+    ],
+    [
+      "4751",
+      "MANUFACTURED GOODS",
+      "1909447",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "31-33"
+    ],
+    [
+      "4751",
+      "MANUFACTURED GOODS",
+      "2380334",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "31-33"
+    ],
+    [
+      "4751",
+      "MANUFACTURED GOODS",
+      "1947535",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "31-33"
+    ],
+    [
+      "4751",
+      "MANUFACTURED GOODS",
+      "1501292",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "31-33"
+    ],
+    [
+      "4751",
+      "MANUFACTURED GOODS",
+      "1499647",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "31-33"
+    ],
+    [
+      "4751",
+      "MANUFACTURED GOODS",
+      "2872367",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "31-33"
+    ],
+    [
+      "4751",
+      "MANUFACTURED GOODS",
+      "1125061",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "31-33"
+    ],
+    [
+      "4751",
+      "MANUFACTURED GOODS",
+      "1207590",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "31-33"
+    ],
+    [
+      "4751",
+      "MANUFACTURED GOODS",
+      "2369167",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "31-33"
+    ],
+    [
+      "4751",
+      "MANUFACTURED GOODS",
+      "2134206",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "31-33"
+    ],
+    [
+      "4751",
+      "FOOD AND KINDRED PRODUCTS",
+      "26684",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "311"
+    ],
+    [
+      "4751",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "311"
+    ],
+    [
+      "4751",
+      "FOOD AND KINDRED PRODUCTS",
+      "56404",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "311"
+    ],
+    [
+      "4751",
+      "FOOD AND KINDRED PRODUCTS",
+      "106357",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "311"
+    ],
+    [
+      "4751",
+      "FOOD AND KINDRED PRODUCTS",
+      "148157",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "311"
+    ],
+    [
+      "4751",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "311"
+    ],
+    [
+      "4751",
+      "FOOD AND KINDRED PRODUCTS",
+      "44683",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "311"
+    ],
+    [
+      "4751",
+      "FOOD AND KINDRED PRODUCTS",
+      "112098",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "311"
+    ],
+    [
+      "4751",
+      "FOOD AND KINDRED PRODUCTS",
+      "87321",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "311"
+    ],
+    [
+      "4751",
+      "FOOD AND KINDRED PRODUCTS",
+      "11219",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "311"
+    ],
+    [
+      "4751",
+      "FOOD AND KINDRED PRODUCTS",
+      "7567",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "311"
+    ],
+    [
+      "4751",
+      "FOOD AND KINDRED PRODUCTS",
+      "206876",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "311"
+    ],
+    [
+      "4751",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "20046",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3113"
+    ],
+    [
+      "4751",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3113"
+    ],
+    [
+      "4751",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "56404",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3113"
+    ],
+    [
+      "4751",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "34745",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3113"
+    ],
+    [
+      "4751",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "112901",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3113"
+    ],
+    [
+      "4751",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3113"
+    ],
+    [
+      "4751",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "14202",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3113"
+    ],
+    [
+      "4751",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "15547",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3113"
+    ],
+    [
+      "4751",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "25913",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3113"
+    ],
+    [
+      "4751",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3113"
+    ],
+    [
+      "4751",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "7567",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3113"
+    ],
+    [
+      "4751",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "201204",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3113"
+    ],
+    [
+      "4751",
+      "DAIRY PRODUCTS",
+      "16849",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3115"
+    ],
+    [
+      "4751",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3115"
+    ],
+    [
+      "4751",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3115"
+    ],
+    [
+      "4751",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3115"
+    ],
+    [
+      "4751",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3115"
+    ],
+    [
+      "4751",
+      "FOODS, NESOI",
+      "6638",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3119"
+    ],
+    [
+      "4751",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3119"
+    ],
+    [
+      "4751",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3119"
+    ],
+    [
+      "4751",
+      "FOODS, NESOI",
+      "71612",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3119"
+    ],
+    [
+      "4751",
+      "FOODS, NESOI",
+      "35256",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3119"
+    ],
+    [
+      "4751",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3119"
+    ],
+    [
+      "4751",
+      "FOODS, NESOI",
+      "30481",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3119"
+    ],
+    [
+      "4751",
+      "FOODS, NESOI",
+      "79702",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3119"
+    ],
+    [
+      "4751",
+      "FOODS, NESOI",
+      "61408",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3119"
+    ],
+    [
+      "4751",
+      "FOODS, NESOI",
+      "11219",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3119"
+    ],
+    [
+      "4751",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3119"
+    ],
+    [
+      "4751",
+      "FOODS, NESOI",
+      "5672",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3119"
+    ],
+    [
+      "4751",
+      "TEXTILES AND FABRICS",
+      "5981",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "313"
+    ],
+    [
+      "4751",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "313"
+    ],
+    [
+      "4751",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "313"
+    ],
+    [
+      "4751",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "313"
+    ],
+    [
+      "4751",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "313"
+    ],
+    [
+      "4751",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "313"
+    ],
+    [
+      "4751",
+      "FABRICS",
+      "5981",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3132"
+    ],
+    [
+      "4751",
+      "FABRICS",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3132"
+    ],
+    [
+      "4751",
+      "FABRICS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3132"
+    ],
+    [
+      "4751",
+      "FABRICS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3132"
+    ],
+    [
+      "4751",
+      "FABRICS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3132"
+    ],
+    [
+      "4751",
+      "FABRICS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3132"
+    ],
+    [
+      "4751",
+      "TEXTILE MILL PRODUCTS",
+      "463",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "314"
+    ],
+    [
+      "4751",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "314"
+    ],
+    [
+      "4751",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "314"
+    ],
+    [
+      "4751",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "314"
+    ],
+    [
+      "4751",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "314"
+    ],
+    [
+      "4751",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "314"
+    ],
+    [
+      "4751",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "314"
+    ],
+    [
+      "4751",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "314"
+    ],
+    [
+      "4751",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "314"
+    ],
+    [
+      "4751",
+      "TEXTILE FURNISHINGS",
+      "463",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3141"
+    ],
+    [
+      "4751",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3141"
+    ],
+    [
+      "4751",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3141"
+    ],
+    [
+      "4751",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3141"
+    ],
+    [
+      "4751",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3141"
+    ],
+    [
+      "4751",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3141"
+    ],
+    [
+      "4751",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3141"
+    ],
+    [
+      "4751",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3141"
+    ],
+    [
+      "4751",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3141"
+    ],
+    [
+      "4751",
+      "APPAREL AND ACCESSORIES",
+      "8155",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "315"
+    ],
+    [
+      "4751",
+      "APPAREL AND ACCESSORIES",
+      "4905",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "315"
+    ],
+    [
+      "4751",
+      "APPAREL AND ACCESSORIES",
+      "5995",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "315"
+    ],
+    [
+      "4751",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "315"
+    ],
+    [
+      "4751",
+      "APPAREL AND ACCESSORIES",
+      "1522",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "315"
+    ],
+    [
+      "4751",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "315"
+    ],
+    [
+      "4751",
+      "APPAREL AND ACCESSORIES",
+      "232300",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "315"
+    ],
+    [
+      "4751",
+      "APPAREL AND ACCESSORIES",
+      "16814",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "315"
+    ],
+    [
+      "4751",
+      "APPAREL AND ACCESSORIES",
+      "3331",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "315"
+    ],
+    [
+      "4751",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "315"
+    ],
+    [
+      "4751",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "315"
+    ],
+    [
+      "4751",
+      "LEATHER AND ALLIED PRODUCTS",
+      "391",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "316"
+    ],
+    [
+      "4751",
+      "LEATHER AND ALLIED PRODUCTS",
+      "427",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "316"
+    ],
+    [
+      "4751",
+      "LEATHER AND ALLIED PRODUCTS",
+      "284",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "316"
+    ],
+    [
+      "4751",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "316"
+    ],
+    [
+      "4751",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "316"
+    ],
+    [
+      "4751",
+      "LEATHER AND ALLIED PRODUCTS",
+      "460",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "316"
+    ],
+    [
+      "4751",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "316"
+    ],
+    [
+      "4751",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "316"
+    ],
+    [
+      "4751",
+      "LEATHER AND ALLIED PRODUCTS",
+      "4221",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "316"
+    ],
+    [
+      "4751",
+      "LEATHER AND ALLIED PRODUCTS",
+      "5062",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "316"
+    ],
+    [
+      "4751",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "316"
+    ],
+    [
+      "4751",
+      "LEATHER AND ALLIED PRODUCTS",
+      "4111",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "316"
+    ],
+    [
+      "4751",
+      "FOOTWEAR",
+      "391",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3162"
+    ],
+    [
+      "4751",
+      "FOOTWEAR",
+      "427",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3162"
+    ],
+    [
+      "4751",
+      "FOOTWEAR",
+      "284",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3162"
+    ],
+    [
+      "4751",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3162"
+    ],
+    [
+      "4751",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3162"
+    ],
+    [
+      "4751",
+      "FOOTWEAR",
+      "460",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3162"
+    ],
+    [
+      "4751",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3162"
+    ],
+    [
+      "4751",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3162"
+    ],
+    [
+      "4751",
+      "FOOTWEAR",
+      "4221",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3162"
+    ],
+    [
+      "4751",
+      "FOOTWEAR",
+      "5062",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3162"
+    ],
+    [
+      "4751",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3162"
+    ],
+    [
+      "4751",
+      "FOOTWEAR",
+      "4111",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3162"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 2",
+      "264293",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "32"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 2",
+      "326824",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "32"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 2",
+      "139136",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "32"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 2",
+      "247655",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "32"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 2",
+      "622957",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "32"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 2",
+      "383455",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "32"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 2",
+      "176717",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "32"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 2",
+      "202112",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "32"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 2",
+      "70546",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "32"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 2",
+      "210437",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "32"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 2",
+      "234449",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "32"
+    ],
+    [
+      "4751",
+      "MANUFACTURING, PART 2",
+      "255794",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "32"
+    ],
+    [
+      "4751",
+      "OTHER WOOD PRODUCTS",
+      "54289",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3219"
+    ],
+    [
+      "4751",
+      "OTHER WOOD PRODUCTS",
+      "60822",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3219"
+    ],
+    [
+      "4751",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3219"
+    ],
+    [
+      "4751",
+      "OTHER WOOD PRODUCTS",
+      "45923",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3219"
+    ],
+    [
+      "4751",
+      "OTHER WOOD PRODUCTS",
+      "47273",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3219"
+    ],
+    [
+      "4751",
+      "OTHER WOOD PRODUCTS",
+      "135806",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3219"
+    ],
+    [
+      "4751",
+      "OTHER WOOD PRODUCTS",
+      "77127",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3219"
+    ],
+    [
+      "4751",
+      "OTHER WOOD PRODUCTS",
+      "36383",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3219"
+    ],
+    [
+      "4751",
+      "OTHER WOOD PRODUCTS",
+      "1448",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3219"
+    ],
+    [
+      "4751",
+      "OTHER WOOD PRODUCTS",
+      "1697",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3219"
+    ],
+    [
+      "4751",
+      "OTHER WOOD PRODUCTS",
+      "4984",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3219"
+    ],
+    [
+      "4751",
+      "OTHER WOOD PRODUCTS",
+      "1609",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3219"
+    ],
+    [
+      "4751",
+      "INDUSTRIAL MACHINERY",
+      "521512",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3332"
+    ],
+    [
+      "4751",
+      "INDUSTRIAL MACHINERY",
+      "65839",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3332"
+    ],
+    [
+      "4751",
+      "INDUSTRIAL MACHINERY",
+      "948030",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3332"
+    ],
+    [
+      "4751",
+      "INDUSTRIAL MACHINERY",
+      "164787",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3332"
+    ],
+    [
+      "4751",
+      "INDUSTRIAL MACHINERY",
+      "413672",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3332"
+    ],
+    [
+      "4751",
+      "INDUSTRIAL MACHINERY",
+      "222807",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3332"
+    ],
+    [
+      "4751",
+      "INDUSTRIAL MACHINERY",
+      "112963",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3332"
+    ],
+    [
+      "4751",
+      "INDUSTRIAL MACHINERY",
+      "592248",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3332"
+    ],
+    [
+      "4751",
+      "INDUSTRIAL MACHINERY",
+      "87561",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3332"
+    ],
+    [
+      "4751",
+      "INDUSTRIAL MACHINERY",
+      "445929",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3332"
+    ],
+    [
+      "4751",
+      "INDUSTRIAL MACHINERY",
+      "659222",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3332"
+    ],
+    [
+      "4751",
+      "INDUSTRIAL MACHINERY",
+      "434477",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3332"
+    ],
+    [
+      "4751",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "14745",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3333"
+    ],
+    [
+      "4751",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "2610",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3333"
+    ],
+    [
+      "4751",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3333"
+    ],
+    [
+      "4751",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3333"
+    ],
+    [
+      "4751",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3333"
+    ],
+    [
+      "4751",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "6158",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3333"
+    ],
+    [
+      "4751",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "9307",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3333"
+    ],
+    [
+      "4751",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3333"
+    ],
+    [
+      "4751",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "20313",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3333"
+    ],
+    [
+      "4751",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "46293",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3333"
+    ],
+    [
+      "4751",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3333"
+    ],
+    [
+      "4751",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "79716",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3334"
+    ],
+    [
+      "4751",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "186583",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3334"
+    ],
+    [
+      "4751",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "1053735",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3334"
+    ],
+    [
+      "4751",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3334"
+    ],
+    [
+      "4751",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "3874",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3334"
+    ],
+    [
+      "4751",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "9704",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3334"
+    ],
+    [
+      "4751",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "4842",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3334"
+    ],
+    [
+      "4751",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3334"
+    ],
+    [
+      "4751",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3334"
+    ],
+    [
+      "4751",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "9724",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3334"
+    ],
+    [
+      "4751",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "4121",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3334"
+    ],
+    [
+      "4751",
+      "METALWORKING MACHINERY",
+      "360346",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3335"
+    ],
+    [
+      "4751",
+      "METALWORKING MACHINERY",
+      "514906",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3335"
+    ],
+    [
+      "4751",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3335"
+    ],
+    [
+      "4751",
+      "METALWORKING MACHINERY",
+      "354333",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3335"
+    ],
+    [
+      "4751",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3335"
+    ],
+    [
+      "4751",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3335"
+    ],
+    [
+      "4751",
+      "METALWORKING MACHINERY",
+      "13819",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3335"
+    ],
+    [
+      "4751",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3335"
+    ],
+    [
+      "4751",
+      "METALWORKING MACHINERY",
+      "79473",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3335"
+    ],
+    [
+      "4751",
+      "METALWORKING MACHINERY",
+      "224892",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3335"
+    ],
+    [
+      "4751",
+      "METALWORKING MACHINERY",
+      "255290",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3335"
+    ],
+    [
+      "4751",
+      "METALWORKING MACHINERY",
+      "129601",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3335"
+    ],
+    [
+      "4751",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "587988",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3339"
+    ],
+    [
+      "4751",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "254915",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3339"
+    ],
+    [
+      "4751",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "548905",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3339"
+    ],
+    [
+      "4751",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "406463",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3339"
+    ],
+    [
+      "4751",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "738437",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3339"
+    ],
+    [
+      "4751",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "422920",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3339"
+    ],
+    [
+      "4751",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "536787",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3339"
+    ],
+    [
+      "4751",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "941933",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3339"
+    ],
+    [
+      "4751",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "307861",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3339"
+    ],
+    [
+      "4751",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "167523",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3339"
+    ],
+    [
+      "4751",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "798380",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3339"
+    ],
+    [
+      "4751",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "674890",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3339"
+    ],
+    [
+      "4751",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "14974",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "334"
+    ],
+    [
+      "4751",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "5616",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "334"
+    ],
+    [
+      "4751",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "13190",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "334"
+    ],
+    [
+      "4751",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "3293",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "334"
+    ],
+    [
+      "4751",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "3512",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "334"
+    ],
+    [
+      "4751",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "48018",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "334"
+    ],
+    [
+      "4751",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "14858",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "334"
+    ],
+    [
+      "4751",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "334"
+    ],
+    [
+      "4751",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "334"
+    ],
+    [
+      "4751",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "6740",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "334"
+    ],
+    [
+      "4751",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "3603",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "334"
+    ],
+    [
+      "4751",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "334"
+    ],
+    [
+      "4751",
+      "COMPUTER EQUIPMENT",
+      "5729",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3341"
+    ],
+    [
+      "4751",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3341"
+    ],
+    [
+      "4751",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3341"
+    ],
+    [
+      "4751",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3341"
+    ],
+    [
+      "4751",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3341"
+    ],
+    [
+      "4751",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3341"
+    ],
+    [
+      "4751",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3341"
+    ],
+    [
+      "4751",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3341"
+    ],
+    [
+      "4751",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3341"
+    ],
+    [
+      "4751",
+      "COMPUTER EQUIPMENT",
+      "6740",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3341"
+    ],
+    [
+      "4751",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3341"
+    ],
+    [
+      "4751",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3341"
+    ],
+    [
+      "4751",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "11956",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3343"
+    ],
+    [
+      "4751",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3343"
+    ],
+    [
+      "4751",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3343"
+    ],
+    [
+      "4751",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3343"
+    ],
+    [
+      "4751",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3343"
+    ],
+    [
+      "4751",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3343"
+    ],
+    [
+      "4751",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "4986",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3344"
+    ],
+    [
+      "4751",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3344"
+    ],
+    [
+      "4751",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3344"
+    ],
+    [
+      "4751",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "3293",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3344"
+    ],
+    [
+      "4751",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3344"
+    ],
+    [
+      "4751",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "48018",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3344"
+    ],
+    [
+      "4751",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3344"
+    ],
+    [
+      "4751",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3344"
+    ],
+    [
+      "4751",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3344"
+    ],
+    [
+      "4751",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3344"
+    ],
+    [
+      "4751",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3344"
+    ],
+    [
+      "4751",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3344"
+    ],
+    [
+      "4751",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "5616",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3345"
+    ],
+    [
+      "4751",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3345"
+    ],
+    [
+      "4751",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3345"
+    ],
+    [
+      "4751",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "3512",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3345"
+    ],
+    [
+      "4751",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3345"
+    ],
+    [
+      "4751",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3345"
+    ],
+    [
+      "4751",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3345"
+    ],
+    [
+      "4751",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3345"
+    ],
+    [
+      "4751",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3345"
+    ],
+    [
+      "4751",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "3603",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3345"
+    ],
+    [
+      "4751",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3345"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "29621",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3352"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3352"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT",
+      "3317",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3353"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT",
+      "8376",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3353"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT",
+      "3472",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3353"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT",
+      "8539",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3353"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT",
+      "8581",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3353"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3353"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3353"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3353"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3353"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3353"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT",
+      "89364",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3353"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3353"
+    ],
+    [
+      "4751",
+      "TRANSPORTATION EQUIPMENT",
+      "10690",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "336"
+    ],
+    [
+      "4751",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "336"
+    ],
+    [
+      "4751",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "336"
+    ],
+    [
+      "4751",
+      "TRANSPORTATION EQUIPMENT",
+      "2504",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "336"
+    ],
+    [
+      "4751",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "336"
+    ],
+    [
+      "4751",
+      "TRANSPORTATION EQUIPMENT",
+      "14554",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "336"
+    ],
+    [
+      "4751",
+      "TRANSPORTATION EQUIPMENT",
+      "40355",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "336"
+    ],
+    [
+      "4751",
+      "TRANSPORTATION EQUIPMENT",
+      "2777",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "336"
+    ],
+    [
+      "4751",
+      "TRANSPORTATION EQUIPMENT",
+      "14488",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "336"
+    ],
+    [
+      "4751",
+      "TRANSPORTATION EQUIPMENT",
+      "29555",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "336"
+    ],
+    [
+      "4751",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "336"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "20000",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "93"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "7520",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "93"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "93"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "93"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "93"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "93"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "93"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "93"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "3212",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "93"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5911",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "93"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "93"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "20000",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "930"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "7520",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "930"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "930"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "930"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "930"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "930"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "930"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "930"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "3212",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "930"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5911",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "930"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "930"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "20000",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "9300"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "7520",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "9300"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "9300"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "9300"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "9300"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "9300"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "9300"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "9300"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "3212",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "9300"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5911",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "9300"
+    ],
+    [
+      "4751",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "9300"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "56773",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "980"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "980"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "10745",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "980"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "439179",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "980"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1028285",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "980"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "43577",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "980"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "980"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "980"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "980"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "980"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1195227",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "980"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "980"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28677",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "990"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7907",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "990"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "10453",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "990"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "13977",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "990"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "25764",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "990"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14767",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "990"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14020",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "990"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "17918",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "990"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "15558",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "990"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "13500",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "990"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "16359",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "990"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "18686",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "990"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28677",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "9900"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7907",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "9900"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "10453",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "9900"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "13977",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "9900"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "25764",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "9900"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14767",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "9900"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14020",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "9900"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "17918",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "9900"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "15558",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "9900"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "13500",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "9900"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "16359",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "9900"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "18686",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "9900"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "17975",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "323"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "2882",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "323"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "20668",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "323"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "323"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "323"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "15830",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "323"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "323"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "17444",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "323"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "7534",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "323"
+    ],
+    [
+      "4751",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "5232",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "323"
+    ],
+    [
+      "4751",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "3375",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3255"
+    ],
+    [
+      "4751",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3255"
+    ],
+    [
+      "4751",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3255"
+    ],
+    [
+      "4751",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3255"
+    ],
+    [
+      "4751",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3255"
+    ],
+    [
+      "4751",
+      "RUBBER PRODUCTS",
+      "17673",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3262"
+    ],
+    [
+      "4751",
+      "RUBBER PRODUCTS",
+      "7119",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3262"
+    ],
+    [
+      "4751",
+      "RUBBER PRODUCTS",
+      "16822",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3262"
+    ],
+    [
+      "4751",
+      "RUBBER PRODUCTS",
+      "22203",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3262"
+    ],
+    [
+      "4751",
+      "RUBBER PRODUCTS",
+      "25127",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3262"
+    ],
+    [
+      "4751",
+      "RUBBER PRODUCTS",
+      "4969",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3262"
+    ],
+    [
+      "4751",
+      "RUBBER PRODUCTS",
+      "10625",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3262"
+    ],
+    [
+      "4751",
+      "RUBBER PRODUCTS",
+      "17007",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3262"
+    ],
+    [
+      "4751",
+      "RUBBER PRODUCTS",
+      "12278",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3262"
+    ],
+    [
+      "4751",
+      "RUBBER PRODUCTS",
+      "11767",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3262"
+    ],
+    [
+      "4751",
+      "RUBBER PRODUCTS",
+      "9146",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3262"
+    ],
+    [
+      "4751",
+      "RUBBER PRODUCTS",
+      "2679",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3262"
+    ],
+    [
+      "4751",
+      "APPAREL",
+      "8155",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3152"
+    ],
+    [
+      "4751",
+      "APPAREL",
+      "4905",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3152"
+    ],
+    [
+      "4751",
+      "APPAREL",
+      "5995",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3152"
+    ],
+    [
+      "4751",
+      "APPAREL",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3152"
+    ],
+    [
+      "4751",
+      "APPAREL",
+      "1522",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3152"
+    ],
+    [
+      "4751",
+      "APPAREL",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3152"
+    ],
+    [
+      "4751",
+      "APPAREL",
+      "232300",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3152"
+    ],
+    [
+      "4751",
+      "APPAREL",
+      "16814",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3152"
+    ],
+    [
+      "4751",
+      "APPAREL",
+      "3331",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3152"
+    ],
+    [
+      "4751",
+      "APPAREL",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3152"
+    ],
+    [
+      "4751",
+      "APPAREL",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3152"
+    ],
+    [
+      "4751",
+      "WOOD PRODUCTS",
+      "54289",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "321"
+    ],
+    [
+      "4751",
+      "WOOD PRODUCTS",
+      "60822",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "321"
+    ],
+    [
+      "4751",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "321"
+    ],
+    [
+      "4751",
+      "WOOD PRODUCTS",
+      "45923",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "321"
+    ],
+    [
+      "4751",
+      "WOOD PRODUCTS",
+      "47273",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "321"
+    ],
+    [
+      "4751",
+      "WOOD PRODUCTS",
+      "135806",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "321"
+    ],
+    [
+      "4751",
+      "WOOD PRODUCTS",
+      "77127",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "321"
+    ],
+    [
+      "4751",
+      "WOOD PRODUCTS",
+      "36383",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "321"
+    ],
+    [
+      "4751",
+      "WOOD PRODUCTS",
+      "1448",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "321"
+    ],
+    [
+      "4751",
+      "WOOD PRODUCTS",
+      "1697",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "321"
+    ],
+    [
+      "4751",
+      "WOOD PRODUCTS",
+      "4984",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "321"
+    ],
+    [
+      "4751",
+      "WOOD PRODUCTS",
+      "1609",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "321"
+    ],
+    [
+      "4751",
+      "COMMUNICATIONS EQUIPMENT",
+      "4259",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3342"
+    ],
+    [
+      "4751",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3342"
+    ],
+    [
+      "4751",
+      "COMMUNICATIONS EQUIPMENT",
+      "13190",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3342"
+    ],
+    [
+      "4751",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3342"
+    ],
+    [
+      "4751",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3342"
+    ],
+    [
+      "4751",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3342"
+    ],
+    [
+      "4751",
+      "COMMUNICATIONS EQUIPMENT",
+      "2902",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3342"
+    ],
+    [
+      "4751",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3342"
+    ],
+    [
+      "4751",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3342"
+    ],
+    [
+      "4751",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3342"
+    ],
+    [
+      "4751",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3342"
+    ],
+    [
+      "4751",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3342"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "3317",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "335"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "8376",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "335"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "7072",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "335"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "8539",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "335"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "8581",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "335"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "335"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "335"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "335"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "335"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "335"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "118985",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "335"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "4898",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "335"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "3600",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3359"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3359"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3359"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3359"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3359"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3359"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3359"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3359"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3359"
+    ],
+    [
+      "4751",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "4898",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3359"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "56773",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "98"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "98"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "10745",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "98"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "439179",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "98"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1028285",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "98"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "43577",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "98"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "98"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "98"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "98"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "98"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1195227",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "98"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "98"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "56773",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "9800"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "9800"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "10745",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "9800"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "439179",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "9800"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1028285",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "9800"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "43577",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "9800"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "9800"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "9800"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "9800"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "9800"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1195227",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "9800"
+    ],
+    [
+      "4751",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "9800"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28677",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "99"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7907",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "99"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "10453",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "99"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "13977",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "99"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "25764",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "99"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14767",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "99"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14020",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "99"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "17918",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "99"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "15558",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "99"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "13500",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "99"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "16359",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "99"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "18686",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "99"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "19281",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3371"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "5440",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3371"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3371"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "15494",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3371"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "3877",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3371"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "155311",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3371"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "108315",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3371"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "18080",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3371"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3371"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "5441",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3371"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "10631",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3371"
+    ],
+    [
+      "4751",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3371"
+    ],
+    [
+      "4751",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "586",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3379"
+    ],
+    [
+      "4751",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "1416",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3379"
+    ],
+    [
+      "4751",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3379"
+    ],
+    [
+      "4751",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3379"
+    ],
+    [
+      "4751",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3379"
+    ],
+    [
+      "4751",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3379"
+    ],
+    [
+      "4751",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3379"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "3716",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "339"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "157102",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "339"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "339"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "867",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "339"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "339"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1214",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "339"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "14870",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "339"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "181660",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "339"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "339"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "339"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "16013",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "339"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "119538",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "339"
+    ],
+    [
+      "4751",
+      "CUTLERY AND HANDTOOLS",
+      "2048",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3322"
+    ],
+    [
+      "4751",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3322"
+    ],
+    [
+      "4751",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3322"
+    ],
+    [
+      "4751",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3322"
+    ],
+    [
+      "4751",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3322"
+    ],
+    [
+      "4751",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3322"
+    ],
+    [
+      "4751",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3322"
+    ],
+    [
+      "4751",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3322"
+    ],
+    [
+      "4751",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3322"
+    ],
+    [
+      "4751",
+      "HARDWARE",
+      "5319",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3325"
+    ],
+    [
+      "4751",
+      "HARDWARE",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3325"
+    ],
+    [
+      "4751",
+      "HARDWARE",
+      "23922",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3325"
+    ],
+    [
+      "4751",
+      "HARDWARE",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3325"
+    ],
+    [
+      "4751",
+      "HARDWARE",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3325"
+    ],
+    [
+      "4751",
+      "HARDWARE",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3325"
+    ],
+    [
+      "4751",
+      "HARDWARE",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3325"
+    ],
+    [
+      "4751",
+      "HARDWARE",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3325"
+    ],
+    [
+      "4751",
+      "HARDWARE",
+      "41232",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3325"
+    ],
+    [
+      "4751",
+      "MOTOR VEHICLE PARTS",
+      "10690",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3363"
+    ],
+    [
+      "4751",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3363"
+    ],
+    [
+      "4751",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3363"
+    ],
+    [
+      "4751",
+      "MOTOR VEHICLE PARTS",
+      "2504",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3363"
+    ],
+    [
+      "4751",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3363"
+    ],
+    [
+      "4751",
+      "MOTOR VEHICLE PARTS",
+      "14554",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3363"
+    ],
+    [
+      "4751",
+      "MOTOR VEHICLE PARTS",
+      "40355",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3363"
+    ],
+    [
+      "4751",
+      "MOTOR VEHICLE PARTS",
+      "2777",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3363"
+    ],
+    [
+      "4751",
+      "MOTOR VEHICLE PARTS",
+      "14488",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3363"
+    ],
+    [
+      "4751",
+      "MOTOR VEHICLE PARTS",
+      "29555",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3363"
+    ],
+    [
+      "4751",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3363"
+    ],
+    [
+      "4751",
+      "FURNITURE AND FIXTURES",
+      "21814",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "337"
+    ],
+    [
+      "4751",
+      "FURNITURE AND FIXTURES",
+      "5440",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "337"
+    ],
+    [
+      "4751",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "337"
+    ],
+    [
+      "4751",
+      "FURNITURE AND FIXTURES",
+      "15494",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "337"
+    ],
+    [
+      "4751",
+      "FURNITURE AND FIXTURES",
+      "3877",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "337"
+    ],
+    [
+      "4751",
+      "FURNITURE AND FIXTURES",
+      "155897",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "337"
+    ],
+    [
+      "4751",
+      "FURNITURE AND FIXTURES",
+      "109731",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "337"
+    ],
+    [
+      "4751",
+      "FURNITURE AND FIXTURES",
+      "18080",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "337"
+    ],
+    [
+      "4751",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "337"
+    ],
+    [
+      "4751",
+      "FURNITURE AND FIXTURES",
+      "5441",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "337"
+    ],
+    [
+      "4751",
+      "FURNITURE AND FIXTURES",
+      "10631",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "337"
+    ],
+    [
+      "4751",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "337"
+    ],
+    [
+      "4751",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "2533",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3372"
+    ],
+    [
+      "4751",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3372"
+    ],
+    [
+      "4751",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3372"
+    ],
+    [
+      "4751",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3372"
+    ],
+    [
+      "4751",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3372"
+    ],
+    [
+      "4751",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3372"
+    ],
+    [
+      "4751",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3372"
+    ],
+    [
+      "4751",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3372"
+    ],
+    [
+      "4751",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3372"
+    ],
+    [
+      "4751",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3372"
+    ],
+    [
+      "4751",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3372"
+    ],
+    [
+      "4751",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3372"
+    ],
+    [
+      "4751",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "3716",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3391"
+    ],
+    [
+      "4751",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3391"
+    ],
+    [
+      "4751",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3391"
+    ],
+    [
+      "4751",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3391"
+    ],
+    [
+      "4751",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3391"
+    ],
+    [
+      "4751",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3391"
+    ],
+    [
+      "4751",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3391"
+    ],
+    [
+      "4751",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3391"
+    ],
+    [
+      "4751",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3391"
+    ],
+    [
+      "4751",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3391"
+    ],
+    [
+      "4751",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3391"
+    ],
+    [
+      "4751",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3391"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "157102",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3399"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3399"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "867",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3399"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3399"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1214",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3399"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "14870",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3399"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "181660",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3399"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3399"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3399"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "16013",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3399"
+    ],
+    [
+      "4751",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "119538",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3399"
+    ],
+    [
+      "4751",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "2556",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3314"
+    ],
+    [
+      "4751",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "5842",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "332"
+    ],
+    [
+      "4751",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "14740",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "332"
+    ],
+    [
+      "4751",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "2328",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "332"
+    ],
+    [
+      "4751",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "12353",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "332"
+    ],
+    [
+      "4751",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "5838",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "332"
+    ],
+    [
+      "4751",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "211773",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "332"
+    ],
+    [
+      "4751",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "171986",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "332"
+    ],
+    [
+      "4751",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "180193",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "332"
+    ],
+    [
+      "4751",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "352187",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "332"
+    ],
+    [
+      "4751",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "9495",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "332"
+    ],
+    [
+      "4751",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "169799",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "332"
+    ],
+    [
+      "4751",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "44087",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "332"
+    ],
+    [
+      "4751",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "5532",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3321"
+    ],
+    [
+      "4751",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3321"
+    ],
+    [
+      "4751",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3321"
+    ],
+    [
+      "4751",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3321"
+    ],
+    [
+      "4751",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3321"
+    ],
+    [
+      "4751",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3321"
+    ],
+    [
+      "4751",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3321"
+    ],
+    [
+      "4751",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "2710",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3323"
+    ],
+    [
+      "4751",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "11691",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3323"
+    ],
+    [
+      "4751",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "2328",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3323"
+    ],
+    [
+      "4751",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "4986",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3323"
+    ],
+    [
+      "4751",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "5838",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3323"
+    ],
+    [
+      "4751",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "182319",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3323"
+    ],
+    [
+      "4751",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "171986",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3323"
+    ],
+    [
+      "4751",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "176142",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3323"
+    ],
+    [
+      "4751",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "352187",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3323"
+    ],
+    [
+      "4751",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "9495",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3323"
+    ],
+    [
+      "4751",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "169799",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3323"
+    ],
+    [
+      "4751",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "2855",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3323"
+    ],
+    [
+      "4751",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "4051",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3327"
+    ],
+    [
+      "4751",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3327"
+    ],
+    [
+      "4751",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3327"
+    ],
+    [
+      "4751",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3327"
+    ],
+    [
+      "4751",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3327"
+    ],
+    [
+      "4751",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "3132",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "3329"
+    ],
+    [
+      "4751",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "3049",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "3329"
+    ],
+    [
+      "4751",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "3329"
+    ],
+    [
+      "4751",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "3329"
+    ],
+    [
+      "4751",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "3329"
+    ],
+    [
+      "4751",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "3329"
+    ],
+    [
+      "4751",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "3329"
+    ],
+    [
+      "4751",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "3329"
+    ],
+    [
+      "4751",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "3329"
+    ],
+    [
+      "4751",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3329"
+    ],
+    [
+      "4751",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3329"
+    ],
+    [
+      "4751",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3329"
+    ],
+    [
+      "4751",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1469846",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "333"
+    ],
+    [
+      "4751",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "930121",
+      "2024",
+      "02",
+      "SAN MARINO",
+      "333"
+    ],
+    [
+      "4751",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1686128",
+      "2024",
+      "03",
+      "SAN MARINO",
+      "333"
+    ],
+    [
+      "4751",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1979318",
+      "2024",
+      "04",
+      "SAN MARINO",
+      "333"
+    ],
+    [
+      "4751",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1152109",
+      "2024",
+      "05",
+      "SAN MARINO",
+      "333"
+    ],
+    [
+      "4751",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "649601",
+      "2024",
+      "06",
+      "SAN MARINO",
+      "333"
+    ],
+    [
+      "4751",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "679431",
+      "2024",
+      "07",
+      "SAN MARINO",
+      "333"
+    ],
+    [
+      "4751",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1548330",
+      "2024",
+      "08",
+      "SAN MARINO",
+      "333"
+    ],
+    [
+      "4751",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "474895",
+      "2024",
+      "09",
+      "SAN MARINO",
+      "333"
+    ],
+    [
+      "4751",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "861622",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "333"
+    ],
+    [
+      "4751",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1768909",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "333"
+    ],
+    [
+      "4751",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1243089",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "333"
+    ],
+    [
+      "4751",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "2965",
+      "2024",
+      "10",
+      "SAN MARINO",
+      "3331"
+    ],
+    [
+      "4751",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "SAN MARINO",
+      "3331"
+    ],
+    [
+      "4751",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "SAN MARINO",
+      "3331"
+    ]
+  ]
+}

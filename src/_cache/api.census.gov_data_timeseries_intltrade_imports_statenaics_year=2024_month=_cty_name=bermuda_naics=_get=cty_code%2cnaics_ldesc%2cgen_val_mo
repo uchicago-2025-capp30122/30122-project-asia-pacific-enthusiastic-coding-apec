@@ -1,0 +1,5321 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:19:52 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a44209d183ace95217cd4fd3f1b5d731ecf20163ed4d58f7ed253033ae9befc8022ea6b4512a3b16b530125c0a5f509537; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "2320",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "2500",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3231"
+    ],
+    [
+      "2320",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3231"
+    ],
+    [
+      "2320",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3231"
+    ],
+    [
+      "2320",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3231"
+    ],
+    [
+      "2320",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3231"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "329834",
+      "2024",
+      "04",
+      "BERMUDA",
+      "324"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "324"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "324"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "324"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "324"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "324"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "324"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "324"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "5166",
+      "2024",
+      "12",
+      "BERMUDA",
+      "324"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "329834",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3241"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3241"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3241"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3241"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3241"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3241"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3241"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3241"
+    ],
+    [
+      "2320",
+      "PETROLEUM AND COAL PRODUCTS",
+      "5166",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3241"
+    ],
+    [
+      "2320",
+      "CHEMICALS",
+      "48735",
+      "2024",
+      "05",
+      "BERMUDA",
+      "325"
+    ],
+    [
+      "2320",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "325"
+    ],
+    [
+      "2320",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "325"
+    ],
+    [
+      "2320",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "325"
+    ],
+    [
+      "2320",
+      "CHEMICALS",
+      "72588",
+      "2024",
+      "09",
+      "BERMUDA",
+      "325"
+    ],
+    [
+      "2320",
+      "CHEMICALS",
+      "8964",
+      "2024",
+      "10",
+      "BERMUDA",
+      "325"
+    ],
+    [
+      "2320",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "325"
+    ],
+    [
+      "2320",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "325"
+    ],
+    [
+      "2320",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "48735",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3256"
+    ],
+    [
+      "2320",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3256"
+    ],
+    [
+      "2320",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3256"
+    ],
+    [
+      "2320",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3256"
+    ],
+    [
+      "2320",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "72588",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3256"
+    ],
+    [
+      "2320",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3256"
+    ],
+    [
+      "2320",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3256"
+    ],
+    [
+      "2320",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3256"
+    ],
+    [
+      "2320",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "8964",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3259"
+    ],
+    [
+      "2320",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3259"
+    ],
+    [
+      "2320",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3259"
+    ],
+    [
+      "2320",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "2505",
+      "2024",
+      "04",
+      "BERMUDA",
+      "326"
+    ],
+    [
+      "2320",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "326"
+    ],
+    [
+      "2320",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "3810",
+      "2024",
+      "06",
+      "BERMUDA",
+      "326"
+    ],
+    [
+      "2320",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "326"
+    ],
+    [
+      "2320",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "326"
+    ],
+    [
+      "2320",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "4575",
+      "2024",
+      "09",
+      "BERMUDA",
+      "326"
+    ],
+    [
+      "2320",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "326"
+    ],
+    [
+      "2320",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "326"
+    ],
+    [
+      "2320",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "326"
+    ],
+    [
+      "2320",
+      "PLASTICS PRODUCTS",
+      "2505",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3261"
+    ],
+    [
+      "2320",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3261"
+    ],
+    [
+      "2320",
+      "PLASTICS PRODUCTS",
+      "3810",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3261"
+    ],
+    [
+      "2320",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3261"
+    ],
+    [
+      "2320",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3261"
+    ],
+    [
+      "2320",
+      "PLASTICS PRODUCTS",
+      "4575",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3261"
+    ],
+    [
+      "2320",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3261"
+    ],
+    [
+      "2320",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3261"
+    ],
+    [
+      "2320",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3261"
+    ],
+    [
+      "2320",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "5645",
+      "2024",
+      "05",
+      "BERMUDA",
+      "327"
+    ],
+    [
+      "2320",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "327"
+    ],
+    [
+      "2320",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "327"
+    ],
+    [
+      "2320",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "327"
+    ],
+    [
+      "2320",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "327"
+    ],
+    [
+      "2320",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "327"
+    ],
+    [
+      "2320",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "327"
+    ],
+    [
+      "2320",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "327"
+    ],
+    [
+      "2320",
+      "GLASS AND GLASS PRODUCTS",
+      "5645",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3272"
+    ],
+    [
+      "2320",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3272"
+    ],
+    [
+      "2320",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3272"
+    ],
+    [
+      "2320",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3272"
+    ],
+    [
+      "2320",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3272"
+    ],
+    [
+      "2320",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3272"
+    ],
+    [
+      "2320",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3272"
+    ],
+    [
+      "2320",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3272"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 3",
+      "10100",
+      "2024",
+      "01",
+      "BERMUDA",
+      "33"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 3",
+      "55000",
+      "2024",
+      "02",
+      "BERMUDA",
+      "33"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 3",
+      "14566",
+      "2024",
+      "03",
+      "BERMUDA",
+      "33"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 3",
+      "401295",
+      "2024",
+      "04",
+      "BERMUDA",
+      "33"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 3",
+      "203278",
+      "2024",
+      "05",
+      "BERMUDA",
+      "33"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 3",
+      "11746",
+      "2024",
+      "06",
+      "BERMUDA",
+      "33"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 3",
+      "791689",
+      "2024",
+      "07",
+      "BERMUDA",
+      "33"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 3",
+      "48015",
+      "2024",
+      "08",
+      "BERMUDA",
+      "33"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 3",
+      "8462",
+      "2024",
+      "09",
+      "BERMUDA",
+      "33"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 3",
+      "35528",
+      "2024",
+      "10",
+      "BERMUDA",
+      "33"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 3",
+      "38634",
+      "2024",
+      "11",
+      "BERMUDA",
+      "33"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 3",
+      "109296",
+      "2024",
+      "12",
+      "BERMUDA",
+      "33"
+    ],
+    [
+      "2320",
+      "PRIMARY METAL MANUFACTURING",
+      "3000",
+      "2024",
+      "01",
+      "BERMUDA",
+      "331"
+    ],
+    [
+      "2320",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "02",
+      "BERMUDA",
+      "331"
+    ],
+    [
+      "2320",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "03",
+      "BERMUDA",
+      "331"
+    ],
+    [
+      "2320",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "04",
+      "BERMUDA",
+      "331"
+    ],
+    [
+      "2320",
+      "PRIMARY METAL MANUFACTURING",
+      "2500",
+      "2024",
+      "05",
+      "BERMUDA",
+      "331"
+    ],
+    [
+      "2320",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "331"
+    ],
+    [
+      "2320",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "331"
+    ],
+    [
+      "2320",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "331"
+    ],
+    [
+      "2320",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "331"
+    ],
+    [
+      "2320",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "331"
+    ],
+    [
+      "2320",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "331"
+    ],
+    [
+      "2320",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "331"
+    ],
+    [
+      "2320",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1188321",
+      "2024",
+      "01",
+      "BERMUDA",
+      "-"
+    ],
+    [
+      "2320",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "580751",
+      "2024",
+      "02",
+      "BERMUDA",
+      "-"
+    ],
+    [
+      "2320",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "600389",
+      "2024",
+      "03",
+      "BERMUDA",
+      "-"
+    ],
+    [
+      "2320",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1585573",
+      "2024",
+      "04",
+      "BERMUDA",
+      "-"
+    ],
+    [
+      "2320",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "5285733",
+      "2024",
+      "05",
+      "BERMUDA",
+      "-"
+    ],
+    [
+      "2320",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "913472",
+      "2024",
+      "06",
+      "BERMUDA",
+      "-"
+    ],
+    [
+      "2320",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "4221949",
+      "2024",
+      "07",
+      "BERMUDA",
+      "-"
+    ],
+    [
+      "2320",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2845066",
+      "2024",
+      "08",
+      "BERMUDA",
+      "-"
+    ],
+    [
+      "2320",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1586617",
+      "2024",
+      "09",
+      "BERMUDA",
+      "-"
+    ],
+    [
+      "2320",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1965187",
+      "2024",
+      "10",
+      "BERMUDA",
+      "-"
+    ],
+    [
+      "2320",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1732961",
+      "2024",
+      "11",
+      "BERMUDA",
+      "-"
+    ],
+    [
+      "2320",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "822249",
+      "2024",
+      "12",
+      "BERMUDA",
+      "-"
+    ],
+    [
+      "2320",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "3000",
+      "2024",
+      "07",
+      "BERMUDA",
+      "11"
+    ],
+    [
+      "2320",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "11"
+    ],
+    [
+      "2320",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "15000",
+      "2024",
+      "09",
+      "BERMUDA",
+      "11"
+    ],
+    [
+      "2320",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "11"
+    ],
+    [
+      "2320",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "11"
+    ],
+    [
+      "2320",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "11"
+    ],
+    [
+      "2320",
+      "OTHER ANIMALS",
+      "3000",
+      "2024",
+      "07",
+      "BERMUDA",
+      "1129"
+    ],
+    [
+      "2320",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "1129"
+    ],
+    [
+      "2320",
+      "OTHER ANIMALS",
+      "15000",
+      "2024",
+      "09",
+      "BERMUDA",
+      "1129"
+    ],
+    [
+      "2320",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "1129"
+    ],
+    [
+      "2320",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "1129"
+    ],
+    [
+      "2320",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "1129"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART1",
+      "20975",
+      "2024",
+      "02",
+      "BERMUDA",
+      "31"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART1",
+      "77066",
+      "2024",
+      "03",
+      "BERMUDA",
+      "31"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART1",
+      "72366",
+      "2024",
+      "04",
+      "BERMUDA",
+      "31"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "31"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART1",
+      "72366",
+      "2024",
+      "06",
+      "BERMUDA",
+      "31"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART1",
+      "84748",
+      "2024",
+      "07",
+      "BERMUDA",
+      "31"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART1",
+      "90195",
+      "2024",
+      "08",
+      "BERMUDA",
+      "31"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART1",
+      "77066",
+      "2024",
+      "09",
+      "BERMUDA",
+      "31"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART1",
+      "72198",
+      "2024",
+      "10",
+      "BERMUDA",
+      "31"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART1",
+      "87366",
+      "2024",
+      "11",
+      "BERMUDA",
+      "31"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART1",
+      "77442",
+      "2024",
+      "12",
+      "BERMUDA",
+      "31"
+    ],
+    [
+      "2320",
+      "MANUFACTURED GOODS",
+      "10100",
+      "2024",
+      "01",
+      "BERMUDA",
+      "31-33"
+    ],
+    [
+      "2320",
+      "MANUFACTURED GOODS",
+      "75975",
+      "2024",
+      "02",
+      "BERMUDA",
+      "31-33"
+    ],
+    [
+      "2320",
+      "MANUFACTURED GOODS",
+      "91632",
+      "2024",
+      "03",
+      "BERMUDA",
+      "31-33"
+    ],
+    [
+      "2320",
+      "MANUFACTURED GOODS",
+      "806000",
+      "2024",
+      "04",
+      "BERMUDA",
+      "31-33"
+    ],
+    [
+      "2320",
+      "MANUFACTURED GOODS",
+      "263658",
+      "2024",
+      "05",
+      "BERMUDA",
+      "31-33"
+    ],
+    [
+      "2320",
+      "MANUFACTURED GOODS",
+      "87922",
+      "2024",
+      "06",
+      "BERMUDA",
+      "31-33"
+    ],
+    [
+      "2320",
+      "MANUFACTURED GOODS",
+      "876437",
+      "2024",
+      "07",
+      "BERMUDA",
+      "31-33"
+    ],
+    [
+      "2320",
+      "MANUFACTURED GOODS",
+      "140710",
+      "2024",
+      "08",
+      "BERMUDA",
+      "31-33"
+    ],
+    [
+      "2320",
+      "MANUFACTURED GOODS",
+      "162691",
+      "2024",
+      "09",
+      "BERMUDA",
+      "31-33"
+    ],
+    [
+      "2320",
+      "MANUFACTURED GOODS",
+      "116690",
+      "2024",
+      "10",
+      "BERMUDA",
+      "31-33"
+    ],
+    [
+      "2320",
+      "MANUFACTURED GOODS",
+      "126000",
+      "2024",
+      "11",
+      "BERMUDA",
+      "31-33"
+    ],
+    [
+      "2320",
+      "MANUFACTURED GOODS",
+      "191904",
+      "2024",
+      "12",
+      "BERMUDA",
+      "31-33"
+    ],
+    [
+      "2320",
+      "BEVERAGES",
+      "20975",
+      "2024",
+      "02",
+      "BERMUDA",
+      "3121"
+    ],
+    [
+      "2320",
+      "BEVERAGES",
+      "77066",
+      "2024",
+      "03",
+      "BERMUDA",
+      "3121"
+    ],
+    [
+      "2320",
+      "BEVERAGES",
+      "72366",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3121"
+    ],
+    [
+      "2320",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3121"
+    ],
+    [
+      "2320",
+      "BEVERAGES",
+      "72366",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3121"
+    ],
+    [
+      "2320",
+      "BEVERAGES",
+      "77747",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3121"
+    ],
+    [
+      "2320",
+      "BEVERAGES",
+      "90195",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3121"
+    ],
+    [
+      "2320",
+      "BEVERAGES",
+      "77066",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3121"
+    ],
+    [
+      "2320",
+      "BEVERAGES",
+      "72198",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3121"
+    ],
+    [
+      "2320",
+      "BEVERAGES",
+      "86466",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3121"
+    ],
+    [
+      "2320",
+      "BEVERAGES",
+      "77442",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3121"
+    ],
+    [
+      "2320",
+      "TEXTILE MILL PRODUCTS",
+      "7001",
+      "2024",
+      "07",
+      "BERMUDA",
+      "314"
+    ],
+    [
+      "2320",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "314"
+    ],
+    [
+      "2320",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "314"
+    ],
+    [
+      "2320",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "314"
+    ],
+    [
+      "2320",
+      "TEXTILE MILL PRODUCTS",
+      "900",
+      "2024",
+      "11",
+      "BERMUDA",
+      "314"
+    ],
+    [
+      "2320",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "314"
+    ],
+    [
+      "2320",
+      "TEXTILE FURNISHINGS",
+      "7001",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3141"
+    ],
+    [
+      "2320",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3141"
+    ],
+    [
+      "2320",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3141"
+    ],
+    [
+      "2320",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3141"
+    ],
+    [
+      "2320",
+      "TEXTILE FURNISHINGS",
+      "900",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3141"
+    ],
+    [
+      "2320",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3141"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 2",
+      "332339",
+      "2024",
+      "04",
+      "BERMUDA",
+      "32"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 2",
+      "60380",
+      "2024",
+      "05",
+      "BERMUDA",
+      "32"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 2",
+      "3810",
+      "2024",
+      "06",
+      "BERMUDA",
+      "32"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "32"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 2",
+      "2500",
+      "2024",
+      "08",
+      "BERMUDA",
+      "32"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 2",
+      "77163",
+      "2024",
+      "09",
+      "BERMUDA",
+      "32"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 2",
+      "8964",
+      "2024",
+      "10",
+      "BERMUDA",
+      "32"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "32"
+    ],
+    [
+      "2320",
+      "MANUFACTURING, PART 2",
+      "5166",
+      "2024",
+      "12",
+      "BERMUDA",
+      "32"
+    ],
+    [
+      "2320",
+      "OTHER WOOD PRODUCTS",
+      "6000",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3219"
+    ],
+    [
+      "2320",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3219"
+    ],
+    [
+      "2320",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3219"
+    ],
+    [
+      "2320",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3219"
+    ],
+    [
+      "2320",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3219"
+    ],
+    [
+      "2320",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3219"
+    ],
+    [
+      "2320",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3219"
+    ],
+    [
+      "2320",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3219"
+    ],
+    [
+      "2320",
+      "INDUSTRIAL MACHINERY",
+      "5000",
+      "2024",
+      "02",
+      "BERMUDA",
+      "3332"
+    ],
+    [
+      "2320",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "03",
+      "BERMUDA",
+      "3332"
+    ],
+    [
+      "2320",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3332"
+    ],
+    [
+      "2320",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3332"
+    ],
+    [
+      "2320",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3332"
+    ],
+    [
+      "2320",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3332"
+    ],
+    [
+      "2320",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3332"
+    ],
+    [
+      "2320",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3332"
+    ],
+    [
+      "2320",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3332"
+    ],
+    [
+      "2320",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3332"
+    ],
+    [
+      "2320",
+      "INDUSTRIAL MACHINERY",
+      "8575",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3332"
+    ],
+    [
+      "2320",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "11000",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3333"
+    ],
+    [
+      "2320",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3333"
+    ],
+    [
+      "2320",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "10150",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3333"
+    ],
+    [
+      "2320",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "9400",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3333"
+    ],
+    [
+      "2320",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3333"
+    ],
+    [
+      "2320",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3333"
+    ],
+    [
+      "2320",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3333"
+    ],
+    [
+      "2320",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3333"
+    ],
+    [
+      "2320",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "4000",
+      "2024",
+      "01",
+      "BERMUDA",
+      "3334"
+    ],
+    [
+      "2320",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "BERMUDA",
+      "3334"
+    ],
+    [
+      "2320",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "BERMUDA",
+      "3334"
+    ],
+    [
+      "2320",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3334"
+    ],
+    [
+      "2320",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3334"
+    ],
+    [
+      "2320",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3334"
+    ],
+    [
+      "2320",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3334"
+    ],
+    [
+      "2320",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3334"
+    ],
+    [
+      "2320",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3334"
+    ],
+    [
+      "2320",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3334"
+    ],
+    [
+      "2320",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3334"
+    ],
+    [
+      "2320",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3334"
+    ],
+    [
+      "2320",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "2500",
+      "2024",
+      "03",
+      "BERMUDA",
+      "3339"
+    ],
+    [
+      "2320",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3339"
+    ],
+    [
+      "2320",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "2500",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3339"
+    ],
+    [
+      "2320",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3339"
+    ],
+    [
+      "2320",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3339"
+    ],
+    [
+      "2320",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3339"
+    ],
+    [
+      "2320",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3339"
+    ],
+    [
+      "2320",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3339"
+    ],
+    [
+      "2320",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3339"
+    ],
+    [
+      "2320",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3339"
+    ],
+    [
+      "2320",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "3100",
+      "2024",
+      "01",
+      "BERMUDA",
+      "334"
+    ],
+    [
+      "2320",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "BERMUDA",
+      "334"
+    ],
+    [
+      "2320",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "BERMUDA",
+      "334"
+    ],
+    [
+      "2320",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "71548",
+      "2024",
+      "04",
+      "BERMUDA",
+      "334"
+    ],
+    [
+      "2320",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "151278",
+      "2024",
+      "05",
+      "BERMUDA",
+      "334"
+    ],
+    [
+      "2320",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "4000",
+      "2024",
+      "06",
+      "BERMUDA",
+      "334"
+    ],
+    [
+      "2320",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "30000",
+      "2024",
+      "07",
+      "BERMUDA",
+      "334"
+    ],
+    [
+      "2320",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "10500",
+      "2024",
+      "08",
+      "BERMUDA",
+      "334"
+    ],
+    [
+      "2320",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "2200",
+      "2024",
+      "09",
+      "BERMUDA",
+      "334"
+    ],
+    [
+      "2320",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "2154",
+      "2024",
+      "10",
+      "BERMUDA",
+      "334"
+    ],
+    [
+      "2320",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "11500",
+      "2024",
+      "11",
+      "BERMUDA",
+      "334"
+    ],
+    [
+      "2320",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "39896",
+      "2024",
+      "12",
+      "BERMUDA",
+      "334"
+    ],
+    [
+      "2320",
+      "COMPUTER EQUIPMENT",
+      "4000",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3341"
+    ],
+    [
+      "2320",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3341"
+    ],
+    [
+      "2320",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3341"
+    ],
+    [
+      "2320",
+      "COMPUTER EQUIPMENT",
+      "2200",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3341"
+    ],
+    [
+      "2320",
+      "COMPUTER EQUIPMENT",
+      "2154",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3341"
+    ],
+    [
+      "2320",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3341"
+    ],
+    [
+      "2320",
+      "COMPUTER EQUIPMENT",
+      "4636",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3341"
+    ],
+    [
+      "2320",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "30000",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3343"
+    ],
+    [
+      "2320",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "7000",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3343"
+    ],
+    [
+      "2320",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3343"
+    ],
+    [
+      "2320",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3343"
+    ],
+    [
+      "2320",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "3000",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3343"
+    ],
+    [
+      "2320",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "7000",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3343"
+    ],
+    [
+      "2320",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "3000",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3344"
+    ],
+    [
+      "2320",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "3100",
+      "2024",
+      "01",
+      "BERMUDA",
+      "3345"
+    ],
+    [
+      "2320",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "02",
+      "BERMUDA",
+      "3345"
+    ],
+    [
+      "2320",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "03",
+      "BERMUDA",
+      "3345"
+    ],
+    [
+      "2320",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "71548",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3345"
+    ],
+    [
+      "2320",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "151278",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3345"
+    ],
+    [
+      "2320",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3345"
+    ],
+    [
+      "2320",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3345"
+    ],
+    [
+      "2320",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "3500",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3345"
+    ],
+    [
+      "2320",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3345"
+    ],
+    [
+      "2320",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3345"
+    ],
+    [
+      "2320",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "8500",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3345"
+    ],
+    [
+      "2320",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3345"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "289947",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3352"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3352"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3352"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3352"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3352"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3352"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3352"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3352"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3352"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT",
+      "3425",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3353"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3353"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3353"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3353"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT",
+      "3000",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3353"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3353"
+    ],
+    [
+      "2320",
+      "TRANSPORTATION EQUIPMENT",
+      "20000",
+      "2024",
+      "02",
+      "BERMUDA",
+      "336"
+    ],
+    [
+      "2320",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "BERMUDA",
+      "336"
+    ],
+    [
+      "2320",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "BERMUDA",
+      "336"
+    ],
+    [
+      "2320",
+      "TRANSPORTATION EQUIPMENT",
+      "30000",
+      "2024",
+      "05",
+      "BERMUDA",
+      "336"
+    ],
+    [
+      "2320",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "336"
+    ],
+    [
+      "2320",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "336"
+    ],
+    [
+      "2320",
+      "TRANSPORTATION EQUIPMENT",
+      "5000",
+      "2024",
+      "08",
+      "BERMUDA",
+      "336"
+    ],
+    [
+      "2320",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "336"
+    ],
+    [
+      "2320",
+      "TRANSPORTATION EQUIPMENT",
+      "25873",
+      "2024",
+      "10",
+      "BERMUDA",
+      "336"
+    ],
+    [
+      "2320",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "336"
+    ],
+    [
+      "2320",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "336"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "35085",
+      "2024",
+      "01",
+      "BERMUDA",
+      "91"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "30259",
+      "2024",
+      "02",
+      "BERMUDA",
+      "91"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "44095",
+      "2024",
+      "03",
+      "BERMUDA",
+      "91"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "32895",
+      "2024",
+      "04",
+      "BERMUDA",
+      "91"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "40012",
+      "2024",
+      "05",
+      "BERMUDA",
+      "91"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "52581",
+      "2024",
+      "06",
+      "BERMUDA",
+      "91"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "36783",
+      "2024",
+      "07",
+      "BERMUDA",
+      "91"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "47679",
+      "2024",
+      "08",
+      "BERMUDA",
+      "91"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "36101",
+      "2024",
+      "09",
+      "BERMUDA",
+      "91"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "52425",
+      "2024",
+      "10",
+      "BERMUDA",
+      "91"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "47597",
+      "2024",
+      "11",
+      "BERMUDA",
+      "91"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "46969",
+      "2024",
+      "12",
+      "BERMUDA",
+      "91"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "35085",
+      "2024",
+      "01",
+      "BERMUDA",
+      "910"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "30259",
+      "2024",
+      "02",
+      "BERMUDA",
+      "910"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "44095",
+      "2024",
+      "03",
+      "BERMUDA",
+      "910"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "32895",
+      "2024",
+      "04",
+      "BERMUDA",
+      "910"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "40012",
+      "2024",
+      "05",
+      "BERMUDA",
+      "910"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "52581",
+      "2024",
+      "06",
+      "BERMUDA",
+      "910"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "36783",
+      "2024",
+      "07",
+      "BERMUDA",
+      "910"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "47679",
+      "2024",
+      "08",
+      "BERMUDA",
+      "910"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "36101",
+      "2024",
+      "09",
+      "BERMUDA",
+      "910"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "52425",
+      "2024",
+      "10",
+      "BERMUDA",
+      "910"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "47597",
+      "2024",
+      "11",
+      "BERMUDA",
+      "910"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "46969",
+      "2024",
+      "12",
+      "BERMUDA",
+      "910"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "35085",
+      "2024",
+      "01",
+      "BERMUDA",
+      "9100"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "30259",
+      "2024",
+      "02",
+      "BERMUDA",
+      "9100"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "44095",
+      "2024",
+      "03",
+      "BERMUDA",
+      "9100"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "32895",
+      "2024",
+      "04",
+      "BERMUDA",
+      "9100"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "40012",
+      "2024",
+      "05",
+      "BERMUDA",
+      "9100"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "52581",
+      "2024",
+      "06",
+      "BERMUDA",
+      "9100"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "36783",
+      "2024",
+      "07",
+      "BERMUDA",
+      "9100"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "47679",
+      "2024",
+      "08",
+      "BERMUDA",
+      "9100"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "36101",
+      "2024",
+      "09",
+      "BERMUDA",
+      "9100"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "52425",
+      "2024",
+      "10",
+      "BERMUDA",
+      "9100"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "47597",
+      "2024",
+      "11",
+      "BERMUDA",
+      "9100"
+    ],
+    [
+      "2320",
+      "WASTE AND SCRAP",
+      "46969",
+      "2024",
+      "12",
+      "BERMUDA",
+      "9100"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "106596",
+      "2024",
+      "05",
+      "BERMUDA",
+      "93"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "17000",
+      "2024",
+      "06",
+      "BERMUDA",
+      "93"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "93"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "93"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2400",
+      "2024",
+      "09",
+      "BERMUDA",
+      "93"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "84044",
+      "2024",
+      "10",
+      "BERMUDA",
+      "93"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2250",
+      "2024",
+      "11",
+      "BERMUDA",
+      "93"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2436",
+      "2024",
+      "12",
+      "BERMUDA",
+      "93"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "106596",
+      "2024",
+      "05",
+      "BERMUDA",
+      "930"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "17000",
+      "2024",
+      "06",
+      "BERMUDA",
+      "930"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "930"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "930"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2400",
+      "2024",
+      "09",
+      "BERMUDA",
+      "930"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "84044",
+      "2024",
+      "10",
+      "BERMUDA",
+      "930"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2250",
+      "2024",
+      "11",
+      "BERMUDA",
+      "930"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2436",
+      "2024",
+      "12",
+      "BERMUDA",
+      "930"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "106596",
+      "2024",
+      "05",
+      "BERMUDA",
+      "9300"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "17000",
+      "2024",
+      "06",
+      "BERMUDA",
+      "9300"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "9300"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "9300"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2400",
+      "2024",
+      "09",
+      "BERMUDA",
+      "9300"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "84044",
+      "2024",
+      "10",
+      "BERMUDA",
+      "9300"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2250",
+      "2024",
+      "11",
+      "BERMUDA",
+      "9300"
+    ],
+    [
+      "2320",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2436",
+      "2024",
+      "12",
+      "BERMUDA",
+      "9300"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1092444",
+      "2024",
+      "01",
+      "BERMUDA",
+      "980"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "427224",
+      "2024",
+      "02",
+      "BERMUDA",
+      "980"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "428238",
+      "2024",
+      "03",
+      "BERMUDA",
+      "980"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "667137",
+      "2024",
+      "04",
+      "BERMUDA",
+      "980"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4770453",
+      "2024",
+      "05",
+      "BERMUDA",
+      "980"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "707675",
+      "2024",
+      "06",
+      "BERMUDA",
+      "980"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3264372",
+      "2024",
+      "07",
+      "BERMUDA",
+      "980"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "2588203",
+      "2024",
+      "08",
+      "BERMUDA",
+      "980"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1326627",
+      "2024",
+      "09",
+      "BERMUDA",
+      "980"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1656348",
+      "2024",
+      "10",
+      "BERMUDA",
+      "980"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1484466",
+      "2024",
+      "11",
+      "BERMUDA",
+      "980"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "536498",
+      "2024",
+      "12",
+      "BERMUDA",
+      "980"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "50692",
+      "2024",
+      "01",
+      "BERMUDA",
+      "990"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "47293",
+      "2024",
+      "02",
+      "BERMUDA",
+      "990"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "36424",
+      "2024",
+      "03",
+      "BERMUDA",
+      "990"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "79541",
+      "2024",
+      "04",
+      "BERMUDA",
+      "990"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "105014",
+      "2024",
+      "05",
+      "BERMUDA",
+      "990"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "48294",
+      "2024",
+      "06",
+      "BERMUDA",
+      "990"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41357",
+      "2024",
+      "07",
+      "BERMUDA",
+      "990"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "68474",
+      "2024",
+      "08",
+      "BERMUDA",
+      "990"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "43798",
+      "2024",
+      "09",
+      "BERMUDA",
+      "990"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "55680",
+      "2024",
+      "10",
+      "BERMUDA",
+      "990"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "72648",
+      "2024",
+      "11",
+      "BERMUDA",
+      "990"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "44442",
+      "2024",
+      "12",
+      "BERMUDA",
+      "990"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "50692",
+      "2024",
+      "01",
+      "BERMUDA",
+      "9900"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "47293",
+      "2024",
+      "02",
+      "BERMUDA",
+      "9900"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "36424",
+      "2024",
+      "03",
+      "BERMUDA",
+      "9900"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "79541",
+      "2024",
+      "04",
+      "BERMUDA",
+      "9900"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "105014",
+      "2024",
+      "05",
+      "BERMUDA",
+      "9900"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "48294",
+      "2024",
+      "06",
+      "BERMUDA",
+      "9900"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41357",
+      "2024",
+      "07",
+      "BERMUDA",
+      "9900"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "68474",
+      "2024",
+      "08",
+      "BERMUDA",
+      "9900"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "43798",
+      "2024",
+      "09",
+      "BERMUDA",
+      "9900"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "55680",
+      "2024",
+      "10",
+      "BERMUDA",
+      "9900"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "72648",
+      "2024",
+      "11",
+      "BERMUDA",
+      "9900"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "44442",
+      "2024",
+      "12",
+      "BERMUDA",
+      "9900"
+    ],
+    [
+      "2320",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "2500",
+      "2024",
+      "08",
+      "BERMUDA",
+      "323"
+    ],
+    [
+      "2320",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "323"
+    ],
+    [
+      "2320",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "323"
+    ],
+    [
+      "2320",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "323"
+    ],
+    [
+      "2320",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "323"
+    ],
+    [
+      "2320",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "20975",
+      "2024",
+      "02",
+      "BERMUDA",
+      "312"
+    ],
+    [
+      "2320",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "77066",
+      "2024",
+      "03",
+      "BERMUDA",
+      "312"
+    ],
+    [
+      "2320",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "72366",
+      "2024",
+      "04",
+      "BERMUDA",
+      "312"
+    ],
+    [
+      "2320",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "312"
+    ],
+    [
+      "2320",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "72366",
+      "2024",
+      "06",
+      "BERMUDA",
+      "312"
+    ],
+    [
+      "2320",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "77747",
+      "2024",
+      "07",
+      "BERMUDA",
+      "312"
+    ],
+    [
+      "2320",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "90195",
+      "2024",
+      "08",
+      "BERMUDA",
+      "312"
+    ],
+    [
+      "2320",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "77066",
+      "2024",
+      "09",
+      "BERMUDA",
+      "312"
+    ],
+    [
+      "2320",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "72198",
+      "2024",
+      "10",
+      "BERMUDA",
+      "312"
+    ],
+    [
+      "2320",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "86466",
+      "2024",
+      "11",
+      "BERMUDA",
+      "312"
+    ],
+    [
+      "2320",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "77442",
+      "2024",
+      "12",
+      "BERMUDA",
+      "312"
+    ],
+    [
+      "2320",
+      "WOOD PRODUCTS",
+      "6000",
+      "2024",
+      "05",
+      "BERMUDA",
+      "321"
+    ],
+    [
+      "2320",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "321"
+    ],
+    [
+      "2320",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "321"
+    ],
+    [
+      "2320",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "321"
+    ],
+    [
+      "2320",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "321"
+    ],
+    [
+      "2320",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "321"
+    ],
+    [
+      "2320",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "321"
+    ],
+    [
+      "2320",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "321"
+    ],
+    [
+      "2320",
+      "COMMUNICATIONS EQUIPMENT",
+      "25260",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3342"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "304547",
+      "2024",
+      "04",
+      "BERMUDA",
+      "335"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "6000",
+      "2024",
+      "05",
+      "BERMUDA",
+      "335"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "335"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "15789",
+      "2024",
+      "07",
+      "BERMUDA",
+      "335"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "335"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "335"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "335"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "3000",
+      "2024",
+      "11",
+      "BERMUDA",
+      "335"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "335"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "14600",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3359"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "6000",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3359"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3359"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "12364",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3359"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3359"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3359"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3359"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3359"
+    ],
+    [
+      "2320",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3359"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1092444",
+      "2024",
+      "01",
+      "BERMUDA",
+      "98"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "427224",
+      "2024",
+      "02",
+      "BERMUDA",
+      "98"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "428238",
+      "2024",
+      "03",
+      "BERMUDA",
+      "98"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "667137",
+      "2024",
+      "04",
+      "BERMUDA",
+      "98"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4770453",
+      "2024",
+      "05",
+      "BERMUDA",
+      "98"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "707675",
+      "2024",
+      "06",
+      "BERMUDA",
+      "98"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3264372",
+      "2024",
+      "07",
+      "BERMUDA",
+      "98"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "2588203",
+      "2024",
+      "08",
+      "BERMUDA",
+      "98"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1326627",
+      "2024",
+      "09",
+      "BERMUDA",
+      "98"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1656348",
+      "2024",
+      "10",
+      "BERMUDA",
+      "98"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1484466",
+      "2024",
+      "11",
+      "BERMUDA",
+      "98"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "536498",
+      "2024",
+      "12",
+      "BERMUDA",
+      "98"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1092444",
+      "2024",
+      "01",
+      "BERMUDA",
+      "9800"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "427224",
+      "2024",
+      "02",
+      "BERMUDA",
+      "9800"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "428238",
+      "2024",
+      "03",
+      "BERMUDA",
+      "9800"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "667137",
+      "2024",
+      "04",
+      "BERMUDA",
+      "9800"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4770453",
+      "2024",
+      "05",
+      "BERMUDA",
+      "9800"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "707675",
+      "2024",
+      "06",
+      "BERMUDA",
+      "9800"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3264372",
+      "2024",
+      "07",
+      "BERMUDA",
+      "9800"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "2588203",
+      "2024",
+      "08",
+      "BERMUDA",
+      "9800"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1326627",
+      "2024",
+      "09",
+      "BERMUDA",
+      "9800"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1656348",
+      "2024",
+      "10",
+      "BERMUDA",
+      "9800"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1484466",
+      "2024",
+      "11",
+      "BERMUDA",
+      "9800"
+    ],
+    [
+      "2320",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "536498",
+      "2024",
+      "12",
+      "BERMUDA",
+      "9800"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "50692",
+      "2024",
+      "01",
+      "BERMUDA",
+      "99"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "47293",
+      "2024",
+      "02",
+      "BERMUDA",
+      "99"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "36424",
+      "2024",
+      "03",
+      "BERMUDA",
+      "99"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "79541",
+      "2024",
+      "04",
+      "BERMUDA",
+      "99"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "105014",
+      "2024",
+      "05",
+      "BERMUDA",
+      "99"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "48294",
+      "2024",
+      "06",
+      "BERMUDA",
+      "99"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41357",
+      "2024",
+      "07",
+      "BERMUDA",
+      "99"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "68474",
+      "2024",
+      "08",
+      "BERMUDA",
+      "99"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "43798",
+      "2024",
+      "09",
+      "BERMUDA",
+      "99"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "55680",
+      "2024",
+      "10",
+      "BERMUDA",
+      "99"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "72648",
+      "2024",
+      "11",
+      "BERMUDA",
+      "99"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "44442",
+      "2024",
+      "12",
+      "BERMUDA",
+      "99"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "5000",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3371"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3371"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3371"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3371"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3371"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3371"
+    ],
+    [
+      "2320",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3371"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "12066",
+      "2024",
+      "03",
+      "BERMUDA",
+      "339"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "25200",
+      "2024",
+      "04",
+      "BERMUDA",
+      "339"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "339"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2746",
+      "2024",
+      "06",
+      "BERMUDA",
+      "339"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "735750",
+      "2024",
+      "07",
+      "BERMUDA",
+      "339"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "23115",
+      "2024",
+      "08",
+      "BERMUDA",
+      "339"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "5992",
+      "2024",
+      "09",
+      "BERMUDA",
+      "339"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2508",
+      "2024",
+      "10",
+      "BERMUDA",
+      "339"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "24134",
+      "2024",
+      "11",
+      "BERMUDA",
+      "339"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "53825",
+      "2024",
+      "12",
+      "BERMUDA",
+      "339"
+    ],
+    [
+      "2320",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "30000",
+      "2024",
+      "02",
+      "BERMUDA",
+      "3324"
+    ],
+    [
+      "2320",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "03",
+      "BERMUDA",
+      "3324"
+    ],
+    [
+      "2320",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3324"
+    ],
+    [
+      "2320",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3324"
+    ],
+    [
+      "2320",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3324"
+    ],
+    [
+      "2320",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3324"
+    ],
+    [
+      "2320",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3324"
+    ],
+    [
+      "2320",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3324"
+    ],
+    [
+      "2320",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3324"
+    ],
+    [
+      "2320",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3324"
+    ],
+    [
+      "2320",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3324"
+    ],
+    [
+      "2320",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "3000",
+      "2024",
+      "07",
+      "BERMUDA",
+      "112"
+    ],
+    [
+      "2320",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "112"
+    ],
+    [
+      "2320",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "15000",
+      "2024",
+      "09",
+      "BERMUDA",
+      "112"
+    ],
+    [
+      "2320",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "112"
+    ],
+    [
+      "2320",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "112"
+    ],
+    [
+      "2320",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "112"
+    ],
+    [
+      "2320",
+      "MOTOR VEHICLE PARTS",
+      "20000",
+      "2024",
+      "02",
+      "BERMUDA",
+      "3363"
+    ],
+    [
+      "2320",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "03",
+      "BERMUDA",
+      "3363"
+    ],
+    [
+      "2320",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3363"
+    ],
+    [
+      "2320",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3363"
+    ],
+    [
+      "2320",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3363"
+    ],
+    [
+      "2320",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3363"
+    ],
+    [
+      "2320",
+      "MOTOR VEHICLE PARTS",
+      "5000",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3363"
+    ],
+    [
+      "2320",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3363"
+    ],
+    [
+      "2320",
+      "MOTOR VEHICLE PARTS",
+      "25873",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3363"
+    ],
+    [
+      "2320",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3363"
+    ],
+    [
+      "2320",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3363"
+    ],
+    [
+      "2320",
+      "SHIPS AND BOATS",
+      "30000",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3366"
+    ],
+    [
+      "2320",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3366"
+    ],
+    [
+      "2320",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3366"
+    ],
+    [
+      "2320",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3366"
+    ],
+    [
+      "2320",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3366"
+    ],
+    [
+      "2320",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3366"
+    ],
+    [
+      "2320",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3366"
+    ],
+    [
+      "2320",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3366"
+    ],
+    [
+      "2320",
+      "FURNITURE AND FIXTURES",
+      "5000",
+      "2024",
+      "06",
+      "BERMUDA",
+      "337"
+    ],
+    [
+      "2320",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "337"
+    ],
+    [
+      "2320",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "337"
+    ],
+    [
+      "2320",
+      "FURNITURE AND FIXTURES",
+      "270",
+      "2024",
+      "09",
+      "BERMUDA",
+      "337"
+    ],
+    [
+      "2320",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "337"
+    ],
+    [
+      "2320",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "337"
+    ],
+    [
+      "2320",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "337"
+    ],
+    [
+      "2320",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "270",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3372"
+    ],
+    [
+      "2320",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3372"
+    ],
+    [
+      "2320",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3372"
+    ],
+    [
+      "2320",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3372"
+    ],
+    [
+      "2320",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "15200",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3391"
+    ],
+    [
+      "2320",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3391"
+    ],
+    [
+      "2320",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "2746",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3391"
+    ],
+    [
+      "2320",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3391"
+    ],
+    [
+      "2320",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "3900",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3391"
+    ],
+    [
+      "2320",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "3142",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3391"
+    ],
+    [
+      "2320",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "2508",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3391"
+    ],
+    [
+      "2320",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "18269",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3391"
+    ],
+    [
+      "2320",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3391"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "12066",
+      "2024",
+      "03",
+      "BERMUDA",
+      "3399"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "10000",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3399"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3399"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3399"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "735750",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3399"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "19215",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3399"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2850",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3399"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3399"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "5865",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3399"
+    ],
+    [
+      "2320",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "53825",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3399"
+    ],
+    [
+      "2320",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "3000",
+      "2024",
+      "01",
+      "BERMUDA",
+      "3314"
+    ],
+    [
+      "2320",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "02",
+      "BERMUDA",
+      "3314"
+    ],
+    [
+      "2320",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "03",
+      "BERMUDA",
+      "3314"
+    ],
+    [
+      "2320",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "04",
+      "BERMUDA",
+      "3314"
+    ],
+    [
+      "2320",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "2500",
+      "2024",
+      "05",
+      "BERMUDA",
+      "3314"
+    ],
+    [
+      "2320",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "3314"
+    ],
+    [
+      "2320",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "3314"
+    ],
+    [
+      "2320",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "3314"
+    ],
+    [
+      "2320",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "3314"
+    ],
+    [
+      "2320",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3314"
+    ],
+    [
+      "2320",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3314"
+    ],
+    [
+      "2320",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3314"
+    ],
+    [
+      "2320",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "30000",
+      "2024",
+      "02",
+      "BERMUDA",
+      "332"
+    ],
+    [
+      "2320",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "BERMUDA",
+      "332"
+    ],
+    [
+      "2320",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "BERMUDA",
+      "332"
+    ],
+    [
+      "2320",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "BERMUDA",
+      "332"
+    ],
+    [
+      "2320",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "332"
+    ],
+    [
+      "2320",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "BERMUDA",
+      "332"
+    ],
+    [
+      "2320",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BERMUDA",
+      "332"
+    ],
+    [
+      "2320",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "332"
+    ],
+    [
+      "2320",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "4993",
+      "2024",
+      "10",
+      "BERMUDA",
+      "332"
+    ],
+    [
+      "2320",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "332"
+    ],
+    [
+      "2320",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "7000",
+      "2024",
+      "12",
+      "BERMUDA",
+      "332"
+    ],
+    [
+      "2320",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "4993",
+      "2024",
+      "10",
+      "BERMUDA",
+      "3329"
+    ],
+    [
+      "2320",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "3329"
+    ],
+    [
+      "2320",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "7000",
+      "2024",
+      "12",
+      "BERMUDA",
+      "3329"
+    ],
+    [
+      "2320",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "4000",
+      "2024",
+      "01",
+      "BERMUDA",
+      "333"
+    ],
+    [
+      "2320",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "5000",
+      "2024",
+      "02",
+      "BERMUDA",
+      "333"
+    ],
+    [
+      "2320",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "2500",
+      "2024",
+      "03",
+      "BERMUDA",
+      "333"
+    ],
+    [
+      "2320",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "04",
+      "BERMUDA",
+      "333"
+    ],
+    [
+      "2320",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "13500",
+      "2024",
+      "05",
+      "BERMUDA",
+      "333"
+    ],
+    [
+      "2320",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "06",
+      "BERMUDA",
+      "333"
+    ],
+    [
+      "2320",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "10150",
+      "2024",
+      "07",
+      "BERMUDA",
+      "333"
+    ],
+    [
+      "2320",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "9400",
+      "2024",
+      "08",
+      "BERMUDA",
+      "333"
+    ],
+    [
+      "2320",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "09",
+      "BERMUDA",
+      "333"
+    ],
+    [
+      "2320",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "10",
+      "BERMUDA",
+      "333"
+    ],
+    [
+      "2320",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "11",
+      "BERMUDA",
+      "333"
+    ],
+    [
+      "2320",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "8575",
+      "2024",
+      "12",
+      "BERMUDA",
+      "333"
+    ]
+  ]
+}

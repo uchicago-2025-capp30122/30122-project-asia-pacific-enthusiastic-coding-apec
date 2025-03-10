@@ -1,0 +1,9623 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:33:35 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4b5f89b981931d940ef68c60241ec45ee841bcb846625f456770e92d8aa925f9642421308af96e027c1464b8e181029d9; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "7870",
+      "PAPER",
+      "723032",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "322"
+    ],
+    [
+      "7870",
+      "PAPER",
+      "982461",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "322"
+    ],
+    [
+      "7870",
+      "PAPER",
+      "491733",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "322"
+    ],
+    [
+      "7870",
+      "PAPER",
+      "291368",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "322"
+    ],
+    [
+      "7870",
+      "PAPER",
+      "157180",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "322"
+    ],
+    [
+      "7870",
+      "PAPER",
+      "1732954",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "322"
+    ],
+    [
+      "7870",
+      "PAPER",
+      "560709",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "322"
+    ],
+    [
+      "7870",
+      "PAPER",
+      "898827",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "322"
+    ],
+    [
+      "7870",
+      "PAPER",
+      "376589",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "322"
+    ],
+    [
+      "7870",
+      "PAPER",
+      "643785",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "322"
+    ],
+    [
+      "7870",
+      "PAPER",
+      "119592",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "322"
+    ],
+    [
+      "7870",
+      "PAPER",
+      "676439",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "322"
+    ],
+    [
+      "7870",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "723032",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3221"
+    ],
+    [
+      "7870",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "974101",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3221"
+    ],
+    [
+      "7870",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "491733",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3221"
+    ],
+    [
+      "7870",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "287868",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3221"
+    ],
+    [
+      "7870",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "157180",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3221"
+    ],
+    [
+      "7870",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "1732954",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3221"
+    ],
+    [
+      "7870",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "560709",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3221"
+    ],
+    [
+      "7870",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "898827",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3221"
+    ],
+    [
+      "7870",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "376589",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3221"
+    ],
+    [
+      "7870",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "643785",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3221"
+    ],
+    [
+      "7870",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3221"
+    ],
+    [
+      "7870",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "676439",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3221"
+    ],
+    [
+      "7870",
+      "CONVERTED PAPER PRODUCTS",
+      "8360",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3222"
+    ],
+    [
+      "7870",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3222"
+    ],
+    [
+      "7870",
+      "CONVERTED PAPER PRODUCTS",
+      "3500",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3222"
+    ],
+    [
+      "7870",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3222"
+    ],
+    [
+      "7870",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3222"
+    ],
+    [
+      "7870",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3222"
+    ],
+    [
+      "7870",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3222"
+    ],
+    [
+      "7870",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3222"
+    ],
+    [
+      "7870",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3222"
+    ],
+    [
+      "7870",
+      "CONVERTED PAPER PRODUCTS",
+      "119592",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3222"
+    ],
+    [
+      "7870",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3222"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "18909",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3231"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3231"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3231"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "3665",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3231"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3231"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "21980",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3231"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "8087",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3231"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3231"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3231"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3231"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "28643",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3231"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "7960000",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "324"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "324"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "10800000",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "324"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "2712107",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "324"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "4920000",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "324"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "7100000",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "324"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "5887500",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "324"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "4313521",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "324"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "2880000",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "324"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "7987756",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "324"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "4320000",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "324"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "4140806",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "324"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "7960000",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3241"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3241"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "10800000",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3241"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "2712107",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3241"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "4920000",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3241"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "7100000",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3241"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "5887500",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3241"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "4313521",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3241"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "2880000",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3241"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "7987756",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3241"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "4320000",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3241"
+    ],
+    [
+      "7870",
+      "PETROLEUM AND COAL PRODUCTS",
+      "4140806",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3241"
+    ],
+    [
+      "7870",
+      "CHEMICALS",
+      "515598",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "325"
+    ],
+    [
+      "7870",
+      "CHEMICALS",
+      "449865",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "325"
+    ],
+    [
+      "7870",
+      "CHEMICALS",
+      "653071",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "325"
+    ],
+    [
+      "7870",
+      "CHEMICALS",
+      "850795",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "325"
+    ],
+    [
+      "7870",
+      "CHEMICALS",
+      "299284",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "325"
+    ],
+    [
+      "7870",
+      "CHEMICALS",
+      "40780",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "325"
+    ],
+    [
+      "7870",
+      "CHEMICALS",
+      "172403",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "325"
+    ],
+    [
+      "7870",
+      "CHEMICALS",
+      "511965",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "325"
+    ],
+    [
+      "7870",
+      "CHEMICALS",
+      "279349",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "325"
+    ],
+    [
+      "7870",
+      "CHEMICALS",
+      "511135",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "325"
+    ],
+    [
+      "7870",
+      "CHEMICALS",
+      "868199",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "325"
+    ],
+    [
+      "7870",
+      "CHEMICALS",
+      "1428842",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "325"
+    ],
+    [
+      "7870",
+      "BASIC CHEMICALS",
+      "400000",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3251"
+    ],
+    [
+      "7870",
+      "BASIC CHEMICALS",
+      "89739",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3251"
+    ],
+    [
+      "7870",
+      "BASIC CHEMICALS",
+      "500000",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3251"
+    ],
+    [
+      "7870",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3251"
+    ],
+    [
+      "7870",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3251"
+    ],
+    [
+      "7870",
+      "BASIC CHEMICALS",
+      "3568",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3251"
+    ],
+    [
+      "7870",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3251"
+    ],
+    [
+      "7870",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3251"
+    ],
+    [
+      "7870",
+      "BASIC CHEMICALS",
+      "279840",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3251"
+    ],
+    [
+      "7870",
+      "BASIC CHEMICALS",
+      "410000",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3251"
+    ],
+    [
+      "7870",
+      "BASIC CHEMICALS",
+      "820000",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3251"
+    ],
+    [
+      "7870",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "113400",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3252"
+    ],
+    [
+      "7870",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3252"
+    ],
+    [
+      "7870",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3252"
+    ],
+    [
+      "7870",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3252"
+    ],
+    [
+      "7870",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "218353",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3252"
+    ],
+    [
+      "7870",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3252"
+    ],
+    [
+      "7870",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "140220",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3252"
+    ],
+    [
+      "7870",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "76606",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3252"
+    ],
+    [
+      "7870",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3252"
+    ],
+    [
+      "7870",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3252"
+    ],
+    [
+      "7870",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "421344",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3252"
+    ],
+    [
+      "7870",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "418049",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3252"
+    ],
+    [
+      "7870",
+      "PHARMACEUTICALS AND MEDICINES",
+      "2880",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3254"
+    ],
+    [
+      "7870",
+      "PHARMACEUTICALS AND MEDICINES",
+      "57318",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3254"
+    ],
+    [
+      "7870",
+      "PHARMACEUTICALS AND MEDICINES",
+      "22407",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3254"
+    ],
+    [
+      "7870",
+      "PHARMACEUTICALS AND MEDICINES",
+      "78115",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3254"
+    ],
+    [
+      "7870",
+      "PHARMACEUTICALS AND MEDICINES",
+      "37184",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3254"
+    ],
+    [
+      "7870",
+      "PHARMACEUTICALS AND MEDICINES",
+      "3588",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3254"
+    ],
+    [
+      "7870",
+      "PHARMACEUTICALS AND MEDICINES",
+      "4266",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3254"
+    ],
+    [
+      "7870",
+      "PHARMACEUTICALS AND MEDICINES",
+      "72630",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3254"
+    ],
+    [
+      "7870",
+      "PHARMACEUTICALS AND MEDICINES",
+      "83604",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3254"
+    ],
+    [
+      "7870",
+      "PHARMACEUTICALS AND MEDICINES",
+      "36855",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3254"
+    ],
+    [
+      "7870",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3254"
+    ],
+    [
+      "7870",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "133678",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3256"
+    ],
+    [
+      "7870",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "9570",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3256"
+    ],
+    [
+      "7870",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "32615",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3256"
+    ],
+    [
+      "7870",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3256"
+    ],
+    [
+      "7870",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3256"
+    ],
+    [
+      "7870",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3256"
+    ],
+    [
+      "7870",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "21276",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3256"
+    ],
+    [
+      "7870",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "28412",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3256"
+    ],
+    [
+      "7870",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3256"
+    ],
+    [
+      "7870",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "7425",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3256"
+    ],
+    [
+      "7870",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3256"
+    ],
+    [
+      "7870",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3256"
+    ],
+    [
+      "7870",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "268520",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3259"
+    ],
+    [
+      "7870",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3259"
+    ],
+    [
+      "7870",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "328340",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3259"
+    ],
+    [
+      "7870",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "328388",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3259"
+    ],
+    [
+      "7870",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3259"
+    ],
+    [
+      "7870",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3259"
+    ],
+    [
+      "7870",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "3751",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3259"
+    ],
+    [
+      "7870",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "402681",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3259"
+    ],
+    [
+      "7870",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "206719",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3259"
+    ],
+    [
+      "7870",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "140266",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3259"
+    ],
+    [
+      "7870",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3259"
+    ],
+    [
+      "7870",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "190793",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3259"
+    ],
+    [
+      "7870",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "342009",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "326"
+    ],
+    [
+      "7870",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "487265",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "326"
+    ],
+    [
+      "7870",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "235562",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "326"
+    ],
+    [
+      "7870",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "599679",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "326"
+    ],
+    [
+      "7870",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "1016323",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "326"
+    ],
+    [
+      "7870",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "100044",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "326"
+    ],
+    [
+      "7870",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "205784",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "326"
+    ],
+    [
+      "7870",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "4408",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "326"
+    ],
+    [
+      "7870",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "537443",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "326"
+    ],
+    [
+      "7870",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "29356",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "326"
+    ],
+    [
+      "7870",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "162431",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "326"
+    ],
+    [
+      "7870",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "977290",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "326"
+    ],
+    [
+      "7870",
+      "PLASTICS PRODUCTS",
+      "8246",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3261"
+    ],
+    [
+      "7870",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3261"
+    ],
+    [
+      "7870",
+      "PLASTICS PRODUCTS",
+      "63800",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3261"
+    ],
+    [
+      "7870",
+      "PLASTICS PRODUCTS",
+      "22027",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3261"
+    ],
+    [
+      "7870",
+      "PLASTICS PRODUCTS",
+      "8625",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3261"
+    ],
+    [
+      "7870",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3261"
+    ],
+    [
+      "7870",
+      "PLASTICS PRODUCTS",
+      "27939",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3261"
+    ],
+    [
+      "7870",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3261"
+    ],
+    [
+      "7870",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3261"
+    ],
+    [
+      "7870",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3261"
+    ],
+    [
+      "7870",
+      "PLASTICS PRODUCTS",
+      "30879",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3261"
+    ],
+    [
+      "7870",
+      "PLASTICS PRODUCTS",
+      "21250",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3261"
+    ],
+    [
+      "7870",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "6666",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "327"
+    ],
+    [
+      "7870",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "327"
+    ],
+    [
+      "7870",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "327"
+    ],
+    [
+      "7870",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "327"
+    ],
+    [
+      "7870",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "327"
+    ],
+    [
+      "7870",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "327"
+    ],
+    [
+      "7870",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "2659",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "327"
+    ],
+    [
+      "7870",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "3683",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "327"
+    ],
+    [
+      "7870",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "327"
+    ],
+    [
+      "7870",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "327"
+    ],
+    [
+      "7870",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "9100",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "327"
+    ],
+    [
+      "7870",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "8300",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "327"
+    ],
+    [
+      "7870",
+      "GLASS AND GLASS PRODUCTS",
+      "3882",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3272"
+    ],
+    [
+      "7870",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3272"
+    ],
+    [
+      "7870",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3272"
+    ],
+    [
+      "7870",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3272"
+    ],
+    [
+      "7870",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3272"
+    ],
+    [
+      "7870",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3272"
+    ],
+    [
+      "7870",
+      "GLASS AND GLASS PRODUCTS",
+      "2659",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3272"
+    ],
+    [
+      "7870",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3272"
+    ],
+    [
+      "7870",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3272"
+    ],
+    [
+      "7870",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3272"
+    ],
+    [
+      "7870",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3272"
+    ],
+    [
+      "7870",
+      "GLASS AND GLASS PRODUCTS",
+      "8300",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3272"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 3",
+      "2904198",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "33"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 3",
+      "4536459",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "33"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 3",
+      "6742683",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "33"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 3",
+      "2683450",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "33"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 3",
+      "6147360",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "33"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 3",
+      "4268014",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "33"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 3",
+      "3728099",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "33"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 3",
+      "2487579",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "33"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 3",
+      "2898023",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "33"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 3",
+      "3324072",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "33"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 3",
+      "2279044",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "33"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 3",
+      "3656464",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "33"
+    ],
+    [
+      "7870",
+      "PRIMARY METAL MANUFACTURING",
+      "49422",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "331"
+    ],
+    [
+      "7870",
+      "PRIMARY METAL MANUFACTURING",
+      "31112",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "331"
+    ],
+    [
+      "7870",
+      "PRIMARY METAL MANUFACTURING",
+      "129835",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "331"
+    ],
+    [
+      "7870",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "331"
+    ],
+    [
+      "7870",
+      "PRIMARY METAL MANUFACTURING",
+      "16000",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "331"
+    ],
+    [
+      "7870",
+      "PRIMARY METAL MANUFACTURING",
+      "6244",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "331"
+    ],
+    [
+      "7870",
+      "PRIMARY METAL MANUFACTURING",
+      "11250",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "331"
+    ],
+    [
+      "7870",
+      "PRIMARY METAL MANUFACTURING",
+      "4000",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "331"
+    ],
+    [
+      "7870",
+      "PRIMARY METAL MANUFACTURING",
+      "102838",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "331"
+    ],
+    [
+      "7870",
+      "PRIMARY METAL MANUFACTURING",
+      "29064",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "331"
+    ],
+    [
+      "7870",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "331"
+    ],
+    [
+      "7870",
+      "IRON AND STEEL AND FERROALLOY",
+      "117835",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3311"
+    ],
+    [
+      "7870",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3311"
+    ],
+    [
+      "7870",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3311"
+    ],
+    [
+      "7870",
+      "IRON AND STEEL AND FERROALLOY",
+      "6244",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3311"
+    ],
+    [
+      "7870",
+      "IRON AND STEEL AND FERROALLOY",
+      "11250",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3311"
+    ],
+    [
+      "7870",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3311"
+    ],
+    [
+      "7870",
+      "IRON AND STEEL AND FERROALLOY",
+      "102838",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3311"
+    ],
+    [
+      "7870",
+      "IRON AND STEEL AND FERROALLOY",
+      "29064",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3311"
+    ],
+    [
+      "7870",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3311"
+    ],
+    [
+      "7870",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "49422",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3312"
+    ],
+    [
+      "7870",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "31112",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3312"
+    ],
+    [
+      "7870",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3312"
+    ],
+    [
+      "7870",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3312"
+    ],
+    [
+      "7870",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3312"
+    ],
+    [
+      "7870",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3312"
+    ],
+    [
+      "7870",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3312"
+    ],
+    [
+      "7870",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3312"
+    ],
+    [
+      "7870",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3312"
+    ],
+    [
+      "7870",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3312"
+    ],
+    [
+      "7870",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3312"
+    ],
+    [
+      "7870",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "13334165",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "-"
+    ],
+    [
+      "7870",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "7707876",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "-"
+    ],
+    [
+      "7870",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "24772386",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "-"
+    ],
+    [
+      "7870",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "7985630",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "-"
+    ],
+    [
+      "7870",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "13189961",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "-"
+    ],
+    [
+      "7870",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "15406369",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "-"
+    ],
+    [
+      "7870",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "12064121",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "-"
+    ],
+    [
+      "7870",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "14140573",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "-"
+    ],
+    [
+      "7870",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "7947209",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "-"
+    ],
+    [
+      "7870",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "13173757",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "-"
+    ],
+    [
+      "7870",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "8116517",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "-"
+    ],
+    [
+      "7870",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "11859883",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "-"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "83200",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "11"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "11"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "4596791",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "11"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "11"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "83198",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "11"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "61160",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "11"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "74426",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "11"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "2670174",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "11"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "98725",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "11"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "11"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "11"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "11"
+    ],
+    [
+      "7870",
+      "AGRICULTURAL PRODUCTS",
+      "83200",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "111"
+    ],
+    [
+      "7870",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "111"
+    ],
+    [
+      "7870",
+      "AGRICULTURAL PRODUCTS",
+      "4596791",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "111"
+    ],
+    [
+      "7870",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "111"
+    ],
+    [
+      "7870",
+      "AGRICULTURAL PRODUCTS",
+      "83198",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "111"
+    ],
+    [
+      "7870",
+      "AGRICULTURAL PRODUCTS",
+      "61160",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "111"
+    ],
+    [
+      "7870",
+      "AGRICULTURAL PRODUCTS",
+      "74426",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "111"
+    ],
+    [
+      "7870",
+      "AGRICULTURAL PRODUCTS",
+      "2670174",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "111"
+    ],
+    [
+      "7870",
+      "AGRICULTURAL PRODUCTS",
+      "98725",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "111"
+    ],
+    [
+      "7870",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "111"
+    ],
+    [
+      "7870",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "111"
+    ],
+    [
+      "7870",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "111"
+    ],
+    [
+      "7870",
+      "OILSEEDS AND GRAINS",
+      "4556191",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "1111"
+    ],
+    [
+      "7870",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "1111"
+    ],
+    [
+      "7870",
+      "OILSEEDS AND GRAINS",
+      "83198",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "1111"
+    ],
+    [
+      "7870",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "1111"
+    ],
+    [
+      "7870",
+      "OILSEEDS AND GRAINS",
+      "74426",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "1111"
+    ],
+    [
+      "7870",
+      "OILSEEDS AND GRAINS",
+      "2670174",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "1111"
+    ],
+    [
+      "7870",
+      "OILSEEDS AND GRAINS",
+      "98725",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "1111"
+    ],
+    [
+      "7870",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "1111"
+    ],
+    [
+      "7870",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "1111"
+    ],
+    [
+      "7870",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "1111"
+    ],
+    [
+      "7870",
+      "VEGETABLES AND MELONS",
+      "83200",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "1112"
+    ],
+    [
+      "7870",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "1112"
+    ],
+    [
+      "7870",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "1112"
+    ],
+    [
+      "7870",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "1112"
+    ],
+    [
+      "7870",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "1112"
+    ],
+    [
+      "7870",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "1112"
+    ],
+    [
+      "7870",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "1112"
+    ],
+    [
+      "7870",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "1112"
+    ],
+    [
+      "7870",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "1112"
+    ],
+    [
+      "7870",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "1112"
+    ],
+    [
+      "7870",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "1112"
+    ],
+    [
+      "7870",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "1112"
+    ],
+    [
+      "7870",
+      "FRUITS AND TREE NUTS",
+      "40600",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "1113"
+    ],
+    [
+      "7870",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "1113"
+    ],
+    [
+      "7870",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "1113"
+    ],
+    [
+      "7870",
+      "FRUITS AND TREE NUTS",
+      "61160",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "1113"
+    ],
+    [
+      "7870",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "1113"
+    ],
+    [
+      "7870",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "1113"
+    ],
+    [
+      "7870",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "1113"
+    ],
+    [
+      "7870",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "1113"
+    ],
+    [
+      "7870",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "1113"
+    ],
+    [
+      "7870",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "1113"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART1",
+      "628315",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "31"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART1",
+      "870270",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "31"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART1",
+      "1036398",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "31"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART1",
+      "710618",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "31"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART1",
+      "367177",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "31"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART1",
+      "1407016",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "31"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART1",
+      "1186945",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "31"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART1",
+      "2922052",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "31"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART1",
+      "651285",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "31"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART1",
+      "216741",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "31"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART1",
+      "217516",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "31"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART1",
+      "520106",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "31"
+    ],
+    [
+      "7870",
+      "MANUFACTURED GOODS",
+      "13079818",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "31-33"
+    ],
+    [
+      "7870",
+      "MANUFACTURED GOODS",
+      "7345229",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "31-33"
+    ],
+    [
+      "7870",
+      "MANUFACTURED GOODS",
+      "19959447",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "31-33"
+    ],
+    [
+      "7870",
+      "MANUFACTURED GOODS",
+      "7848017",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "31-33"
+    ],
+    [
+      "7870",
+      "MANUFACTURED GOODS",
+      "12910989",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "31-33"
+    ],
+    [
+      "7870",
+      "MANUFACTURED GOODS",
+      "14648808",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "31-33"
+    ],
+    [
+      "7870",
+      "MANUFACTURED GOODS",
+      "11766079",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "31-33"
+    ],
+    [
+      "7870",
+      "MANUFACTURED GOODS",
+      "11150122",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "31-33"
+    ],
+    [
+      "7870",
+      "MANUFACTURED GOODS",
+      "7622689",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "31-33"
+    ],
+    [
+      "7870",
+      "MANUFACTURED GOODS",
+      "12712845",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "31-33"
+    ],
+    [
+      "7870",
+      "MANUFACTURED GOODS",
+      "7975882",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "31-33"
+    ],
+    [
+      "7870",
+      "MANUFACTURED GOODS",
+      "11436890",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "31-33"
+    ],
+    [
+      "7870",
+      "FOOD AND KINDRED PRODUCTS",
+      "606472",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "311"
+    ],
+    [
+      "7870",
+      "FOOD AND KINDRED PRODUCTS",
+      "834512",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "311"
+    ],
+    [
+      "7870",
+      "FOOD AND KINDRED PRODUCTS",
+      "849080",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "311"
+    ],
+    [
+      "7870",
+      "FOOD AND KINDRED PRODUCTS",
+      "610126",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "311"
+    ],
+    [
+      "7870",
+      "FOOD AND KINDRED PRODUCTS",
+      "318186",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "311"
+    ],
+    [
+      "7870",
+      "FOOD AND KINDRED PRODUCTS",
+      "1360004",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "311"
+    ],
+    [
+      "7870",
+      "FOOD AND KINDRED PRODUCTS",
+      "1176634",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "311"
+    ],
+    [
+      "7870",
+      "FOOD AND KINDRED PRODUCTS",
+      "2905366",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "311"
+    ],
+    [
+      "7870",
+      "FOOD AND KINDRED PRODUCTS",
+      "651285",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "311"
+    ],
+    [
+      "7870",
+      "FOOD AND KINDRED PRODUCTS",
+      "167749",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "311"
+    ],
+    [
+      "7870",
+      "FOOD AND KINDRED PRODUCTS",
+      "33249",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "311"
+    ],
+    [
+      "7870",
+      "FOOD AND KINDRED PRODUCTS",
+      "497103",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "311"
+    ],
+    [
+      "7870",
+      "DAIRY PRODUCTS",
+      "666326",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3115"
+    ],
+    [
+      "7870",
+      "DAIRY PRODUCTS",
+      "419585",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3115"
+    ],
+    [
+      "7870",
+      "DAIRY PRODUCTS",
+      "1990341",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3115"
+    ],
+    [
+      "7870",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3115"
+    ],
+    [
+      "7870",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3115"
+    ],
+    [
+      "7870",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3115"
+    ],
+    [
+      "7870",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3115"
+    ],
+    [
+      "7870",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "606472",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3116"
+    ],
+    [
+      "7870",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "834512",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3116"
+    ],
+    [
+      "7870",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "625070",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3116"
+    ],
+    [
+      "7870",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "100000",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3116"
+    ],
+    [
+      "7870",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "318186",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3116"
+    ],
+    [
+      "7870",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "381405",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3116"
+    ],
+    [
+      "7870",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "725151",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3116"
+    ],
+    [
+      "7870",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "603200",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3116"
+    ],
+    [
+      "7870",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "40124",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3116"
+    ],
+    [
+      "7870",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "167749",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3116"
+    ],
+    [
+      "7870",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "33249",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3116"
+    ],
+    [
+      "7870",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "497103",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3116"
+    ],
+    [
+      "7870",
+      "FOODS, NESOI",
+      "18720",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3119"
+    ],
+    [
+      "7870",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3119"
+    ],
+    [
+      "7870",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3119"
+    ],
+    [
+      "7870",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3119"
+    ],
+    [
+      "7870",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3119"
+    ],
+    [
+      "7870",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3119"
+    ],
+    [
+      "7870",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3119"
+    ],
+    [
+      "7870",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3119"
+    ],
+    [
+      "7870",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3119"
+    ],
+    [
+      "7870",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3119"
+    ],
+    [
+      "7870",
+      "TEXTILES AND FABRICS",
+      "21843",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "313"
+    ],
+    [
+      "7870",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "313"
+    ],
+    [
+      "7870",
+      "TEXTILES AND FABRICS",
+      "127812",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "313"
+    ],
+    [
+      "7870",
+      "TEXTILES AND FABRICS",
+      "6519",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "313"
+    ],
+    [
+      "7870",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "313"
+    ],
+    [
+      "7870",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "313"
+    ],
+    [
+      "7870",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "313"
+    ],
+    [
+      "7870",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "313"
+    ],
+    [
+      "7870",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "313"
+    ],
+    [
+      "7870",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "313"
+    ],
+    [
+      "7870",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "313"
+    ],
+    [
+      "7870",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "313"
+    ],
+    [
+      "7870",
+      "FABRICS",
+      "21843",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3132"
+    ],
+    [
+      "7870",
+      "FABRICS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3132"
+    ],
+    [
+      "7870",
+      "FABRICS",
+      "127812",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3132"
+    ],
+    [
+      "7870",
+      "FABRICS",
+      "6519",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3132"
+    ],
+    [
+      "7870",
+      "FABRICS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3132"
+    ],
+    [
+      "7870",
+      "FABRICS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3132"
+    ],
+    [
+      "7870",
+      "FABRICS",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3132"
+    ],
+    [
+      "7870",
+      "FABRICS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3132"
+    ],
+    [
+      "7870",
+      "FABRICS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3132"
+    ],
+    [
+      "7870",
+      "FABRICS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3132"
+    ],
+    [
+      "7870",
+      "FABRICS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3132"
+    ],
+    [
+      "7870",
+      "FABRICS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3132"
+    ],
+    [
+      "7870",
+      "TEXTILE MILL PRODUCTS",
+      "15000",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "314"
+    ],
+    [
+      "7870",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "314"
+    ],
+    [
+      "7870",
+      "TEXTILE MILL PRODUCTS",
+      "47012",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "314"
+    ],
+    [
+      "7870",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "314"
+    ],
+    [
+      "7870",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "314"
+    ],
+    [
+      "7870",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "314"
+    ],
+    [
+      "7870",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "314"
+    ],
+    [
+      "7870",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "314"
+    ],
+    [
+      "7870",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "314"
+    ],
+    [
+      "7870",
+      "TEXTILE FURNISHINGS",
+      "47012",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3141"
+    ],
+    [
+      "7870",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3141"
+    ],
+    [
+      "7870",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3141"
+    ],
+    [
+      "7870",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3141"
+    ],
+    [
+      "7870",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3141"
+    ],
+    [
+      "7870",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3141"
+    ],
+    [
+      "7870",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3141"
+    ],
+    [
+      "7870",
+      "OTHER TEXTILE PRODUCTS",
+      "15000",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3149"
+    ],
+    [
+      "7870",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3149"
+    ],
+    [
+      "7870",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3149"
+    ],
+    [
+      "7870",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3149"
+    ],
+    [
+      "7870",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3149"
+    ],
+    [
+      "7870",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3149"
+    ],
+    [
+      "7870",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3149"
+    ],
+    [
+      "7870",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3149"
+    ],
+    [
+      "7870",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3149"
+    ],
+    [
+      "7870",
+      "APPAREL AND ACCESSORIES",
+      "10421",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "315"
+    ],
+    [
+      "7870",
+      "APPAREL AND ACCESSORIES",
+      "3679",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "315"
+    ],
+    [
+      "7870",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "315"
+    ],
+    [
+      "7870",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "315"
+    ],
+    [
+      "7870",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "315"
+    ],
+    [
+      "7870",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "315"
+    ],
+    [
+      "7870",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "315"
+    ],
+    [
+      "7870",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "315"
+    ],
+    [
+      "7870",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "315"
+    ],
+    [
+      "7870",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "315"
+    ],
+    [
+      "7870",
+      "APPAREL AND ACCESSORIES",
+      "11000",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "315"
+    ],
+    [
+      "7870",
+      "LEATHER AND ALLIED PRODUCTS",
+      "25337",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "316"
+    ],
+    [
+      "7870",
+      "LEATHER AND ALLIED PRODUCTS",
+      "55827",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "316"
+    ],
+    [
+      "7870",
+      "LEATHER AND ALLIED PRODUCTS",
+      "78973",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "316"
+    ],
+    [
+      "7870",
+      "LEATHER AND ALLIED PRODUCTS",
+      "48991",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "316"
+    ],
+    [
+      "7870",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "316"
+    ],
+    [
+      "7870",
+      "LEATHER AND ALLIED PRODUCTS",
+      "10311",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "316"
+    ],
+    [
+      "7870",
+      "LEATHER AND ALLIED PRODUCTS",
+      "9729",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "316"
+    ],
+    [
+      "7870",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "316"
+    ],
+    [
+      "7870",
+      "LEATHER AND ALLIED PRODUCTS",
+      "48992",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "316"
+    ],
+    [
+      "7870",
+      "LEATHER AND ALLIED PRODUCTS",
+      "184267",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "316"
+    ],
+    [
+      "7870",
+      "LEATHER AND ALLIED PRODUCTS",
+      "9361",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "316"
+    ],
+    [
+      "7870",
+      "LEATHER AND HIDE TANNING",
+      "36000",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3161"
+    ],
+    [
+      "7870",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3161"
+    ],
+    [
+      "7870",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3161"
+    ],
+    [
+      "7870",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3161"
+    ],
+    [
+      "7870",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3161"
+    ],
+    [
+      "7870",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3161"
+    ],
+    [
+      "7870",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3161"
+    ],
+    [
+      "7870",
+      "LEATHER AND HIDE TANNING",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3161"
+    ],
+    [
+      "7870",
+      "FOOTWEAR",
+      "25337",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3162"
+    ],
+    [
+      "7870",
+      "FOOTWEAR",
+      "55827",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3162"
+    ],
+    [
+      "7870",
+      "FOOTWEAR",
+      "22750",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3162"
+    ],
+    [
+      "7870",
+      "FOOTWEAR",
+      "12991",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3162"
+    ],
+    [
+      "7870",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3162"
+    ],
+    [
+      "7870",
+      "FOOTWEAR",
+      "7078",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3162"
+    ],
+    [
+      "7870",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3162"
+    ],
+    [
+      "7870",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3162"
+    ],
+    [
+      "7870",
+      "FOOTWEAR",
+      "48992",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3162"
+    ],
+    [
+      "7870",
+      "FOOTWEAR",
+      "184267",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3162"
+    ],
+    [
+      "7870",
+      "FOOTWEAR",
+      "6814",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3162"
+    ],
+    [
+      "7870",
+      "OTHER LEATHER PRODUCTS",
+      "56223",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3169"
+    ],
+    [
+      "7870",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3169"
+    ],
+    [
+      "7870",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3169"
+    ],
+    [
+      "7870",
+      "OTHER LEATHER PRODUCTS",
+      "3233",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3169"
+    ],
+    [
+      "7870",
+      "OTHER LEATHER PRODUCTS",
+      "9729",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3169"
+    ],
+    [
+      "7870",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3169"
+    ],
+    [
+      "7870",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3169"
+    ],
+    [
+      "7870",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3169"
+    ],
+    [
+      "7870",
+      "OTHER LEATHER PRODUCTS",
+      "2547",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3169"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 2",
+      "9547305",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "32"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 2",
+      "1938500",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "32"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 2",
+      "12180366",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "32"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 2",
+      "4453949",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "32"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 2",
+      "6396452",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "32"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 2",
+      "8973778",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "32"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 2",
+      "6851035",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "32"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 2",
+      "5740491",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "32"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 2",
+      "4073381",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "32"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 2",
+      "9172032",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "32"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 2",
+      "5479322",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "32"
+    ],
+    [
+      "7870",
+      "MANUFACTURING, PART 2",
+      "7260320",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "32"
+    ],
+    [
+      "7870",
+      "INDUSTRIAL MACHINERY",
+      "292241",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3332"
+    ],
+    [
+      "7870",
+      "INDUSTRIAL MACHINERY",
+      "91097",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3332"
+    ],
+    [
+      "7870",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3332"
+    ],
+    [
+      "7870",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3332"
+    ],
+    [
+      "7870",
+      "INDUSTRIAL MACHINERY",
+      "47470",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3332"
+    ],
+    [
+      "7870",
+      "INDUSTRIAL MACHINERY",
+      "9250",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3332"
+    ],
+    [
+      "7870",
+      "INDUSTRIAL MACHINERY",
+      "47729",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3332"
+    ],
+    [
+      "7870",
+      "INDUSTRIAL MACHINERY",
+      "1412257",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3332"
+    ],
+    [
+      "7870",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3332"
+    ],
+    [
+      "7870",
+      "INDUSTRIAL MACHINERY",
+      "164924",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3332"
+    ],
+    [
+      "7870",
+      "INDUSTRIAL MACHINERY",
+      "81791",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3332"
+    ],
+    [
+      "7870",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "827897",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3333"
+    ],
+    [
+      "7870",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "515626",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3333"
+    ],
+    [
+      "7870",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "44806",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3333"
+    ],
+    [
+      "7870",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "1331536",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3333"
+    ],
+    [
+      "7870",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "11268",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3333"
+    ],
+    [
+      "7870",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "40422",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3333"
+    ],
+    [
+      "7870",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "24192",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3333"
+    ],
+    [
+      "7870",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3333"
+    ],
+    [
+      "7870",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3333"
+    ],
+    [
+      "7870",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3333"
+    ],
+    [
+      "7870",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3333"
+    ],
+    [
+      "7870",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "125610",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3334"
+    ],
+    [
+      "7870",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "21162",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3334"
+    ],
+    [
+      "7870",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3334"
+    ],
+    [
+      "7870",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "17471",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3334"
+    ],
+    [
+      "7870",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "147773",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3334"
+    ],
+    [
+      "7870",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "37720",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3334"
+    ],
+    [
+      "7870",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "30070",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3334"
+    ],
+    [
+      "7870",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3334"
+    ],
+    [
+      "7870",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "88908",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3334"
+    ],
+    [
+      "7870",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "21900",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3334"
+    ],
+    [
+      "7870",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "176535",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3334"
+    ],
+    [
+      "7870",
+      "METALWORKING MACHINERY",
+      "9398",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3335"
+    ],
+    [
+      "7870",
+      "METALWORKING MACHINERY",
+      "6307",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3335"
+    ],
+    [
+      "7870",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3335"
+    ],
+    [
+      "7870",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3335"
+    ],
+    [
+      "7870",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3335"
+    ],
+    [
+      "7870",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3335"
+    ],
+    [
+      "7870",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3335"
+    ],
+    [
+      "7870",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3335"
+    ],
+    [
+      "7870",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3335"
+    ],
+    [
+      "7870",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3335"
+    ],
+    [
+      "7870",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3335"
+    ],
+    [
+      "7870",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "205938",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3336"
+    ],
+    [
+      "7870",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "154416",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3336"
+    ],
+    [
+      "7870",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "1866251",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3336"
+    ],
+    [
+      "7870",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "113747",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3336"
+    ],
+    [
+      "7870",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "4412",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3336"
+    ],
+    [
+      "7870",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "199475",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3336"
+    ],
+    [
+      "7870",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "31334",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3336"
+    ],
+    [
+      "7870",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3336"
+    ],
+    [
+      "7870",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "33052",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3336"
+    ],
+    [
+      "7870",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "66157",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3336"
+    ],
+    [
+      "7870",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3336"
+    ],
+    [
+      "7870",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "69818",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3336"
+    ],
+    [
+      "7870",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "17725",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3339"
+    ],
+    [
+      "7870",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "63067",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3339"
+    ],
+    [
+      "7870",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "464666",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3339"
+    ],
+    [
+      "7870",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "265212",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3339"
+    ],
+    [
+      "7870",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "322580",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3339"
+    ],
+    [
+      "7870",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "76443",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3339"
+    ],
+    [
+      "7870",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "61008",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3339"
+    ],
+    [
+      "7870",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "243506",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3339"
+    ],
+    [
+      "7870",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "211615",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3339"
+    ],
+    [
+      "7870",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "49664",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3339"
+    ],
+    [
+      "7870",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "119753",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3339"
+    ],
+    [
+      "7870",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "58362",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3339"
+    ],
+    [
+      "7870",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "1571339",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "334"
+    ],
+    [
+      "7870",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "1643391",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "334"
+    ],
+    [
+      "7870",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "1006459",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "334"
+    ],
+    [
+      "7870",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "914908",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "334"
+    ],
+    [
+      "7870",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "1739090",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "334"
+    ],
+    [
+      "7870",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "1652677",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "334"
+    ],
+    [
+      "7870",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "1345256",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "334"
+    ],
+    [
+      "7870",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "505675",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "334"
+    ],
+    [
+      "7870",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "436650",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "334"
+    ],
+    [
+      "7870",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "332177",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "334"
+    ],
+    [
+      "7870",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "944825",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "334"
+    ],
+    [
+      "7870",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "2849154",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "334"
+    ],
+    [
+      "7870",
+      "COMPUTER EQUIPMENT",
+      "94439",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3341"
+    ],
+    [
+      "7870",
+      "COMPUTER EQUIPMENT",
+      "13232",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3341"
+    ],
+    [
+      "7870",
+      "COMPUTER EQUIPMENT",
+      "739332",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3341"
+    ],
+    [
+      "7870",
+      "COMPUTER EQUIPMENT",
+      "183638",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3341"
+    ],
+    [
+      "7870",
+      "COMPUTER EQUIPMENT",
+      "24642",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3341"
+    ],
+    [
+      "7870",
+      "COMPUTER EQUIPMENT",
+      "130607",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3341"
+    ],
+    [
+      "7870",
+      "COMPUTER EQUIPMENT",
+      "376785",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3341"
+    ],
+    [
+      "7870",
+      "COMPUTER EQUIPMENT",
+      "158168",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3341"
+    ],
+    [
+      "7870",
+      "COMPUTER EQUIPMENT",
+      "55036",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3341"
+    ],
+    [
+      "7870",
+      "COMPUTER EQUIPMENT",
+      "24887",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3341"
+    ],
+    [
+      "7870",
+      "COMPUTER EQUIPMENT",
+      "110479",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3341"
+    ],
+    [
+      "7870",
+      "COMPUTER EQUIPMENT",
+      "11220",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3341"
+    ],
+    [
+      "7870",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "2781",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3343"
+    ],
+    [
+      "7870",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3343"
+    ],
+    [
+      "7870",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3343"
+    ],
+    [
+      "7870",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3343"
+    ],
+    [
+      "7870",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3343"
+    ],
+    [
+      "7870",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3343"
+    ],
+    [
+      "7870",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3343"
+    ],
+    [
+      "7870",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3343"
+    ],
+    [
+      "7870",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3343"
+    ],
+    [
+      "7870",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3343"
+    ],
+    [
+      "7870",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "215989",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3344"
+    ],
+    [
+      "7870",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3344"
+    ],
+    [
+      "7870",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "28662",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3344"
+    ],
+    [
+      "7870",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3344"
+    ],
+    [
+      "7870",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "146285",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3344"
+    ],
+    [
+      "7870",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "9177",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3344"
+    ],
+    [
+      "7870",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "35817",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3344"
+    ],
+    [
+      "7870",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "13737",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3344"
+    ],
+    [
+      "7870",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3344"
+    ],
+    [
+      "7870",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "20655",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3344"
+    ],
+    [
+      "7870",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3344"
+    ],
+    [
+      "7870",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "49884",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3344"
+    ],
+    [
+      "7870",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "407000",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3345"
+    ],
+    [
+      "7870",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "189645",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3345"
+    ],
+    [
+      "7870",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "39312",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3345"
+    ],
+    [
+      "7870",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "296478",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3345"
+    ],
+    [
+      "7870",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "248701",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3345"
+    ],
+    [
+      "7870",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "206409",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3345"
+    ],
+    [
+      "7870",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "864810",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3345"
+    ],
+    [
+      "7870",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "288298",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3345"
+    ],
+    [
+      "7870",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "349232",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3345"
+    ],
+    [
+      "7870",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "169364",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3345"
+    ],
+    [
+      "7870",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "767027",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3345"
+    ],
+    [
+      "7870",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "1746544",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3345"
+    ],
+    [
+      "7870",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "19329",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3351"
+    ],
+    [
+      "7870",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "5560",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3351"
+    ],
+    [
+      "7870",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3351"
+    ],
+    [
+      "7870",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "15065",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3351"
+    ],
+    [
+      "7870",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3351"
+    ],
+    [
+      "7870",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3351"
+    ],
+    [
+      "7870",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3351"
+    ],
+    [
+      "7870",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3351"
+    ],
+    [
+      "7870",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3351"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "5378",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3352"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3352"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3352"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3352"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "5126",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3352"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3352"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3352"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT",
+      "32792",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3353"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT",
+      "281704",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3353"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT",
+      "194227",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3353"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT",
+      "120949",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3353"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT",
+      "61784",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3353"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT",
+      "513522",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3353"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT",
+      "77991",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3353"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT",
+      "344840",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3353"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT",
+      "49083",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3353"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT",
+      "1805058",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3353"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT",
+      "191645",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3353"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT",
+      "14660",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3353"
+    ],
+    [
+      "7870",
+      "TRANSPORTATION EQUIPMENT",
+      "579765",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "336"
+    ],
+    [
+      "7870",
+      "TRANSPORTATION EQUIPMENT",
+      "738270",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "336"
+    ],
+    [
+      "7870",
+      "TRANSPORTATION EQUIPMENT",
+      "1343763",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "336"
+    ],
+    [
+      "7870",
+      "TRANSPORTATION EQUIPMENT",
+      "413331",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "336"
+    ],
+    [
+      "7870",
+      "TRANSPORTATION EQUIPMENT",
+      "516445",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "336"
+    ],
+    [
+      "7870",
+      "TRANSPORTATION EQUIPMENT",
+      "786517",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "336"
+    ],
+    [
+      "7870",
+      "TRANSPORTATION EQUIPMENT",
+      "667826",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "336"
+    ],
+    [
+      "7870",
+      "TRANSPORTATION EQUIPMENT",
+      "440303",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "336"
+    ],
+    [
+      "7870",
+      "TRANSPORTATION EQUIPMENT",
+      "364460",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "336"
+    ],
+    [
+      "7870",
+      "TRANSPORTATION EQUIPMENT",
+      "257282",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "336"
+    ],
+    [
+      "7870",
+      "TRANSPORTATION EQUIPMENT",
+      "238064",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "336"
+    ],
+    [
+      "7870",
+      "TRANSPORTATION EQUIPMENT",
+      "208105",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "336"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "45000",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "93"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "150100",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "93"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "60600",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "93"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "61900",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "93"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "33935",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "93"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "33438",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "93"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "24939",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "93"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "73825",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "93"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "75918",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "93"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "144184",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "93"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "37766",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "93"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "61200",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "93"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "45000",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "930"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "150100",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "930"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "60600",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "930"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "61900",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "930"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "33935",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "930"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "33438",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "930"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "24939",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "930"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "73825",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "930"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "75918",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "930"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "144184",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "930"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "37766",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "930"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "61200",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "930"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "45000",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "9300"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "150100",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "9300"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "60600",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "9300"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "61900",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "9300"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "33935",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "9300"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "33438",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "9300"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "24939",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "9300"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "73825",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "9300"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "75918",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "9300"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "144184",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "9300"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "37766",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "9300"
+    ],
+    [
+      "7870",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "61200",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "9300"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "126147",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "990"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "212547",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "990"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "155548",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "990"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "75713",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "990"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "161839",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "990"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "662963",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "990"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "198677",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "990"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "246452",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "990"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "149877",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "990"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "316728",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "990"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "102869",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "990"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "361793",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "990"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "126147",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "9900"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "212547",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "9900"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "155548",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "9900"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "75713",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "9900"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "161839",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "9900"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "662963",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "9900"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "198677",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "9900"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "246452",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "9900"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "149877",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "9900"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "316728",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "9900"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "102869",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "9900"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "361793",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "9900"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "18909",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "323"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "323"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "323"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "3665",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "323"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "323"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "21980",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "323"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "8087",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "323"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "323"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "323"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "323"
+    ],
+    [
+      "7870",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "28643",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "323"
+    ],
+    [
+      "7870",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "145059",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3253"
+    ],
+    [
+      "7870",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3253"
+    ],
+    [
+      "7870",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3253"
+    ],
+    [
+      "7870",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3253"
+    ],
+    [
+      "7870",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3253"
+    ],
+    [
+      "7870",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3253"
+    ],
+    [
+      "7870",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3253"
+    ],
+    [
+      "7870",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3253"
+    ],
+    [
+      "7870",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3253"
+    ],
+    [
+      "7870",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3253"
+    ],
+    [
+      "7870",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "37415",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3255"
+    ],
+    [
+      "7870",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3255"
+    ],
+    [
+      "7870",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3255"
+    ],
+    [
+      "7870",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "2816",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3255"
+    ],
+    [
+      "7870",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "3596",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3255"
+    ],
+    [
+      "7870",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3255"
+    ],
+    [
+      "7870",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3255"
+    ],
+    [
+      "7870",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3255"
+    ],
+    [
+      "7870",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3255"
+    ],
+    [
+      "7870",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3255"
+    ],
+    [
+      "7870",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3255"
+    ],
+    [
+      "7870",
+      "RUBBER PRODUCTS",
+      "333763",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3262"
+    ],
+    [
+      "7870",
+      "RUBBER PRODUCTS",
+      "487265",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3262"
+    ],
+    [
+      "7870",
+      "RUBBER PRODUCTS",
+      "171762",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3262"
+    ],
+    [
+      "7870",
+      "RUBBER PRODUCTS",
+      "577652",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3262"
+    ],
+    [
+      "7870",
+      "RUBBER PRODUCTS",
+      "1007698",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3262"
+    ],
+    [
+      "7870",
+      "RUBBER PRODUCTS",
+      "100044",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3262"
+    ],
+    [
+      "7870",
+      "RUBBER PRODUCTS",
+      "177845",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3262"
+    ],
+    [
+      "7870",
+      "RUBBER PRODUCTS",
+      "4408",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3262"
+    ],
+    [
+      "7870",
+      "RUBBER PRODUCTS",
+      "537443",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3262"
+    ],
+    [
+      "7870",
+      "RUBBER PRODUCTS",
+      "29356",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3262"
+    ],
+    [
+      "7870",
+      "RUBBER PRODUCTS",
+      "131552",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3262"
+    ],
+    [
+      "7870",
+      "RUBBER PRODUCTS",
+      "956040",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3262"
+    ],
+    [
+      "7870",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "6957",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "312"
+    ],
+    [
+      "7870",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "312"
+    ],
+    [
+      "7870",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "312"
+    ],
+    [
+      "7870",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "312"
+    ],
+    [
+      "7870",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "2642",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "312"
+    ],
+    [
+      "7870",
+      "TOBACCO PRODUCTS",
+      "6957",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3122"
+    ],
+    [
+      "7870",
+      "TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3122"
+    ],
+    [
+      "7870",
+      "TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3122"
+    ],
+    [
+      "7870",
+      "TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3122"
+    ],
+    [
+      "7870",
+      "TOBACCO PRODUCTS",
+      "2642",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3122"
+    ],
+    [
+      "7870",
+      "APPAREL",
+      "10421",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3152"
+    ],
+    [
+      "7870",
+      "APPAREL",
+      "3679",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3152"
+    ],
+    [
+      "7870",
+      "APPAREL",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3152"
+    ],
+    [
+      "7870",
+      "APPAREL",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3152"
+    ],
+    [
+      "7870",
+      "APPAREL",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3152"
+    ],
+    [
+      "7870",
+      "APPAREL",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3152"
+    ],
+    [
+      "7870",
+      "APPAREL",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3152"
+    ],
+    [
+      "7870",
+      "APPAREL",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3152"
+    ],
+    [
+      "7870",
+      "APPAREL",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3152"
+    ],
+    [
+      "7870",
+      "APPAREL",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3152"
+    ],
+    [
+      "7870",
+      "APPAREL",
+      "11000",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3152"
+    ],
+    [
+      "7870",
+      "COMMUNICATIONS EQUIPMENT",
+      "851217",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3342"
+    ],
+    [
+      "7870",
+      "COMMUNICATIONS EQUIPMENT",
+      "1435174",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3342"
+    ],
+    [
+      "7870",
+      "COMMUNICATIONS EQUIPMENT",
+      "196372",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3342"
+    ],
+    [
+      "7870",
+      "COMMUNICATIONS EQUIPMENT",
+      "418792",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3342"
+    ],
+    [
+      "7870",
+      "COMMUNICATIONS EQUIPMENT",
+      "1319462",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3342"
+    ],
+    [
+      "7870",
+      "COMMUNICATIONS EQUIPMENT",
+      "1306484",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3342"
+    ],
+    [
+      "7870",
+      "COMMUNICATIONS EQUIPMENT",
+      "67844",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3342"
+    ],
+    [
+      "7870",
+      "COMMUNICATIONS EQUIPMENT",
+      "45472",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3342"
+    ],
+    [
+      "7870",
+      "COMMUNICATIONS EQUIPMENT",
+      "32382",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3342"
+    ],
+    [
+      "7870",
+      "COMMUNICATIONS EQUIPMENT",
+      "117271",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3342"
+    ],
+    [
+      "7870",
+      "COMMUNICATIONS EQUIPMENT",
+      "67319",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3342"
+    ],
+    [
+      "7870",
+      "COMMUNICATIONS EQUIPMENT",
+      "1033006",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3342"
+    ],
+    [
+      "7870",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "2694",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3346"
+    ],
+    [
+      "7870",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "5340",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3346"
+    ],
+    [
+      "7870",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3346"
+    ],
+    [
+      "7870",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "16000",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3346"
+    ],
+    [
+      "7870",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3346"
+    ],
+    [
+      "7870",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3346"
+    ],
+    [
+      "7870",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3346"
+    ],
+    [
+      "7870",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3346"
+    ],
+    [
+      "7870",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3346"
+    ],
+    [
+      "7870",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3346"
+    ],
+    [
+      "7870",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3346"
+    ],
+    [
+      "7870",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "8500",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3346"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "104810",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "335"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "371463",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "335"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "367955",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "335"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "338165",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "335"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "92090",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "335"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "568364",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "335"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "241546",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "335"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "405525",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "335"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "85286",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "335"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "1850927",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "335"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "404817",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "335"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "36610",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "335"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "72018",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3359"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "89759",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3359"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "173728",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3359"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "197887",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3359"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "24746",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3359"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "49464",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3359"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "148490",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3359"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "60685",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3359"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "36203",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3359"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "40743",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3359"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "213172",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3359"
+    ],
+    [
+      "7870",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "21950",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3359"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "126147",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "99"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "212547",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "99"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "155548",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "99"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "75713",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "99"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "161839",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "99"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "662963",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "99"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "198677",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "99"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "246452",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "99"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "149877",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "99"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "316728",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "99"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "102869",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "99"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "361793",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "99"
+    ],
+    [
+      "7870",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "505209",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3364"
+    ],
+    [
+      "7870",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "427286",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3364"
+    ],
+    [
+      "7870",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "319280",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3364"
+    ],
+    [
+      "7870",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "211352",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3364"
+    ],
+    [
+      "7870",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "309378",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3364"
+    ],
+    [
+      "7870",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "374098",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3364"
+    ],
+    [
+      "7870",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "148986",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3364"
+    ],
+    [
+      "7870",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "318550",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3364"
+    ],
+    [
+      "7870",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "151937",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3364"
+    ],
+    [
+      "7870",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "127614",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3364"
+    ],
+    [
+      "7870",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "131706",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3364"
+    ],
+    [
+      "7870",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "171134",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3364"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "27500",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3371"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3371"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3371"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3371"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3371"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3371"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3371"
+    ],
+    [
+      "7870",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3371"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "209675",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "339"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "13442",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "339"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "293785",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "339"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "12310",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "339"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "117192",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "339"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "332571",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "339"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "100461",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "339"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "291759",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "339"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "16266",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "339"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "59730",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "339"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "106546",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "339"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "59915",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "339"
+    ],
+    [
+      "7870",
+      "CUTLERY AND HANDTOOLS",
+      "16744",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3322"
+    ],
+    [
+      "7870",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3322"
+    ],
+    [
+      "7870",
+      "CUTLERY AND HANDTOOLS",
+      "7245",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3322"
+    ],
+    [
+      "7870",
+      "CUTLERY AND HANDTOOLS",
+      "2895",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3322"
+    ],
+    [
+      "7870",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3322"
+    ],
+    [
+      "7870",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3322"
+    ],
+    [
+      "7870",
+      "CUTLERY AND HANDTOOLS",
+      "14896",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3322"
+    ],
+    [
+      "7870",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3322"
+    ],
+    [
+      "7870",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3322"
+    ],
+    [
+      "7870",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3322"
+    ],
+    [
+      "7870",
+      "CUTLERY AND HANDTOOLS",
+      "4817",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3322"
+    ],
+    [
+      "7870",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "59944",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3324"
+    ],
+    [
+      "7870",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3324"
+    ],
+    [
+      "7870",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "64843",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3324"
+    ],
+    [
+      "7870",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3324"
+    ],
+    [
+      "7870",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "131308",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3324"
+    ],
+    [
+      "7870",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "7017",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3324"
+    ],
+    [
+      "7870",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "5998",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3324"
+    ],
+    [
+      "7870",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3324"
+    ],
+    [
+      "7870",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3324"
+    ],
+    [
+      "7870",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "7390",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3324"
+    ],
+    [
+      "7870",
+      "HARDWARE",
+      "52441",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3325"
+    ],
+    [
+      "7870",
+      "HARDWARE",
+      "13757",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3325"
+    ],
+    [
+      "7870",
+      "HARDWARE",
+      "282568",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3325"
+    ],
+    [
+      "7870",
+      "HARDWARE",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3325"
+    ],
+    [
+      "7870",
+      "HARDWARE",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3325"
+    ],
+    [
+      "7870",
+      "HARDWARE",
+      "3095",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3325"
+    ],
+    [
+      "7870",
+      "HARDWARE",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3325"
+    ],
+    [
+      "7870",
+      "HARDWARE",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3325"
+    ],
+    [
+      "7870",
+      "HARDWARE",
+      "8025",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3325"
+    ],
+    [
+      "7870",
+      "HARDWARE",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3325"
+    ],
+    [
+      "7870",
+      "HARDWARE",
+      "48820",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3325"
+    ],
+    [
+      "7870",
+      "SPRINGS AND WIRE PRODUCTS",
+      "7390",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3326"
+    ],
+    [
+      "7870",
+      "SPRINGS AND WIRE PRODUCTS",
+      "7350",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3326"
+    ],
+    [
+      "7870",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3326"
+    ],
+    [
+      "7870",
+      "SPRINGS AND WIRE PRODUCTS",
+      "18435",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3326"
+    ],
+    [
+      "7870",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3326"
+    ],
+    [
+      "7870",
+      "SPRINGS AND WIRE PRODUCTS",
+      "6654",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3326"
+    ],
+    [
+      "7870",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3326"
+    ],
+    [
+      "7870",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3326"
+    ],
+    [
+      "7870",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3326"
+    ],
+    [
+      "7870",
+      "SPRINGS AND WIRE PRODUCTS",
+      "94915",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3326"
+    ],
+    [
+      "7870",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3326"
+    ],
+    [
+      "7870",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "2784",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3279"
+    ],
+    [
+      "7870",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3279"
+    ],
+    [
+      "7870",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3279"
+    ],
+    [
+      "7870",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3279"
+    ],
+    [
+      "7870",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3279"
+    ],
+    [
+      "7870",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3279"
+    ],
+    [
+      "7870",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3279"
+    ],
+    [
+      "7870",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "3683",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3279"
+    ],
+    [
+      "7870",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3279"
+    ],
+    [
+      "7870",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3279"
+    ],
+    [
+      "7870",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "9100",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3279"
+    ],
+    [
+      "7870",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3279"
+    ],
+    [
+      "7870",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "205290",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3112"
+    ],
+    [
+      "7870",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "510126",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3112"
+    ],
+    [
+      "7870",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3112"
+    ],
+    [
+      "7870",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "312273",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3112"
+    ],
+    [
+      "7870",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "31898",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3112"
+    ],
+    [
+      "7870",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "311825",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3112"
+    ],
+    [
+      "7870",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "611161",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3112"
+    ],
+    [
+      "7870",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3112"
+    ],
+    [
+      "7870",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3112"
+    ],
+    [
+      "7870",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3112"
+    ],
+    [
+      "7870",
+      "MOTOR VEHICLE PARTS",
+      "43860",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3363"
+    ],
+    [
+      "7870",
+      "MOTOR VEHICLE PARTS",
+      "107201",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3363"
+    ],
+    [
+      "7870",
+      "MOTOR VEHICLE PARTS",
+      "563405",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3363"
+    ],
+    [
+      "7870",
+      "MOTOR VEHICLE PARTS",
+      "154634",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3363"
+    ],
+    [
+      "7870",
+      "MOTOR VEHICLE PARTS",
+      "186261",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3363"
+    ],
+    [
+      "7870",
+      "MOTOR VEHICLE PARTS",
+      "247958",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3363"
+    ],
+    [
+      "7870",
+      "MOTOR VEHICLE PARTS",
+      "518840",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3363"
+    ],
+    [
+      "7870",
+      "MOTOR VEHICLE PARTS",
+      "107959",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3363"
+    ],
+    [
+      "7870",
+      "MOTOR VEHICLE PARTS",
+      "212523",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3363"
+    ],
+    [
+      "7870",
+      "MOTOR VEHICLE PARTS",
+      "70395",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3363"
+    ],
+    [
+      "7870",
+      "MOTOR VEHICLE PARTS",
+      "16021",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3363"
+    ],
+    [
+      "7870",
+      "MOTOR VEHICLE PARTS",
+      "29846",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3363"
+    ],
+    [
+      "7870",
+      "RAILROAD ROLLING STOCK",
+      "30696",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3365"
+    ],
+    [
+      "7870",
+      "RAILROAD ROLLING STOCK",
+      "203783",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3365"
+    ],
+    [
+      "7870",
+      "RAILROAD ROLLING STOCK",
+      "461078",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3365"
+    ],
+    [
+      "7870",
+      "RAILROAD ROLLING STOCK",
+      "47345",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3365"
+    ],
+    [
+      "7870",
+      "RAILROAD ROLLING STOCK",
+      "20806",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3365"
+    ],
+    [
+      "7870",
+      "RAILROAD ROLLING STOCK",
+      "164461",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3365"
+    ],
+    [
+      "7870",
+      "RAILROAD ROLLING STOCK",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3365"
+    ],
+    [
+      "7870",
+      "RAILROAD ROLLING STOCK",
+      "13794",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3365"
+    ],
+    [
+      "7870",
+      "RAILROAD ROLLING STOCK",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3365"
+    ],
+    [
+      "7870",
+      "RAILROAD ROLLING STOCK",
+      "59273",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3365"
+    ],
+    [
+      "7870",
+      "RAILROAD ROLLING STOCK",
+      "90337",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3365"
+    ],
+    [
+      "7870",
+      "RAILROAD ROLLING STOCK",
+      "7125",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3365"
+    ],
+    [
+      "7870",
+      "FURNITURE AND FIXTURES",
+      "27500",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "337"
+    ],
+    [
+      "7870",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "337"
+    ],
+    [
+      "7870",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "337"
+    ],
+    [
+      "7870",
+      "FURNITURE AND FIXTURES",
+      "4127",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "337"
+    ],
+    [
+      "7870",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "337"
+    ],
+    [
+      "7870",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "337"
+    ],
+    [
+      "7870",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "337"
+    ],
+    [
+      "7870",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "337"
+    ],
+    [
+      "7870",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "4127",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3372"
+    ],
+    [
+      "7870",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3372"
+    ],
+    [
+      "7870",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3372"
+    ],
+    [
+      "7870",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3372"
+    ],
+    [
+      "7870",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3372"
+    ],
+    [
+      "7870",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "10953",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3391"
+    ],
+    [
+      "7870",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "4500",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3391"
+    ],
+    [
+      "7870",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "3931",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3391"
+    ],
+    [
+      "7870",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3391"
+    ],
+    [
+      "7870",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3391"
+    ],
+    [
+      "7870",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3391"
+    ],
+    [
+      "7870",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3391"
+    ],
+    [
+      "7870",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "40440",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3391"
+    ],
+    [
+      "7870",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "3385",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3391"
+    ],
+    [
+      "7870",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "3717",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3391"
+    ],
+    [
+      "7870",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "3484",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3391"
+    ],
+    [
+      "7870",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "3300",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3391"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "198722",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3399"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "8942",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3399"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "289854",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3399"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "12310",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3399"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "117192",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3399"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "332571",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3399"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "100461",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3399"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "251319",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3399"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "12881",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3399"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "56013",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3399"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "103062",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3399"
+    ],
+    [
+      "7870",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "56615",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3399"
+    ],
+    [
+      "7870",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "12000",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3314"
+    ],
+    [
+      "7870",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3314"
+    ],
+    [
+      "7870",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "16000",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3314"
+    ],
+    [
+      "7870",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3314"
+    ],
+    [
+      "7870",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3314"
+    ],
+    [
+      "7870",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "4000",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3314"
+    ],
+    [
+      "7870",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3314"
+    ],
+    [
+      "7870",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3314"
+    ],
+    [
+      "7870",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3314"
+    ],
+    [
+      "7870",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "176787",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "332"
+    ],
+    [
+      "7870",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "217300",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "332"
+    ],
+    [
+      "7870",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "570337",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "332"
+    ],
+    [
+      "7870",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "451136",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "332"
+    ],
+    [
+      "7870",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "1940980",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "332"
+    ],
+    [
+      "7870",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "214456",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "332"
+    ],
+    [
+      "7870",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "487868",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "332"
+    ],
+    [
+      "7870",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "179651",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "332"
+    ],
+    [
+      "7870",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "240968",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "332"
+    ],
+    [
+      "7870",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "297700",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "332"
+    ],
+    [
+      "7870",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "140822",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "332"
+    ],
+    [
+      "7870",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "98747",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "332"
+    ],
+    [
+      "7870",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "3202",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3321"
+    ],
+    [
+      "7870",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "22458",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3323"
+    ],
+    [
+      "7870",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3323"
+    ],
+    [
+      "7870",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3323"
+    ],
+    [
+      "7870",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3323"
+    ],
+    [
+      "7870",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3323"
+    ],
+    [
+      "7870",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3323"
+    ],
+    [
+      "7870",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3323"
+    ],
+    [
+      "7870",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3323"
+    ],
+    [
+      "7870",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3323"
+    ],
+    [
+      "7870",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3323"
+    ],
+    [
+      "7870",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3323"
+    ],
+    [
+      "7870",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3323"
+    ],
+    [
+      "7870",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "11997",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3327"
+    ],
+    [
+      "7870",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "9153",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3327"
+    ],
+    [
+      "7870",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "131332",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3327"
+    ],
+    [
+      "7870",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3327"
+    ],
+    [
+      "7870",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3327"
+    ],
+    [
+      "7870",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3327"
+    ],
+    [
+      "7870",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "4518",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3327"
+    ],
+    [
+      "7870",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3327"
+    ],
+    [
+      "7870",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "4284",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3327"
+    ],
+    [
+      "7870",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "6801",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3327"
+    ],
+    [
+      "7870",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3327"
+    ],
+    [
+      "7870",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3327"
+    ],
+    [
+      "7870",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "142332",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3329"
+    ],
+    [
+      "7870",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "131572",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3329"
+    ],
+    [
+      "7870",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "357954",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3329"
+    ],
+    [
+      "7870",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "161323",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3329"
+    ],
+    [
+      "7870",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "1854807",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3329"
+    ],
+    [
+      "7870",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "214456",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3329"
+    ],
+    [
+      "7870",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "342293",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3329"
+    ],
+    [
+      "7870",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "157738",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3329"
+    ],
+    [
+      "7870",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "230686",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3329"
+    ],
+    [
+      "7870",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "282874",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3329"
+    ],
+    [
+      "7870",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "45907",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3329"
+    ],
+    [
+      "7870",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "34518",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3329"
+    ],
+    [
+      "7870",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "261822",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "333"
+    ],
+    [
+      "7870",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1503171",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "333"
+    ],
+    [
+      "7870",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "3129272",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "333"
+    ],
+    [
+      "7870",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "423765",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "333"
+    ],
+    [
+      "7870",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1714063",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "333"
+    ],
+    [
+      "7870",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "697429",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "333"
+    ],
+    [
+      "7870",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "878898",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "333"
+    ],
+    [
+      "7870",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "649289",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "333"
+    ],
+    [
+      "7870",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1750393",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "333"
+    ],
+    [
+      "7870",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "423418",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "333"
+    ],
+    [
+      "7870",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "414906",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "333"
+    ],
+    [
+      "7870",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "403933",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "333"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "38159",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "3331"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "30542",
+      "2024",
+      "02",
+      "MOZAMBIQUE",
+      "3331"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "164163",
+      "2024",
+      "03",
+      "MOZAMBIQUE",
+      "3331"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "MOZAMBIQUE",
+      "3331"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "38064",
+      "2024",
+      "05",
+      "MOZAMBIQUE",
+      "3331"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "215000",
+      "2024",
+      "06",
+      "MOZAMBIQUE",
+      "3331"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "699164",
+      "2024",
+      "07",
+      "MOZAMBIQUE",
+      "3331"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "303792",
+      "2024",
+      "08",
+      "MOZAMBIQUE",
+      "3331"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "93469",
+      "2024",
+      "09",
+      "MOZAMBIQUE",
+      "3331"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "218689",
+      "2024",
+      "10",
+      "MOZAMBIQUE",
+      "3331"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "108329",
+      "2024",
+      "11",
+      "MOZAMBIQUE",
+      "3331"
+    ],
+    [
+      "7870",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "17427",
+      "2024",
+      "12",
+      "MOZAMBIQUE",
+      "3331"
+    ]
+  ]
+}

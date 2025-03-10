@@ -1,0 +1,11063 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 07:29:08 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4e8400ac3d12964265237aa04b3ea4d5d3c32cdc1151bbdc1ae0ae41723d17c1c40d6316b12bc3c15efa3d4e340b26f03; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "545947455",
+      "2022",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "33995513",
+      "2022",
+      "01",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27968406",
+      "2022",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29602289",
+      "2022",
+      "01",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "234156507",
+      "2022",
+      "01",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "398106323",
+      "2022",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "273480717",
+      "2022",
+      "01",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "110711716",
+      "2022",
+      "01",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "368504034",
+      "2022",
+      "01",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "33456084",
+      "2022",
+      "01",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "264937478",
+      "2022",
+      "01",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2214405",
+      "2022",
+      "01",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "26577795",
+      "2022",
+      "01",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "76629465",
+      "2022",
+      "01",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "234156507",
+      "2022",
+      "01",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "157527042",
+      "2022",
+      "01",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10552240",
+      "2022",
+      "01",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3222305",
+      "2022",
+      "01",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "100567",
+      "2022",
+      "01",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2334211",
+      "2022",
+      "01",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10368472",
+      "2022",
+      "01",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3024494",
+      "2022",
+      "01",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29602289",
+      "2022",
+      "01",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "141055621",
+      "2022",
+      "01",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "68505743",
+      "2022",
+      "01",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "417923",
+      "2022",
+      "01",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17461",
+      "2022",
+      "01",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "802903",
+      "2022",
+      "01",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "177341",
+      "2022",
+      "01",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "210976992",
+      "2022",
+      "01",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6018",
+      "2022",
+      "01",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "264111",
+      "2022",
+      "01",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "86654",
+      "2022",
+      "01",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "38173",
+      "2022",
+      "01",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "28765221",
+      "2022",
+      "01",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "205506",
+      "2022",
+      "01",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "727619",
+      "2022",
+      "01",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "466574",
+      "2022",
+      "01",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5044",
+      "2022",
+      "01",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "100942",
+      "2022",
+      "01",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "15268",
+      "2022",
+      "01",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "248988",
+      "2022",
+      "01",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8945",
+      "2022",
+      "01",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17160",
+      "2022",
+      "01",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4641",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6391",
+      "2022",
+      "01",
+      "MOLDOVA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1016037",
+      "2022",
+      "01",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2106475",
+      "2022",
+      "01",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29537",
+      "2022",
+      "01",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4794",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "194921",
+      "2022",
+      "01",
+      "MACEDONIA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "42012",
+      "2022",
+      "01",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "73812",
+      "2022",
+      "01",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "34425408",
+      "2022",
+      "01",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5040",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29000",
+      "2022",
+      "01",
+      "LEBANON",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1839857",
+      "2022",
+      "01",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1301884",
+      "2022",
+      "01",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "32188",
+      "2022",
+      "01",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1088788",
+      "2022",
+      "01",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "502951",
+      "2022",
+      "01",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "109312",
+      "2022",
+      "01",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "117777",
+      "2022",
+      "01",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "341102",
+      "2022",
+      "01",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "54475",
+      "2022",
+      "01",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17938739",
+      "2022",
+      "01",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1209974",
+      "2022",
+      "01",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6851993",
+      "2022",
+      "01",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1118933",
+      "2022",
+      "01",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "32536973",
+      "2022",
+      "01",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "51342",
+      "2022",
+      "01",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "174759",
+      "2022",
+      "01",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "226101",
+      "2022",
+      "01",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "76126",
+      "2022",
+      "01",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6122",
+      "2022",
+      "01",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12950",
+      "2022",
+      "01",
+      "GHANA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "539370",
+      "2022",
+      "01",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "520458",
+      "2022",
+      "01",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2383949",
+      "2022",
+      "01",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "203238",
+      "2022",
+      "01",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2914",
+      "2022",
+      "01",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "142857",
+      "2022",
+      "01",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "135201",
+      "2022",
+      "01",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4023185",
+      "2022",
+      "01",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "491524279",
+      "2022",
+      "02",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "31555080",
+      "2022",
+      "02",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "22445235",
+      "2022",
+      "02",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "262314816",
+      "2022",
+      "02",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29482557",
+      "2022",
+      "02",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "222976627",
+      "2022",
+      "02",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "348725272",
+      "2022",
+      "02",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "111024089",
+      "2022",
+      "02",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "319242715",
+      "2022",
+      "02",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "30974278",
+      "2022",
+      "02",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "247699628",
+      "2022",
+      "02",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2052577",
+      "2022",
+      "02",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "26867066",
+      "2022",
+      "02",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "79033138",
+      "2022",
+      "02",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "222976627",
+      "2022",
+      "02",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "143943489",
+      "2022",
+      "02",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10916438",
+      "2022",
+      "02",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2244881",
+      "2022",
+      "02",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "123583",
+      "2022",
+      "02",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2515214",
+      "2022",
+      "02",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11066950",
+      "2022",
+      "02",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17101",
+      "2022",
+      "02",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2615491",
+      "2022",
+      "02",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29499658",
+      "2022",
+      "02",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "122804500",
+      "2022",
+      "02",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "51529843",
+      "2022",
+      "02",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "494988",
+      "2022",
+      "02",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "02",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "281370",
+      "2022",
+      "02",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "105525",
+      "2022",
+      "02",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "83000",
+      "2022",
+      "02",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "175299226",
+      "2022",
+      "02",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8377",
+      "2022",
+      "02",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "156369",
+      "2022",
+      "02",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "445916",
+      "2022",
+      "02",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "57830",
+      "2022",
+      "02",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "25554137",
+      "2022",
+      "02",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "236626",
+      "2022",
+      "02",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "877792",
+      "2022",
+      "02",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "712626",
+      "2022",
+      "02",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "68257",
+      "2022",
+      "02",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "87651",
+      "2022",
+      "02",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "58443",
+      "2022",
+      "02",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16306",
+      "2022",
+      "02",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "279234",
+      "2022",
+      "02",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "02",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "02",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4641",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "02",
+      "MOLDOVA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1217972",
+      "2022",
+      "02",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4730",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7050",
+      "2022",
+      "02",
+      "MALTA",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2216932",
+      "2022",
+      "02",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "02",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4794",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "136163",
+      "2022",
+      "02",
+      "MACEDONIA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24828",
+      "2022",
+      "02",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4840",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5662",
+      "2022",
+      "02",
+      "GREECE",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10122",
+      "2022",
+      "02",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "63212",
+      "2022",
+      "02",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "32241505",
+      "2022",
+      "02",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5040",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "02",
+      "LEBANON",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2755293",
+      "2022",
+      "02",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "64300",
+      "2022",
+      "02",
+      "JORDAN",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "827335",
+      "2022",
+      "02",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4441",
+      "2022",
+      "02",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "65347",
+      "2022",
+      "02",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1205265",
+      "2022",
+      "02",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "296143",
+      "2022",
+      "02",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "83559",
+      "2022",
+      "02",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11533271",
+      "2022",
+      "02",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "90735",
+      "2022",
+      "02",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "360520",
+      "2022",
+      "02",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16355",
+      "2022",
+      "02",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1203811",
+      "2022",
+      "02",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6122611",
+      "2022",
+      "02",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2901365",
+      "2022",
+      "02",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27530351",
+      "2022",
+      "02",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "41621",
+      "2022",
+      "02",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "91387",
+      "2022",
+      "02",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "133008",
+      "2022",
+      "02",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "02",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "02",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "02",
+      "GHANA",
+      "1114"
+    ],
+    [
+      "7530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2400",
+      "2022",
+      "02",
+      "NIGERIA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "419280",
+      "2022",
+      "02",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "640187",
+      "2022",
+      "02",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2262827",
+      "2022",
+      "02",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "290662",
+      "2022",
+      "02",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13850",
+      "2022",
+      "02",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "126806",
+      "2022",
+      "02",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "87892",
+      "2022",
+      "02",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3843904",
+      "2022",
+      "02",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "444932284",
+      "2022",
+      "03",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "30576598",
+      "2022",
+      "03",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19919623",
+      "2022",
+      "03",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "21859453",
+      "2022",
+      "03",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "256796086",
+      "2022",
+      "03",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "286774825",
+      "2022",
+      "03",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "294362952",
+      "2022",
+      "03",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "130914689",
+      "2022",
+      "03",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "264915372",
+      "2022",
+      "03",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29482016",
+      "2022",
+      "03",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "280564005",
+      "2022",
+      "03",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2393055",
+      "2022",
+      "03",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19161441",
+      "2022",
+      "03",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "99723279",
+      "2022",
+      "03",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "256796086",
+      "2022",
+      "03",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "157072807",
+      "2022",
+      "03",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7684209",
+      "2022",
+      "03",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "842339",
+      "2022",
+      "03",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "190038",
+      "2022",
+      "03",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1550133",
+      "2022",
+      "03",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8894722",
+      "2022",
+      "03",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2698012",
+      "2022",
+      "03",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "21859453",
+      "2022",
+      "03",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "78240085",
+      "2022",
+      "03",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27372902",
+      "2022",
+      "03",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "417916",
+      "2022",
+      "03",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1573021",
+      "2022",
+      "03",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "155641",
+      "2022",
+      "03",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "83000",
+      "2022",
+      "03",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "107842565",
+      "2022",
+      "03",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "108206",
+      "2022",
+      "03",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "569313",
+      "2022",
+      "03",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "23650",
+      "2022",
+      "03",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24789185",
+      "2022",
+      "03",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "37460",
+      "2022",
+      "03",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "396841",
+      "2022",
+      "03",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "609391",
+      "2022",
+      "03",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "76198",
+      "2022",
+      "03",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2475",
+      "2022",
+      "03",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "969141",
+      "2022",
+      "03",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4641",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "MOLDOVA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1203945",
+      "2022",
+      "03",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4730",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "MALTA",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2334275",
+      "2022",
+      "03",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11071",
+      "2022",
+      "03",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4794",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "137911",
+      "2022",
+      "03",
+      "MACEDONIA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4617",
+      "2022",
+      "03",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4803",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2043",
+      "2022",
+      "03",
+      "KOSOVO",
+      "1114"
+    ],
+    [
+      "4840",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "GREECE",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17235",
+      "2022",
+      "03",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "80220",
+      "2022",
+      "03",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "31373177",
+      "2022",
+      "03",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5040",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "LEBANON",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2077770",
+      "2022",
+      "03",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "JORDAN",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "992082",
+      "2022",
+      "03",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "97911",
+      "2022",
+      "03",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1640684",
+      "2022",
+      "03",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "216675",
+      "2022",
+      "03",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "83297",
+      "2022",
+      "03",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "124627",
+      "2022",
+      "03",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "292068",
+      "2022",
+      "03",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "35704",
+      "2022",
+      "03",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8429621",
+      "2022",
+      "03",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1499015",
+      "2022",
+      "03",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8238531",
+      "2022",
+      "03",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1090944",
+      "2022",
+      "03",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24818929",
+      "2022",
+      "03",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "85782",
+      "2022",
+      "03",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "40034",
+      "2022",
+      "03",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "125816",
+      "2022",
+      "03",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9709",
+      "2022",
+      "03",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "GHANA",
+      "1114"
+    ],
+    [
+      "7530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "03",
+      "NIGERIA",
+      "1114"
+    ],
+    [
+      "7741",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4474",
+      "2022",
+      "03",
+      "ERITREA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "253560",
+      "2022",
+      "03",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "169038",
+      "2022",
+      "03",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1357768",
+      "2022",
+      "03",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24522",
+      "2022",
+      "03",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17380",
+      "2022",
+      "03",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "159052",
+      "2022",
+      "03",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7940",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "40228",
+      "2022",
+      "03",
+      "ZAMBIA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "80527",
+      "2022",
+      "03",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2116258",
+      "2022",
+      "03",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "618991190",
+      "2022",
+      "04",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "28148879",
+      "2022",
+      "04",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14631541",
+      "2022",
+      "04",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "21904670",
+      "2022",
+      "04",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "306006992",
+      "2022",
+      "04",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "410551034",
+      "2022",
+      "04",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27795026",
+      "2022",
+      "04",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "340007938",
+      "2022",
+      "04",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "187710634",
+      "2022",
+      "04",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "388646364",
+      "2022",
+      "04",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "324195025",
+      "2022",
+      "04",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2433477",
+      "2022",
+      "04",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19719727",
+      "2022",
+      "04",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "159002193",
+      "2022",
+      "04",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "306006992",
+      "2022",
+      "04",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "147004799",
+      "2022",
+      "04",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8453911",
+      "2022",
+      "04",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "312811",
+      "2022",
+      "04",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "208618",
+      "2022",
+      "04",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "558339",
+      "2022",
+      "04",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10186048",
+      "2022",
+      "04",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "49000",
+      "2022",
+      "04",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2184943",
+      "2022",
+      "04",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "21953670",
+      "2022",
+      "04",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "177351412",
+      "2022",
+      "04",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "62389673",
+      "2022",
+      "04",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "753549",
+      "2022",
+      "04",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "38453",
+      "2022",
+      "04",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "939695",
+      "2022",
+      "04",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "168783",
+      "2022",
+      "04",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "241641565",
+      "2022",
+      "04",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "190676",
+      "2022",
+      "04",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "477410",
+      "2022",
+      "04",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12960",
+      "2022",
+      "04",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "23061423",
+      "2022",
+      "04",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "37397",
+      "2022",
+      "04",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "982455",
+      "2022",
+      "04",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "857318",
+      "2022",
+      "04",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5535",
+      "2022",
+      "04",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "83007",
+      "2022",
+      "04",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6971",
+      "2022",
+      "04",
+      "ESTONIA",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "155433",
+      "2022",
+      "04",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4641",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "MOLDOVA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "546450",
+      "2022",
+      "04",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3298",
+      "2022",
+      "04",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4730",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "MALTA",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2190901",
+      "2022",
+      "04",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12846",
+      "2022",
+      "04",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4794",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "189475",
+      "2022",
+      "04",
+      "MACEDONIA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4803",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "KOSOVO",
+      "1114"
+    ],
+    [
+      "4840",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "GREECE",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2209",
+      "2022",
+      "04",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "107958",
+      "2022",
+      "04",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "28923722",
+      "2022",
+      "04",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5040",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "LEBANON",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1635977",
+      "2022",
+      "04",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "JORDAN",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "659926",
+      "2022",
+      "04",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "55241",
+      "2022",
+      "04",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1544394",
+      "2022",
+      "04",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "318854",
+      "2022",
+      "04",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "79588",
+      "2022",
+      "04",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "144073",
+      "2022",
+      "04",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1220833",
+      "2022",
+      "04",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "338356",
+      "2022",
+      "04",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8212",
+      "2022",
+      "04",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5591774",
+      "2022",
+      "04",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2675",
+      "2022",
+      "04",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5760781",
+      "2022",
+      "04",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1395180",
+      "2022",
+      "04",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18755864",
+      "2022",
+      "04",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "61817",
+      "2022",
+      "04",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "28252",
+      "2022",
+      "04",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "90069",
+      "2022",
+      "04",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "154747",
+      "2022",
+      "04",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "GHANA",
+      "1114"
+    ],
+    [
+      "7530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2400",
+      "2022",
+      "04",
+      "NIGERIA",
+      "1114"
+    ],
+    [
+      "7741",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "ERITREA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "423369",
+      "2022",
+      "04",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "54645",
+      "2022",
+      "04",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "609221",
+      "2022",
+      "04",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "59995",
+      "2022",
+      "04",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16490",
+      "2022",
+      "04",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "220130",
+      "2022",
+      "04",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7940",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "04",
+      "ZAMBIA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "78311",
+      "2022",
+      "04",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1619308",
+      "2022",
+      "04",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "518639142",
+      "2022",
+      "05",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "30017465",
+      "2022",
+      "05",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18697131",
+      "2022",
+      "05",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18072273",
+      "2022",
+      "05",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "275311229",
+      "2022",
+      "05",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "306753278",
+      "2022",
+      "05",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "310171481",
+      "2022",
+      "05",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "185964327",
+      "2022",
+      "05",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "288681005",
+      "2022",
+      "05",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29529067",
+      "2022",
+      "05",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "299067701",
+      "2022",
+      "05",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3645680",
+      "2022",
+      "05",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "15484279",
+      "2022",
+      "05",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "155459723",
+      "2022",
+      "05",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "275311229",
+      "2022",
+      "05",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "119851506",
+      "2022",
+      "05",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7706825",
+      "2022",
+      "05",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "345181",
+      "2022",
+      "05",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "99873",
+      "2022",
+      "05",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "180539",
+      "2022",
+      "05",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7151861",
+      "2022",
+      "05",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11444",
+      "2022",
+      "05",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2587994",
+      "2022",
+      "05",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18083717",
+      "2022",
+      "05",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "124835015",
+      "2022",
+      "05",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "41796388",
+      "2022",
+      "05",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1269267",
+      "2022",
+      "05",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "38888",
+      "2022",
+      "05",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "663739",
+      "2022",
+      "05",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "128208",
+      "2022",
+      "05",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "97994",
+      "2022",
+      "05",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "168829499",
+      "2022",
+      "05",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "150893",
+      "2022",
+      "05",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "485553",
+      "2022",
+      "05",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24673689",
+      "2022",
+      "05",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "46137",
+      "2022",
+      "05",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "906153",
+      "2022",
+      "05",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "942693",
+      "2022",
+      "05",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3635",
+      "2022",
+      "05",
+      "AUSTRIA",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2444",
+      "2022",
+      "05",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "79697",
+      "2022",
+      "05",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "47386",
+      "2022",
+      "05",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "ESTONIA",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "284955",
+      "2022",
+      "05",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "75038",
+      "2022",
+      "05",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4632",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5420",
+      "2022",
+      "05",
+      "AZERBAIJAN",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4641",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "MOLDOVA",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2276",
+      "2022",
+      "05",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4730",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "MALTA",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2761109",
+      "2022",
+      "05",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "30332",
+      "2022",
+      "05",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8308",
+      "2022",
+      "05",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4794",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "281029",
+      "2022",
+      "05",
+      "MACEDONIA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27648",
+      "2022",
+      "05",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4803",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5918",
+      "2022",
+      "05",
+      "KOSOVO",
+      "1114"
+    ],
+    [
+      "4840",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "GREECE",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2720",
+      "2022",
+      "05",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "35553",
+      "2022",
+      "05",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "30858586",
+      "2022",
+      "05",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5040",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18720",
+      "2022",
+      "05",
+      "LEBANON",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "889462",
+      "2022",
+      "05",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "JORDAN",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "818862",
+      "2022",
+      "05",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "96625",
+      "2022",
+      "05",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2797153",
+      "2022",
+      "05",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "329182",
+      "2022",
+      "05",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "91159",
+      "2022",
+      "05",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "118519",
+      "2022",
+      "05",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "272972",
+      "2022",
+      "05",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "36695",
+      "2022",
+      "05",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7761313",
+      "2022",
+      "05",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1050202",
+      "2022",
+      "05",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7614941",
+      "2022",
+      "05",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1526017",
+      "2022",
+      "05",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "23421822",
+      "2022",
+      "05",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "141214",
+      "2022",
+      "05",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "84099",
+      "2022",
+      "05",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "22526",
+      "2022",
+      "05",
+      "MICRONESIA",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "247839",
+      "2022",
+      "05",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "95221",
+      "2022",
+      "05",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12260",
+      "2022",
+      "05",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7280",
+      "2022",
+      "05",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "GHANA",
+      "1114"
+    ],
+    [
+      "7530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "NIGERIA",
+      "1114"
+    ],
+    [
+      "7741",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "ERITREA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "397149",
+      "2022",
+      "05",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "140010",
+      "2022",
+      "05",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "671985",
+      "2022",
+      "05",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "123661",
+      "2022",
+      "05",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16389",
+      "2022",
+      "05",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "300980",
+      "2022",
+      "05",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7920",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "75970",
+      "2022",
+      "05",
+      "NAMIBIA",
+      "1114"
+    ],
+    [
+      "7940",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "05",
+      "ZAMBIA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "45545",
+      "2022",
+      "05",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1886450",
+      "2022",
+      "05",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "409915099",
+      "2022",
+      "06",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18570862",
+      "2022",
+      "06",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "20976515",
+      "2022",
+      "06",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18137087",
+      "2022",
+      "06",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "237330632",
+      "2022",
+      "06",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "237867634",
+      "2022",
+      "06",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "262278854",
+      "2022",
+      "06",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "145482576",
+      "2022",
+      "06",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "219727181",
+      "2022",
+      "06",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18177442",
+      "2022",
+      "06",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "263951828",
+      "2022",
+      "06",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2868542",
+      "2022",
+      "06",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "15671465",
+      "2022",
+      "06",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "126791404",
+      "2022",
+      "06",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "237330632",
+      "2022",
+      "06",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "110539228",
+      "2022",
+      "06",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6899517",
+      "2022",
+      "06",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1257650",
+      "2022",
+      "06",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "208757",
+      "2022",
+      "06",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "451516",
+      "2022",
+      "06",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6854025",
+      "2022",
+      "06",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19000",
+      "2022",
+      "06",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3366",
+      "2022",
+      "06",
+      "HAITI",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2465622",
+      "2022",
+      "06",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18159453",
+      "2022",
+      "06",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "78051950",
+      "2022",
+      "06",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27535076",
+      "2022",
+      "06",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1139898",
+      "2022",
+      "06",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "22781",
+      "2022",
+      "06",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2105779",
+      "2022",
+      "06",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "110484",
+      "2022",
+      "06",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "221985",
+      "2022",
+      "06",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "109187953",
+      "2022",
+      "06",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17300",
+      "2022",
+      "06",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "78321",
+      "2022",
+      "06",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14849701",
+      "2022",
+      "06",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "41429",
+      "2022",
+      "06",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "643996",
+      "2022",
+      "06",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "873491",
+      "2022",
+      "06",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "AUSTRIA",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "20364",
+      "2022",
+      "06",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "71291",
+      "2022",
+      "06",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18760",
+      "2022",
+      "06",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "ESTONIA",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "285371",
+      "2022",
+      "06",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4632",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "AZERBAIJAN",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4641",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "MOLDOVA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "105461",
+      "2022",
+      "06",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "40728",
+      "2022",
+      "06",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4730",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "MALTA",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1528200",
+      "2022",
+      "06",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "23145",
+      "2022",
+      "06",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4794",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "175144",
+      "2022",
+      "06",
+      "MACEDONIA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11798",
+      "2022",
+      "06",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4803",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6047",
+      "2022",
+      "06",
+      "KOSOVO",
+      "1114"
+    ],
+    [
+      "4840",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "GREECE",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "51625",
+      "2022",
+      "06",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "65134",
+      "2022",
+      "06",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18907306",
+      "2022",
+      "06",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5040",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29000",
+      "2022",
+      "06",
+      "LEBANON",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "511578",
+      "2022",
+      "06",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "JORDAN",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "673689",
+      "2022",
+      "06",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "63652",
+      "2022",
+      "06",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1929173",
+      "2022",
+      "06",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "469831",
+      "2022",
+      "06",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "63445",
+      "2022",
+      "06",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "91424",
+      "2022",
+      "06",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "293651",
+      "2022",
+      "06",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "21018",
+      "2022",
+      "06",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8318832",
+      "2022",
+      "06",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1324571",
+      "2022",
+      "06",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8496827",
+      "2022",
+      "06",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "491148",
+      "2022",
+      "06",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "22777839",
+      "2022",
+      "06",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "512041",
+      "2022",
+      "06",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1363558",
+      "2022",
+      "06",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "MICRONESIA",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1875599",
+      "2022",
+      "06",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2354",
+      "2022",
+      "06",
+      "MALI",
+      "1114"
+    ],
+    [
+      "7490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "28720",
+      "2022",
+      "06",
+      "GHANA",
+      "1114"
+    ],
+    [
+      "7530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "NIGERIA",
+      "1114"
+    ],
+    [
+      "7741",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "ERITREA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "475179",
+      "2022",
+      "06",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "148560",
+      "2022",
+      "06",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "501833",
+      "2022",
+      "06",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "205203",
+      "2022",
+      "06",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11500",
+      "2022",
+      "06",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "229587",
+      "2022",
+      "06",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7920",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "06",
+      "NAMIBIA",
+      "1114"
+    ],
+    [
+      "7940",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3474",
+      "2022",
+      "06",
+      "ZAMBIA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "69907",
+      "2022",
+      "06",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1676317",
+      "2022",
+      "06",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "522910928",
+      "2022",
+      "07",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16778748",
+      "2022",
+      "07",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19300776",
+      "2022",
+      "07",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17525433",
+      "2022",
+      "07",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "355864266",
+      "2022",
+      "07",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "287015113",
+      "2022",
+      "07",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "378381240",
+      "2022",
+      "07",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "210988331",
+      "2022",
+      "07",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "269489680",
+      "2022",
+      "07",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16377135",
+      "2022",
+      "07",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "381100015",
+      "2022",
+      "07",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2587628",
+      "2022",
+      "07",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14796245",
+      "2022",
+      "07",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "193774183",
+      "2022",
+      "07",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "355864266",
+      "2022",
+      "07",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "162090083",
+      "2022",
+      "07",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5847911",
+      "2022",
+      "07",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1941869",
+      "2022",
+      "07",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "195362",
+      "2022",
+      "07",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "371082",
+      "2022",
+      "07",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6440021",
+      "2022",
+      "07",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "HAITI",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2729188",
+      "2022",
+      "07",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17525433",
+      "2022",
+      "07",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "73988636",
+      "2022",
+      "07",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29220886",
+      "2022",
+      "07",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2953187",
+      "2022",
+      "07",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "848295",
+      "2022",
+      "07",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "30420",
+      "2022",
+      "07",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "209438",
+      "2022",
+      "07",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "148735",
+      "2022",
+      "07",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "107399597",
+      "2022",
+      "07",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "48187",
+      "2022",
+      "07",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "387511",
+      "2022",
+      "07",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13059988",
+      "2022",
+      "07",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "116807",
+      "2022",
+      "07",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "70884",
+      "2022",
+      "07",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "248426",
+      "2022",
+      "07",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1206852",
+      "2022",
+      "07",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "AUSTRIA",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "81891",
+      "2022",
+      "07",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10853",
+      "2022",
+      "07",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "ESTONIA",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "234065",
+      "2022",
+      "07",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4632",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "AZERBAIJAN",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4641",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "MOLDOVA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "72216",
+      "2022",
+      "07",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4730",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "MALTA",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1579583",
+      "2022",
+      "07",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11372",
+      "2022",
+      "07",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4794",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "159841",
+      "2022",
+      "07",
+      "MACEDONIA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4803",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "KOSOVO",
+      "1114"
+    ],
+    [
+      "4840",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "GREECE",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "37624",
+      "2022",
+      "07",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "59261",
+      "2022",
+      "07",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17385361",
+      "2022",
+      "07",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5040",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7677",
+      "2022",
+      "07",
+      "LEBANON",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "607107",
+      "2022",
+      "07",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "JORDAN",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "744150",
+      "2022",
+      "07",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "65090",
+      "2022",
+      "07",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1687588",
+      "2022",
+      "07",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "445903",
+      "2022",
+      "07",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "84143",
+      "2022",
+      "07",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "91830",
+      "2022",
+      "07",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "241714",
+      "2022",
+      "07",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "36450",
+      "2022",
+      "07",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "9967713",
+      "2022",
+      "07",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1113296",
+      "2022",
+      "07",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4993878",
+      "2022",
+      "07",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "492380",
+      "2022",
+      "07",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "20578919",
+      "2022",
+      "07",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1105979",
+      "2022",
+      "07",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1173393",
+      "2022",
+      "07",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "MICRONESIA",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2279372",
+      "2022",
+      "07",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "MALI",
+      "1114"
+    ],
+    [
+      "7480",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7649",
+      "2022",
+      "07",
+      "COTE D'IVOIRE",
+      "1114"
+    ],
+    [
+      "7490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "GHANA",
+      "1114"
+    ],
+    [
+      "7530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2400",
+      "2022",
+      "07",
+      "NIGERIA",
+      "1114"
+    ],
+    [
+      "7741",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "ERITREA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "378341",
+      "2022",
+      "07",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "140167",
+      "2022",
+      "07",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "371155",
+      "2022",
+      "07",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "151906",
+      "2022",
+      "07",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14714",
+      "2022",
+      "07",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "764380",
+      "2022",
+      "07",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7920",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "NAMIBIA",
+      "1114"
+    ],
+    [
+      "7940",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "07",
+      "ZAMBIA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "47268",
+      "2022",
+      "07",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1877980",
+      "2022",
+      "07",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "527927553",
+      "2022",
+      "08",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "34054700",
+      "2022",
+      "08",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "20383801",
+      "2022",
+      "08",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "15107743",
+      "2022",
+      "08",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "351220551",
+      "2022",
+      "08",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "279524927",
+      "2022",
+      "08",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "394337548",
+      "2022",
+      "08",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "222107036",
+      "2022",
+      "08",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "264417184",
+      "2022",
+      "08",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "33548641",
+      "2022",
+      "08",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "376451620",
+      "2022",
+      "08",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2260695",
+      "2022",
+      "08",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12579703",
+      "2022",
+      "08",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "185620885",
+      "2022",
+      "08",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "351220551",
+      "2022",
+      "08",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "165599666",
+      "2022",
+      "08",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7094823",
+      "2022",
+      "08",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "509478",
+      "2022",
+      "08",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "243541",
+      "2022",
+      "08",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "198416",
+      "2022",
+      "08",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4533445",
+      "2022",
+      "08",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "50000",
+      "2022",
+      "08",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2440",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14352",
+      "2022",
+      "08",
+      "CAYMAN ISLANDS",
+      "1114"
+    ],
+    [
+      "2450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "HAITI",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2528040",
+      "2022",
+      "08",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "15172095",
+      "2022",
+      "08",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "68049634",
+      "2022",
+      "08",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27498666",
+      "2022",
+      "08",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2228474",
+      "2022",
+      "08",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "26239",
+      "2022",
+      "08",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24664",
+      "2022",
+      "08",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "815380",
+      "2022",
+      "08",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "174461",
+      "2022",
+      "08",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "98817518",
+      "2022",
+      "08",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "124929",
+      "2022",
+      "08",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2416104",
+      "2022",
+      "08",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29039631",
+      "2022",
+      "08",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "75438",
+      "2022",
+      "08",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "941718",
+      "2022",
+      "08",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1223491",
+      "2022",
+      "08",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "AUSTRIA",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3070",
+      "2022",
+      "08",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "155245",
+      "2022",
+      "08",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "62640",
+      "2022",
+      "08",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "ESTONIA",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "252770",
+      "2022",
+      "08",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4622",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4903",
+      "2022",
+      "08",
+      "BELARUS",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4632",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "AZERBAIJAN",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4641",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "MOLDOVA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "54912",
+      "2022",
+      "08",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4730",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "MALTA",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2047108",
+      "2022",
+      "08",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11098",
+      "2022",
+      "08",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4794",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "140048",
+      "2022",
+      "08",
+      "MACEDONIA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27293",
+      "2022",
+      "08",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4803",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "KOSOVO",
+      "1114"
+    ],
+    [
+      "4840",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "GREECE",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "62650",
+      "2022",
+      "08",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "26445",
+      "2022",
+      "08",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "36669493",
+      "2022",
+      "08",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5040",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "LEBANON",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1676038",
+      "2022",
+      "08",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "JORDAN",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "593256",
+      "2022",
+      "08",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "56713",
+      "2022",
+      "08",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1287024",
+      "2022",
+      "08",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "516390",
+      "2022",
+      "08",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "47350",
+      "2022",
+      "08",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "103495",
+      "2022",
+      "08",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "294876",
+      "2022",
+      "08",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11560",
+      "2022",
+      "08",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6855930",
+      "2022",
+      "08",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1211495",
+      "2022",
+      "08",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8868512",
+      "2022",
+      "08",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "504211",
+      "2022",
+      "08",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "22026850",
+      "2022",
+      "08",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "525575",
+      "2022",
+      "08",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1960797",
+      "2022",
+      "08",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "MICRONESIA",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2486372",
+      "2022",
+      "08",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4200",
+      "2022",
+      "08",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7280",
+      "2022",
+      "08",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "MALI",
+      "1114"
+    ],
+    [
+      "7480",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7393",
+      "2022",
+      "08",
+      "COTE D'IVOIRE",
+      "1114"
+    ],
+    [
+      "7490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "GHANA",
+      "1114"
+    ],
+    [
+      "7530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "NIGERIA",
+      "1114"
+    ],
+    [
+      "7741",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "ERITREA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "237623",
+      "2022",
+      "08",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "67534",
+      "2022",
+      "08",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "443256",
+      "2022",
+      "08",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7920",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "NAMIBIA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "153690",
+      "2022",
+      "08",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "596544",
+      "2022",
+      "08",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7940",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "08",
+      "ZAMBIA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17154",
+      "2022",
+      "08",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1534674",
+      "2022",
+      "08",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "562734242",
+      "2022",
+      "09",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "38919335",
+      "2022",
+      "09",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18462329",
+      "2022",
+      "09",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13736200",
+      "2022",
+      "09",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "368968495",
+      "2022",
+      "09",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "308086842",
+      "2022",
+      "09",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "417221268",
+      "2022",
+      "09",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "226204525",
+      "2022",
+      "09",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "294350642",
+      "2022",
+      "09",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "38754761",
+      "2022",
+      "09",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "393077059",
+      "2022",
+      "09",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2036728",
+      "2022",
+      "09",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "12107171",
+      "2022",
+      "09",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "186329241",
+      "2022",
+      "09",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "368968495",
+      "2022",
+      "09",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "182639254",
+      "2022",
+      "09",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6320333",
+      "2022",
+      "09",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "91109",
+      "2022",
+      "09",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "157118",
+      "2022",
+      "09",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "110013",
+      "2022",
+      "09",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5428598",
+      "2022",
+      "09",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2440",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "CAYMAN ISLANDS",
+      "1114"
+    ],
+    [
+      "2450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "HAITI",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1629029",
+      "2022",
+      "09",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3051002",
+      "2022",
+      "09",
+      "PERU",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13736200",
+      "2022",
+      "09",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "75912692",
+      "2022",
+      "09",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "31514881",
+      "2022",
+      "09",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16014",
+      "2022",
+      "09",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1048169",
+      "2022",
+      "09",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "168630",
+      "2022",
+      "09",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "111711388",
+      "2022",
+      "09",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "948317",
+      "2022",
+      "09",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "30088335",
+      "2022",
+      "09",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "43691",
+      "2022",
+      "09",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "531418",
+      "2022",
+      "09",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "887016",
+      "2022",
+      "09",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "AUSTRIA",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10007",
+      "2022",
+      "09",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "92816",
+      "2022",
+      "09",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8633",
+      "2022",
+      "09",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "ESTONIA",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "49727",
+      "2022",
+      "09",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4622",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "BELARUS",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4632",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "AZERBAIJAN",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4641",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11272",
+      "2022",
+      "09",
+      "MOLDOVA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3334963",
+      "2022",
+      "09",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4730",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8214",
+      "2022",
+      "09",
+      "MALTA",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3731644",
+      "2022",
+      "09",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "36664",
+      "2022",
+      "09",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4794",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "150290",
+      "2022",
+      "09",
+      "MACEDONIA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "72455",
+      "2022",
+      "09",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4803",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14326",
+      "2022",
+      "09",
+      "KOSOVO",
+      "1114"
+    ],
+    [
+      "4840",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "GREECE",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "96207",
+      "2022",
+      "09",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "52510",
+      "2022",
+      "09",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "40168505",
+      "2022",
+      "09",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5040",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "LEBANON",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4819367",
+      "2022",
+      "09",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "JORDAN",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "369764",
+      "2022",
+      "09",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "64365",
+      "2022",
+      "09",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1294937",
+      "2022",
+      "09",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "252127",
+      "2022",
+      "09",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "55547",
+      "2022",
+      "09",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "97888",
+      "2022",
+      "09",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "286876",
+      "2022",
+      "09",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "49353",
+      "2022",
+      "09",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8540081",
+      "2022",
+      "09",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "899105",
+      "2022",
+      "09",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6826424",
+      "2022",
+      "09",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "357931",
+      "2022",
+      "09",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "23913765",
+      "2022",
+      "09",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "394157",
+      "2022",
+      "09",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "954967",
+      "2022",
+      "09",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "MICRONESIA",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1349124",
+      "2022",
+      "09",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8784",
+      "2022",
+      "09",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "17100",
+      "2022",
+      "09",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2400",
+      "2022",
+      "09",
+      "NIGERIA",
+      "1114"
+    ],
+    [
+      "7450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "MALI",
+      "1114"
+    ],
+    [
+      "7480",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6527",
+      "2022",
+      "09",
+      "COTE D'IVOIRE",
+      "1114"
+    ],
+    [
+      "7490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14070",
+      "2022",
+      "09",
+      "GHANA",
+      "1114"
+    ],
+    [
+      "7741",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "ERITREA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "350258",
+      "2022",
+      "09",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2720",
+      "2022",
+      "09",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "458344",
+      "2022",
+      "09",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "45402",
+      "2022",
+      "09",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5390",
+      "2022",
+      "09",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1892691",
+      "2022",
+      "09",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7920",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "NAMIBIA",
+      "1114"
+    ],
+    [
+      "7940",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "09",
+      "ZAMBIA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "83079",
+      "2022",
+      "09",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2886765",
+      "2022",
+      "09",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "612090033",
+      "2022",
+      "10",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "39096752",
+      "2022",
+      "10",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18960070",
+      "2022",
+      "10",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14248291",
+      "2022",
+      "10",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "415065960",
+      "2022",
+      "10",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "363444521",
+      "2022",
+      "10",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "460282107",
+      "2022",
+      "10",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "223584074",
+      "2022",
+      "10",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "349196230",
+      "2022",
+      "10",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "38466371",
+      "2022",
+      "10",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "438870478",
+      "2022",
+      "10",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1790249",
+      "2022",
+      "10",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "11866442",
+      "2022",
+      "10",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "184071256",
+      "2022",
+      "10",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "415065960",
+      "2022",
+      "10",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "230994704",
+      "2022",
+      "10",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "130799",
+      "2022",
+      "10",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5830818",
+      "2022",
+      "10",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "196357",
+      "2022",
+      "10",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "187332",
+      "2022",
+      "10",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5521136",
+      "2022",
+      "10",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6430",
+      "2022",
+      "10",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2440",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "CAYMAN ISLANDS",
+      "1114"
+    ],
+    [
+      "2450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "HAITI",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2381849",
+      "2022",
+      "10",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "14254721",
+      "2022",
+      "10",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "77802747",
+      "2022",
+      "10",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "36395209",
+      "2022",
+      "10",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1169678",
+      "2022",
+      "10",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3198",
+      "2022",
+      "10",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2332484",
+      "2022",
+      "10",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "374117",
+      "2022",
+      "10",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "70000",
+      "2022",
+      "10",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "54093",
+      "2022",
+      "10",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "118201526",
+      "2022",
+      "10",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "50989",
+      "2022",
+      "10",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "406843",
+      "2022",
+      "10",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "30261943",
+      "2022",
+      "10",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "40923",
+      "2022",
+      "10",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "613131",
+      "2022",
+      "10",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1066882",
+      "2022",
+      "10",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "AUSTRIA",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18467",
+      "2022",
+      "10",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "114754",
+      "2022",
+      "10",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4867",
+      "2022",
+      "10",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "ESTONIA",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "437965",
+      "2022",
+      "10",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4622",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "BELARUS",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4632",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "AZERBAIJAN",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4641",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "MOLDOVA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "617726",
+      "2022",
+      "10",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4730",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3100",
+      "2022",
+      "10",
+      "MALTA",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5671115",
+      "2022",
+      "10",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "76797",
+      "2022",
+      "10",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4794",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "209658",
+      "2022",
+      "10",
+      "MACEDONIA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "90792",
+      "2022",
+      "10",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4803",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "47816",
+      "2022",
+      "10",
+      "KOSOVO",
+      "1114"
+    ],
+    [
+      "4840",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "GREECE",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4807",
+      "2022",
+      "10",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "118153",
+      "2022",
+      "10",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "89120",
+      "2022",
+      "10",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "39945848",
+      "2022",
+      "10",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5040",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "LEBANON",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1035488",
+      "2022",
+      "10",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "JORDAN",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1326796",
+      "2022",
+      "10",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "44559",
+      "2022",
+      "10",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1046084",
+      "2022",
+      "10",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "296202",
+      "2022",
+      "10",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "55956",
+      "2022",
+      "10",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "83861",
+      "2022",
+      "10",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "252525",
+      "2022",
+      "10",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "55621",
+      "2022",
+      "10",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7600743",
+      "2022",
+      "10",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1188172",
+      "2022",
+      "10",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "248882",
+      "2022",
+      "10",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8457914",
+      "2022",
+      "10",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "515086",
+      "2022",
+      "10",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "21959007",
+      "2022",
+      "10",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "501310",
+      "2022",
+      "10",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "MICRONESIA",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "750192",
+      "2022",
+      "10",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3535",
+      "2022",
+      "10",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "MALI",
+      "1114"
+    ],
+    [
+      "7480",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "COTE D'IVOIRE",
+      "1114"
+    ],
+    [
+      "7490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "GHANA",
+      "1114"
+    ],
+    [
+      "7530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "NIGERIA",
+      "1114"
+    ],
+    [
+      "7741",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "ERITREA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "291340",
+      "2022",
+      "10",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29103",
+      "2022",
+      "10",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "713766",
+      "2022",
+      "10",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "210062",
+      "2022",
+      "10",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19744",
+      "2022",
+      "10",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "609794",
+      "2022",
+      "10",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7920",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "NAMIBIA",
+      "1114"
+    ],
+    [
+      "7940",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "10",
+      "ZAMBIA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "35435",
+      "2022",
+      "10",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1912779",
+      "2022",
+      "10",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "669785123",
+      "2022",
+      "11",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "31495106",
+      "2022",
+      "11",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16885217",
+      "2022",
+      "11",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "15744441",
+      "2022",
+      "11",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "476500327",
+      "2022",
+      "11",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "388678403",
+      "2022",
+      "11",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "515598852",
+      "2022",
+      "11",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "256530265",
+      "2022",
+      "11",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "372931942",
+      "2022",
+      "11",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "30948732",
+      "2022",
+      "11",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "499058556",
+      "2022",
+      "11",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2143256",
+      "2022",
+      "11",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13168515",
+      "2022",
+      "11",
+      "CACM",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6003283",
+      "2022",
+      "11",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "225558126",
+      "2022",
+      "11",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "476500327",
+      "2022",
+      "11",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "250942201",
+      "2022",
+      "11",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "238618",
+      "2022",
+      "11",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "105276",
+      "2022",
+      "11",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "304461",
+      "2022",
+      "11",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6516877",
+      "2022",
+      "11",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2020",
+      "2022",
+      "11",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2440",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "CAYMAN ISLANDS",
+      "1114"
+    ],
+    [
+      "2450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "HAITI",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2575926",
+      "2022",
+      "11",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "15746461",
+      "2022",
+      "11",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "83329555",
+      "2022",
+      "11",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "34357482",
+      "2022",
+      "11",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "899109",
+      "2022",
+      "11",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7659",
+      "2022",
+      "11",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3023533",
+      "2022",
+      "11",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "336641",
+      "2022",
+      "11",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "35762",
+      "2022",
+      "11",
+      "URUGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "121989741",
+      "2022",
+      "11",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "344285",
+      "2022",
+      "11",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8237",
+      "2022",
+      "11",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "20339802",
+      "2022",
+      "11",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "28397",
+      "2022",
+      "11",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "575460",
+      "2022",
+      "11",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1196964",
+      "2022",
+      "11",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "AUSTRIA",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "20407",
+      "2022",
+      "11",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "99770",
+      "2022",
+      "11",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8364",
+      "2022",
+      "11",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "ESTONIA",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "103691",
+      "2022",
+      "11",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4622",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "BELARUS",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4632",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "AZERBAIJAN",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4641",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "MOLDOVA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1092282",
+      "2022",
+      "11",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4730",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "MALTA",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7024753",
+      "2022",
+      "11",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "591304",
+      "2022",
+      "11",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4794",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "180954",
+      "2022",
+      "11",
+      "MACEDONIA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "72117",
+      "2022",
+      "11",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4803",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "29060",
+      "2022",
+      "11",
+      "KOSOVO",
+      "1114"
+    ],
+    [
+      "4810",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "64086",
+      "2022",
+      "11",
+      "ALBANIA",
+      "1114"
+    ],
+    [
+      "4840",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "GREECE",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "69627",
+      "2022",
+      "11",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "60100",
+      "2022",
+      "11",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "31909660",
+      "2022",
+      "11",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5040",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "LEBANON",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2829118",
+      "2022",
+      "11",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "JORDAN",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "593226",
+      "2022",
+      "11",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6917",
+      "2022",
+      "11",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5460",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4445",
+      "2022",
+      "11",
+      "BURMA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1436960",
+      "2022",
+      "11",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "313410",
+      "2022",
+      "11",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5100",
+      "2022",
+      "11",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "42322",
+      "2022",
+      "11",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "91092",
+      "2022",
+      "11",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "249927",
+      "2022",
+      "11",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6920030",
+      "2022",
+      "11",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1185028",
+      "2022",
+      "11",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7051",
+      "2022",
+      "11",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7226333",
+      "2022",
+      "11",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "275753",
+      "2022",
+      "11",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "21186712",
+      "2022",
+      "11",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "431136",
+      "2022",
+      "11",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "451445",
+      "2022",
+      "11",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "MICRONESIA",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "882581",
+      "2022",
+      "11",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7280",
+      "2022",
+      "11",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "MALI",
+      "1114"
+    ],
+    [
+      "7480",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "COTE D'IVOIRE",
+      "1114"
+    ],
+    [
+      "7490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2240",
+      "2022",
+      "11",
+      "GHANA",
+      "1114"
+    ],
+    [
+      "7530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "NIGERIA",
+      "1114"
+    ],
+    [
+      "7741",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "ERITREA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "315093",
+      "2022",
+      "11",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "27846",
+      "2022",
+      "11",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "669157",
+      "2022",
+      "11",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "126925",
+      "2022",
+      "11",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "10480",
+      "2022",
+      "11",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "343304",
+      "2022",
+      "11",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7920",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "NAMIBIA",
+      "1114"
+    ],
+    [
+      "7940",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "11",
+      "ZAMBIA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "67316",
+      "2022",
+      "11",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1569641",
+      "2022",
+      "11",
+      "AFRICA",
+      "1114"
+    ],
+    [
+      "-",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "527834632",
+      "2022",
+      "12",
+      "TOTAL FOR ALL COUNTRIES",
+      "1114"
+    ],
+    [
+      "0003",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "38303917",
+      "2022",
+      "12",
+      "EUROPEAN UNION",
+      "1114"
+    ],
+    [
+      "0014",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "18467417",
+      "2022",
+      "12",
+      "PACIFIC RIM COUNTRIES",
+      "1114"
+    ],
+    [
+      "0017",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19073333",
+      "2022",
+      "12",
+      "CAFTA-DR",
+      "1114"
+    ],
+    [
+      "0020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "333683804",
+      "2022",
+      "12",
+      "NAFTA",
+      "1114"
+    ],
+    [
+      "0021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "373669764",
+      "2022",
+      "12",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1114"
+    ],
+    [
+      "0022",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "379170845",
+      "2022",
+      "12",
+      "OECD",
+      "1114"
+    ],
+    [
+      "0026",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "355696871",
+      "2022",
+      "12",
+      "APEC",
+      "1114"
+    ],
+    [
+      "0023",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "126672402",
+      "2022",
+      "12",
+      "NATO",
+      "1114"
+    ],
+    [
+      "0024",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "354593576",
+      "2022",
+      "12",
+      "LAFTA",
+      "1114"
+    ],
+    [
+      "0025",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "37662994",
+      "2022",
+      "12",
+      "EURO AREA",
+      "1114"
+    ],
+    [
+      "0027",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1950330",
+      "2022",
+      "12",
+      "ASEAN",
+      "1114"
+    ],
+    [
+      "0028",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "16469929",
+      "2022",
+      "12",
+      "CACM",
+      "1114"
+    ],
+    [
+      "1220",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "88584804",
+      "2022",
+      "12",
+      "CANADA",
+      "1114"
+    ],
+    [
+      "1XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "333683804",
+      "2022",
+      "12",
+      "NORTH AMERICA",
+      "1114"
+    ],
+    [
+      "2010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "245099000",
+      "2022",
+      "12",
+      "MEXICO",
+      "1114"
+    ],
+    [
+      "2050",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8010252",
+      "2022",
+      "12",
+      "GUATEMALA",
+      "1114"
+    ],
+    [
+      "2110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "816738",
+      "2022",
+      "12",
+      "EL SALVADOR",
+      "1114"
+    ],
+    [
+      "2150",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "272093",
+      "2022",
+      "12",
+      "HONDURAS",
+      "1114"
+    ],
+    [
+      "2190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "786067",
+      "2022",
+      "12",
+      "NICARAGUA",
+      "1114"
+    ],
+    [
+      "2230",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "6584779",
+      "2022",
+      "12",
+      "COSTA RICA",
+      "1114"
+    ],
+    [
+      "2250",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2855",
+      "2022",
+      "12",
+      "PANAMA",
+      "1114"
+    ],
+    [
+      "2410",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "JAMAICA",
+      "1114"
+    ],
+    [
+      "2440",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "CAYMAN ISLANDS",
+      "1114"
+    ],
+    [
+      "2450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "HAITI",
+      "1114"
+    ],
+    [
+      "2470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2603404",
+      "2022",
+      "12",
+      "DOMINICAN REPUBLIC",
+      "1114"
+    ],
+    [
+      "2XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "19076188",
+      "2022",
+      "12",
+      "CENTRAL AMERICA",
+      "1114"
+    ],
+    [
+      "3010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "75295872",
+      "2022",
+      "12",
+      "COLOMBIA",
+      "1114"
+    ],
+    [
+      "3310",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "31660802",
+      "2022",
+      "12",
+      "ECUADOR",
+      "1114"
+    ],
+    [
+      "3330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "251456",
+      "2022",
+      "12",
+      "PERU",
+      "1114"
+    ],
+    [
+      "3350",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24575",
+      "2022",
+      "12",
+      "BOLIVIA",
+      "1114"
+    ],
+    [
+      "3370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1843066",
+      "2022",
+      "12",
+      "CHILE",
+      "1114"
+    ],
+    [
+      "3510",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "254918",
+      "2022",
+      "12",
+      "BRAZIL",
+      "1114"
+    ],
+    [
+      "3530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "88000",
+      "2022",
+      "12",
+      "PARAGUAY",
+      "1114"
+    ],
+    [
+      "3550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "35762",
+      "2022",
+      "12",
+      "URUGUAY",
+      "1114"
+    ],
+    [
+      "3570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "40125",
+      "2022",
+      "12",
+      "ARGENTINA",
+      "1114"
+    ],
+    [
+      "3XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "109494576",
+      "2022",
+      "12",
+      "SOUTH AMERICA",
+      "1114"
+    ],
+    [
+      "4010",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "SWEDEN",
+      "1114"
+    ],
+    [
+      "4099",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "299201",
+      "2022",
+      "12",
+      "DENMARK",
+      "1114"
+    ],
+    [
+      "4120",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "23324",
+      "2022",
+      "12",
+      "UNITED KINGDOM",
+      "1114"
+    ],
+    [
+      "4190",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "IRELAND",
+      "1114"
+    ],
+    [
+      "4210",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "25435264",
+      "2022",
+      "12",
+      "NETHERLANDS",
+      "1114"
+    ],
+    [
+      "4231",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "85730",
+      "2022",
+      "12",
+      "BELGIUM",
+      "1114"
+    ],
+    [
+      "4279",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "800325",
+      "2022",
+      "12",
+      "FRANCE",
+      "1114"
+    ],
+    [
+      "4280",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "455925",
+      "2022",
+      "12",
+      "GERMANY",
+      "1114"
+    ],
+    [
+      "4330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "AUSTRIA",
+      "1114"
+    ],
+    [
+      "4351",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8195",
+      "2022",
+      "12",
+      "CZECH REPUBLIC",
+      "1114"
+    ],
+    [
+      "4359",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "120280",
+      "2022",
+      "12",
+      "SLOVAKIA",
+      "1114"
+    ],
+    [
+      "4370",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "HUNGARY",
+      "1114"
+    ],
+    [
+      "4419",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "SWITZERLAND",
+      "1114"
+    ],
+    [
+      "4470",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "ESTONIA",
+      "1114"
+    ],
+    [
+      "4490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3618",
+      "2022",
+      "12",
+      "LATVIA",
+      "1114"
+    ],
+    [
+      "4550",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "236053",
+      "2022",
+      "12",
+      "POLAND",
+      "1114"
+    ],
+    [
+      "4622",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "BELARUS",
+      "1114"
+    ],
+    [
+      "4623",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "UKRAINE",
+      "1114"
+    ],
+    [
+      "4632",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "AZERBAIJAN",
+      "1114"
+    ],
+    [
+      "4633",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "GEORGIA",
+      "1114"
+    ],
+    [
+      "4641",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "MOLDOVA",
+      "1114"
+    ],
+    [
+      "4700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "4742372",
+      "2022",
+      "12",
+      "SPAIN",
+      "1114"
+    ],
+    [
+      "4710",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5427",
+      "2022",
+      "12",
+      "PORTUGAL",
+      "1114"
+    ],
+    [
+      "4730",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3085",
+      "2022",
+      "12",
+      "MALTA",
+      "1114"
+    ],
+    [
+      "4759",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "5642733",
+      "2022",
+      "12",
+      "ITALY",
+      "1114"
+    ],
+    [
+      "4791",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "368235",
+      "2022",
+      "12",
+      "CROATIA",
+      "1114"
+    ],
+    [
+      "4792",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "SLOVENIA",
+      "1114"
+    ],
+    [
+      "4794",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "325243",
+      "2022",
+      "12",
+      "MACEDONIA",
+      "1114"
+    ],
+    [
+      "4801",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "120997",
+      "2022",
+      "12",
+      "SERBIA",
+      "1114"
+    ],
+    [
+      "4803",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "KOSOVO",
+      "1114"
+    ],
+    [
+      "4810",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "ALBANIA",
+      "1114"
+    ],
+    [
+      "4840",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "GREECE",
+      "1114"
+    ],
+    [
+      "4850",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "ROMANIA",
+      "1114"
+    ],
+    [
+      "4870",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "97474",
+      "2022",
+      "12",
+      "BULGARIA",
+      "1114"
+    ],
+    [
+      "4890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "131677",
+      "2022",
+      "12",
+      "TURKEY",
+      "1114"
+    ],
+    [
+      "4XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "38905158",
+      "2022",
+      "12",
+      "EUROPE",
+      "1114"
+    ],
+    [
+      "5330",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "780985",
+      "2022",
+      "12",
+      "INDIA",
+      "1114"
+    ],
+    [
+      "5040",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "LEBANON",
+      "1114"
+    ],
+    [
+      "5081",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "3687186",
+      "2022",
+      "12",
+      "ISRAEL",
+      "1114"
+    ],
+    [
+      "5110",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "JORDAN",
+      "1114"
+    ],
+    [
+      "5360",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "NEPAL",
+      "1114"
+    ],
+    [
+      "5420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "45612",
+      "2022",
+      "12",
+      "SRI LANKA",
+      "1114"
+    ],
+    [
+      "5460",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "BURMA",
+      "1114"
+    ],
+    [
+      "5490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1106308",
+      "2022",
+      "12",
+      "THAILAND",
+      "1114"
+    ],
+    [
+      "5520",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "344820",
+      "2022",
+      "12",
+      "VIETNAM",
+      "1114"
+    ],
+    [
+      "5570",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "80272",
+      "2022",
+      "12",
+      "MALAYSIA",
+      "1114"
+    ],
+    [
+      "5590",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "85729",
+      "2022",
+      "12",
+      "SINGAPORE",
+      "1114"
+    ],
+    [
+      "5600",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "333201",
+      "2022",
+      "12",
+      "INDONESIA",
+      "1114"
+    ],
+    [
+      "5650",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "PHILIPPINES",
+      "1114"
+    ],
+    [
+      "5700",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "8052513",
+      "2022",
+      "12",
+      "CHINA",
+      "1114"
+    ],
+    [
+      "5800",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "875048",
+      "2022",
+      "12",
+      "KOREA, SOUTH",
+      "1114"
+    ],
+    [
+      "5820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "15857",
+      "2022",
+      "12",
+      "HONG KONG",
+      "1114"
+    ],
+    [
+      "5830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "7929562",
+      "2022",
+      "12",
+      "TAIWAN",
+      "1114"
+    ],
+    [
+      "5880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "720289",
+      "2022",
+      "12",
+      "JAPAN",
+      "1114"
+    ],
+    [
+      "5XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "24057382",
+      "2022",
+      "12",
+      "ASIA",
+      "1114"
+    ],
+    [
+      "6021",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "69769",
+      "2022",
+      "12",
+      "AUSTRALIA",
+      "1114"
+    ],
+    [
+      "6141",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "305177",
+      "2022",
+      "12",
+      "NEW ZEALAND",
+      "1114"
+    ],
+    [
+      "6820",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "MICRONESIA",
+      "1114"
+    ],
+    [
+      "6XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "374946",
+      "2022",
+      "12",
+      "AUSTRALIA AND OCEANIA",
+      "1114"
+    ],
+    [
+      "7140",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "MOROCCO",
+      "1114"
+    ],
+    [
+      "7290",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "EGYPT",
+      "1114"
+    ],
+    [
+      "7420",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "CAMEROON",
+      "1114"
+    ],
+    [
+      "7450",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "MALI",
+      "1114"
+    ],
+    [
+      "7480",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "COTE D'IVOIRE",
+      "1114"
+    ],
+    [
+      "7490",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "GHANA",
+      "1114"
+    ],
+    [
+      "7530",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2400",
+      "2022",
+      "12",
+      "NIGERIA",
+      "1114"
+    ],
+    [
+      "7741",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "ERITREA",
+      "1114"
+    ],
+    [
+      "7749",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "365126",
+      "2022",
+      "12",
+      "ETHIOPIA",
+      "1114"
+    ],
+    [
+      "7780",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "99117",
+      "2022",
+      "12",
+      "UGANDA",
+      "1114"
+    ],
+    [
+      "7790",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "1405669",
+      "2022",
+      "12",
+      "KENYA",
+      "1114"
+    ],
+    [
+      "7830",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "51183",
+      "2022",
+      "12",
+      "TANZANIA",
+      "1114"
+    ],
+    [
+      "7880",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "13370",
+      "2022",
+      "12",
+      "MADAGASCAR",
+      "1114"
+    ],
+    [
+      "7910",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "237938",
+      "2022",
+      "12",
+      "SOUTH AFRICA",
+      "1114"
+    ],
+    [
+      "7920",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "NAMIBIA",
+      "1114"
+    ],
+    [
+      "7940",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2022",
+      "12",
+      "ZAMBIA",
+      "1114"
+    ],
+    [
+      "7960",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "67775",
+      "2022",
+      "12",
+      "ZIMBABWE",
+      "1114"
+    ],
+    [
+      "7XXX",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2242578",
+      "2022",
+      "12",
+      "AFRICA",
+      "1114"
+    ]
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 07:27:11 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a46c15a792b7faa59fd0dfb1e8263789b5b1bc312f487241b78e3833e7130462005e798e67a3216cc6536c7914ecd104d2; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "4279",
+      "SWINE",
+      "0",
+      "2021",
+      "10",
+      "FRANCE",
+      "1122"
+    ],
+    [
+      "4700",
+      "SWINE",
+      "163293",
+      "2021",
+      "10",
+      "SPAIN",
+      "1122"
+    ],
+    [
+      "-",
+      "SWINE",
+      "38965518",
+      "2021",
+      "10",
+      "TOTAL FOR ALL COUNTRIES",
+      "1122"
+    ],
+    [
+      "0003",
+      "SWINE",
+      "163293",
+      "2021",
+      "10",
+      "EUROPEAN UNION",
+      "1122"
+    ],
+    [
+      "1XXX",
+      "SWINE",
+      "38802225",
+      "2021",
+      "10",
+      "NORTH AMERICA",
+      "1122"
+    ],
+    [
+      "4XXX",
+      "SWINE",
+      "163293",
+      "2021",
+      "10",
+      "EUROPE",
+      "1122"
+    ],
+    [
+      "0020",
+      "SWINE",
+      "38802225",
+      "2021",
+      "10",
+      "NAFTA",
+      "1122"
+    ],
+    [
+      "0022",
+      "SWINE",
+      "38965518",
+      "2021",
+      "10",
+      "OECD",
+      "1122"
+    ],
+    [
+      "0023",
+      "SWINE",
+      "38965518",
+      "2021",
+      "10",
+      "NATO",
+      "1122"
+    ],
+    [
+      "0025",
+      "SWINE",
+      "163293",
+      "2021",
+      "10",
+      "EURO AREA",
+      "1122"
+    ],
+    [
+      "0026",
+      "SWINE",
+      "38802225",
+      "2021",
+      "10",
+      "APEC",
+      "1122"
+    ],
+    [
+      "1220",
+      "SWINE",
+      "38802225",
+      "2021",
+      "10",
+      "CANADA",
+      "1122"
+    ]
+  ]
+}

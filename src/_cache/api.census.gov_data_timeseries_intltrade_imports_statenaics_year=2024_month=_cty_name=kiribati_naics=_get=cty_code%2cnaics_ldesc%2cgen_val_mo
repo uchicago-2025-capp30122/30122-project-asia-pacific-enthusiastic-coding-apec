@@ -1,0 +1,1829 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:26:56 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a47d0e87afa726a302995d704d4a8d879f611a27ee9bcb8fde1b27a726840dd01338bffd546e9ec488f300a551b47ff5a9; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART 3",
+      "29478",
+      "2024",
+      "01",
+      "KIRIBATI",
+      "33"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "02",
+      "KIRIBATI",
+      "33"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "03",
+      "KIRIBATI",
+      "33"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "04",
+      "KIRIBATI",
+      "33"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART 3",
+      "16851",
+      "2024",
+      "05",
+      "KIRIBATI",
+      "33"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART 3",
+      "2856",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "33"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "33"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "33"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "33"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART 3",
+      "4013",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "33"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "33"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART 3",
+      "2873",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "33"
+    ],
+    [
+      "6226",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "37430",
+      "2024",
+      "01",
+      "KIRIBATI",
+      "-"
+    ],
+    [
+      "6226",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "17036",
+      "2024",
+      "02",
+      "KIRIBATI",
+      "-"
+    ],
+    [
+      "6226",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "22098",
+      "2024",
+      "03",
+      "KIRIBATI",
+      "-"
+    ],
+    [
+      "6226",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "27756",
+      "2024",
+      "04",
+      "KIRIBATI",
+      "-"
+    ],
+    [
+      "6226",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "51585",
+      "2024",
+      "05",
+      "KIRIBATI",
+      "-"
+    ],
+    [
+      "6226",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "64068",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "-"
+    ],
+    [
+      "6226",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "79091",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "-"
+    ],
+    [
+      "6226",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "90122",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "-"
+    ],
+    [
+      "6226",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "93860",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "-"
+    ],
+    [
+      "6226",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "88243",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "-"
+    ],
+    [
+      "6226",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "107931",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "-"
+    ],
+    [
+      "6226",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "128942",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "-"
+    ],
+    [
+      "6226",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "7218",
+      "2024",
+      "01",
+      "KIRIBATI",
+      "11"
+    ],
+    [
+      "6226",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "17036",
+      "2024",
+      "02",
+      "KIRIBATI",
+      "11"
+    ],
+    [
+      "6226",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "22098",
+      "2024",
+      "03",
+      "KIRIBATI",
+      "11"
+    ],
+    [
+      "6226",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "26084",
+      "2024",
+      "04",
+      "KIRIBATI",
+      "11"
+    ],
+    [
+      "6226",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "34318",
+      "2024",
+      "05",
+      "KIRIBATI",
+      "11"
+    ],
+    [
+      "6226",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "34288",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "11"
+    ],
+    [
+      "6226",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "76264",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "11"
+    ],
+    [
+      "6226",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "87211",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "11"
+    ],
+    [
+      "6226",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "93227",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "11"
+    ],
+    [
+      "6226",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "79227",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "11"
+    ],
+    [
+      "6226",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "76291",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "11"
+    ],
+    [
+      "6226",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "70919",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "11"
+    ],
+    [
+      "6226",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "7218",
+      "2024",
+      "01",
+      "KIRIBATI",
+      "1125"
+    ],
+    [
+      "6226",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "17036",
+      "2024",
+      "02",
+      "KIRIBATI",
+      "1125"
+    ],
+    [
+      "6226",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "22098",
+      "2024",
+      "03",
+      "KIRIBATI",
+      "1125"
+    ],
+    [
+      "6226",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "26084",
+      "2024",
+      "04",
+      "KIRIBATI",
+      "1125"
+    ],
+    [
+      "6226",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "34318",
+      "2024",
+      "05",
+      "KIRIBATI",
+      "1125"
+    ],
+    [
+      "6226",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "34288",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "1125"
+    ],
+    [
+      "6226",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "76264",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "1125"
+    ],
+    [
+      "6226",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "87211",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "1125"
+    ],
+    [
+      "6226",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "93227",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "1125"
+    ],
+    [
+      "6226",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "79227",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "1125"
+    ],
+    [
+      "6226",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "69359",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "1125"
+    ],
+    [
+      "6226",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "70919",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "1125"
+    ],
+    [
+      "6226",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "6932",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "1141"
+    ],
+    [
+      "6226",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "1141"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART1",
+      "410",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "31"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "31"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "31"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART1",
+      "21160",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "31"
+    ],
+    [
+      "6226",
+      "MANUFACTURING, PART1",
+      "40610",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "31"
+    ],
+    [
+      "6226",
+      "MANUFACTURED GOODS",
+      "29478",
+      "2024",
+      "01",
+      "KIRIBATI",
+      "31-33"
+    ],
+    [
+      "6226",
+      "MANUFACTURED GOODS",
+      "0",
+      "2024",
+      "02",
+      "KIRIBATI",
+      "31-33"
+    ],
+    [
+      "6226",
+      "MANUFACTURED GOODS",
+      "0",
+      "2024",
+      "03",
+      "KIRIBATI",
+      "31-33"
+    ],
+    [
+      "6226",
+      "MANUFACTURED GOODS",
+      "0",
+      "2024",
+      "04",
+      "KIRIBATI",
+      "31-33"
+    ],
+    [
+      "6226",
+      "MANUFACTURED GOODS",
+      "16851",
+      "2024",
+      "05",
+      "KIRIBATI",
+      "31-33"
+    ],
+    [
+      "6226",
+      "MANUFACTURED GOODS",
+      "2856",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "31-33"
+    ],
+    [
+      "6226",
+      "MANUFACTURED GOODS",
+      "0",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "31-33"
+    ],
+    [
+      "6226",
+      "MANUFACTURED GOODS",
+      "410",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "31-33"
+    ],
+    [
+      "6226",
+      "MANUFACTURED GOODS",
+      "0",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "31-33"
+    ],
+    [
+      "6226",
+      "MANUFACTURED GOODS",
+      "4013",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "31-33"
+    ],
+    [
+      "6226",
+      "MANUFACTURED GOODS",
+      "21160",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "31-33"
+    ],
+    [
+      "6226",
+      "MANUFACTURED GOODS",
+      "43483",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "31-33"
+    ],
+    [
+      "6226",
+      "FOOD AND KINDRED PRODUCTS",
+      "40610",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "311"
+    ],
+    [
+      "6226",
+      "TEXTILES AND FABRICS",
+      "21160",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "313"
+    ],
+    [
+      "6226",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "313"
+    ],
+    [
+      "6226",
+      "FINISHED AND COATED TEXTILE FABRICS",
+      "21160",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "3133"
+    ],
+    [
+      "6226",
+      "FINISHED AND COATED TEXTILE FABRICS",
+      "0",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "3133"
+    ],
+    [
+      "6226",
+      "APPAREL AND ACCESSORIES",
+      "410",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "315"
+    ],
+    [
+      "6226",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "315"
+    ],
+    [
+      "6226",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "315"
+    ],
+    [
+      "6226",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "315"
+    ],
+    [
+      "6226",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "315"
+    ],
+    [
+      "6226",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "4013",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "3352"
+    ],
+    [
+      "6226",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "3352"
+    ],
+    [
+      "6226",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "3352"
+    ],
+    [
+      "6226",
+      "TRANSPORTATION EQUIPMENT",
+      "29478",
+      "2024",
+      "01",
+      "KIRIBATI",
+      "336"
+    ],
+    [
+      "6226",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "KIRIBATI",
+      "336"
+    ],
+    [
+      "6226",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "KIRIBATI",
+      "336"
+    ],
+    [
+      "6226",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "KIRIBATI",
+      "336"
+    ],
+    [
+      "6226",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "KIRIBATI",
+      "336"
+    ],
+    [
+      "6226",
+      "TRANSPORTATION EQUIPMENT",
+      "2856",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "336"
+    ],
+    [
+      "6226",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "336"
+    ],
+    [
+      "6226",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "336"
+    ],
+    [
+      "6226",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "336"
+    ],
+    [
+      "6226",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "336"
+    ],
+    [
+      "6226",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "336"
+    ],
+    [
+      "6226",
+      "TRANSPORTATION EQUIPMENT",
+      "2873",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "336"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "26492",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "980"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "980"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "980"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "980"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "980"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "980"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "980"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "734",
+      "2024",
+      "01",
+      "KIRIBATI",
+      "990"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "0",
+      "2024",
+      "02",
+      "KIRIBATI",
+      "990"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "0",
+      "2024",
+      "03",
+      "KIRIBATI",
+      "990"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1672",
+      "2024",
+      "04",
+      "KIRIBATI",
+      "990"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "416",
+      "2024",
+      "05",
+      "KIRIBATI",
+      "990"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "432",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "990"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2827",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "990"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2501",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "990"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "633",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "990"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5003",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "990"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "10480",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "990"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14540",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "990"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "734",
+      "2024",
+      "01",
+      "KIRIBATI",
+      "9900"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "0",
+      "2024",
+      "02",
+      "KIRIBATI",
+      "9900"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "0",
+      "2024",
+      "03",
+      "KIRIBATI",
+      "9900"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1672",
+      "2024",
+      "04",
+      "KIRIBATI",
+      "9900"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "416",
+      "2024",
+      "05",
+      "KIRIBATI",
+      "9900"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "432",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "9900"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2827",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "9900"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2501",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "9900"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "633",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "9900"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5003",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "9900"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "10480",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "9900"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14540",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "9900"
+    ],
+    [
+      "6226",
+      "APPAREL",
+      "410",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "3152"
+    ],
+    [
+      "6226",
+      "APPAREL",
+      "0",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "3152"
+    ],
+    [
+      "6226",
+      "APPAREL",
+      "0",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "3152"
+    ],
+    [
+      "6226",
+      "APPAREL",
+      "0",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "3152"
+    ],
+    [
+      "6226",
+      "APPAREL",
+      "0",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "3152"
+    ],
+    [
+      "6226",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "4013",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "335"
+    ],
+    [
+      "6226",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "335"
+    ],
+    [
+      "6226",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "335"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "26492",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "98"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "98"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "98"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "98"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "98"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "98"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "98"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "26492",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "9800"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "9800"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "9800"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "9800"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "9800"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "9800"
+    ],
+    [
+      "6226",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "9800"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "734",
+      "2024",
+      "01",
+      "KIRIBATI",
+      "99"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "0",
+      "2024",
+      "02",
+      "KIRIBATI",
+      "99"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "0",
+      "2024",
+      "03",
+      "KIRIBATI",
+      "99"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1672",
+      "2024",
+      "04",
+      "KIRIBATI",
+      "99"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "416",
+      "2024",
+      "05",
+      "KIRIBATI",
+      "99"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "432",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "99"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2827",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "99"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2501",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "99"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "633",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "99"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5003",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "99"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "10480",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "99"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14540",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "99"
+    ],
+    [
+      "6226",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "16851",
+      "2024",
+      "05",
+      "KIRIBATI",
+      "3371"
+    ],
+    [
+      "6226",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "3371"
+    ],
+    [
+      "6226",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "3371"
+    ],
+    [
+      "6226",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "3371"
+    ],
+    [
+      "6226",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "3371"
+    ],
+    [
+      "6226",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "3371"
+    ],
+    [
+      "6226",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "3371"
+    ],
+    [
+      "6226",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "3371"
+    ],
+    [
+      "6226",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "7218",
+      "2024",
+      "01",
+      "KIRIBATI",
+      "112"
+    ],
+    [
+      "6226",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "17036",
+      "2024",
+      "02",
+      "KIRIBATI",
+      "112"
+    ],
+    [
+      "6226",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "22098",
+      "2024",
+      "03",
+      "KIRIBATI",
+      "112"
+    ],
+    [
+      "6226",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "26084",
+      "2024",
+      "04",
+      "KIRIBATI",
+      "112"
+    ],
+    [
+      "6226",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "34318",
+      "2024",
+      "05",
+      "KIRIBATI",
+      "112"
+    ],
+    [
+      "6226",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "34288",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "112"
+    ],
+    [
+      "6226",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "76264",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "112"
+    ],
+    [
+      "6226",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "87211",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "112"
+    ],
+    [
+      "6226",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "93227",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "112"
+    ],
+    [
+      "6226",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "79227",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "112"
+    ],
+    [
+      "6226",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "69359",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "112"
+    ],
+    [
+      "6226",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "70919",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "112"
+    ],
+    [
+      "6226",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "6932",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "114"
+    ],
+    [
+      "6226",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "114"
+    ],
+    [
+      "6226",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "40610",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "3112"
+    ],
+    [
+      "6226",
+      "MOTOR VEHICLE PARTS",
+      "29478",
+      "2024",
+      "01",
+      "KIRIBATI",
+      "3363"
+    ],
+    [
+      "6226",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "02",
+      "KIRIBATI",
+      "3363"
+    ],
+    [
+      "6226",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "03",
+      "KIRIBATI",
+      "3363"
+    ],
+    [
+      "6226",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "04",
+      "KIRIBATI",
+      "3363"
+    ],
+    [
+      "6226",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "05",
+      "KIRIBATI",
+      "3363"
+    ],
+    [
+      "6226",
+      "MOTOR VEHICLE PARTS",
+      "2856",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "3363"
+    ],
+    [
+      "6226",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "3363"
+    ],
+    [
+      "6226",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "3363"
+    ],
+    [
+      "6226",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "3363"
+    ],
+    [
+      "6226",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "3363"
+    ],
+    [
+      "6226",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "3363"
+    ],
+    [
+      "6226",
+      "MOTOR VEHICLE PARTS",
+      "2873",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "3363"
+    ],
+    [
+      "6226",
+      "FURNITURE AND FIXTURES",
+      "16851",
+      "2024",
+      "05",
+      "KIRIBATI",
+      "337"
+    ],
+    [
+      "6226",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "06",
+      "KIRIBATI",
+      "337"
+    ],
+    [
+      "6226",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "07",
+      "KIRIBATI",
+      "337"
+    ],
+    [
+      "6226",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "08",
+      "KIRIBATI",
+      "337"
+    ],
+    [
+      "6226",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "09",
+      "KIRIBATI",
+      "337"
+    ],
+    [
+      "6226",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "10",
+      "KIRIBATI",
+      "337"
+    ],
+    [
+      "6226",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "11",
+      "KIRIBATI",
+      "337"
+    ],
+    [
+      "6226",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "KIRIBATI",
+      "337"
+    ]
+  ]
+}

@@ -1,0 +1,1469 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 07:26:50 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4db3bd0f44be7b3c3a935dfb5fdf715bb7eb6671eab3f0604da589a39125ac67dcd203dccebe84a400a4069fb46b947b0; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "-",
+      "FRUITS AND TREE NUTS",
+      "1077635656",
+      "2016",
+      "06",
+      "TOTAL FOR ALL COUNTRIES",
+      "1113"
+    ],
+    [
+      "0001",
+      "FRUITS AND TREE NUTS",
+      "37068871",
+      "2016",
+      "06",
+      "OPEC",
+      "1113"
+    ],
+    [
+      "0003",
+      "FRUITS AND TREE NUTS",
+      "195769642",
+      "2016",
+      "06",
+      "EUROPEAN UNION",
+      "1113"
+    ],
+    [
+      "0014",
+      "FRUITS AND TREE NUTS",
+      "341405619",
+      "2016",
+      "06",
+      "PACIFIC RIM COUNTRIES",
+      "1113"
+    ],
+    [
+      "0017",
+      "FRUITS AND TREE NUTS",
+      "5987031",
+      "2016",
+      "06",
+      "CAFTA-DR",
+      "1113"
+    ],
+    [
+      "0020",
+      "FRUITS AND TREE NUTS",
+      "399219742",
+      "2016",
+      "06",
+      "NAFTA",
+      "1113"
+    ],
+    [
+      "0021",
+      "FRUITS AND TREE NUTS",
+      "82717339",
+      "2016",
+      "06",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1113"
+    ],
+    [
+      "0022",
+      "FRUITS AND TREE NUTS",
+      "779468661",
+      "2016",
+      "06",
+      "OECD",
+      "1113"
+    ],
+    [
+      "0023",
+      "FRUITS AND TREE NUTS",
+      "530606654",
+      "2016",
+      "06",
+      "NATO",
+      "1113"
+    ],
+    [
+      "0024",
+      "FRUITS AND TREE NUTS",
+      "75479637",
+      "2016",
+      "06",
+      "LAFTA",
+      "1113"
+    ],
+    [
+      "0025",
+      "FRUITS AND TREE NUTS",
+      "164395064",
+      "2016",
+      "06",
+      "EURO AREA",
+      "1113"
+    ],
+    [
+      "0026",
+      "FRUITS AND TREE NUTS",
+      "762227237",
+      "2016",
+      "06",
+      "APEC",
+      "1113"
+    ],
+    [
+      "0027",
+      "FRUITS AND TREE NUTS",
+      "45364397",
+      "2016",
+      "06",
+      "ASEAN",
+      "1113"
+    ],
+    [
+      "0028",
+      "FRUITS AND TREE NUTS",
+      "4178889",
+      "2016",
+      "06",
+      "CACM",
+      "1113"
+    ],
+    [
+      "1220",
+      "FRUITS AND TREE NUTS",
+      "328418858",
+      "2016",
+      "06",
+      "CANADA",
+      "1113"
+    ],
+    [
+      "1XXX",
+      "FRUITS AND TREE NUTS",
+      "399219742",
+      "2016",
+      "06",
+      "NORTH AMERICA",
+      "1113"
+    ],
+    [
+      "2010",
+      "FRUITS AND TREE NUTS",
+      "70800884",
+      "2016",
+      "06",
+      "MEXICO",
+      "1113"
+    ],
+    [
+      "2050",
+      "FRUITS AND TREE NUTS",
+      "1016591",
+      "2016",
+      "06",
+      "GUATEMALA",
+      "1113"
+    ],
+    [
+      "2080",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "BELIZE",
+      "1113"
+    ],
+    [
+      "2110",
+      "FRUITS AND TREE NUTS",
+      "1024262",
+      "2016",
+      "06",
+      "EL SALVADOR",
+      "1113"
+    ],
+    [
+      "2150",
+      "FRUITS AND TREE NUTS",
+      "788404",
+      "2016",
+      "06",
+      "HONDURAS",
+      "1113"
+    ],
+    [
+      "2190",
+      "FRUITS AND TREE NUTS",
+      "168231",
+      "2016",
+      "06",
+      "NICARAGUA",
+      "1113"
+    ],
+    [
+      "2230",
+      "FRUITS AND TREE NUTS",
+      "1181401",
+      "2016",
+      "06",
+      "COSTA RICA",
+      "1113"
+    ],
+    [
+      "2250",
+      "FRUITS AND TREE NUTS",
+      "1179130",
+      "2016",
+      "06",
+      "PANAMA",
+      "1113"
+    ],
+    [
+      "2320",
+      "FRUITS AND TREE NUTS",
+      "850146",
+      "2016",
+      "06",
+      "BERMUDA",
+      "1113"
+    ],
+    [
+      "2360",
+      "FRUITS AND TREE NUTS",
+      "783135",
+      "2016",
+      "06",
+      "BAHAMAS",
+      "1113"
+    ],
+    [
+      "2410",
+      "FRUITS AND TREE NUTS",
+      "574278",
+      "2016",
+      "06",
+      "JAMAICA",
+      "1113"
+    ],
+    [
+      "2430",
+      "FRUITS AND TREE NUTS",
+      "109823",
+      "2016",
+      "06",
+      "TURKS AND CAICOS ISLANDS",
+      "1113"
+    ],
+    [
+      "2440",
+      "FRUITS AND TREE NUTS",
+      "381194",
+      "2016",
+      "06",
+      "CAYMAN ISLANDS",
+      "1113"
+    ],
+    [
+      "2450",
+      "FRUITS AND TREE NUTS",
+      "71541",
+      "2016",
+      "06",
+      "HAITI",
+      "1113"
+    ],
+    [
+      "2470",
+      "FRUITS AND TREE NUTS",
+      "1808142",
+      "2016",
+      "06",
+      "DOMINICAN REPUBLIC",
+      "1113"
+    ],
+    [
+      "2482",
+      "FRUITS AND TREE NUTS",
+      "83035",
+      "2016",
+      "06",
+      "BRITISH VIRGIN ISLANDS",
+      "1113"
+    ],
+    [
+      "2483",
+      "FRUITS AND TREE NUTS",
+      "21316",
+      "2016",
+      "06",
+      "ST KITTS AND NEVIS",
+      "1113"
+    ],
+    [
+      "2484",
+      "FRUITS AND TREE NUTS",
+      "22193",
+      "2016",
+      "06",
+      "ANTIGUA AND BARBUDA",
+      "1113"
+    ],
+    [
+      "2486",
+      "FRUITS AND TREE NUTS",
+      "52268",
+      "2016",
+      "06",
+      "DOMINICA",
+      "1113"
+    ],
+    [
+      "2487",
+      "FRUITS AND TREE NUTS",
+      "69659",
+      "2016",
+      "06",
+      "ST LUCIA",
+      "1113"
+    ],
+    [
+      "2488",
+      "FRUITS AND TREE NUTS",
+      "12086",
+      "2016",
+      "06",
+      "ST VINCENT AND THE GRENADINES",
+      "1113"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "14601",
+      "2016",
+      "06",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2720",
+      "FRUITS AND TREE NUTS",
+      "338178",
+      "2016",
+      "06",
+      "BARBADOS",
+      "1113"
+    ],
+    [
+      "2740",
+      "FRUITS AND TREE NUTS",
+      "825223",
+      "2016",
+      "06",
+      "TRINIDAD AND TOBAGO",
+      "1113"
+    ],
+    [
+      "2774",
+      "FRUITS AND TREE NUTS",
+      "291702",
+      "2016",
+      "06",
+      "SINT MAARTEN",
+      "1113"
+    ],
+    [
+      "2777",
+      "FRUITS AND TREE NUTS",
+      "71498",
+      "2016",
+      "06",
+      "CURACAO",
+      "1113"
+    ],
+    [
+      "2779",
+      "FRUITS AND TREE NUTS",
+      "149383",
+      "2016",
+      "06",
+      "ARUBA",
+      "1113"
+    ],
+    [
+      "2839",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "MARTINIQUE",
+      "1113"
+    ],
+    [
+      "2XXX",
+      "FRUITS AND TREE NUTS",
+      "11887420",
+      "2016",
+      "06",
+      "CENTRAL AMERICA",
+      "1113"
+    ],
+    [
+      "3010",
+      "FRUITS AND TREE NUTS",
+      "892185",
+      "2016",
+      "06",
+      "COLOMBIA",
+      "1113"
+    ],
+    [
+      "3070",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "VENEZUELA",
+      "1113"
+    ],
+    [
+      "3120",
+      "FRUITS AND TREE NUTS",
+      "121588",
+      "2016",
+      "06",
+      "GUYANA",
+      "1113"
+    ],
+    [
+      "3150",
+      "FRUITS AND TREE NUTS",
+      "63368",
+      "2016",
+      "06",
+      "SURINAME",
+      "1113"
+    ],
+    [
+      "3310",
+      "FRUITS AND TREE NUTS",
+      "179828",
+      "2016",
+      "06",
+      "ECUADOR",
+      "1113"
+    ],
+    [
+      "3330",
+      "FRUITS AND TREE NUTS",
+      "693969",
+      "2016",
+      "06",
+      "PERU",
+      "1113"
+    ],
+    [
+      "3350",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "BOLIVIA",
+      "1113"
+    ],
+    [
+      "3370",
+      "FRUITS AND TREE NUTS",
+      "940087",
+      "2016",
+      "06",
+      "CHILE",
+      "1113"
+    ],
+    [
+      "3510",
+      "FRUITS AND TREE NUTS",
+      "1756147",
+      "2016",
+      "06",
+      "BRAZIL",
+      "1113"
+    ],
+    [
+      "3550",
+      "FRUITS AND TREE NUTS",
+      "23424",
+      "2016",
+      "06",
+      "URUGUAY",
+      "1113"
+    ],
+    [
+      "3570",
+      "FRUITS AND TREE NUTS",
+      "193113",
+      "2016",
+      "06",
+      "ARGENTINA",
+      "1113"
+    ],
+    [
+      "3XXX",
+      "FRUITS AND TREE NUTS",
+      "4863709",
+      "2016",
+      "06",
+      "SOUTH AMERICA",
+      "1113"
+    ],
+    [
+      "4000",
+      "FRUITS AND TREE NUTS",
+      "125596",
+      "2016",
+      "06",
+      "ICELAND",
+      "1113"
+    ],
+    [
+      "4010",
+      "FRUITS AND TREE NUTS",
+      "2306441",
+      "2016",
+      "06",
+      "SWEDEN",
+      "1113"
+    ],
+    [
+      "4039",
+      "FRUITS AND TREE NUTS",
+      "2106438",
+      "2016",
+      "06",
+      "NORWAY",
+      "1113"
+    ],
+    [
+      "4050",
+      "FRUITS AND TREE NUTS",
+      "109120",
+      "2016",
+      "06",
+      "FINLAND",
+      "1113"
+    ],
+    [
+      "4099",
+      "FRUITS AND TREE NUTS",
+      "621520",
+      "2016",
+      "06",
+      "DENMARK",
+      "1113"
+    ],
+    [
+      "4120",
+      "FRUITS AND TREE NUTS",
+      "27145432",
+      "2016",
+      "06",
+      "UNITED KINGDOM",
+      "1113"
+    ],
+    [
+      "4190",
+      "FRUITS AND TREE NUTS",
+      "423773",
+      "2016",
+      "06",
+      "IRELAND",
+      "1113"
+    ],
+    [
+      "4210",
+      "FRUITS AND TREE NUTS",
+      "22939232",
+      "2016",
+      "06",
+      "NETHERLANDS",
+      "1113"
+    ],
+    [
+      "4231",
+      "FRUITS AND TREE NUTS",
+      "15010339",
+      "2016",
+      "06",
+      "BELGIUM",
+      "1113"
+    ],
+    [
+      "4239",
+      "FRUITS AND TREE NUTS",
+      "1386000",
+      "2016",
+      "06",
+      "LUXEMBOURG",
+      "1113"
+    ],
+    [
+      "4279",
+      "FRUITS AND TREE NUTS",
+      "7527165",
+      "2016",
+      "06",
+      "FRANCE",
+      "1113"
+    ],
+    [
+      "4280",
+      "FRUITS AND TREE NUTS",
+      "37489859",
+      "2016",
+      "06",
+      "GERMANY",
+      "1113"
+    ],
+    [
+      "4330",
+      "FRUITS AND TREE NUTS",
+      "159072",
+      "2016",
+      "06",
+      "AUSTRIA",
+      "1113"
+    ],
+    [
+      "4351",
+      "FRUITS AND TREE NUTS",
+      "302877",
+      "2016",
+      "06",
+      "CZECH REPUBLIC",
+      "1113"
+    ],
+    [
+      "4359",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "SLOVAKIA",
+      "1113"
+    ],
+    [
+      "4370",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "HUNGARY",
+      "1113"
+    ],
+    [
+      "4419",
+      "FRUITS AND TREE NUTS",
+      "2406957",
+      "2016",
+      "06",
+      "SWITZERLAND",
+      "1113"
+    ],
+    [
+      "4470",
+      "FRUITS AND TREE NUTS",
+      "1492153",
+      "2016",
+      "06",
+      "ESTONIA",
+      "1113"
+    ],
+    [
+      "4490",
+      "FRUITS AND TREE NUTS",
+      "77362",
+      "2016",
+      "06",
+      "LATVIA",
+      "1113"
+    ],
+    [
+      "4510",
+      "FRUITS AND TREE NUTS",
+      "488180",
+      "2016",
+      "06",
+      "LITHUANIA",
+      "1113"
+    ],
+    [
+      "4550",
+      "FRUITS AND TREE NUTS",
+      "343200",
+      "2016",
+      "06",
+      "POLAND",
+      "1113"
+    ],
+    [
+      "4621",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "RUSSIA",
+      "1113"
+    ],
+    [
+      "4623",
+      "FRUITS AND TREE NUTS",
+      "96800",
+      "2016",
+      "06",
+      "UKRAINE",
+      "1113"
+    ],
+    [
+      "4632",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "AZERBAIJAN",
+      "1113"
+    ],
+    [
+      "4633",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "GEORGIA",
+      "1113"
+    ],
+    [
+      "4634",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "KAZAKHSTAN",
+      "1113"
+    ],
+    [
+      "4635",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "KYRGYZSTAN",
+      "1113"
+    ],
+    [
+      "4700",
+      "FRUITS AND TREE NUTS",
+      "63790552",
+      "2016",
+      "06",
+      "SPAIN",
+      "1113"
+    ],
+    [
+      "4710",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "PORTUGAL",
+      "1113"
+    ],
+    [
+      "4730",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "MALTA",
+      "1113"
+    ],
+    [
+      "4759",
+      "FRUITS AND TREE NUTS",
+      "11918635",
+      "2016",
+      "06",
+      "ITALY",
+      "1113"
+    ],
+    [
+      "4791",
+      "FRUITS AND TREE NUTS",
+      "205348",
+      "2016",
+      "06",
+      "CROATIA",
+      "1113"
+    ],
+    [
+      "4792",
+      "FRUITS AND TREE NUTS",
+      "15000",
+      "2016",
+      "06",
+      "SLOVENIA",
+      "1113"
+    ],
+    [
+      "4840",
+      "FRUITS AND TREE NUTS",
+      "1568622",
+      "2016",
+      "06",
+      "GREECE",
+      "1113"
+    ],
+    [
+      "4793",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "BOSNIA AND HERZEGOVINA",
+      "1113"
+    ],
+    [
+      "4804",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "MONTENEGRO",
+      "1113"
+    ],
+    [
+      "4810",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "ALBANIA",
+      "1113"
+    ],
+    [
+      "4850",
+      "FRUITS AND TREE NUTS",
+      "93600",
+      "2016",
+      "06",
+      "ROMANIA",
+      "1113"
+    ],
+    [
+      "4870",
+      "FRUITS AND TREE NUTS",
+      "356160",
+      "2016",
+      "06",
+      "BULGARIA",
+      "1113"
+    ],
+    [
+      "4890",
+      "FRUITS AND TREE NUTS",
+      "7389874",
+      "2016",
+      "06",
+      "TURKEY",
+      "1113"
+    ],
+    [
+      "4910",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "CYPRUS",
+      "1113"
+    ],
+    [
+      "4XXX",
+      "FRUITS AND TREE NUTS",
+      "207895307",
+      "2016",
+      "06",
+      "EUROPE",
+      "1113"
+    ],
+    [
+      "5040",
+      "FRUITS AND TREE NUTS",
+      "733570",
+      "2016",
+      "06",
+      "LEBANON",
+      "1113"
+    ],
+    [
+      "5050",
+      "FRUITS AND TREE NUTS",
+      "286500",
+      "2016",
+      "06",
+      "IRAQ",
+      "1113"
+    ],
+    [
+      "5081",
+      "FRUITS AND TREE NUTS",
+      "5594056",
+      "2016",
+      "06",
+      "ISRAEL",
+      "1113"
+    ],
+    [
+      "5110",
+      "FRUITS AND TREE NUTS",
+      "3483266",
+      "2016",
+      "06",
+      "JORDAN",
+      "1113"
+    ],
+    [
+      "5130",
+      "FRUITS AND TREE NUTS",
+      "2062940",
+      "2016",
+      "06",
+      "KUWAIT",
+      "1113"
+    ],
+    [
+      "5170",
+      "FRUITS AND TREE NUTS",
+      "8552580",
+      "2016",
+      "06",
+      "SAUDI ARABIA",
+      "1113"
+    ],
+    [
+      "5180",
+      "FRUITS AND TREE NUTS",
+      "476244",
+      "2016",
+      "06",
+      "QATAR",
+      "1113"
+    ],
+    [
+      "5200",
+      "FRUITS AND TREE NUTS",
+      "21177577",
+      "2016",
+      "06",
+      "UNITED ARAB EMIRATES",
+      "1113"
+    ],
+    [
+      "5210",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "YEMEN",
+      "1113"
+    ],
+    [
+      "5230",
+      "FRUITS AND TREE NUTS",
+      "123989",
+      "2016",
+      "06",
+      "OMAN",
+      "1113"
+    ],
+    [
+      "5250",
+      "FRUITS AND TREE NUTS",
+      "220565",
+      "2016",
+      "06",
+      "BAHRAIN",
+      "1113"
+    ],
+    [
+      "5330",
+      "FRUITS AND TREE NUTS",
+      "36565144",
+      "2016",
+      "06",
+      "INDIA",
+      "1113"
+    ],
+    [
+      "5350",
+      "FRUITS AND TREE NUTS",
+      "4751582",
+      "2016",
+      "06",
+      "PAKISTAN",
+      "1113"
+    ],
+    [
+      "5380",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "BANGLADESH",
+      "1113"
+    ],
+    [
+      "5420",
+      "FRUITS AND TREE NUTS",
+      "158899",
+      "2016",
+      "06",
+      "SRI LANKA",
+      "1113"
+    ],
+    [
+      "5460",
+      "FRUITS AND TREE NUTS",
+      "30164",
+      "2016",
+      "06",
+      "BURMA",
+      "1113"
+    ],
+    [
+      "5490",
+      "FRUITS AND TREE NUTS",
+      "8893633",
+      "2016",
+      "06",
+      "THAILAND",
+      "1113"
+    ],
+    [
+      "5520",
+      "FRUITS AND TREE NUTS",
+      "11074187",
+      "2016",
+      "06",
+      "VIETNAM",
+      "1113"
+    ],
+    [
+      "5530",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "LAOS",
+      "1113"
+    ],
+    [
+      "5550",
+      "FRUITS AND TREE NUTS",
+      "30096",
+      "2016",
+      "06",
+      "CAMBODIA",
+      "1113"
+    ],
+    [
+      "5570",
+      "FRUITS AND TREE NUTS",
+      "5183795",
+      "2016",
+      "06",
+      "MALAYSIA",
+      "1113"
+    ],
+    [
+      "5590",
+      "FRUITS AND TREE NUTS",
+      "8017263",
+      "2016",
+      "06",
+      "SINGAPORE",
+      "1113"
+    ],
+    [
+      "5600",
+      "FRUITS AND TREE NUTS",
+      "9321580",
+      "2016",
+      "06",
+      "INDONESIA",
+      "1113"
+    ],
+    [
+      "5610",
+      "FRUITS AND TREE NUTS",
+      "15530",
+      "2016",
+      "06",
+      "BRUNEI",
+      "1113"
+    ],
+    [
+      "5650",
+      "FRUITS AND TREE NUTS",
+      "2798149",
+      "2016",
+      "06",
+      "PHILIPPINES",
+      "1113"
+    ],
+    [
+      "5660",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "MACAU",
+      "1113"
+    ],
+    [
+      "5700",
+      "FRUITS AND TREE NUTS",
+      "46340231",
+      "2016",
+      "06",
+      "CHINA",
+      "1113"
+    ],
+    [
+      "5800",
+      "FRUITS AND TREE NUTS",
+      "83406763",
+      "2016",
+      "06",
+      "KOREA, SOUTH",
+      "1113"
+    ],
+    [
+      "5820",
+      "FRUITS AND TREE NUTS",
+      "71314153",
+      "2016",
+      "06",
+      "HONG KONG",
+      "1113"
+    ],
+    [
+      "5830",
+      "FRUITS AND TREE NUTS",
+      "31277999",
+      "2016",
+      "06",
+      "TAIWAN",
+      "1113"
+    ],
+    [
+      "5880",
+      "FRUITS AND TREE NUTS",
+      "64810595",
+      "2016",
+      "06",
+      "JAPAN",
+      "1113"
+    ],
+    [
+      "5XXX",
+      "FRUITS AND TREE NUTS",
+      "426701050",
+      "2016",
+      "06",
+      "ASIA",
+      "1113"
+    ],
+    [
+      "6021",
+      "FRUITS AND TREE NUTS",
+      "16066769",
+      "2016",
+      "06",
+      "AUSTRALIA",
+      "1113"
+    ],
+    [
+      "6141",
+      "FRUITS AND TREE NUTS",
+      "2852792",
+      "2016",
+      "06",
+      "NEW ZEALAND",
+      "1113"
+    ],
+    [
+      "6143",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "TOKELAU",
+      "1113"
+    ],
+    [
+      "6150",
+      "FRUITS AND TREE NUTS",
+      "2548",
+      "2016",
+      "06",
+      "SAMOA",
+      "1113"
+    ],
+    [
+      "6412",
+      "FRUITS AND TREE NUTS",
+      "38110",
+      "2016",
+      "06",
+      "NEW CALEDONIA",
+      "1113"
+    ],
+    [
+      "6414",
+      "FRUITS AND TREE NUTS",
+      "88364",
+      "2016",
+      "06",
+      "FRENCH POLYNESIA",
+      "1113"
+    ],
+    [
+      "6820",
+      "FRUITS AND TREE NUTS",
+      "7300",
+      "2016",
+      "06",
+      "MICRONESIA",
+      "1113"
+    ],
+    [
+      "6862",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "NAURU",
+      "1113"
+    ],
+    [
+      "6863",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "FIJI",
+      "1113"
+    ],
+    [
+      "6XXX",
+      "FRUITS AND TREE NUTS",
+      "19055883",
+      "2016",
+      "06",
+      "AUSTRALIA AND OCEANIA",
+      "1113"
+    ],
+    [
+      "7140",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "MOROCCO",
+      "1113"
+    ],
+    [
+      "7210",
+      "FRUITS AND TREE NUTS",
+      "4184621",
+      "2016",
+      "06",
+      "ALGERIA",
+      "1113"
+    ],
+    [
+      "7230",
+      "FRUITS AND TREE NUTS",
+      "909760",
+      "2016",
+      "06",
+      "TUNISIA",
+      "1113"
+    ],
+    [
+      "7250",
+      "FRUITS AND TREE NUTS",
+      "129932",
+      "2016",
+      "06",
+      "LIBYA",
+      "1113"
+    ],
+    [
+      "7290",
+      "FRUITS AND TREE NUTS",
+      "1104613",
+      "2016",
+      "06",
+      "EGYPT",
+      "1113"
+    ],
+    [
+      "7380",
+      "FRUITS AND TREE NUTS",
+      "13310",
+      "2016",
+      "06",
+      "EQUATORIAL GUINEA",
+      "1113"
+    ],
+    [
+      "7470",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "SIERRA LEONE",
+      "1113"
+    ],
+    [
+      "7490",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "GHANA",
+      "1113"
+    ],
+    [
+      "7530",
+      "FRUITS AND TREE NUTS",
+      "5339",
+      "2016",
+      "06",
+      "NIGERIA",
+      "1113"
+    ],
+    [
+      "7690",
+      "FRUITS AND TREE NUTS",
+      "3453",
+      "2016",
+      "06",
+      "RWANDA",
+      "1113"
+    ],
+    [
+      "7749",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "ETHIOPIA",
+      "1113"
+    ],
+    [
+      "7770",
+      "FRUITS AND TREE NUTS",
+      "25000",
+      "2016",
+      "06",
+      "DJIBOUTI",
+      "1113"
+    ],
+    [
+      "7780",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "UGANDA",
+      "1113"
+    ],
+    [
+      "7790",
+      "FRUITS AND TREE NUTS",
+      "312936",
+      "2016",
+      "06",
+      "KENYA",
+      "1113"
+    ],
+    [
+      "7850",
+      "FRUITS AND TREE NUTS",
+      "245456",
+      "2016",
+      "06",
+      "MAURITIUS",
+      "1113"
+    ],
+    [
+      "7880",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "MADAGASCAR",
+      "1113"
+    ],
+    [
+      "7910",
+      "FRUITS AND TREE NUTS",
+      "1078125",
+      "2016",
+      "06",
+      "SOUTH AFRICA",
+      "1113"
+    ],
+    [
+      "7950",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2016",
+      "06",
+      "ESWATINI",
+      "1113"
+    ],
+    [
+      "7XXX",
+      "FRUITS AND TREE NUTS",
+      "8012545",
+      "2016",
+      "06",
+      "AFRICA",
+      "1113"
+    ]
+  ]
+}

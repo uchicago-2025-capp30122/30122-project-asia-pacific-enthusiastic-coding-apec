@@ -1,0 +1,4538 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:25:52 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a448d0ccd89b5f78c2112c4ee2552ae0b3239ebdad7ba2a287c7cf0d6d91ce24e757c41ba518ec5cd07eb96295addf4c23; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "2489",
+      "CHEMICALS",
+      "2109",
+      "2024",
+      "09",
+      "GRENADA",
+      "325"
+    ],
+    [
+      "2489",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "325"
+    ],
+    [
+      "2489",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "325"
+    ],
+    [
+      "2489",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "325"
+    ],
+    [
+      "2489",
+      "BASIC CHEMICALS",
+      "2109",
+      "2024",
+      "09",
+      "GRENADA",
+      "3251"
+    ],
+    [
+      "2489",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "3251"
+    ],
+    [
+      "2489",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "3251"
+    ],
+    [
+      "2489",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3251"
+    ],
+    [
+      "2489",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "28554",
+      "2024",
+      "01",
+      "GRENADA",
+      "326"
+    ],
+    [
+      "2489",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "GRENADA",
+      "326"
+    ],
+    [
+      "2489",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "326"
+    ],
+    [
+      "2489",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "GRENADA",
+      "326"
+    ],
+    [
+      "2489",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "326"
+    ],
+    [
+      "2489",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "1028",
+      "2024",
+      "06",
+      "GRENADA",
+      "326"
+    ],
+    [
+      "2489",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "326"
+    ],
+    [
+      "2489",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "326"
+    ],
+    [
+      "2489",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "326"
+    ],
+    [
+      "2489",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "326"
+    ],
+    [
+      "2489",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "2266",
+      "2024",
+      "11",
+      "GRENADA",
+      "326"
+    ],
+    [
+      "2489",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "326"
+    ],
+    [
+      "2489",
+      "PLASTICS PRODUCTS",
+      "1028",
+      "2024",
+      "06",
+      "GRENADA",
+      "3261"
+    ],
+    [
+      "2489",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "3261"
+    ],
+    [
+      "2489",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "3261"
+    ],
+    [
+      "2489",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "3261"
+    ],
+    [
+      "2489",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "3261"
+    ],
+    [
+      "2489",
+      "PLASTICS PRODUCTS",
+      "2266",
+      "2024",
+      "11",
+      "GRENADA",
+      "3261"
+    ],
+    [
+      "2489",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3261"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 3",
+      "32542",
+      "2024",
+      "02",
+      "GRENADA",
+      "33"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 3",
+      "2179",
+      "2024",
+      "03",
+      "GRENADA",
+      "33"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 3",
+      "35667",
+      "2024",
+      "04",
+      "GRENADA",
+      "33"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "33"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 3",
+      "2375",
+      "2024",
+      "06",
+      "GRENADA",
+      "33"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 3",
+      "12342",
+      "2024",
+      "07",
+      "GRENADA",
+      "33"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "33"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 3",
+      "5614",
+      "2024",
+      "09",
+      "GRENADA",
+      "33"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 3",
+      "7592",
+      "2024",
+      "10",
+      "GRENADA",
+      "33"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 3",
+      "52759",
+      "2024",
+      "11",
+      "GRENADA",
+      "33"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 3",
+      "7482",
+      "2024",
+      "12",
+      "GRENADA",
+      "33"
+    ],
+    [
+      "2489",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1145227",
+      "2024",
+      "01",
+      "GRENADA",
+      "-"
+    ],
+    [
+      "2489",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1159168",
+      "2024",
+      "02",
+      "GRENADA",
+      "-"
+    ],
+    [
+      "2489",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1418642",
+      "2024",
+      "03",
+      "GRENADA",
+      "-"
+    ],
+    [
+      "2489",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1796209",
+      "2024",
+      "04",
+      "GRENADA",
+      "-"
+    ],
+    [
+      "2489",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2016600",
+      "2024",
+      "05",
+      "GRENADA",
+      "-"
+    ],
+    [
+      "2489",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2123415",
+      "2024",
+      "06",
+      "GRENADA",
+      "-"
+    ],
+    [
+      "2489",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "801425",
+      "2024",
+      "07",
+      "GRENADA",
+      "-"
+    ],
+    [
+      "2489",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "585402",
+      "2024",
+      "08",
+      "GRENADA",
+      "-"
+    ],
+    [
+      "2489",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "834515",
+      "2024",
+      "09",
+      "GRENADA",
+      "-"
+    ],
+    [
+      "2489",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "701840",
+      "2024",
+      "10",
+      "GRENADA",
+      "-"
+    ],
+    [
+      "2489",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "844591",
+      "2024",
+      "11",
+      "GRENADA",
+      "-"
+    ],
+    [
+      "2489",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "647784",
+      "2024",
+      "12",
+      "GRENADA",
+      "-"
+    ],
+    [
+      "2489",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "518605",
+      "2024",
+      "01",
+      "GRENADA",
+      "11"
+    ],
+    [
+      "2489",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "683348",
+      "2024",
+      "02",
+      "GRENADA",
+      "11"
+    ],
+    [
+      "2489",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "930366",
+      "2024",
+      "03",
+      "GRENADA",
+      "11"
+    ],
+    [
+      "2489",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "1204943",
+      "2024",
+      "04",
+      "GRENADA",
+      "11"
+    ],
+    [
+      "2489",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "1155618",
+      "2024",
+      "05",
+      "GRENADA",
+      "11"
+    ],
+    [
+      "2489",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "1526979",
+      "2024",
+      "06",
+      "GRENADA",
+      "11"
+    ],
+    [
+      "2489",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "479574",
+      "2024",
+      "07",
+      "GRENADA",
+      "11"
+    ],
+    [
+      "2489",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "184653",
+      "2024",
+      "08",
+      "GRENADA",
+      "11"
+    ],
+    [
+      "2489",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "170401",
+      "2024",
+      "09",
+      "GRENADA",
+      "11"
+    ],
+    [
+      "2489",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "149769",
+      "2024",
+      "10",
+      "GRENADA",
+      "11"
+    ],
+    [
+      "2489",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "323865",
+      "2024",
+      "11",
+      "GRENADA",
+      "11"
+    ],
+    [
+      "2489",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "372115",
+      "2024",
+      "12",
+      "GRENADA",
+      "11"
+    ],
+    [
+      "2489",
+      "AGRICULTURAL PRODUCTS",
+      "70562",
+      "2024",
+      "01",
+      "GRENADA",
+      "111"
+    ],
+    [
+      "2489",
+      "AGRICULTURAL PRODUCTS",
+      "72925",
+      "2024",
+      "02",
+      "GRENADA",
+      "111"
+    ],
+    [
+      "2489",
+      "AGRICULTURAL PRODUCTS",
+      "44375",
+      "2024",
+      "03",
+      "GRENADA",
+      "111"
+    ],
+    [
+      "2489",
+      "AGRICULTURAL PRODUCTS",
+      "45221",
+      "2024",
+      "04",
+      "GRENADA",
+      "111"
+    ],
+    [
+      "2489",
+      "AGRICULTURAL PRODUCTS",
+      "61685",
+      "2024",
+      "05",
+      "GRENADA",
+      "111"
+    ],
+    [
+      "2489",
+      "AGRICULTURAL PRODUCTS",
+      "70428",
+      "2024",
+      "06",
+      "GRENADA",
+      "111"
+    ],
+    [
+      "2489",
+      "AGRICULTURAL PRODUCTS",
+      "7198",
+      "2024",
+      "07",
+      "GRENADA",
+      "111"
+    ],
+    [
+      "2489",
+      "AGRICULTURAL PRODUCTS",
+      "56681",
+      "2024",
+      "08",
+      "GRENADA",
+      "111"
+    ],
+    [
+      "2489",
+      "AGRICULTURAL PRODUCTS",
+      "96232",
+      "2024",
+      "09",
+      "GRENADA",
+      "111"
+    ],
+    [
+      "2489",
+      "AGRICULTURAL PRODUCTS",
+      "46077",
+      "2024",
+      "10",
+      "GRENADA",
+      "111"
+    ],
+    [
+      "2489",
+      "AGRICULTURAL PRODUCTS",
+      "8412",
+      "2024",
+      "11",
+      "GRENADA",
+      "111"
+    ],
+    [
+      "2489",
+      "AGRICULTURAL PRODUCTS",
+      "10321",
+      "2024",
+      "12",
+      "GRENADA",
+      "111"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "70562",
+      "2024",
+      "01",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "72925",
+      "2024",
+      "02",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "44375",
+      "2024",
+      "03",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "45221",
+      "2024",
+      "04",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "61685",
+      "2024",
+      "05",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "70428",
+      "2024",
+      "06",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "7198",
+      "2024",
+      "07",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "56681",
+      "2024",
+      "08",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "96232",
+      "2024",
+      "09",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "46077",
+      "2024",
+      "10",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "8412",
+      "2024",
+      "11",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2489",
+      "FRUITS AND TREE NUTS",
+      "10321",
+      "2024",
+      "12",
+      "GRENADA",
+      "1113"
+    ],
+    [
+      "2489",
+      "FORESTRY PRODUCTS, NESOI",
+      "71500",
+      "2024",
+      "11",
+      "GRENADA",
+      "113"
+    ],
+    [
+      "2489",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "113"
+    ],
+    [
+      "2489",
+      "FORESTRY PRODUCTS",
+      "71500",
+      "2024",
+      "11",
+      "GRENADA",
+      "1132"
+    ],
+    [
+      "2489",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "1132"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "448043",
+      "2024",
+      "01",
+      "GRENADA",
+      "1141"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "610423",
+      "2024",
+      "02",
+      "GRENADA",
+      "1141"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "885991",
+      "2024",
+      "03",
+      "GRENADA",
+      "1141"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "1159722",
+      "2024",
+      "04",
+      "GRENADA",
+      "1141"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "1093933",
+      "2024",
+      "05",
+      "GRENADA",
+      "1141"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "1456551",
+      "2024",
+      "06",
+      "GRENADA",
+      "1141"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "472376",
+      "2024",
+      "07",
+      "GRENADA",
+      "1141"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "127972",
+      "2024",
+      "08",
+      "GRENADA",
+      "1141"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "74169",
+      "2024",
+      "09",
+      "GRENADA",
+      "1141"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "103692",
+      "2024",
+      "10",
+      "GRENADA",
+      "1141"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "243953",
+      "2024",
+      "11",
+      "GRENADA",
+      "1141"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "361794",
+      "2024",
+      "12",
+      "GRENADA",
+      "1141"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART1",
+      "400025",
+      "2024",
+      "01",
+      "GRENADA",
+      "31"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART1",
+      "265456",
+      "2024",
+      "02",
+      "GRENADA",
+      "31"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART1",
+      "248821",
+      "2024",
+      "03",
+      "GRENADA",
+      "31"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART1",
+      "221756",
+      "2024",
+      "04",
+      "GRENADA",
+      "31"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART1",
+      "467331",
+      "2024",
+      "05",
+      "GRENADA",
+      "31"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART1",
+      "346316",
+      "2024",
+      "06",
+      "GRENADA",
+      "31"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART1",
+      "91862",
+      "2024",
+      "07",
+      "GRENADA",
+      "31"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART1",
+      "294977",
+      "2024",
+      "08",
+      "GRENADA",
+      "31"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART1",
+      "388405",
+      "2024",
+      "09",
+      "GRENADA",
+      "31"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART1",
+      "144635",
+      "2024",
+      "10",
+      "GRENADA",
+      "31"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART1",
+      "171932",
+      "2024",
+      "11",
+      "GRENADA",
+      "31"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART1",
+      "22285",
+      "2024",
+      "12",
+      "GRENADA",
+      "31"
+    ],
+    [
+      "2489",
+      "MANUFACTURED GOODS",
+      "428579",
+      "2024",
+      "01",
+      "GRENADA",
+      "31-33"
+    ],
+    [
+      "2489",
+      "MANUFACTURED GOODS",
+      "297998",
+      "2024",
+      "02",
+      "GRENADA",
+      "31-33"
+    ],
+    [
+      "2489",
+      "MANUFACTURED GOODS",
+      "251000",
+      "2024",
+      "03",
+      "GRENADA",
+      "31-33"
+    ],
+    [
+      "2489",
+      "MANUFACTURED GOODS",
+      "257423",
+      "2024",
+      "04",
+      "GRENADA",
+      "31-33"
+    ],
+    [
+      "2489",
+      "MANUFACTURED GOODS",
+      "467331",
+      "2024",
+      "05",
+      "GRENADA",
+      "31-33"
+    ],
+    [
+      "2489",
+      "MANUFACTURED GOODS",
+      "349719",
+      "2024",
+      "06",
+      "GRENADA",
+      "31-33"
+    ],
+    [
+      "2489",
+      "MANUFACTURED GOODS",
+      "104204",
+      "2024",
+      "07",
+      "GRENADA",
+      "31-33"
+    ],
+    [
+      "2489",
+      "MANUFACTURED GOODS",
+      "294977",
+      "2024",
+      "08",
+      "GRENADA",
+      "31-33"
+    ],
+    [
+      "2489",
+      "MANUFACTURED GOODS",
+      "396128",
+      "2024",
+      "09",
+      "GRENADA",
+      "31-33"
+    ],
+    [
+      "2489",
+      "MANUFACTURED GOODS",
+      "152227",
+      "2024",
+      "10",
+      "GRENADA",
+      "31-33"
+    ],
+    [
+      "2489",
+      "MANUFACTURED GOODS",
+      "226957",
+      "2024",
+      "11",
+      "GRENADA",
+      "31-33"
+    ],
+    [
+      "2489",
+      "MANUFACTURED GOODS",
+      "29767",
+      "2024",
+      "12",
+      "GRENADA",
+      "31-33"
+    ],
+    [
+      "2489",
+      "FOOD AND KINDRED PRODUCTS",
+      "399125",
+      "2024",
+      "01",
+      "GRENADA",
+      "311"
+    ],
+    [
+      "2489",
+      "FOOD AND KINDRED PRODUCTS",
+      "259472",
+      "2024",
+      "02",
+      "GRENADA",
+      "311"
+    ],
+    [
+      "2489",
+      "FOOD AND KINDRED PRODUCTS",
+      "248821",
+      "2024",
+      "03",
+      "GRENADA",
+      "311"
+    ],
+    [
+      "2489",
+      "FOOD AND KINDRED PRODUCTS",
+      "221158",
+      "2024",
+      "04",
+      "GRENADA",
+      "311"
+    ],
+    [
+      "2489",
+      "FOOD AND KINDRED PRODUCTS",
+      "467331",
+      "2024",
+      "05",
+      "GRENADA",
+      "311"
+    ],
+    [
+      "2489",
+      "FOOD AND KINDRED PRODUCTS",
+      "346316",
+      "2024",
+      "06",
+      "GRENADA",
+      "311"
+    ],
+    [
+      "2489",
+      "FOOD AND KINDRED PRODUCTS",
+      "81862",
+      "2024",
+      "07",
+      "GRENADA",
+      "311"
+    ],
+    [
+      "2489",
+      "FOOD AND KINDRED PRODUCTS",
+      "287313",
+      "2024",
+      "08",
+      "GRENADA",
+      "311"
+    ],
+    [
+      "2489",
+      "FOOD AND KINDRED PRODUCTS",
+      "388405",
+      "2024",
+      "09",
+      "GRENADA",
+      "311"
+    ],
+    [
+      "2489",
+      "FOOD AND KINDRED PRODUCTS",
+      "144635",
+      "2024",
+      "10",
+      "GRENADA",
+      "311"
+    ],
+    [
+      "2489",
+      "FOOD AND KINDRED PRODUCTS",
+      "171932",
+      "2024",
+      "11",
+      "GRENADA",
+      "311"
+    ],
+    [
+      "2489",
+      "FOOD AND KINDRED PRODUCTS",
+      "22285",
+      "2024",
+      "12",
+      "GRENADA",
+      "311"
+    ],
+    [
+      "2489",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "326000",
+      "2024",
+      "01",
+      "GRENADA",
+      "3114"
+    ],
+    [
+      "2489",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "224525",
+      "2024",
+      "02",
+      "GRENADA",
+      "3114"
+    ],
+    [
+      "2489",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "215927",
+      "2024",
+      "03",
+      "GRENADA",
+      "3114"
+    ],
+    [
+      "2489",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "177858",
+      "2024",
+      "04",
+      "GRENADA",
+      "3114"
+    ],
+    [
+      "2489",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "290235",
+      "2024",
+      "05",
+      "GRENADA",
+      "3114"
+    ],
+    [
+      "2489",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "294521",
+      "2024",
+      "06",
+      "GRENADA",
+      "3114"
+    ],
+    [
+      "2489",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "52526",
+      "2024",
+      "07",
+      "GRENADA",
+      "3114"
+    ],
+    [
+      "2489",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "202070",
+      "2024",
+      "08",
+      "GRENADA",
+      "3114"
+    ],
+    [
+      "2489",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "330545",
+      "2024",
+      "09",
+      "GRENADA",
+      "3114"
+    ],
+    [
+      "2489",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "97385",
+      "2024",
+      "10",
+      "GRENADA",
+      "3114"
+    ],
+    [
+      "2489",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "57066",
+      "2024",
+      "11",
+      "GRENADA",
+      "3114"
+    ],
+    [
+      "2489",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "8322",
+      "2024",
+      "12",
+      "GRENADA",
+      "3114"
+    ],
+    [
+      "2489",
+      "FOODS, NESOI",
+      "73125",
+      "2024",
+      "01",
+      "GRENADA",
+      "3119"
+    ],
+    [
+      "2489",
+      "FOODS, NESOI",
+      "34947",
+      "2024",
+      "02",
+      "GRENADA",
+      "3119"
+    ],
+    [
+      "2489",
+      "FOODS, NESOI",
+      "32894",
+      "2024",
+      "03",
+      "GRENADA",
+      "3119"
+    ],
+    [
+      "2489",
+      "FOODS, NESOI",
+      "43300",
+      "2024",
+      "04",
+      "GRENADA",
+      "3119"
+    ],
+    [
+      "2489",
+      "FOODS, NESOI",
+      "177096",
+      "2024",
+      "05",
+      "GRENADA",
+      "3119"
+    ],
+    [
+      "2489",
+      "FOODS, NESOI",
+      "51795",
+      "2024",
+      "06",
+      "GRENADA",
+      "3119"
+    ],
+    [
+      "2489",
+      "FOODS, NESOI",
+      "29336",
+      "2024",
+      "07",
+      "GRENADA",
+      "3119"
+    ],
+    [
+      "2489",
+      "FOODS, NESOI",
+      "85243",
+      "2024",
+      "08",
+      "GRENADA",
+      "3119"
+    ],
+    [
+      "2489",
+      "FOODS, NESOI",
+      "57860",
+      "2024",
+      "09",
+      "GRENADA",
+      "3119"
+    ],
+    [
+      "2489",
+      "FOODS, NESOI",
+      "47250",
+      "2024",
+      "10",
+      "GRENADA",
+      "3119"
+    ],
+    [
+      "2489",
+      "FOODS, NESOI",
+      "114866",
+      "2024",
+      "11",
+      "GRENADA",
+      "3119"
+    ],
+    [
+      "2489",
+      "FOODS, NESOI",
+      "13963",
+      "2024",
+      "12",
+      "GRENADA",
+      "3119"
+    ],
+    [
+      "2489",
+      "BEVERAGES",
+      "7664",
+      "2024",
+      "08",
+      "GRENADA",
+      "3121"
+    ],
+    [
+      "2489",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "3121"
+    ],
+    [
+      "2489",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "3121"
+    ],
+    [
+      "2489",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "3121"
+    ],
+    [
+      "2489",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3121"
+    ],
+    [
+      "2489",
+      "APPAREL AND ACCESSORIES",
+      "5984",
+      "2024",
+      "02",
+      "GRENADA",
+      "315"
+    ],
+    [
+      "2489",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "315"
+    ],
+    [
+      "2489",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "04",
+      "GRENADA",
+      "315"
+    ],
+    [
+      "2489",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "315"
+    ],
+    [
+      "2489",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "06",
+      "GRENADA",
+      "315"
+    ],
+    [
+      "2489",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "315"
+    ],
+    [
+      "2489",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "315"
+    ],
+    [
+      "2489",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "315"
+    ],
+    [
+      "2489",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "315"
+    ],
+    [
+      "2489",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "315"
+    ],
+    [
+      "2489",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "315"
+    ],
+    [
+      "2489",
+      "LEATHER AND ALLIED PRODUCTS",
+      "900",
+      "2024",
+      "01",
+      "GRENADA",
+      "316"
+    ],
+    [
+      "2489",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "GRENADA",
+      "316"
+    ],
+    [
+      "2489",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "316"
+    ],
+    [
+      "2489",
+      "LEATHER AND ALLIED PRODUCTS",
+      "598",
+      "2024",
+      "04",
+      "GRENADA",
+      "316"
+    ],
+    [
+      "2489",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "316"
+    ],
+    [
+      "2489",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "GRENADA",
+      "316"
+    ],
+    [
+      "2489",
+      "LEATHER AND ALLIED PRODUCTS",
+      "10000",
+      "2024",
+      "07",
+      "GRENADA",
+      "316"
+    ],
+    [
+      "2489",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "316"
+    ],
+    [
+      "2489",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "316"
+    ],
+    [
+      "2489",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "316"
+    ],
+    [
+      "2489",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "316"
+    ],
+    [
+      "2489",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "316"
+    ],
+    [
+      "2489",
+      "OTHER LEATHER PRODUCTS",
+      "900",
+      "2024",
+      "01",
+      "GRENADA",
+      "3169"
+    ],
+    [
+      "2489",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "GRENADA",
+      "3169"
+    ],
+    [
+      "2489",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "3169"
+    ],
+    [
+      "2489",
+      "OTHER LEATHER PRODUCTS",
+      "598",
+      "2024",
+      "04",
+      "GRENADA",
+      "3169"
+    ],
+    [
+      "2489",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "3169"
+    ],
+    [
+      "2489",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "GRENADA",
+      "3169"
+    ],
+    [
+      "2489",
+      "OTHER LEATHER PRODUCTS",
+      "10000",
+      "2024",
+      "07",
+      "GRENADA",
+      "3169"
+    ],
+    [
+      "2489",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "3169"
+    ],
+    [
+      "2489",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "3169"
+    ],
+    [
+      "2489",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "3169"
+    ],
+    [
+      "2489",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "3169"
+    ],
+    [
+      "2489",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3169"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 2",
+      "28554",
+      "2024",
+      "01",
+      "GRENADA",
+      "32"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "02",
+      "GRENADA",
+      "32"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "32"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "04",
+      "GRENADA",
+      "32"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "32"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 2",
+      "1028",
+      "2024",
+      "06",
+      "GRENADA",
+      "32"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "32"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "32"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 2",
+      "2109",
+      "2024",
+      "09",
+      "GRENADA",
+      "32"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "32"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 2",
+      "2266",
+      "2024",
+      "11",
+      "GRENADA",
+      "32"
+    ],
+    [
+      "2489",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "32"
+    ],
+    [
+      "2489",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "4199",
+      "2024",
+      "02",
+      "GRENADA",
+      "3336"
+    ],
+    [
+      "2489",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "3336"
+    ],
+    [
+      "2489",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "GRENADA",
+      "3336"
+    ],
+    [
+      "2489",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "3336"
+    ],
+    [
+      "2489",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "GRENADA",
+      "3336"
+    ],
+    [
+      "2489",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "3336"
+    ],
+    [
+      "2489",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "3336"
+    ],
+    [
+      "2489",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "3336"
+    ],
+    [
+      "2489",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "3336"
+    ],
+    [
+      "2489",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "3336"
+    ],
+    [
+      "2489",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3336"
+    ],
+    [
+      "2489",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "4015",
+      "2024",
+      "10",
+      "GRENADA",
+      "3339"
+    ],
+    [
+      "2489",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "2500",
+      "2024",
+      "11",
+      "GRENADA",
+      "3339"
+    ],
+    [
+      "2489",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "7482",
+      "2024",
+      "12",
+      "GRENADA",
+      "3339"
+    ],
+    [
+      "2489",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "2179",
+      "2024",
+      "03",
+      "GRENADA",
+      "334"
+    ],
+    [
+      "2489",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "GRENADA",
+      "334"
+    ],
+    [
+      "2489",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "334"
+    ],
+    [
+      "2489",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "2375",
+      "2024",
+      "06",
+      "GRENADA",
+      "334"
+    ],
+    [
+      "2489",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "334"
+    ],
+    [
+      "2489",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "334"
+    ],
+    [
+      "2489",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "4179",
+      "2024",
+      "09",
+      "GRENADA",
+      "334"
+    ],
+    [
+      "2489",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "334"
+    ],
+    [
+      "2489",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "39440",
+      "2024",
+      "11",
+      "GRENADA",
+      "334"
+    ],
+    [
+      "2489",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "334"
+    ],
+    [
+      "2489",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "2179",
+      "2024",
+      "03",
+      "GRENADA",
+      "3345"
+    ],
+    [
+      "2489",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "04",
+      "GRENADA",
+      "3345"
+    ],
+    [
+      "2489",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "3345"
+    ],
+    [
+      "2489",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "2375",
+      "2024",
+      "06",
+      "GRENADA",
+      "3345"
+    ],
+    [
+      "2489",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "3345"
+    ],
+    [
+      "2489",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "3345"
+    ],
+    [
+      "2489",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "3345"
+    ],
+    [
+      "2489",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "3345"
+    ],
+    [
+      "2489",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "36740",
+      "2024",
+      "11",
+      "GRENADA",
+      "3345"
+    ],
+    [
+      "2489",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3345"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT",
+      "26056",
+      "2024",
+      "02",
+      "GRENADA",
+      "3353"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "3353"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT",
+      "35667",
+      "2024",
+      "04",
+      "GRENADA",
+      "3353"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "3353"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "GRENADA",
+      "3353"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "3353"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "3353"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "3353"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "3353"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "3353"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3353"
+    ],
+    [
+      "2489",
+      "TRANSPORTATION EQUIPMENT",
+      "6319",
+      "2024",
+      "11",
+      "GRENADA",
+      "336"
+    ],
+    [
+      "2489",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "336"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "122476",
+      "2024",
+      "01",
+      "GRENADA",
+      "91"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "112585",
+      "2024",
+      "02",
+      "GRENADA",
+      "91"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "168048",
+      "2024",
+      "03",
+      "GRENADA",
+      "91"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "132748",
+      "2024",
+      "04",
+      "GRENADA",
+      "91"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "257742",
+      "2024",
+      "05",
+      "GRENADA",
+      "91"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "140552",
+      "2024",
+      "06",
+      "GRENADA",
+      "91"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "139318",
+      "2024",
+      "07",
+      "GRENADA",
+      "91"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "70301",
+      "2024",
+      "08",
+      "GRENADA",
+      "91"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "166591",
+      "2024",
+      "09",
+      "GRENADA",
+      "91"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "249462",
+      "2024",
+      "10",
+      "GRENADA",
+      "91"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "217887",
+      "2024",
+      "11",
+      "GRENADA",
+      "91"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "201352",
+      "2024",
+      "12",
+      "GRENADA",
+      "91"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "122476",
+      "2024",
+      "01",
+      "GRENADA",
+      "910"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "112585",
+      "2024",
+      "02",
+      "GRENADA",
+      "910"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "168048",
+      "2024",
+      "03",
+      "GRENADA",
+      "910"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "132748",
+      "2024",
+      "04",
+      "GRENADA",
+      "910"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "257742",
+      "2024",
+      "05",
+      "GRENADA",
+      "910"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "140552",
+      "2024",
+      "06",
+      "GRENADA",
+      "910"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "139318",
+      "2024",
+      "07",
+      "GRENADA",
+      "910"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "70301",
+      "2024",
+      "08",
+      "GRENADA",
+      "910"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "166591",
+      "2024",
+      "09",
+      "GRENADA",
+      "910"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "249462",
+      "2024",
+      "10",
+      "GRENADA",
+      "910"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "217887",
+      "2024",
+      "11",
+      "GRENADA",
+      "910"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "201352",
+      "2024",
+      "12",
+      "GRENADA",
+      "910"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "122476",
+      "2024",
+      "01",
+      "GRENADA",
+      "9100"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "112585",
+      "2024",
+      "02",
+      "GRENADA",
+      "9100"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "168048",
+      "2024",
+      "03",
+      "GRENADA",
+      "9100"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "132748",
+      "2024",
+      "04",
+      "GRENADA",
+      "9100"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "257742",
+      "2024",
+      "05",
+      "GRENADA",
+      "9100"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "140552",
+      "2024",
+      "06",
+      "GRENADA",
+      "9100"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "139318",
+      "2024",
+      "07",
+      "GRENADA",
+      "9100"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "70301",
+      "2024",
+      "08",
+      "GRENADA",
+      "9100"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "166591",
+      "2024",
+      "09",
+      "GRENADA",
+      "9100"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "249462",
+      "2024",
+      "10",
+      "GRENADA",
+      "9100"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "217887",
+      "2024",
+      "11",
+      "GRENADA",
+      "9100"
+    ],
+    [
+      "2489",
+      "WASTE AND SCRAP",
+      "201352",
+      "2024",
+      "12",
+      "GRENADA",
+      "9100"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "11723",
+      "2024",
+      "06",
+      "GRENADA",
+      "93"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "93"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "93"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "93"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "50000",
+      "2024",
+      "10",
+      "GRENADA",
+      "93"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "93"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "93"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "11723",
+      "2024",
+      "06",
+      "GRENADA",
+      "930"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "930"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "930"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "930"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "50000",
+      "2024",
+      "10",
+      "GRENADA",
+      "930"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "930"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "930"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "11723",
+      "2024",
+      "06",
+      "GRENADA",
+      "9300"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "9300"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "9300"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "9300"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "50000",
+      "2024",
+      "10",
+      "GRENADA",
+      "9300"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "9300"
+    ],
+    [
+      "2489",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "9300"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "7670",
+      "2024",
+      "01",
+      "GRENADA",
+      "980"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4000",
+      "2024",
+      "02",
+      "GRENADA",
+      "980"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "980"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "113661",
+      "2024",
+      "04",
+      "GRENADA",
+      "980"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "31102",
+      "2024",
+      "05",
+      "GRENADA",
+      "980"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "27996",
+      "2024",
+      "06",
+      "GRENADA",
+      "980"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "37065",
+      "2024",
+      "07",
+      "GRENADA",
+      "980"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "980"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "45368",
+      "2024",
+      "09",
+      "GRENADA",
+      "980"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "47580",
+      "2024",
+      "10",
+      "GRENADA",
+      "980"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "18881",
+      "2024",
+      "11",
+      "GRENADA",
+      "980"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "6500",
+      "2024",
+      "12",
+      "GRENADA",
+      "980"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "67897",
+      "2024",
+      "01",
+      "GRENADA",
+      "990"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "61237",
+      "2024",
+      "02",
+      "GRENADA",
+      "990"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "69228",
+      "2024",
+      "03",
+      "GRENADA",
+      "990"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "87434",
+      "2024",
+      "04",
+      "GRENADA",
+      "990"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "104807",
+      "2024",
+      "05",
+      "GRENADA",
+      "990"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "66446",
+      "2024",
+      "06",
+      "GRENADA",
+      "990"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41264",
+      "2024",
+      "07",
+      "GRENADA",
+      "990"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "35471",
+      "2024",
+      "08",
+      "GRENADA",
+      "990"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "56027",
+      "2024",
+      "09",
+      "GRENADA",
+      "990"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "52802",
+      "2024",
+      "10",
+      "GRENADA",
+      "990"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "57001",
+      "2024",
+      "11",
+      "GRENADA",
+      "990"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "38050",
+      "2024",
+      "12",
+      "GRENADA",
+      "990"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "67897",
+      "2024",
+      "01",
+      "GRENADA",
+      "9900"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "61237",
+      "2024",
+      "02",
+      "GRENADA",
+      "9900"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "69228",
+      "2024",
+      "03",
+      "GRENADA",
+      "9900"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "87434",
+      "2024",
+      "04",
+      "GRENADA",
+      "9900"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "104807",
+      "2024",
+      "05",
+      "GRENADA",
+      "9900"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "66446",
+      "2024",
+      "06",
+      "GRENADA",
+      "9900"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41264",
+      "2024",
+      "07",
+      "GRENADA",
+      "9900"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "35471",
+      "2024",
+      "08",
+      "GRENADA",
+      "9900"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "56027",
+      "2024",
+      "09",
+      "GRENADA",
+      "9900"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "52802",
+      "2024",
+      "10",
+      "GRENADA",
+      "9900"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "57001",
+      "2024",
+      "11",
+      "GRENADA",
+      "9900"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "38050",
+      "2024",
+      "12",
+      "GRENADA",
+      "9900"
+    ],
+    [
+      "2489",
+      "RUBBER PRODUCTS",
+      "28554",
+      "2024",
+      "01",
+      "GRENADA",
+      "3262"
+    ],
+    [
+      "2489",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "GRENADA",
+      "3262"
+    ],
+    [
+      "2489",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "3262"
+    ],
+    [
+      "2489",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "GRENADA",
+      "3262"
+    ],
+    [
+      "2489",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "3262"
+    ],
+    [
+      "2489",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "GRENADA",
+      "3262"
+    ],
+    [
+      "2489",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "3262"
+    ],
+    [
+      "2489",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "3262"
+    ],
+    [
+      "2489",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "3262"
+    ],
+    [
+      "2489",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "3262"
+    ],
+    [
+      "2489",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "3262"
+    ],
+    [
+      "2489",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3262"
+    ],
+    [
+      "2489",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "7664",
+      "2024",
+      "08",
+      "GRENADA",
+      "312"
+    ],
+    [
+      "2489",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "312"
+    ],
+    [
+      "2489",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "312"
+    ],
+    [
+      "2489",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "312"
+    ],
+    [
+      "2489",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "312"
+    ],
+    [
+      "2489",
+      "APPAREL",
+      "5984",
+      "2024",
+      "02",
+      "GRENADA",
+      "3152"
+    ],
+    [
+      "2489",
+      "APPAREL",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "3152"
+    ],
+    [
+      "2489",
+      "APPAREL",
+      "0",
+      "2024",
+      "04",
+      "GRENADA",
+      "3152"
+    ],
+    [
+      "2489",
+      "APPAREL",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "3152"
+    ],
+    [
+      "2489",
+      "APPAREL",
+      "0",
+      "2024",
+      "06",
+      "GRENADA",
+      "3152"
+    ],
+    [
+      "2489",
+      "APPAREL",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "3152"
+    ],
+    [
+      "2489",
+      "APPAREL",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "3152"
+    ],
+    [
+      "2489",
+      "APPAREL",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "3152"
+    ],
+    [
+      "2489",
+      "APPAREL",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "3152"
+    ],
+    [
+      "2489",
+      "APPAREL",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "3152"
+    ],
+    [
+      "2489",
+      "APPAREL",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3152"
+    ],
+    [
+      "2489",
+      "COMMUNICATIONS EQUIPMENT",
+      "4179",
+      "2024",
+      "09",
+      "GRENADA",
+      "3342"
+    ],
+    [
+      "2489",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "3342"
+    ],
+    [
+      "2489",
+      "COMMUNICATIONS EQUIPMENT",
+      "2700",
+      "2024",
+      "11",
+      "GRENADA",
+      "3342"
+    ],
+    [
+      "2489",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3342"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "28343",
+      "2024",
+      "02",
+      "GRENADA",
+      "335"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "335"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "35667",
+      "2024",
+      "04",
+      "GRENADA",
+      "335"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "335"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "06",
+      "GRENADA",
+      "335"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "335"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "335"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "335"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "335"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "4500",
+      "2024",
+      "11",
+      "GRENADA",
+      "335"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "335"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "2287",
+      "2024",
+      "02",
+      "GRENADA",
+      "3359"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "3359"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "GRENADA",
+      "3359"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "3359"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "GRENADA",
+      "3359"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "3359"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "3359"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "3359"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "3359"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "4500",
+      "2024",
+      "11",
+      "GRENADA",
+      "3359"
+    ],
+    [
+      "2489",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3359"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "7670",
+      "2024",
+      "01",
+      "GRENADA",
+      "98"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4000",
+      "2024",
+      "02",
+      "GRENADA",
+      "98"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "98"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "113661",
+      "2024",
+      "04",
+      "GRENADA",
+      "98"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "31102",
+      "2024",
+      "05",
+      "GRENADA",
+      "98"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "27996",
+      "2024",
+      "06",
+      "GRENADA",
+      "98"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "37065",
+      "2024",
+      "07",
+      "GRENADA",
+      "98"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "98"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "45368",
+      "2024",
+      "09",
+      "GRENADA",
+      "98"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "47580",
+      "2024",
+      "10",
+      "GRENADA",
+      "98"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "18881",
+      "2024",
+      "11",
+      "GRENADA",
+      "98"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "6500",
+      "2024",
+      "12",
+      "GRENADA",
+      "98"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "7670",
+      "2024",
+      "01",
+      "GRENADA",
+      "9800"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4000",
+      "2024",
+      "02",
+      "GRENADA",
+      "9800"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "9800"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "113661",
+      "2024",
+      "04",
+      "GRENADA",
+      "9800"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "31102",
+      "2024",
+      "05",
+      "GRENADA",
+      "9800"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "27996",
+      "2024",
+      "06",
+      "GRENADA",
+      "9800"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "37065",
+      "2024",
+      "07",
+      "GRENADA",
+      "9800"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "9800"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "45368",
+      "2024",
+      "09",
+      "GRENADA",
+      "9800"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "47580",
+      "2024",
+      "10",
+      "GRENADA",
+      "9800"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "18881",
+      "2024",
+      "11",
+      "GRENADA",
+      "9800"
+    ],
+    [
+      "2489",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "6500",
+      "2024",
+      "12",
+      "GRENADA",
+      "9800"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "67897",
+      "2024",
+      "01",
+      "GRENADA",
+      "99"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "61237",
+      "2024",
+      "02",
+      "GRENADA",
+      "99"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "69228",
+      "2024",
+      "03",
+      "GRENADA",
+      "99"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "87434",
+      "2024",
+      "04",
+      "GRENADA",
+      "99"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "104807",
+      "2024",
+      "05",
+      "GRENADA",
+      "99"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "66446",
+      "2024",
+      "06",
+      "GRENADA",
+      "99"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41264",
+      "2024",
+      "07",
+      "GRENADA",
+      "99"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "35471",
+      "2024",
+      "08",
+      "GRENADA",
+      "99"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "56027",
+      "2024",
+      "09",
+      "GRENADA",
+      "99"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "52802",
+      "2024",
+      "10",
+      "GRENADA",
+      "99"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "57001",
+      "2024",
+      "11",
+      "GRENADA",
+      "99"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "38050",
+      "2024",
+      "12",
+      "GRENADA",
+      "99"
+    ],
+    [
+      "2489",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "6319",
+      "2024",
+      "11",
+      "GRENADA",
+      "3364"
+    ],
+    [
+      "2489",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3364"
+    ],
+    [
+      "2489",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1435",
+      "2024",
+      "09",
+      "GRENADA",
+      "339"
+    ],
+    [
+      "2489",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "3577",
+      "2024",
+      "10",
+      "GRENADA",
+      "339"
+    ],
+    [
+      "2489",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "339"
+    ],
+    [
+      "2489",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "339"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "448043",
+      "2024",
+      "01",
+      "GRENADA",
+      "114"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "610423",
+      "2024",
+      "02",
+      "GRENADA",
+      "114"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "885991",
+      "2024",
+      "03",
+      "GRENADA",
+      "114"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "1159722",
+      "2024",
+      "04",
+      "GRENADA",
+      "114"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "1093933",
+      "2024",
+      "05",
+      "GRENADA",
+      "114"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "1456551",
+      "2024",
+      "06",
+      "GRENADA",
+      "114"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "472376",
+      "2024",
+      "07",
+      "GRENADA",
+      "114"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "127972",
+      "2024",
+      "08",
+      "GRENADA",
+      "114"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "74169",
+      "2024",
+      "09",
+      "GRENADA",
+      "114"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "103692",
+      "2024",
+      "10",
+      "GRENADA",
+      "114"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "243953",
+      "2024",
+      "11",
+      "GRENADA",
+      "114"
+    ],
+    [
+      "2489",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "361794",
+      "2024",
+      "12",
+      "GRENADA",
+      "114"
+    ],
+    [
+      "2489",
+      "FURNITURE AND FIXTURES",
+      "400",
+      "2024",
+      "07",
+      "GRENADA",
+      "337"
+    ],
+    [
+      "2489",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "337"
+    ],
+    [
+      "2489",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "337"
+    ],
+    [
+      "2489",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "337"
+    ],
+    [
+      "2489",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "337"
+    ],
+    [
+      "2489",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "337"
+    ],
+    [
+      "2489",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "400",
+      "2024",
+      "07",
+      "GRENADA",
+      "3372"
+    ],
+    [
+      "2489",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "3372"
+    ],
+    [
+      "2489",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "3372"
+    ],
+    [
+      "2489",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "3372"
+    ],
+    [
+      "2489",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "3372"
+    ],
+    [
+      "2489",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3372"
+    ],
+    [
+      "2489",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1435",
+      "2024",
+      "09",
+      "GRENADA",
+      "3399"
+    ],
+    [
+      "2489",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "3577",
+      "2024",
+      "10",
+      "GRENADA",
+      "3399"
+    ],
+    [
+      "2489",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "3399"
+    ],
+    [
+      "2489",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3399"
+    ],
+    [
+      "2489",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "11942",
+      "2024",
+      "07",
+      "GRENADA",
+      "332"
+    ],
+    [
+      "2489",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "332"
+    ],
+    [
+      "2489",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "332"
+    ],
+    [
+      "2489",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "332"
+    ],
+    [
+      "2489",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "332"
+    ],
+    [
+      "2489",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "332"
+    ],
+    [
+      "2489",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "11942",
+      "2024",
+      "07",
+      "GRENADA",
+      "3329"
+    ],
+    [
+      "2489",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "3329"
+    ],
+    [
+      "2489",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "3329"
+    ],
+    [
+      "2489",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GRENADA",
+      "3329"
+    ],
+    [
+      "2489",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GRENADA",
+      "3329"
+    ],
+    [
+      "2489",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GRENADA",
+      "3329"
+    ],
+    [
+      "2489",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "4199",
+      "2024",
+      "02",
+      "GRENADA",
+      "333"
+    ],
+    [
+      "2489",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "03",
+      "GRENADA",
+      "333"
+    ],
+    [
+      "2489",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "04",
+      "GRENADA",
+      "333"
+    ],
+    [
+      "2489",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "05",
+      "GRENADA",
+      "333"
+    ],
+    [
+      "2489",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "06",
+      "GRENADA",
+      "333"
+    ],
+    [
+      "2489",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "07",
+      "GRENADA",
+      "333"
+    ],
+    [
+      "2489",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "08",
+      "GRENADA",
+      "333"
+    ],
+    [
+      "2489",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "09",
+      "GRENADA",
+      "333"
+    ],
+    [
+      "2489",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "4015",
+      "2024",
+      "10",
+      "GRENADA",
+      "333"
+    ],
+    [
+      "2489",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "2500",
+      "2024",
+      "11",
+      "GRENADA",
+      "333"
+    ],
+    [
+      "2489",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "7482",
+      "2024",
+      "12",
+      "GRENADA",
+      "333"
+    ]
+  ]
+}

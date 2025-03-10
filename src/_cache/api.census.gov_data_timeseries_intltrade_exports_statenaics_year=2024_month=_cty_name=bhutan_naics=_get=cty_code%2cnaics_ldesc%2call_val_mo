@@ -1,0 +1,4385 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:19:54 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a425996493742878122c3c19c4db01f4f366fdf63c5bb8b4441ac8254d3b2a8bbcdc41e96d1c5212e78a4b6dff8583f0c2; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "2805",
+      "2024",
+      "02",
+      "BHUTAN",
+      "3231"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3231"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3231"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3231"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3231"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3231"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3231"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3231"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3231"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3231"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3231"
+    ],
+    [
+      "5682",
+      "CHEMICALS",
+      "2771",
+      "2024",
+      "01",
+      "BHUTAN",
+      "325"
+    ],
+    [
+      "5682",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "02",
+      "BHUTAN",
+      "325"
+    ],
+    [
+      "5682",
+      "CHEMICALS",
+      "22878",
+      "2024",
+      "03",
+      "BHUTAN",
+      "325"
+    ],
+    [
+      "5682",
+      "CHEMICALS",
+      "22186",
+      "2024",
+      "04",
+      "BHUTAN",
+      "325"
+    ],
+    [
+      "5682",
+      "CHEMICALS",
+      "17724",
+      "2024",
+      "05",
+      "BHUTAN",
+      "325"
+    ],
+    [
+      "5682",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "325"
+    ],
+    [
+      "5682",
+      "CHEMICALS",
+      "9461",
+      "2024",
+      "07",
+      "BHUTAN",
+      "325"
+    ],
+    [
+      "5682",
+      "CHEMICALS",
+      "9106",
+      "2024",
+      "08",
+      "BHUTAN",
+      "325"
+    ],
+    [
+      "5682",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "325"
+    ],
+    [
+      "5682",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "325"
+    ],
+    [
+      "5682",
+      "CHEMICALS",
+      "7471",
+      "2024",
+      "11",
+      "BHUTAN",
+      "325"
+    ],
+    [
+      "5682",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "325"
+    ],
+    [
+      "5682",
+      "BASIC CHEMICALS",
+      "3900",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3251"
+    ],
+    [
+      "5682",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3251"
+    ],
+    [
+      "5682",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3251"
+    ],
+    [
+      "5682",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3251"
+    ],
+    [
+      "5682",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3251"
+    ],
+    [
+      "5682",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3251"
+    ],
+    [
+      "5682",
+      "PHARMACEUTICALS AND MEDICINES",
+      "19236",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3254"
+    ],
+    [
+      "5682",
+      "PHARMACEUTICALS AND MEDICINES",
+      "19236",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3254"
+    ],
+    [
+      "5682",
+      "PHARMACEUTICALS AND MEDICINES",
+      "17724",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3254"
+    ],
+    [
+      "5682",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3254"
+    ],
+    [
+      "5682",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3254"
+    ],
+    [
+      "5682",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3254"
+    ],
+    [
+      "5682",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3254"
+    ],
+    [
+      "5682",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3254"
+    ],
+    [
+      "5682",
+      "PHARMACEUTICALS AND MEDICINES",
+      "4964",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3254"
+    ],
+    [
+      "5682",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3254"
+    ],
+    [
+      "5682",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "3642",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3256"
+    ],
+    [
+      "5682",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3256"
+    ],
+    [
+      "5682",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3256"
+    ],
+    [
+      "5682",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3256"
+    ],
+    [
+      "5682",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3256"
+    ],
+    [
+      "5682",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3256"
+    ],
+    [
+      "5682",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3256"
+    ],
+    [
+      "5682",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3256"
+    ],
+    [
+      "5682",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3256"
+    ],
+    [
+      "5682",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3256"
+    ],
+    [
+      "5682",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "9106",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3259"
+    ],
+    [
+      "5682",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3259"
+    ],
+    [
+      "5682",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3259"
+    ],
+    [
+      "5682",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3259"
+    ],
+    [
+      "5682",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3259"
+    ],
+    [
+      "5682",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "429300",
+      "2024",
+      "03",
+      "BHUTAN",
+      "326"
+    ],
+    [
+      "5682",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "144000",
+      "2024",
+      "04",
+      "BHUTAN",
+      "326"
+    ],
+    [
+      "5682",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "326"
+    ],
+    [
+      "5682",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "326"
+    ],
+    [
+      "5682",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "326"
+    ],
+    [
+      "5682",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "326"
+    ],
+    [
+      "5682",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "42294",
+      "2024",
+      "09",
+      "BHUTAN",
+      "326"
+    ],
+    [
+      "5682",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "326"
+    ],
+    [
+      "5682",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "326"
+    ],
+    [
+      "5682",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "326"
+    ],
+    [
+      "5682",
+      "PLASTICS PRODUCTS",
+      "429300",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3261"
+    ],
+    [
+      "5682",
+      "PLASTICS PRODUCTS",
+      "144000",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3261"
+    ],
+    [
+      "5682",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3261"
+    ],
+    [
+      "5682",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3261"
+    ],
+    [
+      "5682",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3261"
+    ],
+    [
+      "5682",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3261"
+    ],
+    [
+      "5682",
+      "PLASTICS PRODUCTS",
+      "42294",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3261"
+    ],
+    [
+      "5682",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3261"
+    ],
+    [
+      "5682",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3261"
+    ],
+    [
+      "5682",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3261"
+    ],
+    [
+      "5682",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "4049",
+      "2024",
+      "10",
+      "BHUTAN",
+      "327"
+    ],
+    [
+      "5682",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "327"
+    ],
+    [
+      "5682",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "327"
+    ],
+    [
+      "5682",
+      "GLASS AND GLASS PRODUCTS",
+      "4049",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3272"
+    ],
+    [
+      "5682",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3272"
+    ],
+    [
+      "5682",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3272"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 3",
+      "81628",
+      "2024",
+      "01",
+      "BHUTAN",
+      "33"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 3",
+      "89050",
+      "2024",
+      "02",
+      "BHUTAN",
+      "33"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 3",
+      "151148",
+      "2024",
+      "03",
+      "BHUTAN",
+      "33"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 3",
+      "541693",
+      "2024",
+      "04",
+      "BHUTAN",
+      "33"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 3",
+      "4983",
+      "2024",
+      "05",
+      "BHUTAN",
+      "33"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 3",
+      "143165",
+      "2024",
+      "06",
+      "BHUTAN",
+      "33"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 3",
+      "132653",
+      "2024",
+      "07",
+      "BHUTAN",
+      "33"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 3",
+      "71091",
+      "2024",
+      "08",
+      "BHUTAN",
+      "33"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 3",
+      "203985",
+      "2024",
+      "09",
+      "BHUTAN",
+      "33"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 3",
+      "510261",
+      "2024",
+      "11",
+      "BHUTAN",
+      "33"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 3",
+      "619482",
+      "2024",
+      "12",
+      "BHUTAN",
+      "33"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 3",
+      "49477",
+      "2024",
+      "10",
+      "BHUTAN",
+      "33"
+    ],
+    [
+      "5682",
+      "PRIMARY METAL MANUFACTURING",
+      "4848",
+      "2024",
+      "01",
+      "BHUTAN",
+      "331"
+    ],
+    [
+      "5682",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "02",
+      "BHUTAN",
+      "331"
+    ],
+    [
+      "5682",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "03",
+      "BHUTAN",
+      "331"
+    ],
+    [
+      "5682",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "331"
+    ],
+    [
+      "5682",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "331"
+    ],
+    [
+      "5682",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "331"
+    ],
+    [
+      "5682",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "331"
+    ],
+    [
+      "5682",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "331"
+    ],
+    [
+      "5682",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "331"
+    ],
+    [
+      "5682",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "331"
+    ],
+    [
+      "5682",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "331"
+    ],
+    [
+      "5682",
+      "PRIMARY METAL MANUFACTURING",
+      "125820",
+      "2024",
+      "12",
+      "BHUTAN",
+      "331"
+    ],
+    [
+      "5682",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "85706",
+      "2024",
+      "01",
+      "BHUTAN",
+      "-"
+    ],
+    [
+      "5682",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "95439",
+      "2024",
+      "02",
+      "BHUTAN",
+      "-"
+    ],
+    [
+      "5682",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "629054",
+      "2024",
+      "03",
+      "BHUTAN",
+      "-"
+    ],
+    [
+      "5682",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "747276",
+      "2024",
+      "04",
+      "BHUTAN",
+      "-"
+    ],
+    [
+      "5682",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "30122",
+      "2024",
+      "05",
+      "BHUTAN",
+      "-"
+    ],
+    [
+      "5682",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "145417",
+      "2024",
+      "06",
+      "BHUTAN",
+      "-"
+    ],
+    [
+      "5682",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "143734",
+      "2024",
+      "07",
+      "BHUTAN",
+      "-"
+    ],
+    [
+      "5682",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "81552",
+      "2024",
+      "08",
+      "BHUTAN",
+      "-"
+    ],
+    [
+      "5682",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "250136",
+      "2024",
+      "09",
+      "BHUTAN",
+      "-"
+    ],
+    [
+      "5682",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "58091",
+      "2024",
+      "10",
+      "BHUTAN",
+      "-"
+    ],
+    [
+      "5682",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "524235",
+      "2024",
+      "11",
+      "BHUTAN",
+      "-"
+    ],
+    [
+      "5682",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "636972",
+      "2024",
+      "12",
+      "BHUTAN",
+      "-"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART1",
+      "10894",
+      "2024",
+      "03",
+      "BHUTAN",
+      "31"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART1",
+      "12198",
+      "2024",
+      "04",
+      "BHUTAN",
+      "31"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART1",
+      "5000",
+      "2024",
+      "05",
+      "BHUTAN",
+      "31"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "31"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "31"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "31"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "31"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "31"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "31"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "31"
+    ],
+    [
+      "5682",
+      "MANUFACTURED GOODS",
+      "84399",
+      "2024",
+      "01",
+      "BHUTAN",
+      "31-33"
+    ],
+    [
+      "5682",
+      "MANUFACTURED GOODS",
+      "91855",
+      "2024",
+      "02",
+      "BHUTAN",
+      "31-33"
+    ],
+    [
+      "5682",
+      "MANUFACTURED GOODS",
+      "614220",
+      "2024",
+      "03",
+      "BHUTAN",
+      "31-33"
+    ],
+    [
+      "5682",
+      "MANUFACTURED GOODS",
+      "720077",
+      "2024",
+      "04",
+      "BHUTAN",
+      "31-33"
+    ],
+    [
+      "5682",
+      "MANUFACTURED GOODS",
+      "27707",
+      "2024",
+      "05",
+      "BHUTAN",
+      "31-33"
+    ],
+    [
+      "5682",
+      "MANUFACTURED GOODS",
+      "143165",
+      "2024",
+      "06",
+      "BHUTAN",
+      "31-33"
+    ],
+    [
+      "5682",
+      "MANUFACTURED GOODS",
+      "142114",
+      "2024",
+      "07",
+      "BHUTAN",
+      "31-33"
+    ],
+    [
+      "5682",
+      "MANUFACTURED GOODS",
+      "80197",
+      "2024",
+      "08",
+      "BHUTAN",
+      "31-33"
+    ],
+    [
+      "5682",
+      "MANUFACTURED GOODS",
+      "246279",
+      "2024",
+      "09",
+      "BHUTAN",
+      "31-33"
+    ],
+    [
+      "5682",
+      "MANUFACTURED GOODS",
+      "53526",
+      "2024",
+      "10",
+      "BHUTAN",
+      "31-33"
+    ],
+    [
+      "5682",
+      "MANUFACTURED GOODS",
+      "619482",
+      "2024",
+      "12",
+      "BHUTAN",
+      "31-33"
+    ],
+    [
+      "5682",
+      "MANUFACTURED GOODS",
+      "517732",
+      "2024",
+      "11",
+      "BHUTAN",
+      "31-33"
+    ],
+    [
+      "5682",
+      "FOOD AND KINDRED PRODUCTS",
+      "3196",
+      "2024",
+      "03",
+      "BHUTAN",
+      "311"
+    ],
+    [
+      "5682",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "311"
+    ],
+    [
+      "5682",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "311"
+    ],
+    [
+      "5682",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "311"
+    ],
+    [
+      "5682",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "311"
+    ],
+    [
+      "5682",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "311"
+    ],
+    [
+      "5682",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "311"
+    ],
+    [
+      "5682",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "311"
+    ],
+    [
+      "5682",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "311"
+    ],
+    [
+      "5682",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "311"
+    ],
+    [
+      "5682",
+      "FOODS, NESOI",
+      "3196",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3119"
+    ],
+    [
+      "5682",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3119"
+    ],
+    [
+      "5682",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3119"
+    ],
+    [
+      "5682",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3119"
+    ],
+    [
+      "5682",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3119"
+    ],
+    [
+      "5682",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3119"
+    ],
+    [
+      "5682",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3119"
+    ],
+    [
+      "5682",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3119"
+    ],
+    [
+      "5682",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3119"
+    ],
+    [
+      "5682",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3119"
+    ],
+    [
+      "5682",
+      "TEXTILE MILL PRODUCTS",
+      "4641",
+      "2024",
+      "03",
+      "BHUTAN",
+      "314"
+    ],
+    [
+      "5682",
+      "TEXTILE MILL PRODUCTS",
+      "12198",
+      "2024",
+      "04",
+      "BHUTAN",
+      "314"
+    ],
+    [
+      "5682",
+      "TEXTILE MILL PRODUCTS",
+      "5000",
+      "2024",
+      "05",
+      "BHUTAN",
+      "314"
+    ],
+    [
+      "5682",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "314"
+    ],
+    [
+      "5682",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "314"
+    ],
+    [
+      "5682",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "314"
+    ],
+    [
+      "5682",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "314"
+    ],
+    [
+      "5682",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "314"
+    ],
+    [
+      "5682",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "314"
+    ],
+    [
+      "5682",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "314"
+    ],
+    [
+      "5682",
+      "TEXTILE FURNISHINGS",
+      "5000",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3141"
+    ],
+    [
+      "5682",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3141"
+    ],
+    [
+      "5682",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3141"
+    ],
+    [
+      "5682",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3141"
+    ],
+    [
+      "5682",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3141"
+    ],
+    [
+      "5682",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3141"
+    ],
+    [
+      "5682",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3141"
+    ],
+    [
+      "5682",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3141"
+    ],
+    [
+      "5682",
+      "OTHER TEXTILE PRODUCTS",
+      "4641",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3149"
+    ],
+    [
+      "5682",
+      "OTHER TEXTILE PRODUCTS",
+      "12198",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3149"
+    ],
+    [
+      "5682",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3149"
+    ],
+    [
+      "5682",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3149"
+    ],
+    [
+      "5682",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3149"
+    ],
+    [
+      "5682",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3149"
+    ],
+    [
+      "5682",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3149"
+    ],
+    [
+      "5682",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3149"
+    ],
+    [
+      "5682",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3149"
+    ],
+    [
+      "5682",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3149"
+    ],
+    [
+      "5682",
+      "APPAREL AND ACCESSORIES",
+      "3057",
+      "2024",
+      "03",
+      "BHUTAN",
+      "315"
+    ],
+    [
+      "5682",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "315"
+    ],
+    [
+      "5682",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "315"
+    ],
+    [
+      "5682",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "315"
+    ],
+    [
+      "5682",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "315"
+    ],
+    [
+      "5682",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "315"
+    ],
+    [
+      "5682",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "315"
+    ],
+    [
+      "5682",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "315"
+    ],
+    [
+      "5682",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "315"
+    ],
+    [
+      "5682",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "315"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 2",
+      "2771",
+      "2024",
+      "01",
+      "BHUTAN",
+      "32"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 2",
+      "2805",
+      "2024",
+      "02",
+      "BHUTAN",
+      "32"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 2",
+      "452178",
+      "2024",
+      "03",
+      "BHUTAN",
+      "32"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 2",
+      "166186",
+      "2024",
+      "04",
+      "BHUTAN",
+      "32"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 2",
+      "17724",
+      "2024",
+      "05",
+      "BHUTAN",
+      "32"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "32"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 2",
+      "9461",
+      "2024",
+      "07",
+      "BHUTAN",
+      "32"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 2",
+      "9106",
+      "2024",
+      "08",
+      "BHUTAN",
+      "32"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 2",
+      "42294",
+      "2024",
+      "09",
+      "BHUTAN",
+      "32"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 2",
+      "4049",
+      "2024",
+      "10",
+      "BHUTAN",
+      "32"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 2",
+      "7471",
+      "2024",
+      "11",
+      "BHUTAN",
+      "32"
+    ],
+    [
+      "5682",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "32"
+    ],
+    [
+      "5682",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "2820",
+      "2024",
+      "02",
+      "BHUTAN",
+      "3339"
+    ],
+    [
+      "5682",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "12629",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3339"
+    ],
+    [
+      "5682",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3339"
+    ],
+    [
+      "5682",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3339"
+    ],
+    [
+      "5682",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3339"
+    ],
+    [
+      "5682",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3339"
+    ],
+    [
+      "5682",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "29702",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3339"
+    ],
+    [
+      "5682",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3339"
+    ],
+    [
+      "5682",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "6702",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3339"
+    ],
+    [
+      "5682",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3339"
+    ],
+    [
+      "5682",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "144613",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3339"
+    ],
+    [
+      "5682",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "7340",
+      "2024",
+      "01",
+      "BHUTAN",
+      "334"
+    ],
+    [
+      "5682",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "61427",
+      "2024",
+      "02",
+      "BHUTAN",
+      "334"
+    ],
+    [
+      "5682",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "62794",
+      "2024",
+      "03",
+      "BHUTAN",
+      "334"
+    ],
+    [
+      "5682",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "90653",
+      "2024",
+      "04",
+      "BHUTAN",
+      "334"
+    ],
+    [
+      "5682",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "334"
+    ],
+    [
+      "5682",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "9917",
+      "2024",
+      "06",
+      "BHUTAN",
+      "334"
+    ],
+    [
+      "5682",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "18400",
+      "2024",
+      "07",
+      "BHUTAN",
+      "334"
+    ],
+    [
+      "5682",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "334"
+    ],
+    [
+      "5682",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "59830",
+      "2024",
+      "09",
+      "BHUTAN",
+      "334"
+    ],
+    [
+      "5682",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "35216",
+      "2024",
+      "10",
+      "BHUTAN",
+      "334"
+    ],
+    [
+      "5682",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "193126",
+      "2024",
+      "11",
+      "BHUTAN",
+      "334"
+    ],
+    [
+      "5682",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "177010",
+      "2024",
+      "12",
+      "BHUTAN",
+      "334"
+    ],
+    [
+      "5682",
+      "COMPUTER EQUIPMENT",
+      "4316",
+      "2024",
+      "01",
+      "BHUTAN",
+      "3341"
+    ],
+    [
+      "5682",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "BHUTAN",
+      "3341"
+    ],
+    [
+      "5682",
+      "COMPUTER EQUIPMENT",
+      "2833",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3341"
+    ],
+    [
+      "5682",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3341"
+    ],
+    [
+      "5682",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3341"
+    ],
+    [
+      "5682",
+      "COMPUTER EQUIPMENT",
+      "5400",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3341"
+    ],
+    [
+      "5682",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3341"
+    ],
+    [
+      "5682",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3341"
+    ],
+    [
+      "5682",
+      "COMPUTER EQUIPMENT",
+      "13788",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3341"
+    ],
+    [
+      "5682",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3341"
+    ],
+    [
+      "5682",
+      "COMPUTER EQUIPMENT",
+      "27696",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3341"
+    ],
+    [
+      "5682",
+      "COMPUTER EQUIPMENT",
+      "77376",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3341"
+    ],
+    [
+      "5682",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "4811",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3343"
+    ],
+    [
+      "5682",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3343"
+    ],
+    [
+      "5682",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3343"
+    ],
+    [
+      "5682",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3343"
+    ],
+    [
+      "5682",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3343"
+    ],
+    [
+      "5682",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3343"
+    ],
+    [
+      "5682",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "35655",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3343"
+    ],
+    [
+      "5682",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3343"
+    ],
+    [
+      "5682",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3343"
+    ],
+    [
+      "5682",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "2818",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3343"
+    ],
+    [
+      "5682",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "3352",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3344"
+    ],
+    [
+      "5682",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3344"
+    ],
+    [
+      "5682",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "20210",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3344"
+    ],
+    [
+      "5682",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3344"
+    ],
+    [
+      "5682",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "36615",
+      "2024",
+      "02",
+      "BHUTAN",
+      "3345"
+    ],
+    [
+      "5682",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "55150",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3345"
+    ],
+    [
+      "5682",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "90653",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3345"
+    ],
+    [
+      "5682",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3345"
+    ],
+    [
+      "5682",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "4517",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3345"
+    ],
+    [
+      "5682",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "18400",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3345"
+    ],
+    [
+      "5682",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3345"
+    ],
+    [
+      "5682",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3345"
+    ],
+    [
+      "5682",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "35216",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3345"
+    ],
+    [
+      "5682",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "74500",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3345"
+    ],
+    [
+      "5682",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "94250",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3345"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT",
+      "11463",
+      "2024",
+      "02",
+      "BHUTAN",
+      "336"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT",
+      "6186",
+      "2024",
+      "03",
+      "BHUTAN",
+      "336"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT",
+      "87595",
+      "2024",
+      "04",
+      "BHUTAN",
+      "336"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT",
+      "4983",
+      "2024",
+      "05",
+      "BHUTAN",
+      "336"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "336"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT",
+      "61263",
+      "2024",
+      "07",
+      "BHUTAN",
+      "336"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "336"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT",
+      "63580",
+      "2024",
+      "09",
+      "BHUTAN",
+      "336"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "336"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT",
+      "8516",
+      "2024",
+      "11",
+      "BHUTAN",
+      "336"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT",
+      "4956",
+      "2024",
+      "12",
+      "BHUTAN",
+      "336"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1307",
+      "2024",
+      "01",
+      "BHUTAN",
+      "990"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3584",
+      "2024",
+      "02",
+      "BHUTAN",
+      "990"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14834",
+      "2024",
+      "03",
+      "BHUTAN",
+      "990"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "27199",
+      "2024",
+      "04",
+      "BHUTAN",
+      "990"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2415",
+      "2024",
+      "05",
+      "BHUTAN",
+      "990"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2252",
+      "2024",
+      "06",
+      "BHUTAN",
+      "990"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1620",
+      "2024",
+      "07",
+      "BHUTAN",
+      "990"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1355",
+      "2024",
+      "08",
+      "BHUTAN",
+      "990"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3857",
+      "2024",
+      "09",
+      "BHUTAN",
+      "990"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4565",
+      "2024",
+      "10",
+      "BHUTAN",
+      "990"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "6503",
+      "2024",
+      "11",
+      "BHUTAN",
+      "990"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "17490",
+      "2024",
+      "12",
+      "BHUTAN",
+      "990"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1307",
+      "2024",
+      "01",
+      "BHUTAN",
+      "9900"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3584",
+      "2024",
+      "02",
+      "BHUTAN",
+      "9900"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14834",
+      "2024",
+      "03",
+      "BHUTAN",
+      "9900"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "27199",
+      "2024",
+      "04",
+      "BHUTAN",
+      "9900"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2415",
+      "2024",
+      "05",
+      "BHUTAN",
+      "9900"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2252",
+      "2024",
+      "06",
+      "BHUTAN",
+      "9900"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1620",
+      "2024",
+      "07",
+      "BHUTAN",
+      "9900"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1355",
+      "2024",
+      "08",
+      "BHUTAN",
+      "9900"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3857",
+      "2024",
+      "09",
+      "BHUTAN",
+      "9900"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4565",
+      "2024",
+      "10",
+      "BHUTAN",
+      "9900"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "6503",
+      "2024",
+      "11",
+      "BHUTAN",
+      "9900"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "17490",
+      "2024",
+      "12",
+      "BHUTAN",
+      "9900"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "2805",
+      "2024",
+      "02",
+      "BHUTAN",
+      "323"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "BHUTAN",
+      "323"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "323"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "323"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "323"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "323"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "323"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "323"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "323"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "323"
+    ],
+    [
+      "5682",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "323"
+    ],
+    [
+      "5682",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "2771",
+      "2024",
+      "01",
+      "BHUTAN",
+      "3255"
+    ],
+    [
+      "5682",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "02",
+      "BHUTAN",
+      "3255"
+    ],
+    [
+      "5682",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3255"
+    ],
+    [
+      "5682",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "2950",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3255"
+    ],
+    [
+      "5682",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3255"
+    ],
+    [
+      "5682",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3255"
+    ],
+    [
+      "5682",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "5561",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3255"
+    ],
+    [
+      "5682",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3255"
+    ],
+    [
+      "5682",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3255"
+    ],
+    [
+      "5682",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3255"
+    ],
+    [
+      "5682",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "2507",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3255"
+    ],
+    [
+      "5682",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3255"
+    ],
+    [
+      "5682",
+      "APPAREL",
+      "3057",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3152"
+    ],
+    [
+      "5682",
+      "APPAREL",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3152"
+    ],
+    [
+      "5682",
+      "APPAREL",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3152"
+    ],
+    [
+      "5682",
+      "APPAREL",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3152"
+    ],
+    [
+      "5682",
+      "APPAREL",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3152"
+    ],
+    [
+      "5682",
+      "APPAREL",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3152"
+    ],
+    [
+      "5682",
+      "APPAREL",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3152"
+    ],
+    [
+      "5682",
+      "APPAREL",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3152"
+    ],
+    [
+      "5682",
+      "APPAREL",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3152"
+    ],
+    [
+      "5682",
+      "APPAREL",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3152"
+    ],
+    [
+      "5682",
+      "COMMUNICATIONS EQUIPMENT",
+      "3024",
+      "2024",
+      "01",
+      "BHUTAN",
+      "3342"
+    ],
+    [
+      "5682",
+      "COMMUNICATIONS EQUIPMENT",
+      "24812",
+      "2024",
+      "02",
+      "BHUTAN",
+      "3342"
+    ],
+    [
+      "5682",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3342"
+    ],
+    [
+      "5682",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3342"
+    ],
+    [
+      "5682",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3342"
+    ],
+    [
+      "5682",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3342"
+    ],
+    [
+      "5682",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3342"
+    ],
+    [
+      "5682",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3342"
+    ],
+    [
+      "5682",
+      "COMMUNICATIONS EQUIPMENT",
+      "7035",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3342"
+    ],
+    [
+      "5682",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3342"
+    ],
+    [
+      "5682",
+      "COMMUNICATIONS EQUIPMENT",
+      "70720",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3342"
+    ],
+    [
+      "5682",
+      "COMMUNICATIONS EQUIPMENT",
+      "2566",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3342"
+    ],
+    [
+      "5682",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "9922",
+      "2024",
+      "09",
+      "BHUTAN",
+      "335"
+    ],
+    [
+      "5682",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "335"
+    ],
+    [
+      "5682",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "232225",
+      "2024",
+      "11",
+      "BHUTAN",
+      "335"
+    ],
+    [
+      "5682",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "335"
+    ],
+    [
+      "5682",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "9922",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3359"
+    ],
+    [
+      "5682",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3359"
+    ],
+    [
+      "5682",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "232225",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3359"
+    ],
+    [
+      "5682",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3359"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1307",
+      "2024",
+      "01",
+      "BHUTAN",
+      "99"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3584",
+      "2024",
+      "02",
+      "BHUTAN",
+      "99"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14834",
+      "2024",
+      "03",
+      "BHUTAN",
+      "99"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "27199",
+      "2024",
+      "04",
+      "BHUTAN",
+      "99"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2415",
+      "2024",
+      "05",
+      "BHUTAN",
+      "99"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2252",
+      "2024",
+      "06",
+      "BHUTAN",
+      "99"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1620",
+      "2024",
+      "07",
+      "BHUTAN",
+      "99"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1355",
+      "2024",
+      "08",
+      "BHUTAN",
+      "99"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3857",
+      "2024",
+      "09",
+      "BHUTAN",
+      "99"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4565",
+      "2024",
+      "10",
+      "BHUTAN",
+      "99"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "6503",
+      "2024",
+      "11",
+      "BHUTAN",
+      "99"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "17490",
+      "2024",
+      "12",
+      "BHUTAN",
+      "99"
+    ],
+    [
+      "5682",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "11463",
+      "2024",
+      "02",
+      "BHUTAN",
+      "3364"
+    ],
+    [
+      "5682",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "6186",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3364"
+    ],
+    [
+      "5682",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "74756",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3364"
+    ],
+    [
+      "5682",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3364"
+    ],
+    [
+      "5682",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3364"
+    ],
+    [
+      "5682",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "54320",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3364"
+    ],
+    [
+      "5682",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3364"
+    ],
+    [
+      "5682",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "63580",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3364"
+    ],
+    [
+      "5682",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3364"
+    ],
+    [
+      "5682",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "8516",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3364"
+    ],
+    [
+      "5682",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3364"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "9368",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3369"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3369"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3369"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3369"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3369"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3369"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3369"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3369"
+    ],
+    [
+      "5682",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3369"
+    ],
+    [
+      "5682",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "3745",
+      "2024",
+      "02",
+      "BHUTAN",
+      "3371"
+    ],
+    [
+      "5682",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3371"
+    ],
+    [
+      "5682",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3371"
+    ],
+    [
+      "5682",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3371"
+    ],
+    [
+      "5682",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3371"
+    ],
+    [
+      "5682",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3371"
+    ],
+    [
+      "5682",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3371"
+    ],
+    [
+      "5682",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3371"
+    ],
+    [
+      "5682",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3371"
+    ],
+    [
+      "5682",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3371"
+    ],
+    [
+      "5682",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3371"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "69440",
+      "2024",
+      "01",
+      "BHUTAN",
+      "339"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "9595",
+      "2024",
+      "02",
+      "BHUTAN",
+      "339"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "69539",
+      "2024",
+      "03",
+      "BHUTAN",
+      "339"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "363445",
+      "2024",
+      "04",
+      "BHUTAN",
+      "339"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "339"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "133248",
+      "2024",
+      "06",
+      "BHUTAN",
+      "339"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "52990",
+      "2024",
+      "07",
+      "BHUTAN",
+      "339"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "41389",
+      "2024",
+      "08",
+      "BHUTAN",
+      "339"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "70653",
+      "2024",
+      "09",
+      "BHUTAN",
+      "339"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "4190",
+      "2024",
+      "10",
+      "BHUTAN",
+      "339"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "76394",
+      "2024",
+      "11",
+      "BHUTAN",
+      "339"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "167083",
+      "2024",
+      "12",
+      "BHUTAN",
+      "339"
+    ],
+    [
+      "5682",
+      "MOTOR VEHICLE PARTS",
+      "3471",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3363"
+    ],
+    [
+      "5682",
+      "MOTOR VEHICLE PARTS",
+      "4983",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3363"
+    ],
+    [
+      "5682",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3363"
+    ],
+    [
+      "5682",
+      "MOTOR VEHICLE PARTS",
+      "6943",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3363"
+    ],
+    [
+      "5682",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3363"
+    ],
+    [
+      "5682",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3363"
+    ],
+    [
+      "5682",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3363"
+    ],
+    [
+      "5682",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3363"
+    ],
+    [
+      "5682",
+      "MOTOR VEHICLE PARTS",
+      "4956",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3363"
+    ],
+    [
+      "5682",
+      "FURNITURE AND FIXTURES",
+      "3745",
+      "2024",
+      "02",
+      "BHUTAN",
+      "337"
+    ],
+    [
+      "5682",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "03",
+      "BHUTAN",
+      "337"
+    ],
+    [
+      "5682",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "337"
+    ],
+    [
+      "5682",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "337"
+    ],
+    [
+      "5682",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "337"
+    ],
+    [
+      "5682",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "337"
+    ],
+    [
+      "5682",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "337"
+    ],
+    [
+      "5682",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "337"
+    ],
+    [
+      "5682",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "337"
+    ],
+    [
+      "5682",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "337"
+    ],
+    [
+      "5682",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "337"
+    ],
+    [
+      "5682",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "7532",
+      "2024",
+      "01",
+      "BHUTAN",
+      "3391"
+    ],
+    [
+      "5682",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "9595",
+      "2024",
+      "02",
+      "BHUTAN",
+      "3391"
+    ],
+    [
+      "5682",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "20026",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3391"
+    ],
+    [
+      "5682",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "2589",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3391"
+    ],
+    [
+      "5682",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3391"
+    ],
+    [
+      "5682",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "6200",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3391"
+    ],
+    [
+      "5682",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3391"
+    ],
+    [
+      "5682",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "9495",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3391"
+    ],
+    [
+      "5682",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3391"
+    ],
+    [
+      "5682",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3391"
+    ],
+    [
+      "5682",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3391"
+    ],
+    [
+      "5682",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3391"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "61908",
+      "2024",
+      "01",
+      "BHUTAN",
+      "3399"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "02",
+      "BHUTAN",
+      "3399"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "49513",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3399"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "360856",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3399"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3399"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "127048",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3399"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "52990",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3399"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "31894",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3399"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "70653",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3399"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "4190",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3399"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "76394",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3399"
+    ],
+    [
+      "5682",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "167083",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3399"
+    ],
+    [
+      "5682",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "4848",
+      "2024",
+      "01",
+      "BHUTAN",
+      "3314"
+    ],
+    [
+      "5682",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "02",
+      "BHUTAN",
+      "3314"
+    ],
+    [
+      "5682",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "03",
+      "BHUTAN",
+      "3314"
+    ],
+    [
+      "5682",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "3314"
+    ],
+    [
+      "5682",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "3314"
+    ],
+    [
+      "5682",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "3314"
+    ],
+    [
+      "5682",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "3314"
+    ],
+    [
+      "5682",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "08",
+      "BHUTAN",
+      "3314"
+    ],
+    [
+      "5682",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "3314"
+    ],
+    [
+      "5682",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3314"
+    ],
+    [
+      "5682",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3314"
+    ],
+    [
+      "5682",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "125820",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3314"
+    ],
+    [
+      "5682",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "3369",
+      "2024",
+      "10",
+      "BHUTAN",
+      "332"
+    ],
+    [
+      "5682",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "332"
+    ],
+    [
+      "5682",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "332"
+    ],
+    [
+      "5682",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "3369",
+      "2024",
+      "10",
+      "BHUTAN",
+      "3329"
+    ],
+    [
+      "5682",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "3329"
+    ],
+    [
+      "5682",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BHUTAN",
+      "3329"
+    ],
+    [
+      "5682",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "2820",
+      "2024",
+      "02",
+      "BHUTAN",
+      "333"
+    ],
+    [
+      "5682",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "12629",
+      "2024",
+      "03",
+      "BHUTAN",
+      "333"
+    ],
+    [
+      "5682",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "04",
+      "BHUTAN",
+      "333"
+    ],
+    [
+      "5682",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "05",
+      "BHUTAN",
+      "333"
+    ],
+    [
+      "5682",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "06",
+      "BHUTAN",
+      "333"
+    ],
+    [
+      "5682",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "07",
+      "BHUTAN",
+      "333"
+    ],
+    [
+      "5682",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "29702",
+      "2024",
+      "08",
+      "BHUTAN",
+      "333"
+    ],
+    [
+      "5682",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "09",
+      "BHUTAN",
+      "333"
+    ],
+    [
+      "5682",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "6702",
+      "2024",
+      "10",
+      "BHUTAN",
+      "333"
+    ],
+    [
+      "5682",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "11",
+      "BHUTAN",
+      "333"
+    ],
+    [
+      "5682",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "144613",
+      "2024",
+      "12",
+      "BHUTAN",
+      "333"
+    ]
+  ]
+}

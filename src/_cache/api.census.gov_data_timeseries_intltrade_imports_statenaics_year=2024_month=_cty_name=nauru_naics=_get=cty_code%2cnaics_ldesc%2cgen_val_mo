@@ -1,0 +1,4907 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:33:42 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4a082b8e01817d583351cc2e7cdd6ea129f2d40b74e0c748e12548301ae78bc0aa904589cdee621409ce882474429d07c; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "6862",
+      "CHEMICALS",
+      "89528",
+      "2024",
+      "06",
+      "NAURU",
+      "325"
+    ],
+    [
+      "6862",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "325"
+    ],
+    [
+      "6862",
+      "CHEMICALS",
+      "14444",
+      "2024",
+      "08",
+      "NAURU",
+      "325"
+    ],
+    [
+      "6862",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "325"
+    ],
+    [
+      "6862",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "325"
+    ],
+    [
+      "6862",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "325"
+    ],
+    [
+      "6862",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "325"
+    ],
+    [
+      "6862",
+      "BASIC CHEMICALS",
+      "89528",
+      "2024",
+      "06",
+      "NAURU",
+      "3251"
+    ],
+    [
+      "6862",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3251"
+    ],
+    [
+      "6862",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3251"
+    ],
+    [
+      "6862",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3251"
+    ],
+    [
+      "6862",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3251"
+    ],
+    [
+      "6862",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3251"
+    ],
+    [
+      "6862",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3251"
+    ],
+    [
+      "6862",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "1141",
+      "2024",
+      "01",
+      "NAURU",
+      "326"
+    ],
+    [
+      "6862",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "NAURU",
+      "326"
+    ],
+    [
+      "6862",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "550",
+      "2024",
+      "03",
+      "NAURU",
+      "326"
+    ],
+    [
+      "6862",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "580",
+      "2024",
+      "04",
+      "NAURU",
+      "326"
+    ],
+    [
+      "6862",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "14075",
+      "2024",
+      "05",
+      "NAURU",
+      "326"
+    ],
+    [
+      "6862",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "326"
+    ],
+    [
+      "6862",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "411",
+      "2024",
+      "07",
+      "NAURU",
+      "326"
+    ],
+    [
+      "6862",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "326"
+    ],
+    [
+      "6862",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "326"
+    ],
+    [
+      "6862",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "336",
+      "2024",
+      "10",
+      "NAURU",
+      "326"
+    ],
+    [
+      "6862",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "326"
+    ],
+    [
+      "6862",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "84323",
+      "2024",
+      "12",
+      "NAURU",
+      "326"
+    ],
+    [
+      "6862",
+      "PLASTICS PRODUCTS",
+      "1268",
+      "2024",
+      "12",
+      "NAURU",
+      "3261"
+    ],
+    [
+      "6862",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "15900",
+      "2024",
+      "08",
+      "NAURU",
+      "327"
+    ],
+    [
+      "6862",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "327"
+    ],
+    [
+      "6862",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "327"
+    ],
+    [
+      "6862",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "327"
+    ],
+    [
+      "6862",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "2378",
+      "2024",
+      "12",
+      "NAURU",
+      "327"
+    ],
+    [
+      "6862",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "2378",
+      "2024",
+      "12",
+      "NAURU",
+      "3271"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 3",
+      "106970",
+      "2024",
+      "01",
+      "NAURU",
+      "33"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 3",
+      "55603",
+      "2024",
+      "02",
+      "NAURU",
+      "33"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 3",
+      "371274",
+      "2024",
+      "03",
+      "NAURU",
+      "33"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 3",
+      "250571",
+      "2024",
+      "04",
+      "NAURU",
+      "33"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 3",
+      "37857",
+      "2024",
+      "05",
+      "NAURU",
+      "33"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 3",
+      "7084",
+      "2024",
+      "06",
+      "NAURU",
+      "33"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 3",
+      "26920",
+      "2024",
+      "07",
+      "NAURU",
+      "33"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 3",
+      "184261",
+      "2024",
+      "08",
+      "NAURU",
+      "33"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 3",
+      "253221",
+      "2024",
+      "09",
+      "NAURU",
+      "33"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 3",
+      "27719",
+      "2024",
+      "10",
+      "NAURU",
+      "33"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 3",
+      "82417",
+      "2024",
+      "11",
+      "NAURU",
+      "33"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 3",
+      "99988",
+      "2024",
+      "12",
+      "NAURU",
+      "33"
+    ],
+    [
+      "6862",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "118853",
+      "2024",
+      "01",
+      "NAURU",
+      "-"
+    ],
+    [
+      "6862",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "371325",
+      "2024",
+      "02",
+      "NAURU",
+      "-"
+    ],
+    [
+      "6862",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "391413",
+      "2024",
+      "03",
+      "NAURU",
+      "-"
+    ],
+    [
+      "6862",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "362737",
+      "2024",
+      "04",
+      "NAURU",
+      "-"
+    ],
+    [
+      "6862",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "55116",
+      "2024",
+      "05",
+      "NAURU",
+      "-"
+    ],
+    [
+      "6862",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "99086",
+      "2024",
+      "06",
+      "NAURU",
+      "-"
+    ],
+    [
+      "6862",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "44825",
+      "2024",
+      "07",
+      "NAURU",
+      "-"
+    ],
+    [
+      "6862",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "218022",
+      "2024",
+      "08",
+      "NAURU",
+      "-"
+    ],
+    [
+      "6862",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "255880",
+      "2024",
+      "09",
+      "NAURU",
+      "-"
+    ],
+    [
+      "6862",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "34283",
+      "2024",
+      "10",
+      "NAURU",
+      "-"
+    ],
+    [
+      "6862",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "90552",
+      "2024",
+      "11",
+      "NAURU",
+      "-"
+    ],
+    [
+      "6862",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "196832",
+      "2024",
+      "12",
+      "NAURU",
+      "-"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART1",
+      "3657",
+      "2024",
+      "01",
+      "NAURU",
+      "31"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART1",
+      "13620",
+      "2024",
+      "02",
+      "NAURU",
+      "31"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART1",
+      "17536",
+      "2024",
+      "03",
+      "NAURU",
+      "31"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART1",
+      "107392",
+      "2024",
+      "04",
+      "NAURU",
+      "31"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "31"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "31"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "31"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART1",
+      "492",
+      "2024",
+      "08",
+      "NAURU",
+      "31"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "31"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART1",
+      "5026",
+      "2024",
+      "10",
+      "NAURU",
+      "31"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART1",
+      "4153",
+      "2024",
+      "11",
+      "NAURU",
+      "31"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART1",
+      "569",
+      "2024",
+      "12",
+      "NAURU",
+      "31"
+    ],
+    [
+      "6862",
+      "MANUFACTURED GOODS",
+      "118164",
+      "2024",
+      "01",
+      "NAURU",
+      "31-33"
+    ],
+    [
+      "6862",
+      "MANUFACTURED GOODS",
+      "69223",
+      "2024",
+      "02",
+      "NAURU",
+      "31-33"
+    ],
+    [
+      "6862",
+      "MANUFACTURED GOODS",
+      "389360",
+      "2024",
+      "03",
+      "NAURU",
+      "31-33"
+    ],
+    [
+      "6862",
+      "MANUFACTURED GOODS",
+      "358543",
+      "2024",
+      "04",
+      "NAURU",
+      "31-33"
+    ],
+    [
+      "6862",
+      "MANUFACTURED GOODS",
+      "51932",
+      "2024",
+      "05",
+      "NAURU",
+      "31-33"
+    ],
+    [
+      "6862",
+      "MANUFACTURED GOODS",
+      "96612",
+      "2024",
+      "06",
+      "NAURU",
+      "31-33"
+    ],
+    [
+      "6862",
+      "MANUFACTURED GOODS",
+      "42062",
+      "2024",
+      "07",
+      "NAURU",
+      "31-33"
+    ],
+    [
+      "6862",
+      "MANUFACTURED GOODS",
+      "215097",
+      "2024",
+      "08",
+      "NAURU",
+      "31-33"
+    ],
+    [
+      "6862",
+      "MANUFACTURED GOODS",
+      "253221",
+      "2024",
+      "09",
+      "NAURU",
+      "31-33"
+    ],
+    [
+      "6862",
+      "MANUFACTURED GOODS",
+      "33081",
+      "2024",
+      "10",
+      "NAURU",
+      "31-33"
+    ],
+    [
+      "6862",
+      "MANUFACTURED GOODS",
+      "86570",
+      "2024",
+      "11",
+      "NAURU",
+      "31-33"
+    ],
+    [
+      "6862",
+      "MANUFACTURED GOODS",
+      "187258",
+      "2024",
+      "12",
+      "NAURU",
+      "31-33"
+    ],
+    [
+      "6862",
+      "TEXTILES AND FABRICS",
+      "16909",
+      "2024",
+      "03",
+      "NAURU",
+      "313"
+    ],
+    [
+      "6862",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "313"
+    ],
+    [
+      "6862",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "313"
+    ],
+    [
+      "6862",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "313"
+    ],
+    [
+      "6862",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "313"
+    ],
+    [
+      "6862",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "313"
+    ],
+    [
+      "6862",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "313"
+    ],
+    [
+      "6862",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "313"
+    ],
+    [
+      "6862",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "313"
+    ],
+    [
+      "6862",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "313"
+    ],
+    [
+      "6862",
+      "FABRICS",
+      "16909",
+      "2024",
+      "03",
+      "NAURU",
+      "3132"
+    ],
+    [
+      "6862",
+      "FABRICS",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "3132"
+    ],
+    [
+      "6862",
+      "FABRICS",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3132"
+    ],
+    [
+      "6862",
+      "FABRICS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3132"
+    ],
+    [
+      "6862",
+      "FABRICS",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3132"
+    ],
+    [
+      "6862",
+      "FABRICS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3132"
+    ],
+    [
+      "6862",
+      "FABRICS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3132"
+    ],
+    [
+      "6862",
+      "FABRICS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3132"
+    ],
+    [
+      "6862",
+      "FABRICS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3132"
+    ],
+    [
+      "6862",
+      "FABRICS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3132"
+    ],
+    [
+      "6862",
+      "TEXTILE MILL PRODUCTS",
+      "627",
+      "2024",
+      "03",
+      "NAURU",
+      "314"
+    ],
+    [
+      "6862",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "314"
+    ],
+    [
+      "6862",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "314"
+    ],
+    [
+      "6862",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "314"
+    ],
+    [
+      "6862",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "314"
+    ],
+    [
+      "6862",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "314"
+    ],
+    [
+      "6862",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "314"
+    ],
+    [
+      "6862",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "314"
+    ],
+    [
+      "6862",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "314"
+    ],
+    [
+      "6862",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "314"
+    ],
+    [
+      "6862",
+      "TEXTILE FURNISHINGS",
+      "627",
+      "2024",
+      "03",
+      "NAURU",
+      "3141"
+    ],
+    [
+      "6862",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "3141"
+    ],
+    [
+      "6862",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3141"
+    ],
+    [
+      "6862",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3141"
+    ],
+    [
+      "6862",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3141"
+    ],
+    [
+      "6862",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3141"
+    ],
+    [
+      "6862",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3141"
+    ],
+    [
+      "6862",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3141"
+    ],
+    [
+      "6862",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3141"
+    ],
+    [
+      "6862",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3141"
+    ],
+    [
+      "6862",
+      "APPAREL AND ACCESSORIES",
+      "3657",
+      "2024",
+      "01",
+      "NAURU",
+      "315"
+    ],
+    [
+      "6862",
+      "APPAREL AND ACCESSORIES",
+      "13620",
+      "2024",
+      "02",
+      "NAURU",
+      "315"
+    ],
+    [
+      "6862",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "03",
+      "NAURU",
+      "315"
+    ],
+    [
+      "6862",
+      "APPAREL AND ACCESSORIES",
+      "103760",
+      "2024",
+      "04",
+      "NAURU",
+      "315"
+    ],
+    [
+      "6862",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "315"
+    ],
+    [
+      "6862",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "315"
+    ],
+    [
+      "6862",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "315"
+    ],
+    [
+      "6862",
+      "APPAREL AND ACCESSORIES",
+      "492",
+      "2024",
+      "08",
+      "NAURU",
+      "315"
+    ],
+    [
+      "6862",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "315"
+    ],
+    [
+      "6862",
+      "APPAREL AND ACCESSORIES",
+      "5026",
+      "2024",
+      "10",
+      "NAURU",
+      "315"
+    ],
+    [
+      "6862",
+      "APPAREL AND ACCESSORIES",
+      "3848",
+      "2024",
+      "11",
+      "NAURU",
+      "315"
+    ],
+    [
+      "6862",
+      "APPAREL AND ACCESSORIES",
+      "569",
+      "2024",
+      "12",
+      "NAURU",
+      "315"
+    ],
+    [
+      "6862",
+      "APPAREL ACCESSORIES",
+      "569",
+      "2024",
+      "12",
+      "NAURU",
+      "3159"
+    ],
+    [
+      "6862",
+      "LEATHER AND ALLIED PRODUCTS",
+      "3632",
+      "2024",
+      "04",
+      "NAURU",
+      "316"
+    ],
+    [
+      "6862",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "316"
+    ],
+    [
+      "6862",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "316"
+    ],
+    [
+      "6862",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "316"
+    ],
+    [
+      "6862",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "316"
+    ],
+    [
+      "6862",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "316"
+    ],
+    [
+      "6862",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "316"
+    ],
+    [
+      "6862",
+      "LEATHER AND ALLIED PRODUCTS",
+      "305",
+      "2024",
+      "11",
+      "NAURU",
+      "316"
+    ],
+    [
+      "6862",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "316"
+    ],
+    [
+      "6862",
+      "FOOTWEAR",
+      "2934",
+      "2024",
+      "04",
+      "NAURU",
+      "3162"
+    ],
+    [
+      "6862",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3162"
+    ],
+    [
+      "6862",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3162"
+    ],
+    [
+      "6862",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3162"
+    ],
+    [
+      "6862",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3162"
+    ],
+    [
+      "6862",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3162"
+    ],
+    [
+      "6862",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3162"
+    ],
+    [
+      "6862",
+      "FOOTWEAR",
+      "305",
+      "2024",
+      "11",
+      "NAURU",
+      "3162"
+    ],
+    [
+      "6862",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3162"
+    ],
+    [
+      "6862",
+      "OTHER LEATHER PRODUCTS",
+      "698",
+      "2024",
+      "04",
+      "NAURU",
+      "3169"
+    ],
+    [
+      "6862",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3169"
+    ],
+    [
+      "6862",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3169"
+    ],
+    [
+      "6862",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3169"
+    ],
+    [
+      "6862",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3169"
+    ],
+    [
+      "6862",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3169"
+    ],
+    [
+      "6862",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3169"
+    ],
+    [
+      "6862",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3169"
+    ],
+    [
+      "6862",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3169"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 2",
+      "7537",
+      "2024",
+      "01",
+      "NAURU",
+      "32"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "02",
+      "NAURU",
+      "32"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 2",
+      "550",
+      "2024",
+      "03",
+      "NAURU",
+      "32"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 2",
+      "580",
+      "2024",
+      "04",
+      "NAURU",
+      "32"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 2",
+      "14075",
+      "2024",
+      "05",
+      "NAURU",
+      "32"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 2",
+      "89528",
+      "2024",
+      "06",
+      "NAURU",
+      "32"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 2",
+      "15142",
+      "2024",
+      "07",
+      "NAURU",
+      "32"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 2",
+      "30344",
+      "2024",
+      "08",
+      "NAURU",
+      "32"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "32"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 2",
+      "336",
+      "2024",
+      "10",
+      "NAURU",
+      "32"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "32"
+    ],
+    [
+      "6862",
+      "MANUFACTURING, PART 2",
+      "86701",
+      "2024",
+      "12",
+      "NAURU",
+      "32"
+    ],
+    [
+      "6862",
+      "OTHER WOOD PRODUCTS",
+      "6396",
+      "2024",
+      "01",
+      "NAURU",
+      "3219"
+    ],
+    [
+      "6862",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "NAURU",
+      "3219"
+    ],
+    [
+      "6862",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "NAURU",
+      "3219"
+    ],
+    [
+      "6862",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "3219"
+    ],
+    [
+      "6862",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3219"
+    ],
+    [
+      "6862",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3219"
+    ],
+    [
+      "6862",
+      "OTHER WOOD PRODUCTS",
+      "14731",
+      "2024",
+      "07",
+      "NAURU",
+      "3219"
+    ],
+    [
+      "6862",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3219"
+    ],
+    [
+      "6862",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3219"
+    ],
+    [
+      "6862",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3219"
+    ],
+    [
+      "6862",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3219"
+    ],
+    [
+      "6862",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3219"
+    ],
+    [
+      "6862",
+      "INDUSTRIAL MACHINERY",
+      "15108",
+      "2024",
+      "03",
+      "NAURU",
+      "3332"
+    ],
+    [
+      "6862",
+      "INDUSTRIAL MACHINERY",
+      "12400",
+      "2024",
+      "04",
+      "NAURU",
+      "3332"
+    ],
+    [
+      "6862",
+      "INDUSTRIAL MACHINERY",
+      "3104",
+      "2024",
+      "05",
+      "NAURU",
+      "3332"
+    ],
+    [
+      "6862",
+      "INDUSTRIAL MACHINERY",
+      "3494",
+      "2024",
+      "06",
+      "NAURU",
+      "3332"
+    ],
+    [
+      "6862",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3332"
+    ],
+    [
+      "6862",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3332"
+    ],
+    [
+      "6862",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3332"
+    ],
+    [
+      "6862",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3332"
+    ],
+    [
+      "6862",
+      "INDUSTRIAL MACHINERY",
+      "5986",
+      "2024",
+      "11",
+      "NAURU",
+      "3332"
+    ],
+    [
+      "6862",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3332"
+    ],
+    [
+      "6862",
+      "METALWORKING MACHINERY",
+      "11589",
+      "2024",
+      "07",
+      "NAURU",
+      "3335"
+    ],
+    [
+      "6862",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3335"
+    ],
+    [
+      "6862",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3335"
+    ],
+    [
+      "6862",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3335"
+    ],
+    [
+      "6862",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3335"
+    ],
+    [
+      "6862",
+      "METALWORKING MACHINERY",
+      "5772",
+      "2024",
+      "12",
+      "NAURU",
+      "3335"
+    ],
+    [
+      "6862",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "15625",
+      "2024",
+      "02",
+      "NAURU",
+      "3336"
+    ],
+    [
+      "6862",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "NAURU",
+      "3336"
+    ],
+    [
+      "6862",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "3336"
+    ],
+    [
+      "6862",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "11040",
+      "2024",
+      "05",
+      "NAURU",
+      "3336"
+    ],
+    [
+      "6862",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3336"
+    ],
+    [
+      "6862",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3336"
+    ],
+    [
+      "6862",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3336"
+    ],
+    [
+      "6862",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3336"
+    ],
+    [
+      "6862",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3336"
+    ],
+    [
+      "6862",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3336"
+    ],
+    [
+      "6862",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "6812",
+      "2024",
+      "12",
+      "NAURU",
+      "3336"
+    ],
+    [
+      "6862",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "5171",
+      "2024",
+      "01",
+      "NAURU",
+      "3339"
+    ],
+    [
+      "6862",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "02",
+      "NAURU",
+      "3339"
+    ],
+    [
+      "6862",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "11089",
+      "2024",
+      "03",
+      "NAURU",
+      "3339"
+    ],
+    [
+      "6862",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "3339"
+    ],
+    [
+      "6862",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3339"
+    ],
+    [
+      "6862",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3339"
+    ],
+    [
+      "6862",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3339"
+    ],
+    [
+      "6862",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3339"
+    ],
+    [
+      "6862",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "6729",
+      "2024",
+      "09",
+      "NAURU",
+      "3339"
+    ],
+    [
+      "6862",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "7390",
+      "2024",
+      "10",
+      "NAURU",
+      "3339"
+    ],
+    [
+      "6862",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "8148",
+      "2024",
+      "11",
+      "NAURU",
+      "3339"
+    ],
+    [
+      "6862",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "22590",
+      "2024",
+      "12",
+      "NAURU",
+      "3339"
+    ],
+    [
+      "6862",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "17809",
+      "2024",
+      "02",
+      "NAURU",
+      "334"
+    ],
+    [
+      "6862",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "NAURU",
+      "334"
+    ],
+    [
+      "6862",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "334"
+    ],
+    [
+      "6862",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "334"
+    ],
+    [
+      "6862",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "334"
+    ],
+    [
+      "6862",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "334"
+    ],
+    [
+      "6862",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "3893",
+      "2024",
+      "08",
+      "NAURU",
+      "334"
+    ],
+    [
+      "6862",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "334"
+    ],
+    [
+      "6862",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "334"
+    ],
+    [
+      "6862",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "334"
+    ],
+    [
+      "6862",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "33892",
+      "2024",
+      "12",
+      "NAURU",
+      "334"
+    ],
+    [
+      "6862",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "3893",
+      "2024",
+      "08",
+      "NAURU",
+      "3343"
+    ],
+    [
+      "6862",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3343"
+    ],
+    [
+      "6862",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3343"
+    ],
+    [
+      "6862",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3343"
+    ],
+    [
+      "6862",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3343"
+    ],
+    [
+      "6862",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "17809",
+      "2024",
+      "02",
+      "NAURU",
+      "3344"
+    ],
+    [
+      "6862",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "03",
+      "NAURU",
+      "3344"
+    ],
+    [
+      "6862",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "3344"
+    ],
+    [
+      "6862",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3344"
+    ],
+    [
+      "6862",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3344"
+    ],
+    [
+      "6862",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3344"
+    ],
+    [
+      "6862",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3344"
+    ],
+    [
+      "6862",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3344"
+    ],
+    [
+      "6862",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3344"
+    ],
+    [
+      "6862",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3344"
+    ],
+    [
+      "6862",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3344"
+    ],
+    [
+      "6862",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "19678",
+      "2024",
+      "12",
+      "NAURU",
+      "3345"
+    ],
+    [
+      "6862",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "329",
+      "2024",
+      "10",
+      "NAURU",
+      "3351"
+    ],
+    [
+      "6862",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3351"
+    ],
+    [
+      "6862",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3351"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "2213",
+      "2024",
+      "04",
+      "NAURU",
+      "3352"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3352"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "3590",
+      "2024",
+      "06",
+      "NAURU",
+      "3352"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3352"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3352"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "7766",
+      "2024",
+      "09",
+      "NAURU",
+      "3352"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3352"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3352"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3352"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT",
+      "8497",
+      "2024",
+      "03",
+      "NAURU",
+      "3353"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "3353"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3353"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3353"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3353"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3353"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3353"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT",
+      "3773",
+      "2024",
+      "10",
+      "NAURU",
+      "3353"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3353"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3353"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT",
+      "2543",
+      "2024",
+      "04",
+      "NAURU",
+      "336"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT",
+      "10993",
+      "2024",
+      "05",
+      "NAURU",
+      "336"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "336"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "336"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "336"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT",
+      "65387",
+      "2024",
+      "09",
+      "NAURU",
+      "336"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "336"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "336"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "336"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "300000",
+      "2024",
+      "02",
+      "NAURU",
+      "93"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "NAURU",
+      "93"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "93"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "93"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "93"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "93"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "93"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "93"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "93"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "93"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "93"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "300000",
+      "2024",
+      "02",
+      "NAURU",
+      "930"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "NAURU",
+      "930"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "930"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "930"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "930"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "930"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "930"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "930"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "930"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "930"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "930"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "300000",
+      "2024",
+      "02",
+      "NAURU",
+      "9300"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "NAURU",
+      "9300"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "9300"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "9300"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "9300"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "9300"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "9300"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "9300"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "9300"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "9300"
+    ],
+    [
+      "6862",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "9300"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "689",
+      "2024",
+      "01",
+      "NAURU",
+      "990"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2102",
+      "2024",
+      "02",
+      "NAURU",
+      "990"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2053",
+      "2024",
+      "03",
+      "NAURU",
+      "990"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4194",
+      "2024",
+      "04",
+      "NAURU",
+      "990"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3184",
+      "2024",
+      "05",
+      "NAURU",
+      "990"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2474",
+      "2024",
+      "06",
+      "NAURU",
+      "990"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2763",
+      "2024",
+      "07",
+      "NAURU",
+      "990"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2925",
+      "2024",
+      "08",
+      "NAURU",
+      "990"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2659",
+      "2024",
+      "09",
+      "NAURU",
+      "990"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1202",
+      "2024",
+      "10",
+      "NAURU",
+      "990"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3982",
+      "2024",
+      "11",
+      "NAURU",
+      "990"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9574",
+      "2024",
+      "12",
+      "NAURU",
+      "990"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "689",
+      "2024",
+      "01",
+      "NAURU",
+      "9900"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2102",
+      "2024",
+      "02",
+      "NAURU",
+      "9900"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2053",
+      "2024",
+      "03",
+      "NAURU",
+      "9900"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4194",
+      "2024",
+      "04",
+      "NAURU",
+      "9900"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3184",
+      "2024",
+      "05",
+      "NAURU",
+      "9900"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2474",
+      "2024",
+      "06",
+      "NAURU",
+      "9900"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2763",
+      "2024",
+      "07",
+      "NAURU",
+      "9900"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2925",
+      "2024",
+      "08",
+      "NAURU",
+      "9900"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2659",
+      "2024",
+      "09",
+      "NAURU",
+      "9900"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1202",
+      "2024",
+      "10",
+      "NAURU",
+      "9900"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3982",
+      "2024",
+      "11",
+      "NAURU",
+      "9900"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9574",
+      "2024",
+      "12",
+      "NAURU",
+      "9900"
+    ],
+    [
+      "6862",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "14444",
+      "2024",
+      "08",
+      "NAURU",
+      "3255"
+    ],
+    [
+      "6862",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3255"
+    ],
+    [
+      "6862",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3255"
+    ],
+    [
+      "6862",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3255"
+    ],
+    [
+      "6862",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3255"
+    ],
+    [
+      "6862",
+      "RUBBER PRODUCTS",
+      "1141",
+      "2024",
+      "01",
+      "NAURU",
+      "3262"
+    ],
+    [
+      "6862",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "NAURU",
+      "3262"
+    ],
+    [
+      "6862",
+      "RUBBER PRODUCTS",
+      "550",
+      "2024",
+      "03",
+      "NAURU",
+      "3262"
+    ],
+    [
+      "6862",
+      "RUBBER PRODUCTS",
+      "580",
+      "2024",
+      "04",
+      "NAURU",
+      "3262"
+    ],
+    [
+      "6862",
+      "RUBBER PRODUCTS",
+      "14075",
+      "2024",
+      "05",
+      "NAURU",
+      "3262"
+    ],
+    [
+      "6862",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3262"
+    ],
+    [
+      "6862",
+      "RUBBER PRODUCTS",
+      "411",
+      "2024",
+      "07",
+      "NAURU",
+      "3262"
+    ],
+    [
+      "6862",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3262"
+    ],
+    [
+      "6862",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3262"
+    ],
+    [
+      "6862",
+      "RUBBER PRODUCTS",
+      "336",
+      "2024",
+      "10",
+      "NAURU",
+      "3262"
+    ],
+    [
+      "6862",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3262"
+    ],
+    [
+      "6862",
+      "RUBBER PRODUCTS",
+      "83055",
+      "2024",
+      "12",
+      "NAURU",
+      "3262"
+    ],
+    [
+      "6862",
+      "APPAREL",
+      "3657",
+      "2024",
+      "01",
+      "NAURU",
+      "3152"
+    ],
+    [
+      "6862",
+      "APPAREL",
+      "13620",
+      "2024",
+      "02",
+      "NAURU",
+      "3152"
+    ],
+    [
+      "6862",
+      "APPAREL",
+      "0",
+      "2024",
+      "03",
+      "NAURU",
+      "3152"
+    ],
+    [
+      "6862",
+      "APPAREL",
+      "103760",
+      "2024",
+      "04",
+      "NAURU",
+      "3152"
+    ],
+    [
+      "6862",
+      "APPAREL",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3152"
+    ],
+    [
+      "6862",
+      "APPAREL",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3152"
+    ],
+    [
+      "6862",
+      "APPAREL",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3152"
+    ],
+    [
+      "6862",
+      "APPAREL",
+      "492",
+      "2024",
+      "08",
+      "NAURU",
+      "3152"
+    ],
+    [
+      "6862",
+      "APPAREL",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3152"
+    ],
+    [
+      "6862",
+      "APPAREL",
+      "5026",
+      "2024",
+      "10",
+      "NAURU",
+      "3152"
+    ],
+    [
+      "6862",
+      "APPAREL",
+      "3848",
+      "2024",
+      "11",
+      "NAURU",
+      "3152"
+    ],
+    [
+      "6862",
+      "APPAREL",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3152"
+    ],
+    [
+      "6862",
+      "WOOD PRODUCTS",
+      "6396",
+      "2024",
+      "01",
+      "NAURU",
+      "321"
+    ],
+    [
+      "6862",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "NAURU",
+      "321"
+    ],
+    [
+      "6862",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "NAURU",
+      "321"
+    ],
+    [
+      "6862",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "321"
+    ],
+    [
+      "6862",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "321"
+    ],
+    [
+      "6862",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "321"
+    ],
+    [
+      "6862",
+      "WOOD PRODUCTS",
+      "14731",
+      "2024",
+      "07",
+      "NAURU",
+      "321"
+    ],
+    [
+      "6862",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "321"
+    ],
+    [
+      "6862",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "321"
+    ],
+    [
+      "6862",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "321"
+    ],
+    [
+      "6862",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "321"
+    ],
+    [
+      "6862",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "321"
+    ],
+    [
+      "6862",
+      "COMMUNICATIONS EQUIPMENT",
+      "14214",
+      "2024",
+      "12",
+      "NAURU",
+      "3342"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "8497",
+      "2024",
+      "03",
+      "NAURU",
+      "335"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "2213",
+      "2024",
+      "04",
+      "NAURU",
+      "335"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "335"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "3590",
+      "2024",
+      "06",
+      "NAURU",
+      "335"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "2737",
+      "2024",
+      "07",
+      "NAURU",
+      "335"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "335"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "10785",
+      "2024",
+      "09",
+      "NAURU",
+      "335"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "4102",
+      "2024",
+      "10",
+      "NAURU",
+      "335"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "8140",
+      "2024",
+      "11",
+      "NAURU",
+      "335"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "335"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "2737",
+      "2024",
+      "07",
+      "NAURU",
+      "3359"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3359"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "3019",
+      "2024",
+      "09",
+      "NAURU",
+      "3359"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3359"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "8140",
+      "2024",
+      "11",
+      "NAURU",
+      "3359"
+    ],
+    [
+      "6862",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3359"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "689",
+      "2024",
+      "01",
+      "NAURU",
+      "99"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2102",
+      "2024",
+      "02",
+      "NAURU",
+      "99"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2053",
+      "2024",
+      "03",
+      "NAURU",
+      "99"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4194",
+      "2024",
+      "04",
+      "NAURU",
+      "99"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3184",
+      "2024",
+      "05",
+      "NAURU",
+      "99"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2474",
+      "2024",
+      "06",
+      "NAURU",
+      "99"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2763",
+      "2024",
+      "07",
+      "NAURU",
+      "99"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2925",
+      "2024",
+      "08",
+      "NAURU",
+      "99"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2659",
+      "2024",
+      "09",
+      "NAURU",
+      "99"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1202",
+      "2024",
+      "10",
+      "NAURU",
+      "99"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3982",
+      "2024",
+      "11",
+      "NAURU",
+      "99"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9574",
+      "2024",
+      "12",
+      "NAURU",
+      "99"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "10993",
+      "2024",
+      "05",
+      "NAURU",
+      "3369"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3369"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3369"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3369"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3369"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3369"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3369"
+    ],
+    [
+      "6862",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3369"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "94653",
+      "2024",
+      "01",
+      "NAURU",
+      "3371"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "02",
+      "NAURU",
+      "3371"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "330103",
+      "2024",
+      "03",
+      "NAURU",
+      "3371"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "223797",
+      "2024",
+      "04",
+      "NAURU",
+      "3371"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3371"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3371"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "12594",
+      "2024",
+      "07",
+      "NAURU",
+      "3371"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3371"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3371"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "258",
+      "2024",
+      "10",
+      "NAURU",
+      "3371"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3371"
+    ],
+    [
+      "6862",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3371"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2637",
+      "2024",
+      "01",
+      "NAURU",
+      "339"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1814",
+      "2024",
+      "02",
+      "NAURU",
+      "339"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "5591",
+      "2024",
+      "03",
+      "NAURU",
+      "339"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "5533",
+      "2024",
+      "04",
+      "NAURU",
+      "339"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "339"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "339"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "339"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "339"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "3945",
+      "2024",
+      "09",
+      "NAURU",
+      "339"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "15969",
+      "2024",
+      "10",
+      "NAURU",
+      "339"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "339"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "15525",
+      "2024",
+      "12",
+      "NAURU",
+      "339"
+    ],
+    [
+      "6862",
+      "CUTLERY AND HANDTOOLS",
+      "12720",
+      "2024",
+      "05",
+      "NAURU",
+      "3322"
+    ],
+    [
+      "6862",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3322"
+    ],
+    [
+      "6862",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3322"
+    ],
+    [
+      "6862",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3322"
+    ],
+    [
+      "6862",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3322"
+    ],
+    [
+      "6862",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3322"
+    ],
+    [
+      "6862",
+      "CUTLERY AND HANDTOOLS",
+      "60143",
+      "2024",
+      "11",
+      "NAURU",
+      "3322"
+    ],
+    [
+      "6862",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3322"
+    ],
+    [
+      "6862",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "15900",
+      "2024",
+      "08",
+      "NAURU",
+      "3279"
+    ],
+    [
+      "6862",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3279"
+    ],
+    [
+      "6862",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3279"
+    ],
+    [
+      "6862",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3279"
+    ],
+    [
+      "6862",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3279"
+    ],
+    [
+      "6862",
+      "MOTOR VEHICLE PARTS",
+      "2543",
+      "2024",
+      "04",
+      "NAURU",
+      "3363"
+    ],
+    [
+      "6862",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3363"
+    ],
+    [
+      "6862",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3363"
+    ],
+    [
+      "6862",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3363"
+    ],
+    [
+      "6862",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3363"
+    ],
+    [
+      "6862",
+      "MOTOR VEHICLE PARTS",
+      "65387",
+      "2024",
+      "09",
+      "NAURU",
+      "3363"
+    ],
+    [
+      "6862",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3363"
+    ],
+    [
+      "6862",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3363"
+    ],
+    [
+      "6862",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3363"
+    ],
+    [
+      "6862",
+      "FURNITURE AND FIXTURES",
+      "95736",
+      "2024",
+      "01",
+      "NAURU",
+      "337"
+    ],
+    [
+      "6862",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "02",
+      "NAURU",
+      "337"
+    ],
+    [
+      "6862",
+      "FURNITURE AND FIXTURES",
+      "330989",
+      "2024",
+      "03",
+      "NAURU",
+      "337"
+    ],
+    [
+      "6862",
+      "FURNITURE AND FIXTURES",
+      "223797",
+      "2024",
+      "04",
+      "NAURU",
+      "337"
+    ],
+    [
+      "6862",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "337"
+    ],
+    [
+      "6862",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "337"
+    ],
+    [
+      "6862",
+      "FURNITURE AND FIXTURES",
+      "12594",
+      "2024",
+      "07",
+      "NAURU",
+      "337"
+    ],
+    [
+      "6862",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "337"
+    ],
+    [
+      "6862",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "337"
+    ],
+    [
+      "6862",
+      "FURNITURE AND FIXTURES",
+      "258",
+      "2024",
+      "10",
+      "NAURU",
+      "337"
+    ],
+    [
+      "6862",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "337"
+    ],
+    [
+      "6862",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "337"
+    ],
+    [
+      "6862",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "1083",
+      "2024",
+      "01",
+      "NAURU",
+      "3372"
+    ],
+    [
+      "6862",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "02",
+      "NAURU",
+      "3372"
+    ],
+    [
+      "6862",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "886",
+      "2024",
+      "03",
+      "NAURU",
+      "3372"
+    ],
+    [
+      "6862",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "04",
+      "NAURU",
+      "3372"
+    ],
+    [
+      "6862",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3372"
+    ],
+    [
+      "6862",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3372"
+    ],
+    [
+      "6862",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3372"
+    ],
+    [
+      "6862",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3372"
+    ],
+    [
+      "6862",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3372"
+    ],
+    [
+      "6862",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3372"
+    ],
+    [
+      "6862",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3372"
+    ],
+    [
+      "6862",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "12",
+      "NAURU",
+      "3372"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2637",
+      "2024",
+      "01",
+      "NAURU",
+      "3399"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1814",
+      "2024",
+      "02",
+      "NAURU",
+      "3399"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "5591",
+      "2024",
+      "03",
+      "NAURU",
+      "3399"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "5533",
+      "2024",
+      "04",
+      "NAURU",
+      "3399"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3399"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3399"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3399"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "08",
+      "NAURU",
+      "3399"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "3945",
+      "2024",
+      "09",
+      "NAURU",
+      "3399"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "15969",
+      "2024",
+      "10",
+      "NAURU",
+      "3399"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3399"
+    ],
+    [
+      "6862",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "15525",
+      "2024",
+      "12",
+      "NAURU",
+      "3399"
+    ],
+    [
+      "6862",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "3426",
+      "2024",
+      "01",
+      "NAURU",
+      "332"
+    ],
+    [
+      "6862",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "20355",
+      "2024",
+      "02",
+      "NAURU",
+      "332"
+    ],
+    [
+      "6862",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "NAURU",
+      "332"
+    ],
+    [
+      "6862",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "4085",
+      "2024",
+      "04",
+      "NAURU",
+      "332"
+    ],
+    [
+      "6862",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "12720",
+      "2024",
+      "05",
+      "NAURU",
+      "332"
+    ],
+    [
+      "6862",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "332"
+    ],
+    [
+      "6862",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "332"
+    ],
+    [
+      "6862",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "42728",
+      "2024",
+      "08",
+      "NAURU",
+      "332"
+    ],
+    [
+      "6862",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "332"
+    ],
+    [
+      "6862",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "332"
+    ],
+    [
+      "6862",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "60143",
+      "2024",
+      "11",
+      "NAURU",
+      "332"
+    ],
+    [
+      "6862",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "12852",
+      "2024",
+      "12",
+      "NAURU",
+      "332"
+    ],
+    [
+      "6862",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "3120",
+      "2024",
+      "12",
+      "NAURU",
+      "3327"
+    ],
+    [
+      "6862",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "3426",
+      "2024",
+      "01",
+      "NAURU",
+      "3329"
+    ],
+    [
+      "6862",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "20355",
+      "2024",
+      "02",
+      "NAURU",
+      "3329"
+    ],
+    [
+      "6862",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "NAURU",
+      "3329"
+    ],
+    [
+      "6862",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "4085",
+      "2024",
+      "04",
+      "NAURU",
+      "3329"
+    ],
+    [
+      "6862",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "NAURU",
+      "3329"
+    ],
+    [
+      "6862",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "NAURU",
+      "3329"
+    ],
+    [
+      "6862",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "NAURU",
+      "3329"
+    ],
+    [
+      "6862",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "42728",
+      "2024",
+      "08",
+      "NAURU",
+      "3329"
+    ],
+    [
+      "6862",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NAURU",
+      "3329"
+    ],
+    [
+      "6862",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3329"
+    ],
+    [
+      "6862",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3329"
+    ],
+    [
+      "6862",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "9732",
+      "2024",
+      "12",
+      "NAURU",
+      "3329"
+    ],
+    [
+      "6862",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "5171",
+      "2024",
+      "01",
+      "NAURU",
+      "333"
+    ],
+    [
+      "6862",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "15625",
+      "2024",
+      "02",
+      "NAURU",
+      "333"
+    ],
+    [
+      "6862",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "26197",
+      "2024",
+      "03",
+      "NAURU",
+      "333"
+    ],
+    [
+      "6862",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "12400",
+      "2024",
+      "04",
+      "NAURU",
+      "333"
+    ],
+    [
+      "6862",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "14144",
+      "2024",
+      "05",
+      "NAURU",
+      "333"
+    ],
+    [
+      "6862",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "3494",
+      "2024",
+      "06",
+      "NAURU",
+      "333"
+    ],
+    [
+      "6862",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "11589",
+      "2024",
+      "07",
+      "NAURU",
+      "333"
+    ],
+    [
+      "6862",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "137640",
+      "2024",
+      "08",
+      "NAURU",
+      "333"
+    ],
+    [
+      "6862",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "173104",
+      "2024",
+      "09",
+      "NAURU",
+      "333"
+    ],
+    [
+      "6862",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "7390",
+      "2024",
+      "10",
+      "NAURU",
+      "333"
+    ],
+    [
+      "6862",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "14134",
+      "2024",
+      "11",
+      "NAURU",
+      "333"
+    ],
+    [
+      "6862",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "37719",
+      "2024",
+      "12",
+      "NAURU",
+      "333"
+    ],
+    [
+      "6862",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "137640",
+      "2024",
+      "08",
+      "NAURU",
+      "3331"
+    ],
+    [
+      "6862",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "166375",
+      "2024",
+      "09",
+      "NAURU",
+      "3331"
+    ],
+    [
+      "6862",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "NAURU",
+      "3331"
+    ],
+    [
+      "6862",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "NAURU",
+      "3331"
+    ],
+    [
+      "6862",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "2545",
+      "2024",
+      "12",
+      "NAURU",
+      "3331"
+    ]
+  ]
+}

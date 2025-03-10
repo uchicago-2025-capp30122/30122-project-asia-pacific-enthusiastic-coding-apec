@@ -1,0 +1,2918 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Sun, 09 Mar 2025 23:22:15 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4b54a7dd8a0e6680c5016e68142609f6a10a0d56a42c1c78e08ad9458a2efb89726d2993aad42d1831f750eee1b4a1a47; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5330",
+      "COAL AND PETROLEUM GASES",
+      "40262",
+      "2013",
+      "01",
+      "INDIA",
+      "2121"
+    ],
+    [
+      "5330",
+      "COAL AND PETROLEUM GASES",
+      "14040",
+      "2013",
+      "02",
+      "INDIA",
+      "2121"
+    ],
+    [
+      "5330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "03",
+      "INDIA",
+      "2121"
+    ],
+    [
+      "5330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "04",
+      "INDIA",
+      "2121"
+    ],
+    [
+      "5330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "05",
+      "INDIA",
+      "2121"
+    ],
+    [
+      "5330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "06",
+      "INDIA",
+      "2121"
+    ],
+    [
+      "5330",
+      "COAL AND PETROLEUM GASES",
+      "14040",
+      "2013",
+      "07",
+      "INDIA",
+      "2121"
+    ],
+    [
+      "5330",
+      "COAL AND PETROLEUM GASES",
+      "15840",
+      "2013",
+      "08",
+      "INDIA",
+      "2121"
+    ],
+    [
+      "5330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "09",
+      "INDIA",
+      "2121"
+    ],
+    [
+      "5330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "10",
+      "INDIA",
+      "2121"
+    ],
+    [
+      "5330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "11",
+      "INDIA",
+      "2121"
+    ],
+    [
+      "5330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "INDIA",
+      "2121"
+    ],
+    [
+      "5600",
+      "COAL AND PETROLEUM GASES",
+      "3587850",
+      "2013",
+      "02",
+      "INDONESIA",
+      "2121"
+    ],
+    [
+      "5600",
+      "COAL AND PETROLEUM GASES",
+      "3519932",
+      "2013",
+      "03",
+      "INDONESIA",
+      "2121"
+    ],
+    [
+      "5600",
+      "COAL AND PETROLEUM GASES",
+      "7732719",
+      "2013",
+      "04",
+      "INDONESIA",
+      "2121"
+    ],
+    [
+      "5600",
+      "COAL AND PETROLEUM GASES",
+      "3938803",
+      "2013",
+      "05",
+      "INDONESIA",
+      "2121"
+    ],
+    [
+      "5600",
+      "COAL AND PETROLEUM GASES",
+      "7670325",
+      "2013",
+      "06",
+      "INDONESIA",
+      "2121"
+    ],
+    [
+      "5600",
+      "COAL AND PETROLEUM GASES",
+      "4061608",
+      "2013",
+      "07",
+      "INDONESIA",
+      "2121"
+    ],
+    [
+      "5600",
+      "COAL AND PETROLEUM GASES",
+      "3893200",
+      "2013",
+      "08",
+      "INDONESIA",
+      "2121"
+    ],
+    [
+      "5600",
+      "COAL AND PETROLEUM GASES",
+      "4003498",
+      "2013",
+      "09",
+      "INDONESIA",
+      "2121"
+    ],
+    [
+      "5600",
+      "COAL AND PETROLEUM GASES",
+      "3617442",
+      "2013",
+      "10",
+      "INDONESIA",
+      "2121"
+    ],
+    [
+      "5600",
+      "COAL AND PETROLEUM GASES",
+      "2853531",
+      "2013",
+      "11",
+      "INDONESIA",
+      "2121"
+    ],
+    [
+      "5600",
+      "COAL AND PETROLEUM GASES",
+      "7848375",
+      "2013",
+      "12",
+      "INDONESIA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "463420",
+      "2013",
+      "01",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "260447",
+      "2013",
+      "02",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "419617",
+      "2013",
+      "03",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "161811",
+      "2013",
+      "04",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "1179721",
+      "2013",
+      "05",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "33806",
+      "2013",
+      "06",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "277706",
+      "2013",
+      "07",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "16202",
+      "2013",
+      "08",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "614172",
+      "2013",
+      "09",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "594296",
+      "2013",
+      "10",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "1009890",
+      "2013",
+      "11",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "555552",
+      "2013",
+      "12",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5880",
+      "COAL AND PETROLEUM GASES",
+      "14662",
+      "2013",
+      "07",
+      "JAPAN",
+      "2121"
+    ],
+    [
+      "5880",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "08",
+      "JAPAN",
+      "2121"
+    ],
+    [
+      "5880",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "09",
+      "JAPAN",
+      "2121"
+    ],
+    [
+      "5880",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "10",
+      "JAPAN",
+      "2121"
+    ],
+    [
+      "5880",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "11",
+      "JAPAN",
+      "2121"
+    ],
+    [
+      "5880",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "JAPAN",
+      "2121"
+    ],
+    [
+      "6021",
+      "COAL AND PETROLEUM GASES",
+      "4018",
+      "2013",
+      "11",
+      "AUSTRALIA",
+      "2121"
+    ],
+    [
+      "6021",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "AUSTRALIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "48715743",
+      "2013",
+      "01",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "20810235",
+      "2013",
+      "02",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "20217024",
+      "2013",
+      "03",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "29959443",
+      "2013",
+      "04",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "46568270",
+      "2013",
+      "05",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "73382811",
+      "2013",
+      "06",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "46117546",
+      "2013",
+      "07",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "28191299",
+      "2013",
+      "08",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "48371735",
+      "2013",
+      "09",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "44629588",
+      "2013",
+      "10",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "49237791",
+      "2013",
+      "11",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "37739295",
+      "2013",
+      "12",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3070",
+      "COAL AND PETROLEUM GASES",
+      "3895139",
+      "2013",
+      "06",
+      "VENEZUELA",
+      "2121"
+    ],
+    [
+      "3070",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "07",
+      "VENEZUELA",
+      "2121"
+    ],
+    [
+      "3070",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "08",
+      "VENEZUELA",
+      "2121"
+    ],
+    [
+      "3070",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "09",
+      "VENEZUELA",
+      "2121"
+    ],
+    [
+      "3070",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "10",
+      "VENEZUELA",
+      "2121"
+    ],
+    [
+      "3070",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "11",
+      "VENEZUELA",
+      "2121"
+    ],
+    [
+      "3070",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "VENEZUELA",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "1072550",
+      "2013",
+      "06",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "07",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "08",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "09",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "10",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "11",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3570",
+      "COAL AND PETROLEUM GASES",
+      "10526",
+      "2013",
+      "10",
+      "ARGENTINA",
+      "2121"
+    ],
+    [
+      "3570",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "11",
+      "ARGENTINA",
+      "2121"
+    ],
+    [
+      "3570",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "ARGENTINA",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "10024",
+      "2013",
+      "02",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "03",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "04",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "05",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "06",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "07",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "08",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "09",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "10",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "11",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4210",
+      "COAL AND PETROLEUM GASES",
+      "75425",
+      "2013",
+      "02",
+      "NETHERLANDS",
+      "2121"
+    ],
+    [
+      "4210",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "03",
+      "NETHERLANDS",
+      "2121"
+    ],
+    [
+      "4210",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "04",
+      "NETHERLANDS",
+      "2121"
+    ],
+    [
+      "4210",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "05",
+      "NETHERLANDS",
+      "2121"
+    ],
+    [
+      "4210",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "06",
+      "NETHERLANDS",
+      "2121"
+    ],
+    [
+      "4210",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "07",
+      "NETHERLANDS",
+      "2121"
+    ],
+    [
+      "4210",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "08",
+      "NETHERLANDS",
+      "2121"
+    ],
+    [
+      "4210",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "09",
+      "NETHERLANDS",
+      "2121"
+    ],
+    [
+      "4210",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "10",
+      "NETHERLANDS",
+      "2121"
+    ],
+    [
+      "4210",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "11",
+      "NETHERLANDS",
+      "2121"
+    ],
+    [
+      "4210",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "NETHERLANDS",
+      "2121"
+    ],
+    [
+      "4280",
+      "COAL AND PETROLEUM GASES",
+      "32146",
+      "2013",
+      "11",
+      "GERMANY",
+      "2121"
+    ],
+    [
+      "4280",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "GERMANY",
+      "2121"
+    ],
+    [
+      "4621",
+      "COAL AND PETROLEUM GASES",
+      "2746810",
+      "2013",
+      "07",
+      "RUSSIA",
+      "2121"
+    ],
+    [
+      "4621",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "08",
+      "RUSSIA",
+      "2121"
+    ],
+    [
+      "4621",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "09",
+      "RUSSIA",
+      "2121"
+    ],
+    [
+      "4621",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "10",
+      "RUSSIA",
+      "2121"
+    ],
+    [
+      "4621",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "11",
+      "RUSSIA",
+      "2121"
+    ],
+    [
+      "4621",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "RUSSIA",
+      "2121"
+    ],
+    [
+      "4623",
+      "COAL AND PETROLEUM GASES",
+      "3094549",
+      "2013",
+      "02",
+      "UKRAINE",
+      "2121"
+    ],
+    [
+      "4623",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "03",
+      "UKRAINE",
+      "2121"
+    ],
+    [
+      "4623",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "04",
+      "UKRAINE",
+      "2121"
+    ],
+    [
+      "4623",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "05",
+      "UKRAINE",
+      "2121"
+    ],
+    [
+      "4623",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "06",
+      "UKRAINE",
+      "2121"
+    ],
+    [
+      "4623",
+      "COAL AND PETROLEUM GASES",
+      "2938097",
+      "2013",
+      "07",
+      "UKRAINE",
+      "2121"
+    ],
+    [
+      "4623",
+      "COAL AND PETROLEUM GASES",
+      "5884656",
+      "2013",
+      "08",
+      "UKRAINE",
+      "2121"
+    ],
+    [
+      "4623",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "09",
+      "UKRAINE",
+      "2121"
+    ],
+    [
+      "4623",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "10",
+      "UKRAINE",
+      "2121"
+    ],
+    [
+      "4623",
+      "COAL AND PETROLEUM GASES",
+      "3128000",
+      "2013",
+      "11",
+      "UKRAINE",
+      "2121"
+    ],
+    [
+      "4623",
+      "COAL AND PETROLEUM GASES",
+      "4656072",
+      "2013",
+      "12",
+      "UKRAINE",
+      "2121"
+    ],
+    [
+      "4759",
+      "COAL AND PETROLEUM GASES",
+      "3022",
+      "2013",
+      "02",
+      "ITALY",
+      "2121"
+    ],
+    [
+      "4759",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "03",
+      "ITALY",
+      "2121"
+    ],
+    [
+      "4759",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "04",
+      "ITALY",
+      "2121"
+    ],
+    [
+      "4759",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "05",
+      "ITALY",
+      "2121"
+    ],
+    [
+      "4759",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "06",
+      "ITALY",
+      "2121"
+    ],
+    [
+      "4759",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "07",
+      "ITALY",
+      "2121"
+    ],
+    [
+      "4759",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "08",
+      "ITALY",
+      "2121"
+    ],
+    [
+      "4759",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "09",
+      "ITALY",
+      "2121"
+    ],
+    [
+      "4759",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "10",
+      "ITALY",
+      "2121"
+    ],
+    [
+      "4759",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "11",
+      "ITALY",
+      "2121"
+    ],
+    [
+      "4759",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "ITALY",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "57688580",
+      "2013",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "33990015",
+      "2013",
+      "02",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "32721858",
+      "2013",
+      "03",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "55398100",
+      "2013",
+      "04",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "75294303",
+      "2013",
+      "05",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "98309687",
+      "2013",
+      "06",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "70717402",
+      "2013",
+      "07",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "61305665",
+      "2013",
+      "08",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "64299798",
+      "2013",
+      "09",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "67616089",
+      "2013",
+      "10",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "63077454",
+      "2013",
+      "11",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "61899153",
+      "2013",
+      "12",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "88471",
+      "2013",
+      "02",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "03",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "04",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "05",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "06",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "07",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "08",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "09",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "10",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "32146",
+      "2013",
+      "11",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "8469155",
+      "2013",
+      "01",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "6134423",
+      "2013",
+      "02",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "8565285",
+      "2013",
+      "03",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "17544127",
+      "2013",
+      "04",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "23607509",
+      "2013",
+      "05",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "12255056",
+      "2013",
+      "06",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "14546933",
+      "2013",
+      "07",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "23304468",
+      "2013",
+      "08",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "11310393",
+      "2013",
+      "09",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "18764237",
+      "2013",
+      "10",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "6812078",
+      "2013",
+      "11",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "11099859",
+      "2013",
+      "12",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "3183020",
+      "2013",
+      "02",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "03",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "04",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "05",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "06",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "5684907",
+      "2013",
+      "07",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "5884656",
+      "2013",
+      "08",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "09",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "10",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "3160146",
+      "2013",
+      "11",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "4656072",
+      "2013",
+      "12",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "463420",
+      "2013",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "3848297",
+      "2013",
+      "02",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "3939549",
+      "2013",
+      "03",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "7894530",
+      "2013",
+      "04",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "5118524",
+      "2013",
+      "05",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "7704131",
+      "2013",
+      "06",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "4353976",
+      "2013",
+      "07",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "3909402",
+      "2013",
+      "08",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "4617670",
+      "2013",
+      "09",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "4211738",
+      "2013",
+      "10",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "3867439",
+      "2013",
+      "11",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "8403927",
+      "2013",
+      "12",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "503682",
+      "2013",
+      "01",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "3862337",
+      "2013",
+      "02",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "3939549",
+      "2013",
+      "03",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "7894530",
+      "2013",
+      "04",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "5118524",
+      "2013",
+      "05",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "7704131",
+      "2013",
+      "06",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "4368016",
+      "2013",
+      "07",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "3925242",
+      "2013",
+      "08",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "4617670",
+      "2013",
+      "09",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "4211738",
+      "2013",
+      "10",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "3863421",
+      "2013",
+      "11",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "8403927",
+      "2013",
+      "12",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "6XXX",
+      "COAL AND PETROLEUM GASES",
+      "4018",
+      "2013",
+      "11",
+      "AUSTRALIA AND OCEANIA",
+      "2121"
+    ],
+    [
+      "6XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "AUSTRALIA AND OCEANIA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "8469155",
+      "2013",
+      "01",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "6134423",
+      "2013",
+      "02",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "8565285",
+      "2013",
+      "03",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "17544127",
+      "2013",
+      "04",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "23607509",
+      "2013",
+      "05",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "12255056",
+      "2013",
+      "06",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "14546933",
+      "2013",
+      "07",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "23304468",
+      "2013",
+      "08",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "11310393",
+      "2013",
+      "09",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "18764237",
+      "2013",
+      "10",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "6812078",
+      "2013",
+      "11",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "11099859",
+      "2013",
+      "12",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "48715743",
+      "2013",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "20810235",
+      "2013",
+      "02",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "20217024",
+      "2013",
+      "03",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "29959443",
+      "2013",
+      "04",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "46568270",
+      "2013",
+      "05",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "78350500",
+      "2013",
+      "06",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "46117546",
+      "2013",
+      "07",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "28191299",
+      "2013",
+      "08",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "48371735",
+      "2013",
+      "09",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "44640114",
+      "2013",
+      "10",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "49237791",
+      "2013",
+      "11",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "37739295",
+      "2013",
+      "12",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "8469155",
+      "2013",
+      "01",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "6222894",
+      "2013",
+      "02",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "8565285",
+      "2013",
+      "03",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "17544127",
+      "2013",
+      "04",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "23607509",
+      "2013",
+      "05",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "12255056",
+      "2013",
+      "06",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "14561595",
+      "2013",
+      "07",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "23304468",
+      "2013",
+      "08",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "11310393",
+      "2013",
+      "09",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "18764237",
+      "2013",
+      "10",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "6848242",
+      "2013",
+      "11",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "11099859",
+      "2013",
+      "12",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "8469155",
+      "2013",
+      "01",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "6222894",
+      "2013",
+      "02",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "8565285",
+      "2013",
+      "03",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "17544127",
+      "2013",
+      "04",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "23607509",
+      "2013",
+      "05",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "12255056",
+      "2013",
+      "06",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "14546933",
+      "2013",
+      "07",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "23304468",
+      "2013",
+      "08",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "11310393",
+      "2013",
+      "09",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "18764237",
+      "2013",
+      "10",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "6844224",
+      "2013",
+      "11",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "11099859",
+      "2013",
+      "12",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "48715743",
+      "2013",
+      "01",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "20810235",
+      "2013",
+      "02",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "20217024",
+      "2013",
+      "03",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "29959443",
+      "2013",
+      "04",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "46568270",
+      "2013",
+      "05",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "78350500",
+      "2013",
+      "06",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "46117546",
+      "2013",
+      "07",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "28191299",
+      "2013",
+      "08",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "48371735",
+      "2013",
+      "09",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "44640114",
+      "2013",
+      "10",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "49237791",
+      "2013",
+      "11",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "37739295",
+      "2013",
+      "12",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "78447",
+      "2013",
+      "02",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "03",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "04",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "05",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "06",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "07",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "08",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "09",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "10",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "32146",
+      "2013",
+      "11",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "8932575",
+      "2013",
+      "01",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "9982720",
+      "2013",
+      "02",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "12504834",
+      "2013",
+      "03",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "25438657",
+      "2013",
+      "04",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "28726033",
+      "2013",
+      "05",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "21031737",
+      "2013",
+      "06",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "21647719",
+      "2013",
+      "07",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "27213870",
+      "2013",
+      "08",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "15928063",
+      "2013",
+      "09",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "22975975",
+      "2013",
+      "10",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "10679517",
+      "2013",
+      "11",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "19503786",
+      "2013",
+      "12",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0027",
+      "COAL AND PETROLEUM GASES",
+      "3587850",
+      "2013",
+      "02",
+      "ASEAN",
+      "2121"
+    ],
+    [
+      "0027",
+      "COAL AND PETROLEUM GASES",
+      "3519932",
+      "2013",
+      "03",
+      "ASEAN",
+      "2121"
+    ],
+    [
+      "0027",
+      "COAL AND PETROLEUM GASES",
+      "7732719",
+      "2013",
+      "04",
+      "ASEAN",
+      "2121"
+    ],
+    [
+      "0027",
+      "COAL AND PETROLEUM GASES",
+      "3938803",
+      "2013",
+      "05",
+      "ASEAN",
+      "2121"
+    ],
+    [
+      "0027",
+      "COAL AND PETROLEUM GASES",
+      "7670325",
+      "2013",
+      "06",
+      "ASEAN",
+      "2121"
+    ],
+    [
+      "0027",
+      "COAL AND PETROLEUM GASES",
+      "4061608",
+      "2013",
+      "07",
+      "ASEAN",
+      "2121"
+    ],
+    [
+      "0027",
+      "COAL AND PETROLEUM GASES",
+      "3893200",
+      "2013",
+      "08",
+      "ASEAN",
+      "2121"
+    ],
+    [
+      "0027",
+      "COAL AND PETROLEUM GASES",
+      "4003498",
+      "2013",
+      "09",
+      "ASEAN",
+      "2121"
+    ],
+    [
+      "0027",
+      "COAL AND PETROLEUM GASES",
+      "3617442",
+      "2013",
+      "10",
+      "ASEAN",
+      "2121"
+    ],
+    [
+      "0027",
+      "COAL AND PETROLEUM GASES",
+      "2853531",
+      "2013",
+      "11",
+      "ASEAN",
+      "2121"
+    ],
+    [
+      "0027",
+      "COAL AND PETROLEUM GASES",
+      "7848375",
+      "2013",
+      "12",
+      "ASEAN",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "8469155",
+      "2013",
+      "01",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "6134423",
+      "2013",
+      "02",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "8565285",
+      "2013",
+      "03",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "17544127",
+      "2013",
+      "04",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "23607509",
+      "2013",
+      "05",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "12255056",
+      "2013",
+      "06",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "14546933",
+      "2013",
+      "07",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "23304468",
+      "2013",
+      "08",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "11310393",
+      "2013",
+      "09",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "18764237",
+      "2013",
+      "10",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "6812078",
+      "2013",
+      "11",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "11099859",
+      "2013",
+      "12",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "48715743",
+      "2013",
+      "01",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "20810235",
+      "2013",
+      "02",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "20217024",
+      "2013",
+      "03",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "29959443",
+      "2013",
+      "04",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "46568270",
+      "2013",
+      "05",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "78350500",
+      "2013",
+      "06",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "46117546",
+      "2013",
+      "07",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "28191299",
+      "2013",
+      "08",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "48371735",
+      "2013",
+      "09",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "44640114",
+      "2013",
+      "10",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "49237791",
+      "2013",
+      "11",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "37739295",
+      "2013",
+      "12",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "0001",
+      "COAL AND PETROLEUM GASES",
+      "3895139",
+      "2013",
+      "06",
+      "OPEC",
+      "2121"
+    ],
+    [
+      "0001",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "07",
+      "OPEC",
+      "2121"
+    ],
+    [
+      "0001",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "08",
+      "OPEC",
+      "2121"
+    ],
+    [
+      "0001",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "09",
+      "OPEC",
+      "2121"
+    ],
+    [
+      "0001",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "10",
+      "OPEC",
+      "2121"
+    ],
+    [
+      "0001",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "11",
+      "OPEC",
+      "2121"
+    ],
+    [
+      "0001",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2013",
+      "12",
+      "OPEC",
+      "2121"
+    ]
+  ]
+}

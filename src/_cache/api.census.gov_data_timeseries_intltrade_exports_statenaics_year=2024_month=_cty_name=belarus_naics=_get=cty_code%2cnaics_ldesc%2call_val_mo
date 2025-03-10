@@ -1,0 +1,3773 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:19:41 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4e05a4d01c0af9083a0b7d0687f768c67a9978b30986b8ea2cdad01f29dcb2f867d3a14f64d4e9ddc7ebe8857f85f0ac1; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "4622",
+      "PAPER",
+      "64819",
+      "2024",
+      "05",
+      "BELARUS",
+      "322"
+    ],
+    [
+      "4622",
+      "PAPER",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "322"
+    ],
+    [
+      "4622",
+      "PAPER",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "322"
+    ],
+    [
+      "4622",
+      "PAPER",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "322"
+    ],
+    [
+      "4622",
+      "PAPER",
+      "86266",
+      "2024",
+      "09",
+      "BELARUS",
+      "322"
+    ],
+    [
+      "4622",
+      "PAPER",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "322"
+    ],
+    [
+      "4622",
+      "PAPER",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "322"
+    ],
+    [
+      "4622",
+      "PAPER",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "322"
+    ],
+    [
+      "4622",
+      "CONVERTED PAPER PRODUCTS",
+      "64819",
+      "2024",
+      "05",
+      "BELARUS",
+      "3222"
+    ],
+    [
+      "4622",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "3222"
+    ],
+    [
+      "4622",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "3222"
+    ],
+    [
+      "4622",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "3222"
+    ],
+    [
+      "4622",
+      "CONVERTED PAPER PRODUCTS",
+      "86266",
+      "2024",
+      "09",
+      "BELARUS",
+      "3222"
+    ],
+    [
+      "4622",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "3222"
+    ],
+    [
+      "4622",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "3222"
+    ],
+    [
+      "4622",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3222"
+    ],
+    [
+      "4622",
+      "CHEMICALS",
+      "10352",
+      "2024",
+      "01",
+      "BELARUS",
+      "325"
+    ],
+    [
+      "4622",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "02",
+      "BELARUS",
+      "325"
+    ],
+    [
+      "4622",
+      "CHEMICALS",
+      "1044919",
+      "2024",
+      "03",
+      "BELARUS",
+      "325"
+    ],
+    [
+      "4622",
+      "CHEMICALS",
+      "1080591",
+      "2024",
+      "04",
+      "BELARUS",
+      "325"
+    ],
+    [
+      "4622",
+      "CHEMICALS",
+      "56990",
+      "2024",
+      "05",
+      "BELARUS",
+      "325"
+    ],
+    [
+      "4622",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "325"
+    ],
+    [
+      "4622",
+      "CHEMICALS",
+      "324745",
+      "2024",
+      "07",
+      "BELARUS",
+      "325"
+    ],
+    [
+      "4622",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "325"
+    ],
+    [
+      "4622",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "325"
+    ],
+    [
+      "4622",
+      "CHEMICALS",
+      "36900",
+      "2024",
+      "10",
+      "BELARUS",
+      "325"
+    ],
+    [
+      "4622",
+      "CHEMICALS",
+      "57663",
+      "2024",
+      "11",
+      "BELARUS",
+      "325"
+    ],
+    [
+      "4622",
+      "CHEMICALS",
+      "34300",
+      "2024",
+      "12",
+      "BELARUS",
+      "325"
+    ],
+    [
+      "4622",
+      "PHARMACEUTICALS AND MEDICINES",
+      "10352",
+      "2024",
+      "01",
+      "BELARUS",
+      "3254"
+    ],
+    [
+      "4622",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "02",
+      "BELARUS",
+      "3254"
+    ],
+    [
+      "4622",
+      "PHARMACEUTICALS AND MEDICINES",
+      "1044919",
+      "2024",
+      "03",
+      "BELARUS",
+      "3254"
+    ],
+    [
+      "4622",
+      "PHARMACEUTICALS AND MEDICINES",
+      "1060413",
+      "2024",
+      "04",
+      "BELARUS",
+      "3254"
+    ],
+    [
+      "4622",
+      "PHARMACEUTICALS AND MEDICINES",
+      "56990",
+      "2024",
+      "05",
+      "BELARUS",
+      "3254"
+    ],
+    [
+      "4622",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "3254"
+    ],
+    [
+      "4622",
+      "PHARMACEUTICALS AND MEDICINES",
+      "324745",
+      "2024",
+      "07",
+      "BELARUS",
+      "3254"
+    ],
+    [
+      "4622",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "3254"
+    ],
+    [
+      "4622",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "3254"
+    ],
+    [
+      "4622",
+      "PHARMACEUTICALS AND MEDICINES",
+      "25609",
+      "2024",
+      "10",
+      "BELARUS",
+      "3254"
+    ],
+    [
+      "4622",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "3254"
+    ],
+    [
+      "4622",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3254"
+    ],
+    [
+      "4622",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "13544",
+      "2024",
+      "04",
+      "BELARUS",
+      "3256"
+    ],
+    [
+      "4622",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "3256"
+    ],
+    [
+      "4622",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "3256"
+    ],
+    [
+      "4622",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "3256"
+    ],
+    [
+      "4622",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "3256"
+    ],
+    [
+      "4622",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "3256"
+    ],
+    [
+      "4622",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "11291",
+      "2024",
+      "10",
+      "BELARUS",
+      "3256"
+    ],
+    [
+      "4622",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "57663",
+      "2024",
+      "11",
+      "BELARUS",
+      "3256"
+    ],
+    [
+      "4622",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "34300",
+      "2024",
+      "12",
+      "BELARUS",
+      "3256"
+    ],
+    [
+      "4622",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "6634",
+      "2024",
+      "04",
+      "BELARUS",
+      "3259"
+    ],
+    [
+      "4622",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "3259"
+    ],
+    [
+      "4622",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "3259"
+    ],
+    [
+      "4622",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "3259"
+    ],
+    [
+      "4622",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "3259"
+    ],
+    [
+      "4622",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "3259"
+    ],
+    [
+      "4622",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "3259"
+    ],
+    [
+      "4622",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "3259"
+    ],
+    [
+      "4622",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3259"
+    ],
+    [
+      "4622",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "13488",
+      "2024",
+      "09",
+      "BELARUS",
+      "326"
+    ],
+    [
+      "4622",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "326"
+    ],
+    [
+      "4622",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "326"
+    ],
+    [
+      "4622",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "326"
+    ],
+    [
+      "4622",
+      "PLASTICS PRODUCTS",
+      "9694",
+      "2024",
+      "09",
+      "BELARUS",
+      "3261"
+    ],
+    [
+      "4622",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "3261"
+    ],
+    [
+      "4622",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "3261"
+    ],
+    [
+      "4622",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3261"
+    ],
+    [
+      "4622",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "3240",
+      "2024",
+      "02",
+      "BELARUS",
+      "327"
+    ],
+    [
+      "4622",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "BELARUS",
+      "327"
+    ],
+    [
+      "4622",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BELARUS",
+      "327"
+    ],
+    [
+      "4622",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "327"
+    ],
+    [
+      "4622",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "327"
+    ],
+    [
+      "4622",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "327"
+    ],
+    [
+      "4622",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "327"
+    ],
+    [
+      "4622",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "327"
+    ],
+    [
+      "4622",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "327"
+    ],
+    [
+      "4622",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "327"
+    ],
+    [
+      "4622",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "327"
+    ],
+    [
+      "4622",
+      "GLASS AND GLASS PRODUCTS",
+      "3240",
+      "2024",
+      "02",
+      "BELARUS",
+      "3272"
+    ],
+    [
+      "4622",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "BELARUS",
+      "3272"
+    ],
+    [
+      "4622",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BELARUS",
+      "3272"
+    ],
+    [
+      "4622",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "3272"
+    ],
+    [
+      "4622",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "3272"
+    ],
+    [
+      "4622",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "3272"
+    ],
+    [
+      "4622",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "3272"
+    ],
+    [
+      "4622",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "3272"
+    ],
+    [
+      "4622",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "3272"
+    ],
+    [
+      "4622",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "3272"
+    ],
+    [
+      "4622",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3272"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 3",
+      "63011",
+      "2024",
+      "01",
+      "BELARUS",
+      "33"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 3",
+      "151576",
+      "2024",
+      "02",
+      "BELARUS",
+      "33"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 3",
+      "35696",
+      "2024",
+      "03",
+      "BELARUS",
+      "33"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 3",
+      "145652",
+      "2024",
+      "04",
+      "BELARUS",
+      "33"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 3",
+      "110180",
+      "2024",
+      "05",
+      "BELARUS",
+      "33"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 3",
+      "835114",
+      "2024",
+      "06",
+      "BELARUS",
+      "33"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 3",
+      "173729",
+      "2024",
+      "07",
+      "BELARUS",
+      "33"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 3",
+      "132665",
+      "2024",
+      "08",
+      "BELARUS",
+      "33"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 3",
+      "179876",
+      "2024",
+      "09",
+      "BELARUS",
+      "33"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 3",
+      "132340",
+      "2024",
+      "10",
+      "BELARUS",
+      "33"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 3",
+      "654560",
+      "2024",
+      "11",
+      "BELARUS",
+      "33"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 3",
+      "450708",
+      "2024",
+      "12",
+      "BELARUS",
+      "33"
+    ],
+    [
+      "4622",
+      "PRIMARY METAL MANUFACTURING",
+      "27684",
+      "2024",
+      "11",
+      "BELARUS",
+      "331"
+    ],
+    [
+      "4622",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "331"
+    ],
+    [
+      "4622",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "12622",
+      "2024",
+      "11",
+      "BELARUS",
+      "3313"
+    ],
+    [
+      "4622",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3313"
+    ],
+    [
+      "4622",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "82610",
+      "2024",
+      "01",
+      "BELARUS",
+      "-"
+    ],
+    [
+      "4622",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "169582",
+      "2024",
+      "02",
+      "BELARUS",
+      "-"
+    ],
+    [
+      "4622",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1082733",
+      "2024",
+      "03",
+      "BELARUS",
+      "-"
+    ],
+    [
+      "4622",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1311176",
+      "2024",
+      "04",
+      "BELARUS",
+      "-"
+    ],
+    [
+      "4622",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "239362",
+      "2024",
+      "05",
+      "BELARUS",
+      "-"
+    ],
+    [
+      "4622",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1000650",
+      "2024",
+      "06",
+      "BELARUS",
+      "-"
+    ],
+    [
+      "4622",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1070640",
+      "2024",
+      "07",
+      "BELARUS",
+      "-"
+    ],
+    [
+      "4622",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "140154",
+      "2024",
+      "08",
+      "BELARUS",
+      "-"
+    ],
+    [
+      "4622",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2188691",
+      "2024",
+      "09",
+      "BELARUS",
+      "-"
+    ],
+    [
+      "4622",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "206556",
+      "2024",
+      "10",
+      "BELARUS",
+      "-"
+    ],
+    [
+      "4622",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2170844",
+      "2024",
+      "11",
+      "BELARUS",
+      "-"
+    ],
+    [
+      "4622",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "936135",
+      "2024",
+      "12",
+      "BELARUS",
+      "-"
+    ],
+    [
+      "4622",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "82426",
+      "2024",
+      "04",
+      "BELARUS",
+      "11"
+    ],
+    [
+      "4622",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "11"
+    ],
+    [
+      "4622",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "140800",
+      "2024",
+      "06",
+      "BELARUS",
+      "11"
+    ],
+    [
+      "4622",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "46968",
+      "2024",
+      "07",
+      "BELARUS",
+      "11"
+    ],
+    [
+      "4622",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "11"
+    ],
+    [
+      "4622",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "295436",
+      "2024",
+      "09",
+      "BELARUS",
+      "11"
+    ],
+    [
+      "4622",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "11"
+    ],
+    [
+      "4622",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "11"
+    ],
+    [
+      "4622",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "11"
+    ],
+    [
+      "4622",
+      "AGRICULTURAL PRODUCTS",
+      "140800",
+      "2024",
+      "06",
+      "BELARUS",
+      "111"
+    ],
+    [
+      "4622",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "111"
+    ],
+    [
+      "4622",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "111"
+    ],
+    [
+      "4622",
+      "AGRICULTURAL PRODUCTS",
+      "90640",
+      "2024",
+      "09",
+      "BELARUS",
+      "111"
+    ],
+    [
+      "4622",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "111"
+    ],
+    [
+      "4622",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "111"
+    ],
+    [
+      "4622",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "111"
+    ],
+    [
+      "4622",
+      "FRUITS AND TREE NUTS",
+      "140800",
+      "2024",
+      "06",
+      "BELARUS",
+      "1113"
+    ],
+    [
+      "4622",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "1113"
+    ],
+    [
+      "4622",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "1113"
+    ],
+    [
+      "4622",
+      "FRUITS AND TREE NUTS",
+      "90640",
+      "2024",
+      "09",
+      "BELARUS",
+      "1113"
+    ],
+    [
+      "4622",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "1113"
+    ],
+    [
+      "4622",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "1113"
+    ],
+    [
+      "4622",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "1113"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "82426",
+      "2024",
+      "04",
+      "BELARUS",
+      "1141"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "1141"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "1141"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "46968",
+      "2024",
+      "07",
+      "BELARUS",
+      "1141"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "1141"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "1141"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "1141"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "1141"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "1141"
+    ],
+    [
+      "4622",
+      "SUPPORT ACTIVITIES FOR ANIMAL PRODUCTION",
+      "204796",
+      "2024",
+      "09",
+      "BELARUS",
+      "1152"
+    ],
+    [
+      "4622",
+      "SUPPORT ACTIVITIES FOR ANIMAL PRODUCTION",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "1152"
+    ],
+    [
+      "4622",
+      "SUPPORT ACTIVITIES FOR ANIMAL PRODUCTION",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "1152"
+    ],
+    [
+      "4622",
+      "SUPPORT ACTIVITIES FOR ANIMAL PRODUCTION",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "1152"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART1",
+      "9100",
+      "2024",
+      "01",
+      "BELARUS",
+      "31"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "02",
+      "BELARUS",
+      "31"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "03",
+      "BELARUS",
+      "31"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "04",
+      "BELARUS",
+      "31"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "31"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "31"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART1",
+      "513674",
+      "2024",
+      "07",
+      "BELARUS",
+      "31"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "31"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART1",
+      "490122",
+      "2024",
+      "09",
+      "BELARUS",
+      "31"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART1",
+      "5872",
+      "2024",
+      "10",
+      "BELARUS",
+      "31"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART1",
+      "1453137",
+      "2024",
+      "11",
+      "BELARUS",
+      "31"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART1",
+      "449258",
+      "2024",
+      "12",
+      "BELARUS",
+      "31"
+    ],
+    [
+      "4622",
+      "MANUFACTURED GOODS",
+      "82463",
+      "2024",
+      "01",
+      "BELARUS",
+      "31-33"
+    ],
+    [
+      "4622",
+      "MANUFACTURED GOODS",
+      "154816",
+      "2024",
+      "02",
+      "BELARUS",
+      "31-33"
+    ],
+    [
+      "4622",
+      "MANUFACTURED GOODS",
+      "1080615",
+      "2024",
+      "03",
+      "BELARUS",
+      "31-33"
+    ],
+    [
+      "4622",
+      "MANUFACTURED GOODS",
+      "1226243",
+      "2024",
+      "04",
+      "BELARUS",
+      "31-33"
+    ],
+    [
+      "4622",
+      "MANUFACTURED GOODS",
+      "231989",
+      "2024",
+      "05",
+      "BELARUS",
+      "31-33"
+    ],
+    [
+      "4622",
+      "MANUFACTURED GOODS",
+      "835114",
+      "2024",
+      "06",
+      "BELARUS",
+      "31-33"
+    ],
+    [
+      "4622",
+      "MANUFACTURED GOODS",
+      "1012148",
+      "2024",
+      "07",
+      "BELARUS",
+      "31-33"
+    ],
+    [
+      "4622",
+      "MANUFACTURED GOODS",
+      "132665",
+      "2024",
+      "08",
+      "BELARUS",
+      "31-33"
+    ],
+    [
+      "4622",
+      "MANUFACTURED GOODS",
+      "769752",
+      "2024",
+      "09",
+      "BELARUS",
+      "31-33"
+    ],
+    [
+      "4622",
+      "MANUFACTURED GOODS",
+      "175112",
+      "2024",
+      "10",
+      "BELARUS",
+      "31-33"
+    ],
+    [
+      "4622",
+      "MANUFACTURED GOODS",
+      "2165360",
+      "2024",
+      "11",
+      "BELARUS",
+      "31-33"
+    ],
+    [
+      "4622",
+      "MANUFACTURED GOODS",
+      "934266",
+      "2024",
+      "12",
+      "BELARUS",
+      "31-33"
+    ],
+    [
+      "4622",
+      "FOOD AND KINDRED PRODUCTS",
+      "513674",
+      "2024",
+      "07",
+      "BELARUS",
+      "311"
+    ],
+    [
+      "4622",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "311"
+    ],
+    [
+      "4622",
+      "FOOD AND KINDRED PRODUCTS",
+      "490122",
+      "2024",
+      "09",
+      "BELARUS",
+      "311"
+    ],
+    [
+      "4622",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "311"
+    ],
+    [
+      "4622",
+      "FOOD AND KINDRED PRODUCTS",
+      "1445355",
+      "2024",
+      "11",
+      "BELARUS",
+      "311"
+    ],
+    [
+      "4622",
+      "FOOD AND KINDRED PRODUCTS",
+      "449258",
+      "2024",
+      "12",
+      "BELARUS",
+      "311"
+    ],
+    [
+      "4622",
+      "LEATHER AND ALLIED PRODUCTS",
+      "9100",
+      "2024",
+      "01",
+      "BELARUS",
+      "316"
+    ],
+    [
+      "4622",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "BELARUS",
+      "316"
+    ],
+    [
+      "4622",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "BELARUS",
+      "316"
+    ],
+    [
+      "4622",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BELARUS",
+      "316"
+    ],
+    [
+      "4622",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "316"
+    ],
+    [
+      "4622",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "316"
+    ],
+    [
+      "4622",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "316"
+    ],
+    [
+      "4622",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "316"
+    ],
+    [
+      "4622",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "316"
+    ],
+    [
+      "4622",
+      "LEATHER AND ALLIED PRODUCTS",
+      "5872",
+      "2024",
+      "10",
+      "BELARUS",
+      "316"
+    ],
+    [
+      "4622",
+      "LEATHER AND ALLIED PRODUCTS",
+      "7782",
+      "2024",
+      "11",
+      "BELARUS",
+      "316"
+    ],
+    [
+      "4622",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "316"
+    ],
+    [
+      "4622",
+      "FOOTWEAR",
+      "9100",
+      "2024",
+      "01",
+      "BELARUS",
+      "3162"
+    ],
+    [
+      "4622",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "02",
+      "BELARUS",
+      "3162"
+    ],
+    [
+      "4622",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "03",
+      "BELARUS",
+      "3162"
+    ],
+    [
+      "4622",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "04",
+      "BELARUS",
+      "3162"
+    ],
+    [
+      "4622",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "3162"
+    ],
+    [
+      "4622",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "3162"
+    ],
+    [
+      "4622",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "3162"
+    ],
+    [
+      "4622",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "3162"
+    ],
+    [
+      "4622",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "3162"
+    ],
+    [
+      "4622",
+      "FOOTWEAR",
+      "5872",
+      "2024",
+      "10",
+      "BELARUS",
+      "3162"
+    ],
+    [
+      "4622",
+      "FOOTWEAR",
+      "7782",
+      "2024",
+      "11",
+      "BELARUS",
+      "3162"
+    ],
+    [
+      "4622",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3162"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 2",
+      "10352",
+      "2024",
+      "01",
+      "BELARUS",
+      "32"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 2",
+      "3240",
+      "2024",
+      "02",
+      "BELARUS",
+      "32"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 2",
+      "1044919",
+      "2024",
+      "03",
+      "BELARUS",
+      "32"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 2",
+      "1080591",
+      "2024",
+      "04",
+      "BELARUS",
+      "32"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 2",
+      "121809",
+      "2024",
+      "05",
+      "BELARUS",
+      "32"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "32"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 2",
+      "324745",
+      "2024",
+      "07",
+      "BELARUS",
+      "32"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "32"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 2",
+      "99754",
+      "2024",
+      "09",
+      "BELARUS",
+      "32"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 2",
+      "36900",
+      "2024",
+      "10",
+      "BELARUS",
+      "32"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 2",
+      "57663",
+      "2024",
+      "11",
+      "BELARUS",
+      "32"
+    ],
+    [
+      "4622",
+      "MANUFACTURING, PART 2",
+      "34300",
+      "2024",
+      "12",
+      "BELARUS",
+      "32"
+    ],
+    [
+      "4622",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "63011",
+      "2024",
+      "01",
+      "BELARUS",
+      "334"
+    ],
+    [
+      "4622",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "93813",
+      "2024",
+      "02",
+      "BELARUS",
+      "334"
+    ],
+    [
+      "4622",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "6205",
+      "2024",
+      "03",
+      "BELARUS",
+      "334"
+    ],
+    [
+      "4622",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "139314",
+      "2024",
+      "04",
+      "BELARUS",
+      "334"
+    ],
+    [
+      "4622",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "334"
+    ],
+    [
+      "4622",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "816611",
+      "2024",
+      "06",
+      "BELARUS",
+      "334"
+    ],
+    [
+      "4622",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "169772",
+      "2024",
+      "07",
+      "BELARUS",
+      "334"
+    ],
+    [
+      "4622",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "5504",
+      "2024",
+      "08",
+      "BELARUS",
+      "334"
+    ],
+    [
+      "4622",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "148182",
+      "2024",
+      "09",
+      "BELARUS",
+      "334"
+    ],
+    [
+      "4622",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "42871",
+      "2024",
+      "10",
+      "BELARUS",
+      "334"
+    ],
+    [
+      "4622",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "477422",
+      "2024",
+      "11",
+      "BELARUS",
+      "334"
+    ],
+    [
+      "4622",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "249738",
+      "2024",
+      "12",
+      "BELARUS",
+      "334"
+    ],
+    [
+      "4622",
+      "COMPUTER EQUIPMENT",
+      "4790",
+      "2024",
+      "06",
+      "BELARUS",
+      "3341"
+    ],
+    [
+      "4622",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "3341"
+    ],
+    [
+      "4622",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "3341"
+    ],
+    [
+      "4622",
+      "COMPUTER EQUIPMENT",
+      "4809",
+      "2024",
+      "09",
+      "BELARUS",
+      "3341"
+    ],
+    [
+      "4622",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "3341"
+    ],
+    [
+      "4622",
+      "COMPUTER EQUIPMENT",
+      "5738",
+      "2024",
+      "11",
+      "BELARUS",
+      "3341"
+    ],
+    [
+      "4622",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3341"
+    ],
+    [
+      "4622",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "96661",
+      "2024",
+      "09",
+      "BELARUS",
+      "3344"
+    ],
+    [
+      "4622",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "3344"
+    ],
+    [
+      "4622",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "3344"
+    ],
+    [
+      "4622",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3344"
+    ],
+    [
+      "4622",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "63011",
+      "2024",
+      "01",
+      "BELARUS",
+      "3345"
+    ],
+    [
+      "4622",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "93813",
+      "2024",
+      "02",
+      "BELARUS",
+      "3345"
+    ],
+    [
+      "4622",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "6205",
+      "2024",
+      "03",
+      "BELARUS",
+      "3345"
+    ],
+    [
+      "4622",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "139314",
+      "2024",
+      "04",
+      "BELARUS",
+      "3345"
+    ],
+    [
+      "4622",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "3345"
+    ],
+    [
+      "4622",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "811821",
+      "2024",
+      "06",
+      "BELARUS",
+      "3345"
+    ],
+    [
+      "4622",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "140975",
+      "2024",
+      "07",
+      "BELARUS",
+      "3345"
+    ],
+    [
+      "4622",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "5504",
+      "2024",
+      "08",
+      "BELARUS",
+      "3345"
+    ],
+    [
+      "4622",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "46712",
+      "2024",
+      "09",
+      "BELARUS",
+      "3345"
+    ],
+    [
+      "4622",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "42871",
+      "2024",
+      "10",
+      "BELARUS",
+      "3345"
+    ],
+    [
+      "4622",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "471684",
+      "2024",
+      "11",
+      "BELARUS",
+      "3345"
+    ],
+    [
+      "4622",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "249738",
+      "2024",
+      "12",
+      "BELARUS",
+      "3345"
+    ],
+    [
+      "4622",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "7963",
+      "2024",
+      "03",
+      "BELARUS",
+      "3351"
+    ],
+    [
+      "4622",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "2598",
+      "2024",
+      "04",
+      "BELARUS",
+      "3351"
+    ],
+    [
+      "4622",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "3351"
+    ],
+    [
+      "4622",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "3351"
+    ],
+    [
+      "4622",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "3351"
+    ],
+    [
+      "4622",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "113161",
+      "2024",
+      "08",
+      "BELARUS",
+      "3351"
+    ],
+    [
+      "4622",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "3351"
+    ],
+    [
+      "4622",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "77500",
+      "2024",
+      "10",
+      "BELARUS",
+      "3351"
+    ],
+    [
+      "4622",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "3351"
+    ],
+    [
+      "4622",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3351"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "9450",
+      "2024",
+      "07",
+      "BELARUS",
+      "93"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "93"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "93"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "93"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "93"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "93"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "9450",
+      "2024",
+      "07",
+      "BELARUS",
+      "930"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "930"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "930"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "930"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "930"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "930"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "9450",
+      "2024",
+      "07",
+      "BELARUS",
+      "9300"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "9300"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "9300"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "9300"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "9300"
+    ],
+    [
+      "4622",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "9300"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "147",
+      "2024",
+      "01",
+      "BELARUS",
+      "990"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14766",
+      "2024",
+      "02",
+      "BELARUS",
+      "990"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2118",
+      "2024",
+      "03",
+      "BELARUS",
+      "990"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2507",
+      "2024",
+      "04",
+      "BELARUS",
+      "990"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7373",
+      "2024",
+      "05",
+      "BELARUS",
+      "990"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "24736",
+      "2024",
+      "06",
+      "BELARUS",
+      "990"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2074",
+      "2024",
+      "07",
+      "BELARUS",
+      "990"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7489",
+      "2024",
+      "08",
+      "BELARUS",
+      "990"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1123503",
+      "2024",
+      "09",
+      "BELARUS",
+      "990"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "31444",
+      "2024",
+      "10",
+      "BELARUS",
+      "990"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5484",
+      "2024",
+      "11",
+      "BELARUS",
+      "990"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1869",
+      "2024",
+      "12",
+      "BELARUS",
+      "990"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "147",
+      "2024",
+      "01",
+      "BELARUS",
+      "9900"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14766",
+      "2024",
+      "02",
+      "BELARUS",
+      "9900"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2118",
+      "2024",
+      "03",
+      "BELARUS",
+      "9900"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2507",
+      "2024",
+      "04",
+      "BELARUS",
+      "9900"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7373",
+      "2024",
+      "05",
+      "BELARUS",
+      "9900"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "24736",
+      "2024",
+      "06",
+      "BELARUS",
+      "9900"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2074",
+      "2024",
+      "07",
+      "BELARUS",
+      "9900"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7489",
+      "2024",
+      "08",
+      "BELARUS",
+      "9900"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1123503",
+      "2024",
+      "09",
+      "BELARUS",
+      "9900"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "31444",
+      "2024",
+      "10",
+      "BELARUS",
+      "9900"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5484",
+      "2024",
+      "11",
+      "BELARUS",
+      "9900"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1869",
+      "2024",
+      "12",
+      "BELARUS",
+      "9900"
+    ],
+    [
+      "4622",
+      "RUBBER PRODUCTS",
+      "3794",
+      "2024",
+      "09",
+      "BELARUS",
+      "3262"
+    ],
+    [
+      "4622",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "3262"
+    ],
+    [
+      "4622",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "3262"
+    ],
+    [
+      "4622",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3262"
+    ],
+    [
+      "4622",
+      "COMMUNICATIONS EQUIPMENT",
+      "28797",
+      "2024",
+      "07",
+      "BELARUS",
+      "3342"
+    ],
+    [
+      "4622",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "3342"
+    ],
+    [
+      "4622",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "3342"
+    ],
+    [
+      "4622",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "3342"
+    ],
+    [
+      "4622",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "3342"
+    ],
+    [
+      "4622",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3342"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "7963",
+      "2024",
+      "03",
+      "BELARUS",
+      "335"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "2598",
+      "2024",
+      "04",
+      "BELARUS",
+      "335"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "335"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "335"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "3957",
+      "2024",
+      "07",
+      "BELARUS",
+      "335"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "113161",
+      "2024",
+      "08",
+      "BELARUS",
+      "335"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "335"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "80370",
+      "2024",
+      "10",
+      "BELARUS",
+      "335"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "335"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "335"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "3957",
+      "2024",
+      "07",
+      "BELARUS",
+      "3359"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "3359"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "3359"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "2870",
+      "2024",
+      "10",
+      "BELARUS",
+      "3359"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "3359"
+    ],
+    [
+      "4622",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3359"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "147",
+      "2024",
+      "01",
+      "BELARUS",
+      "99"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14766",
+      "2024",
+      "02",
+      "BELARUS",
+      "99"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2118",
+      "2024",
+      "03",
+      "BELARUS",
+      "99"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2507",
+      "2024",
+      "04",
+      "BELARUS",
+      "99"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7373",
+      "2024",
+      "05",
+      "BELARUS",
+      "99"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "24736",
+      "2024",
+      "06",
+      "BELARUS",
+      "99"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2074",
+      "2024",
+      "07",
+      "BELARUS",
+      "99"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7489",
+      "2024",
+      "08",
+      "BELARUS",
+      "99"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1123503",
+      "2024",
+      "09",
+      "BELARUS",
+      "99"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "31444",
+      "2024",
+      "10",
+      "BELARUS",
+      "99"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5484",
+      "2024",
+      "11",
+      "BELARUS",
+      "99"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1869",
+      "2024",
+      "12",
+      "BELARUS",
+      "99"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "43395",
+      "2024",
+      "02",
+      "BELARUS",
+      "339"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "21528",
+      "2024",
+      "03",
+      "BELARUS",
+      "339"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "3740",
+      "2024",
+      "04",
+      "BELARUS",
+      "339"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "110180",
+      "2024",
+      "05",
+      "BELARUS",
+      "339"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "18503",
+      "2024",
+      "06",
+      "BELARUS",
+      "339"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "339"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "14000",
+      "2024",
+      "08",
+      "BELARUS",
+      "339"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "24851",
+      "2024",
+      "09",
+      "BELARUS",
+      "339"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "9099",
+      "2024",
+      "10",
+      "BELARUS",
+      "339"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "149454",
+      "2024",
+      "11",
+      "BELARUS",
+      "339"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "200970",
+      "2024",
+      "12",
+      "BELARUS",
+      "339"
+    ],
+    [
+      "4622",
+      "CUTLERY AND HANDTOOLS",
+      "14368",
+      "2024",
+      "02",
+      "BELARUS",
+      "3322"
+    ],
+    [
+      "4622",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "03",
+      "BELARUS",
+      "3322"
+    ],
+    [
+      "4622",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "04",
+      "BELARUS",
+      "3322"
+    ],
+    [
+      "4622",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "3322"
+    ],
+    [
+      "4622",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "3322"
+    ],
+    [
+      "4622",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "3322"
+    ],
+    [
+      "4622",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "3322"
+    ],
+    [
+      "4622",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "3322"
+    ],
+    [
+      "4622",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "3322"
+    ],
+    [
+      "4622",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "3322"
+    ],
+    [
+      "4622",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3322"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "82426",
+      "2024",
+      "04",
+      "BELARUS",
+      "114"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "114"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "114"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "46968",
+      "2024",
+      "07",
+      "BELARUS",
+      "114"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "114"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BELARUS",
+      "114"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "114"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "114"
+    ],
+    [
+      "4622",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "114"
+    ],
+    [
+      "4622",
+      "PRODUCTS SUPPORTING AGRICULTURE AND FORESTRY",
+      "204796",
+      "2024",
+      "09",
+      "BELARUS",
+      "115"
+    ],
+    [
+      "4622",
+      "PRODUCTS SUPPORTING AGRICULTURE AND FORESTRY",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "115"
+    ],
+    [
+      "4622",
+      "PRODUCTS SUPPORTING AGRICULTURE AND FORESTRY",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "115"
+    ],
+    [
+      "4622",
+      "PRODUCTS SUPPORTING AGRICULTURE AND FORESTRY",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "115"
+    ],
+    [
+      "4622",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "513674",
+      "2024",
+      "07",
+      "BELARUS",
+      "3112"
+    ],
+    [
+      "4622",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "3112"
+    ],
+    [
+      "4622",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "490122",
+      "2024",
+      "09",
+      "BELARUS",
+      "3112"
+    ],
+    [
+      "4622",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "3112"
+    ],
+    [
+      "4622",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "1445355",
+      "2024",
+      "11",
+      "BELARUS",
+      "3112"
+    ],
+    [
+      "4622",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "449258",
+      "2024",
+      "12",
+      "BELARUS",
+      "3112"
+    ],
+    [
+      "4622",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "43395",
+      "2024",
+      "02",
+      "BELARUS",
+      "3391"
+    ],
+    [
+      "4622",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "21528",
+      "2024",
+      "03",
+      "BELARUS",
+      "3391"
+    ],
+    [
+      "4622",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "3740",
+      "2024",
+      "04",
+      "BELARUS",
+      "3391"
+    ],
+    [
+      "4622",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "110180",
+      "2024",
+      "05",
+      "BELARUS",
+      "3391"
+    ],
+    [
+      "4622",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "18503",
+      "2024",
+      "06",
+      "BELARUS",
+      "3391"
+    ],
+    [
+      "4622",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "3391"
+    ],
+    [
+      "4622",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "14000",
+      "2024",
+      "08",
+      "BELARUS",
+      "3391"
+    ],
+    [
+      "4622",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "19227",
+      "2024",
+      "09",
+      "BELARUS",
+      "3391"
+    ],
+    [
+      "4622",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "9099",
+      "2024",
+      "10",
+      "BELARUS",
+      "3391"
+    ],
+    [
+      "4622",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "149454",
+      "2024",
+      "11",
+      "BELARUS",
+      "3391"
+    ],
+    [
+      "4622",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "200970",
+      "2024",
+      "12",
+      "BELARUS",
+      "3391"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "5624",
+      "2024",
+      "09",
+      "BELARUS",
+      "3399"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "3399"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "3399"
+    ],
+    [
+      "4622",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3399"
+    ],
+    [
+      "4622",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "15062",
+      "2024",
+      "11",
+      "BELARUS",
+      "3314"
+    ],
+    [
+      "4622",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3314"
+    ],
+    [
+      "4622",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "14368",
+      "2024",
+      "02",
+      "BELARUS",
+      "332"
+    ],
+    [
+      "4622",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "BELARUS",
+      "332"
+    ],
+    [
+      "4622",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "BELARUS",
+      "332"
+    ],
+    [
+      "4622",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "BELARUS",
+      "332"
+    ],
+    [
+      "4622",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "BELARUS",
+      "332"
+    ],
+    [
+      "4622",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "BELARUS",
+      "332"
+    ],
+    [
+      "4622",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BELARUS",
+      "332"
+    ],
+    [
+      "4622",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "6843",
+      "2024",
+      "09",
+      "BELARUS",
+      "332"
+    ],
+    [
+      "4622",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "332"
+    ],
+    [
+      "4622",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "332"
+    ],
+    [
+      "4622",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "332"
+    ],
+    [
+      "4622",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "6843",
+      "2024",
+      "09",
+      "BELARUS",
+      "3329"
+    ],
+    [
+      "4622",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BELARUS",
+      "3329"
+    ],
+    [
+      "4622",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BELARUS",
+      "3329"
+    ],
+    [
+      "4622",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BELARUS",
+      "3329"
+    ]
+  ]
+}

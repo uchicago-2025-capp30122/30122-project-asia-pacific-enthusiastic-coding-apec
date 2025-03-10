@@ -1,0 +1,4790 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:34:43 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a49867399bb4bd16c39c99f2d449b7058eaa91df048b970f40cbf045ea639fbf70ad2be20499bb807b4221a1dfe45e4126; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "6150",
+      "PAPER",
+      "3846",
+      "2024",
+      "06",
+      "SAMOA",
+      "322"
+    ],
+    [
+      "6150",
+      "PAPER",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "322"
+    ],
+    [
+      "6150",
+      "PAPER",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "322"
+    ],
+    [
+      "6150",
+      "PAPER",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "322"
+    ],
+    [
+      "6150",
+      "PAPER",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "322"
+    ],
+    [
+      "6150",
+      "PAPER",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "322"
+    ],
+    [
+      "6150",
+      "PAPER",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "322"
+    ],
+    [
+      "6150",
+      "CONVERTED PAPER PRODUCTS",
+      "3846",
+      "2024",
+      "06",
+      "SAMOA",
+      "3222"
+    ],
+    [
+      "6150",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3222"
+    ],
+    [
+      "6150",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3222"
+    ],
+    [
+      "6150",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3222"
+    ],
+    [
+      "6150",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3222"
+    ],
+    [
+      "6150",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3222"
+    ],
+    [
+      "6150",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3222"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "2656",
+      "2024",
+      "01",
+      "SAMOA",
+      "3231"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "02",
+      "SAMOA",
+      "3231"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "3231"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "3231"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "40000",
+      "2024",
+      "05",
+      "SAMOA",
+      "3231"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "3231"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3231"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3231"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3231"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3231"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3231"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3231"
+    ],
+    [
+      "6150",
+      "CHEMICALS",
+      "16250",
+      "2024",
+      "02",
+      "SAMOA",
+      "325"
+    ],
+    [
+      "6150",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "325"
+    ],
+    [
+      "6150",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "325"
+    ],
+    [
+      "6150",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "05",
+      "SAMOA",
+      "325"
+    ],
+    [
+      "6150",
+      "CHEMICALS",
+      "26500",
+      "2024",
+      "06",
+      "SAMOA",
+      "325"
+    ],
+    [
+      "6150",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "325"
+    ],
+    [
+      "6150",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "325"
+    ],
+    [
+      "6150",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "325"
+    ],
+    [
+      "6150",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "325"
+    ],
+    [
+      "6150",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "325"
+    ],
+    [
+      "6150",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "325"
+    ],
+    [
+      "6150",
+      "PHARMACEUTICALS AND MEDICINES",
+      "16250",
+      "2024",
+      "02",
+      "SAMOA",
+      "3254"
+    ],
+    [
+      "6150",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "3254"
+    ],
+    [
+      "6150",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "3254"
+    ],
+    [
+      "6150",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "05",
+      "SAMOA",
+      "3254"
+    ],
+    [
+      "6150",
+      "PHARMACEUTICALS AND MEDICINES",
+      "26500",
+      "2024",
+      "06",
+      "SAMOA",
+      "3254"
+    ],
+    [
+      "6150",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3254"
+    ],
+    [
+      "6150",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3254"
+    ],
+    [
+      "6150",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3254"
+    ],
+    [
+      "6150",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3254"
+    ],
+    [
+      "6150",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3254"
+    ],
+    [
+      "6150",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3254"
+    ],
+    [
+      "6150",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "1157",
+      "2024",
+      "01",
+      "SAMOA",
+      "326"
+    ],
+    [
+      "6150",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "SAMOA",
+      "326"
+    ],
+    [
+      "6150",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "326"
+    ],
+    [
+      "6150",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "1638",
+      "2024",
+      "04",
+      "SAMOA",
+      "326"
+    ],
+    [
+      "6150",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "144295",
+      "2024",
+      "05",
+      "SAMOA",
+      "326"
+    ],
+    [
+      "6150",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "326"
+    ],
+    [
+      "6150",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "326"
+    ],
+    [
+      "6150",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "326"
+    ],
+    [
+      "6150",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "326"
+    ],
+    [
+      "6150",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "326"
+    ],
+    [
+      "6150",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "326"
+    ],
+    [
+      "6150",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "326"
+    ],
+    [
+      "6150",
+      "PLASTICS PRODUCTS",
+      "1157",
+      "2024",
+      "01",
+      "SAMOA",
+      "3261"
+    ],
+    [
+      "6150",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "SAMOA",
+      "3261"
+    ],
+    [
+      "6150",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "3261"
+    ],
+    [
+      "6150",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "3261"
+    ],
+    [
+      "6150",
+      "PLASTICS PRODUCTS",
+      "144295",
+      "2024",
+      "05",
+      "SAMOA",
+      "3261"
+    ],
+    [
+      "6150",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "3261"
+    ],
+    [
+      "6150",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3261"
+    ],
+    [
+      "6150",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3261"
+    ],
+    [
+      "6150",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3261"
+    ],
+    [
+      "6150",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3261"
+    ],
+    [
+      "6150",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3261"
+    ],
+    [
+      "6150",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3261"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 3",
+      "3746",
+      "2024",
+      "01",
+      "SAMOA",
+      "33"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 3",
+      "29289",
+      "2024",
+      "02",
+      "SAMOA",
+      "33"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 3",
+      "61152",
+      "2024",
+      "03",
+      "SAMOA",
+      "33"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 3",
+      "62182",
+      "2024",
+      "04",
+      "SAMOA",
+      "33"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 3",
+      "6910",
+      "2024",
+      "05",
+      "SAMOA",
+      "33"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 3",
+      "97128",
+      "2024",
+      "06",
+      "SAMOA",
+      "33"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 3",
+      "470",
+      "2024",
+      "07",
+      "SAMOA",
+      "33"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 3",
+      "784217",
+      "2024",
+      "08",
+      "SAMOA",
+      "33"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 3",
+      "28567",
+      "2024",
+      "09",
+      "SAMOA",
+      "33"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 3",
+      "69194",
+      "2024",
+      "10",
+      "SAMOA",
+      "33"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 3",
+      "28818",
+      "2024",
+      "11",
+      "SAMOA",
+      "33"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 3",
+      "32055",
+      "2024",
+      "12",
+      "SAMOA",
+      "33"
+    ],
+    [
+      "6150",
+      "PRIMARY METAL MANUFACTURING",
+      "6097",
+      "2024",
+      "06",
+      "SAMOA",
+      "331"
+    ],
+    [
+      "6150",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "331"
+    ],
+    [
+      "6150",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "331"
+    ],
+    [
+      "6150",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "331"
+    ],
+    [
+      "6150",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "331"
+    ],
+    [
+      "6150",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "331"
+    ],
+    [
+      "6150",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "331"
+    ],
+    [
+      "6150",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "50295",
+      "2024",
+      "01",
+      "SAMOA",
+      "-"
+    ],
+    [
+      "6150",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "332640",
+      "2024",
+      "02",
+      "SAMOA",
+      "-"
+    ],
+    [
+      "6150",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "781970",
+      "2024",
+      "03",
+      "SAMOA",
+      "-"
+    ],
+    [
+      "6150",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "121859",
+      "2024",
+      "04",
+      "SAMOA",
+      "-"
+    ],
+    [
+      "6150",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "624550",
+      "2024",
+      "05",
+      "SAMOA",
+      "-"
+    ],
+    [
+      "6150",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "551215",
+      "2024",
+      "06",
+      "SAMOA",
+      "-"
+    ],
+    [
+      "6150",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "297407",
+      "2024",
+      "07",
+      "SAMOA",
+      "-"
+    ],
+    [
+      "6150",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "855764",
+      "2024",
+      "08",
+      "SAMOA",
+      "-"
+    ],
+    [
+      "6150",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "478066",
+      "2024",
+      "09",
+      "SAMOA",
+      "-"
+    ],
+    [
+      "6150",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "727557",
+      "2024",
+      "10",
+      "SAMOA",
+      "-"
+    ],
+    [
+      "6150",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "58866",
+      "2024",
+      "11",
+      "SAMOA",
+      "-"
+    ],
+    [
+      "6150",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "837485",
+      "2024",
+      "12",
+      "SAMOA",
+      "-"
+    ],
+    [
+      "6150",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "39973",
+      "2024",
+      "01",
+      "SAMOA",
+      "11"
+    ],
+    [
+      "6150",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "15116",
+      "2024",
+      "02",
+      "SAMOA",
+      "11"
+    ],
+    [
+      "6150",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "47703",
+      "2024",
+      "03",
+      "SAMOA",
+      "11"
+    ],
+    [
+      "6150",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "24000",
+      "2024",
+      "04",
+      "SAMOA",
+      "11"
+    ],
+    [
+      "6150",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "32480",
+      "2024",
+      "05",
+      "SAMOA",
+      "11"
+    ],
+    [
+      "6150",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "9862",
+      "2024",
+      "06",
+      "SAMOA",
+      "11"
+    ],
+    [
+      "6150",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "21808",
+      "2024",
+      "07",
+      "SAMOA",
+      "11"
+    ],
+    [
+      "6150",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "11"
+    ],
+    [
+      "6150",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "22237",
+      "2024",
+      "09",
+      "SAMOA",
+      "11"
+    ],
+    [
+      "6150",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "28000",
+      "2024",
+      "10",
+      "SAMOA",
+      "11"
+    ],
+    [
+      "6150",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "3997",
+      "2024",
+      "11",
+      "SAMOA",
+      "11"
+    ],
+    [
+      "6150",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "26966",
+      "2024",
+      "12",
+      "SAMOA",
+      "11"
+    ],
+    [
+      "6150",
+      "AGRICULTURAL PRODUCTS",
+      "39973",
+      "2024",
+      "01",
+      "SAMOA",
+      "111"
+    ],
+    [
+      "6150",
+      "AGRICULTURAL PRODUCTS",
+      "15116",
+      "2024",
+      "02",
+      "SAMOA",
+      "111"
+    ],
+    [
+      "6150",
+      "AGRICULTURAL PRODUCTS",
+      "47703",
+      "2024",
+      "03",
+      "SAMOA",
+      "111"
+    ],
+    [
+      "6150",
+      "AGRICULTURAL PRODUCTS",
+      "24000",
+      "2024",
+      "04",
+      "SAMOA",
+      "111"
+    ],
+    [
+      "6150",
+      "AGRICULTURAL PRODUCTS",
+      "32480",
+      "2024",
+      "05",
+      "SAMOA",
+      "111"
+    ],
+    [
+      "6150",
+      "AGRICULTURAL PRODUCTS",
+      "9862",
+      "2024",
+      "06",
+      "SAMOA",
+      "111"
+    ],
+    [
+      "6150",
+      "AGRICULTURAL PRODUCTS",
+      "21808",
+      "2024",
+      "07",
+      "SAMOA",
+      "111"
+    ],
+    [
+      "6150",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "111"
+    ],
+    [
+      "6150",
+      "AGRICULTURAL PRODUCTS",
+      "22237",
+      "2024",
+      "09",
+      "SAMOA",
+      "111"
+    ],
+    [
+      "6150",
+      "AGRICULTURAL PRODUCTS",
+      "28000",
+      "2024",
+      "10",
+      "SAMOA",
+      "111"
+    ],
+    [
+      "6150",
+      "AGRICULTURAL PRODUCTS",
+      "3997",
+      "2024",
+      "11",
+      "SAMOA",
+      "111"
+    ],
+    [
+      "6150",
+      "AGRICULTURAL PRODUCTS",
+      "26966",
+      "2024",
+      "12",
+      "SAMOA",
+      "111"
+    ],
+    [
+      "6150",
+      "FRUITS AND TREE NUTS",
+      "2652",
+      "2024",
+      "12",
+      "SAMOA",
+      "1113"
+    ],
+    [
+      "6150",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "39973",
+      "2024",
+      "01",
+      "SAMOA",
+      "1119"
+    ],
+    [
+      "6150",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "15116",
+      "2024",
+      "02",
+      "SAMOA",
+      "1119"
+    ],
+    [
+      "6150",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "47703",
+      "2024",
+      "03",
+      "SAMOA",
+      "1119"
+    ],
+    [
+      "6150",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "24000",
+      "2024",
+      "04",
+      "SAMOA",
+      "1119"
+    ],
+    [
+      "6150",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "32480",
+      "2024",
+      "05",
+      "SAMOA",
+      "1119"
+    ],
+    [
+      "6150",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "9862",
+      "2024",
+      "06",
+      "SAMOA",
+      "1119"
+    ],
+    [
+      "6150",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "21808",
+      "2024",
+      "07",
+      "SAMOA",
+      "1119"
+    ],
+    [
+      "6150",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "1119"
+    ],
+    [
+      "6150",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "22237",
+      "2024",
+      "09",
+      "SAMOA",
+      "1119"
+    ],
+    [
+      "6150",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "28000",
+      "2024",
+      "10",
+      "SAMOA",
+      "1119"
+    ],
+    [
+      "6150",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "3997",
+      "2024",
+      "11",
+      "SAMOA",
+      "1119"
+    ],
+    [
+      "6150",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "24314",
+      "2024",
+      "12",
+      "SAMOA",
+      "1119"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART1",
+      "227343",
+      "2024",
+      "02",
+      "SAMOA",
+      "31"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART1",
+      "667409",
+      "2024",
+      "03",
+      "SAMOA",
+      "31"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART1",
+      "24836",
+      "2024",
+      "04",
+      "SAMOA",
+      "31"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART1",
+      "354822",
+      "2024",
+      "05",
+      "SAMOA",
+      "31"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART1",
+      "401896",
+      "2024",
+      "06",
+      "SAMOA",
+      "31"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART1",
+      "274679",
+      "2024",
+      "07",
+      "SAMOA",
+      "31"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "31"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART1",
+      "423666",
+      "2024",
+      "09",
+      "SAMOA",
+      "31"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART1",
+      "623477",
+      "2024",
+      "10",
+      "SAMOA",
+      "31"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART1",
+      "24000",
+      "2024",
+      "11",
+      "SAMOA",
+      "31"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART1",
+      "772596",
+      "2024",
+      "12",
+      "SAMOA",
+      "31"
+    ],
+    [
+      "6150",
+      "MANUFACTURED GOODS",
+      "7559",
+      "2024",
+      "01",
+      "SAMOA",
+      "31-33"
+    ],
+    [
+      "6150",
+      "MANUFACTURED GOODS",
+      "272882",
+      "2024",
+      "02",
+      "SAMOA",
+      "31-33"
+    ],
+    [
+      "6150",
+      "MANUFACTURED GOODS",
+      "728561",
+      "2024",
+      "03",
+      "SAMOA",
+      "31-33"
+    ],
+    [
+      "6150",
+      "MANUFACTURED GOODS",
+      "88656",
+      "2024",
+      "04",
+      "SAMOA",
+      "31-33"
+    ],
+    [
+      "6150",
+      "MANUFACTURED GOODS",
+      "551427",
+      "2024",
+      "05",
+      "SAMOA",
+      "31-33"
+    ],
+    [
+      "6150",
+      "MANUFACTURED GOODS",
+      "529370",
+      "2024",
+      "06",
+      "SAMOA",
+      "31-33"
+    ],
+    [
+      "6150",
+      "MANUFACTURED GOODS",
+      "275149",
+      "2024",
+      "07",
+      "SAMOA",
+      "31-33"
+    ],
+    [
+      "6150",
+      "MANUFACTURED GOODS",
+      "784217",
+      "2024",
+      "08",
+      "SAMOA",
+      "31-33"
+    ],
+    [
+      "6150",
+      "MANUFACTURED GOODS",
+      "452233",
+      "2024",
+      "09",
+      "SAMOA",
+      "31-33"
+    ],
+    [
+      "6150",
+      "MANUFACTURED GOODS",
+      "692671",
+      "2024",
+      "10",
+      "SAMOA",
+      "31-33"
+    ],
+    [
+      "6150",
+      "MANUFACTURED GOODS",
+      "52818",
+      "2024",
+      "11",
+      "SAMOA",
+      "31-33"
+    ],
+    [
+      "6150",
+      "MANUFACTURED GOODS",
+      "804651",
+      "2024",
+      "12",
+      "SAMOA",
+      "31-33"
+    ],
+    [
+      "6150",
+      "FOOD AND KINDRED PRODUCTS",
+      "227343",
+      "2024",
+      "02",
+      "SAMOA",
+      "311"
+    ],
+    [
+      "6150",
+      "FOOD AND KINDRED PRODUCTS",
+      "658049",
+      "2024",
+      "03",
+      "SAMOA",
+      "311"
+    ],
+    [
+      "6150",
+      "FOOD AND KINDRED PRODUCTS",
+      "24000",
+      "2024",
+      "04",
+      "SAMOA",
+      "311"
+    ],
+    [
+      "6150",
+      "FOOD AND KINDRED PRODUCTS",
+      "353238",
+      "2024",
+      "05",
+      "SAMOA",
+      "311"
+    ],
+    [
+      "6150",
+      "FOOD AND KINDRED PRODUCTS",
+      "399798",
+      "2024",
+      "06",
+      "SAMOA",
+      "311"
+    ],
+    [
+      "6150",
+      "FOOD AND KINDRED PRODUCTS",
+      "274679",
+      "2024",
+      "07",
+      "SAMOA",
+      "311"
+    ],
+    [
+      "6150",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "311"
+    ],
+    [
+      "6150",
+      "FOOD AND KINDRED PRODUCTS",
+      "422765",
+      "2024",
+      "09",
+      "SAMOA",
+      "311"
+    ],
+    [
+      "6150",
+      "FOOD AND KINDRED PRODUCTS",
+      "623477",
+      "2024",
+      "10",
+      "SAMOA",
+      "311"
+    ],
+    [
+      "6150",
+      "FOOD AND KINDRED PRODUCTS",
+      "24000",
+      "2024",
+      "11",
+      "SAMOA",
+      "311"
+    ],
+    [
+      "6150",
+      "FOOD AND KINDRED PRODUCTS",
+      "772596",
+      "2024",
+      "12",
+      "SAMOA",
+      "311"
+    ],
+    [
+      "6150",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "3600",
+      "2024",
+      "03",
+      "SAMOA",
+      "3113"
+    ],
+    [
+      "6150",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "3113"
+    ],
+    [
+      "6150",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "SAMOA",
+      "3113"
+    ],
+    [
+      "6150",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "3113"
+    ],
+    [
+      "6150",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3113"
+    ],
+    [
+      "6150",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3113"
+    ],
+    [
+      "6150",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3113"
+    ],
+    [
+      "6150",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3113"
+    ],
+    [
+      "6150",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3113"
+    ],
+    [
+      "6150",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3113"
+    ],
+    [
+      "6150",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "20000",
+      "2024",
+      "02",
+      "SAMOA",
+      "3114"
+    ],
+    [
+      "6150",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "3114"
+    ],
+    [
+      "6150",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "24000",
+      "2024",
+      "04",
+      "SAMOA",
+      "3114"
+    ],
+    [
+      "6150",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "28000",
+      "2024",
+      "05",
+      "SAMOA",
+      "3114"
+    ],
+    [
+      "6150",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "3114"
+    ],
+    [
+      "6150",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "24000",
+      "2024",
+      "07",
+      "SAMOA",
+      "3114"
+    ],
+    [
+      "6150",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3114"
+    ],
+    [
+      "6150",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "22967",
+      "2024",
+      "09",
+      "SAMOA",
+      "3114"
+    ],
+    [
+      "6150",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3114"
+    ],
+    [
+      "6150",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "24000",
+      "2024",
+      "11",
+      "SAMOA",
+      "3114"
+    ],
+    [
+      "6150",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3114"
+    ],
+    [
+      "6150",
+      "APPAREL AND ACCESSORIES",
+      "8334",
+      "2024",
+      "03",
+      "SAMOA",
+      "315"
+    ],
+    [
+      "6150",
+      "APPAREL AND ACCESSORIES",
+      "836",
+      "2024",
+      "04",
+      "SAMOA",
+      "315"
+    ],
+    [
+      "6150",
+      "APPAREL AND ACCESSORIES",
+      "1584",
+      "2024",
+      "05",
+      "SAMOA",
+      "315"
+    ],
+    [
+      "6150",
+      "APPAREL AND ACCESSORIES",
+      "2098",
+      "2024",
+      "06",
+      "SAMOA",
+      "315"
+    ],
+    [
+      "6150",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "315"
+    ],
+    [
+      "6150",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "315"
+    ],
+    [
+      "6150",
+      "APPAREL AND ACCESSORIES",
+      "901",
+      "2024",
+      "09",
+      "SAMOA",
+      "315"
+    ],
+    [
+      "6150",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "315"
+    ],
+    [
+      "6150",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "315"
+    ],
+    [
+      "6150",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "315"
+    ],
+    [
+      "6150",
+      "APPAREL ACCESSORIES",
+      "4734",
+      "2024",
+      "03",
+      "SAMOA",
+      "3159"
+    ],
+    [
+      "6150",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "3159"
+    ],
+    [
+      "6150",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "05",
+      "SAMOA",
+      "3159"
+    ],
+    [
+      "6150",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "3159"
+    ],
+    [
+      "6150",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3159"
+    ],
+    [
+      "6150",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3159"
+    ],
+    [
+      "6150",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3159"
+    ],
+    [
+      "6150",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3159"
+    ],
+    [
+      "6150",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3159"
+    ],
+    [
+      "6150",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3159"
+    ],
+    [
+      "6150",
+      "LEATHER AND ALLIED PRODUCTS",
+      "1026",
+      "2024",
+      "03",
+      "SAMOA",
+      "316"
+    ],
+    [
+      "6150",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "316"
+    ],
+    [
+      "6150",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "SAMOA",
+      "316"
+    ],
+    [
+      "6150",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "316"
+    ],
+    [
+      "6150",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "316"
+    ],
+    [
+      "6150",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "316"
+    ],
+    [
+      "6150",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "316"
+    ],
+    [
+      "6150",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "316"
+    ],
+    [
+      "6150",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "316"
+    ],
+    [
+      "6150",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "316"
+    ],
+    [
+      "6150",
+      "FOOTWEAR",
+      "1026",
+      "2024",
+      "03",
+      "SAMOA",
+      "3162"
+    ],
+    [
+      "6150",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "3162"
+    ],
+    [
+      "6150",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "05",
+      "SAMOA",
+      "3162"
+    ],
+    [
+      "6150",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "3162"
+    ],
+    [
+      "6150",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3162"
+    ],
+    [
+      "6150",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3162"
+    ],
+    [
+      "6150",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3162"
+    ],
+    [
+      "6150",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3162"
+    ],
+    [
+      "6150",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3162"
+    ],
+    [
+      "6150",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3162"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 2",
+      "3813",
+      "2024",
+      "01",
+      "SAMOA",
+      "32"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 2",
+      "16250",
+      "2024",
+      "02",
+      "SAMOA",
+      "32"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "32"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 2",
+      "1638",
+      "2024",
+      "04",
+      "SAMOA",
+      "32"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 2",
+      "189695",
+      "2024",
+      "05",
+      "SAMOA",
+      "32"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 2",
+      "30346",
+      "2024",
+      "06",
+      "SAMOA",
+      "32"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "32"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "32"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "32"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "32"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "32"
+    ],
+    [
+      "6150",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "32"
+    ],
+    [
+      "6150",
+      "OTHER WOOD PRODUCTS",
+      "5400",
+      "2024",
+      "05",
+      "SAMOA",
+      "3219"
+    ],
+    [
+      "6150",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "3219"
+    ],
+    [
+      "6150",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3219"
+    ],
+    [
+      "6150",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3219"
+    ],
+    [
+      "6150",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3219"
+    ],
+    [
+      "6150",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3219"
+    ],
+    [
+      "6150",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3219"
+    ],
+    [
+      "6150",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3219"
+    ],
+    [
+      "6150",
+      "INDUSTRIAL MACHINERY",
+      "5065",
+      "2024",
+      "08",
+      "SAMOA",
+      "3332"
+    ],
+    [
+      "6150",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3332"
+    ],
+    [
+      "6150",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3332"
+    ],
+    [
+      "6150",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3332"
+    ],
+    [
+      "6150",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3332"
+    ],
+    [
+      "6150",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "22911",
+      "2024",
+      "12",
+      "SAMOA",
+      "3339"
+    ],
+    [
+      "6150",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "4552",
+      "2024",
+      "08",
+      "SAMOA",
+      "334"
+    ],
+    [
+      "6150",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "334"
+    ],
+    [
+      "6150",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "334"
+    ],
+    [
+      "6150",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "334"
+    ],
+    [
+      "6150",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "334"
+    ],
+    [
+      "6150",
+      "COMPUTER EQUIPMENT",
+      "4552",
+      "2024",
+      "08",
+      "SAMOA",
+      "3341"
+    ],
+    [
+      "6150",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3341"
+    ],
+    [
+      "6150",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3341"
+    ],
+    [
+      "6150",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3341"
+    ],
+    [
+      "6150",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3341"
+    ],
+    [
+      "6150",
+      "TRANSPORTATION EQUIPMENT",
+      "16874",
+      "2024",
+      "06",
+      "SAMOA",
+      "336"
+    ],
+    [
+      "6150",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "336"
+    ],
+    [
+      "6150",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "336"
+    ],
+    [
+      "6150",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "336"
+    ],
+    [
+      "6150",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "336"
+    ],
+    [
+      "6150",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "336"
+    ],
+    [
+      "6150",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "336"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "20895",
+      "2024",
+      "02",
+      "SAMOA",
+      "93"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "93"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "93"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "SAMOA",
+      "93"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "93"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "93"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "93"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "93"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "93"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "93"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "93"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "20895",
+      "2024",
+      "02",
+      "SAMOA",
+      "930"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "930"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "930"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "SAMOA",
+      "930"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "930"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "930"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "930"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "930"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "930"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "930"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "930"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "20895",
+      "2024",
+      "02",
+      "SAMOA",
+      "9300"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "9300"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "9300"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "SAMOA",
+      "9300"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "9300"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "9300"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "9300"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "9300"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "9300"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "9300"
+    ],
+    [
+      "6150",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "9300"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "23696",
+      "2024",
+      "02",
+      "SAMOA",
+      "980"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "980"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "980"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "35000",
+      "2024",
+      "05",
+      "SAMOA",
+      "980"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4584",
+      "2024",
+      "06",
+      "SAMOA",
+      "980"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "980"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "27450",
+      "2024",
+      "08",
+      "SAMOA",
+      "980"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "980"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "980"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "980"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3500",
+      "2024",
+      "12",
+      "SAMOA",
+      "980"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2763",
+      "2024",
+      "01",
+      "SAMOA",
+      "990"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "51",
+      "2024",
+      "02",
+      "SAMOA",
+      "990"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5706",
+      "2024",
+      "03",
+      "SAMOA",
+      "990"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9203",
+      "2024",
+      "04",
+      "SAMOA",
+      "990"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5643",
+      "2024",
+      "05",
+      "SAMOA",
+      "990"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7399",
+      "2024",
+      "06",
+      "SAMOA",
+      "990"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "450",
+      "2024",
+      "07",
+      "SAMOA",
+      "990"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "44097",
+      "2024",
+      "08",
+      "SAMOA",
+      "990"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3596",
+      "2024",
+      "09",
+      "SAMOA",
+      "990"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "6886",
+      "2024",
+      "10",
+      "SAMOA",
+      "990"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2051",
+      "2024",
+      "11",
+      "SAMOA",
+      "990"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2368",
+      "2024",
+      "12",
+      "SAMOA",
+      "990"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2763",
+      "2024",
+      "01",
+      "SAMOA",
+      "9900"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "51",
+      "2024",
+      "02",
+      "SAMOA",
+      "9900"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5706",
+      "2024",
+      "03",
+      "SAMOA",
+      "9900"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9203",
+      "2024",
+      "04",
+      "SAMOA",
+      "9900"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5643",
+      "2024",
+      "05",
+      "SAMOA",
+      "9900"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7399",
+      "2024",
+      "06",
+      "SAMOA",
+      "9900"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "450",
+      "2024",
+      "07",
+      "SAMOA",
+      "9900"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "44097",
+      "2024",
+      "08",
+      "SAMOA",
+      "9900"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3596",
+      "2024",
+      "09",
+      "SAMOA",
+      "9900"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "6886",
+      "2024",
+      "10",
+      "SAMOA",
+      "9900"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2051",
+      "2024",
+      "11",
+      "SAMOA",
+      "9900"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2368",
+      "2024",
+      "12",
+      "SAMOA",
+      "9900"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "2656",
+      "2024",
+      "01",
+      "SAMOA",
+      "323"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "02",
+      "SAMOA",
+      "323"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "323"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "323"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "40000",
+      "2024",
+      "05",
+      "SAMOA",
+      "323"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "323"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "323"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "323"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "323"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "323"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "323"
+    ],
+    [
+      "6150",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "323"
+    ],
+    [
+      "6150",
+      "RUBBER PRODUCTS",
+      "1638",
+      "2024",
+      "04",
+      "SAMOA",
+      "3262"
+    ],
+    [
+      "6150",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "SAMOA",
+      "3262"
+    ],
+    [
+      "6150",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "3262"
+    ],
+    [
+      "6150",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3262"
+    ],
+    [
+      "6150",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3262"
+    ],
+    [
+      "6150",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3262"
+    ],
+    [
+      "6150",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3262"
+    ],
+    [
+      "6150",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3262"
+    ],
+    [
+      "6150",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3262"
+    ],
+    [
+      "6150",
+      "APPAREL",
+      "3600",
+      "2024",
+      "03",
+      "SAMOA",
+      "3152"
+    ],
+    [
+      "6150",
+      "APPAREL",
+      "836",
+      "2024",
+      "04",
+      "SAMOA",
+      "3152"
+    ],
+    [
+      "6150",
+      "APPAREL",
+      "1584",
+      "2024",
+      "05",
+      "SAMOA",
+      "3152"
+    ],
+    [
+      "6150",
+      "APPAREL",
+      "2098",
+      "2024",
+      "06",
+      "SAMOA",
+      "3152"
+    ],
+    [
+      "6150",
+      "APPAREL",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3152"
+    ],
+    [
+      "6150",
+      "APPAREL",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3152"
+    ],
+    [
+      "6150",
+      "APPAREL",
+      "901",
+      "2024",
+      "09",
+      "SAMOA",
+      "3152"
+    ],
+    [
+      "6150",
+      "APPAREL",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3152"
+    ],
+    [
+      "6150",
+      "APPAREL",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3152"
+    ],
+    [
+      "6150",
+      "APPAREL",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3152"
+    ],
+    [
+      "6150",
+      "WOOD PRODUCTS",
+      "5400",
+      "2024",
+      "05",
+      "SAMOA",
+      "321"
+    ],
+    [
+      "6150",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "321"
+    ],
+    [
+      "6150",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "321"
+    ],
+    [
+      "6150",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "321"
+    ],
+    [
+      "6150",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "321"
+    ],
+    [
+      "6150",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "321"
+    ],
+    [
+      "6150",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "321"
+    ],
+    [
+      "6150",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "321"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "23696",
+      "2024",
+      "02",
+      "SAMOA",
+      "98"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "98"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "98"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "35000",
+      "2024",
+      "05",
+      "SAMOA",
+      "98"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4584",
+      "2024",
+      "06",
+      "SAMOA",
+      "98"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "98"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "27450",
+      "2024",
+      "08",
+      "SAMOA",
+      "98"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "98"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "98"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "98"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3500",
+      "2024",
+      "12",
+      "SAMOA",
+      "98"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "23696",
+      "2024",
+      "02",
+      "SAMOA",
+      "9800"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "9800"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "9800"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "35000",
+      "2024",
+      "05",
+      "SAMOA",
+      "9800"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4584",
+      "2024",
+      "06",
+      "SAMOA",
+      "9800"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "9800"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "27450",
+      "2024",
+      "08",
+      "SAMOA",
+      "9800"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "9800"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "9800"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "9800"
+    ],
+    [
+      "6150",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3500",
+      "2024",
+      "12",
+      "SAMOA",
+      "9800"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2763",
+      "2024",
+      "01",
+      "SAMOA",
+      "99"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "51",
+      "2024",
+      "02",
+      "SAMOA",
+      "99"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5706",
+      "2024",
+      "03",
+      "SAMOA",
+      "99"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9203",
+      "2024",
+      "04",
+      "SAMOA",
+      "99"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5643",
+      "2024",
+      "05",
+      "SAMOA",
+      "99"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7399",
+      "2024",
+      "06",
+      "SAMOA",
+      "99"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "450",
+      "2024",
+      "07",
+      "SAMOA",
+      "99"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "44097",
+      "2024",
+      "08",
+      "SAMOA",
+      "99"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3596",
+      "2024",
+      "09",
+      "SAMOA",
+      "99"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "6886",
+      "2024",
+      "10",
+      "SAMOA",
+      "99"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2051",
+      "2024",
+      "11",
+      "SAMOA",
+      "99"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2368",
+      "2024",
+      "12",
+      "SAMOA",
+      "99"
+    ],
+    [
+      "6150",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "1170",
+      "2024",
+      "01",
+      "SAMOA",
+      "3371"
+    ],
+    [
+      "6150",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "02",
+      "SAMOA",
+      "3371"
+    ],
+    [
+      "6150",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "18860",
+      "2024",
+      "03",
+      "SAMOA",
+      "3371"
+    ],
+    [
+      "6150",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "3371"
+    ],
+    [
+      "6150",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "470",
+      "2024",
+      "05",
+      "SAMOA",
+      "3371"
+    ],
+    [
+      "6150",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "3371"
+    ],
+    [
+      "6150",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "470",
+      "2024",
+      "07",
+      "SAMOA",
+      "3371"
+    ],
+    [
+      "6150",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3371"
+    ],
+    [
+      "6150",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3371"
+    ],
+    [
+      "6150",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3371"
+    ],
+    [
+      "6150",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3371"
+    ],
+    [
+      "6150",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "2790",
+      "2024",
+      "12",
+      "SAMOA",
+      "3371"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2576",
+      "2024",
+      "01",
+      "SAMOA",
+      "339"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "02",
+      "SAMOA",
+      "339"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "42292",
+      "2024",
+      "03",
+      "SAMOA",
+      "339"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "54420",
+      "2024",
+      "04",
+      "SAMOA",
+      "339"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "6440",
+      "2024",
+      "05",
+      "SAMOA",
+      "339"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "74157",
+      "2024",
+      "06",
+      "SAMOA",
+      "339"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "339"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "774600",
+      "2024",
+      "08",
+      "SAMOA",
+      "339"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "26567",
+      "2024",
+      "09",
+      "SAMOA",
+      "339"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "66555",
+      "2024",
+      "10",
+      "SAMOA",
+      "339"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "28818",
+      "2024",
+      "11",
+      "SAMOA",
+      "339"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "6354",
+      "2024",
+      "12",
+      "SAMOA",
+      "339"
+    ],
+    [
+      "6150",
+      "CUTLERY AND HANDTOOLS",
+      "2639",
+      "2024",
+      "10",
+      "SAMOA",
+      "3322"
+    ],
+    [
+      "6150",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3322"
+    ],
+    [
+      "6150",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3322"
+    ],
+    [
+      "6150",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "207343",
+      "2024",
+      "02",
+      "SAMOA",
+      "3112"
+    ],
+    [
+      "6150",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "654449",
+      "2024",
+      "03",
+      "SAMOA",
+      "3112"
+    ],
+    [
+      "6150",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "3112"
+    ],
+    [
+      "6150",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "325238",
+      "2024",
+      "05",
+      "SAMOA",
+      "3112"
+    ],
+    [
+      "6150",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "399798",
+      "2024",
+      "06",
+      "SAMOA",
+      "3112"
+    ],
+    [
+      "6150",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "250679",
+      "2024",
+      "07",
+      "SAMOA",
+      "3112"
+    ],
+    [
+      "6150",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3112"
+    ],
+    [
+      "6150",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "399798",
+      "2024",
+      "09",
+      "SAMOA",
+      "3112"
+    ],
+    [
+      "6150",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "623477",
+      "2024",
+      "10",
+      "SAMOA",
+      "3112"
+    ],
+    [
+      "6150",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3112"
+    ],
+    [
+      "6150",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "772596",
+      "2024",
+      "12",
+      "SAMOA",
+      "3112"
+    ],
+    [
+      "6150",
+      "MOTOR VEHICLE PARTS",
+      "16874",
+      "2024",
+      "06",
+      "SAMOA",
+      "3363"
+    ],
+    [
+      "6150",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3363"
+    ],
+    [
+      "6150",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3363"
+    ],
+    [
+      "6150",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3363"
+    ],
+    [
+      "6150",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3363"
+    ],
+    [
+      "6150",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3363"
+    ],
+    [
+      "6150",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3363"
+    ],
+    [
+      "6150",
+      "FURNITURE AND FIXTURES",
+      "1170",
+      "2024",
+      "01",
+      "SAMOA",
+      "337"
+    ],
+    [
+      "6150",
+      "FURNITURE AND FIXTURES",
+      "29289",
+      "2024",
+      "02",
+      "SAMOA",
+      "337"
+    ],
+    [
+      "6150",
+      "FURNITURE AND FIXTURES",
+      "18860",
+      "2024",
+      "03",
+      "SAMOA",
+      "337"
+    ],
+    [
+      "6150",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "337"
+    ],
+    [
+      "6150",
+      "FURNITURE AND FIXTURES",
+      "470",
+      "2024",
+      "05",
+      "SAMOA",
+      "337"
+    ],
+    [
+      "6150",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "337"
+    ],
+    [
+      "6150",
+      "FURNITURE AND FIXTURES",
+      "470",
+      "2024",
+      "07",
+      "SAMOA",
+      "337"
+    ],
+    [
+      "6150",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "337"
+    ],
+    [
+      "6150",
+      "FURNITURE AND FIXTURES",
+      "2000",
+      "2024",
+      "09",
+      "SAMOA",
+      "337"
+    ],
+    [
+      "6150",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "337"
+    ],
+    [
+      "6150",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "337"
+    ],
+    [
+      "6150",
+      "FURNITURE AND FIXTURES",
+      "2790",
+      "2024",
+      "12",
+      "SAMOA",
+      "337"
+    ],
+    [
+      "6150",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "29289",
+      "2024",
+      "02",
+      "SAMOA",
+      "3372"
+    ],
+    [
+      "6150",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "03",
+      "SAMOA",
+      "3372"
+    ],
+    [
+      "6150",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "04",
+      "SAMOA",
+      "3372"
+    ],
+    [
+      "6150",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "05",
+      "SAMOA",
+      "3372"
+    ],
+    [
+      "6150",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "3372"
+    ],
+    [
+      "6150",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3372"
+    ],
+    [
+      "6150",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3372"
+    ],
+    [
+      "6150",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "2000",
+      "2024",
+      "09",
+      "SAMOA",
+      "3372"
+    ],
+    [
+      "6150",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3372"
+    ],
+    [
+      "6150",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3372"
+    ],
+    [
+      "6150",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3372"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2576",
+      "2024",
+      "01",
+      "SAMOA",
+      "3399"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "02",
+      "SAMOA",
+      "3399"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "42292",
+      "2024",
+      "03",
+      "SAMOA",
+      "3399"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "54420",
+      "2024",
+      "04",
+      "SAMOA",
+      "3399"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "6440",
+      "2024",
+      "05",
+      "SAMOA",
+      "3399"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "74157",
+      "2024",
+      "06",
+      "SAMOA",
+      "3399"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3399"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "774600",
+      "2024",
+      "08",
+      "SAMOA",
+      "3399"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "26567",
+      "2024",
+      "09",
+      "SAMOA",
+      "3399"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "66555",
+      "2024",
+      "10",
+      "SAMOA",
+      "3399"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "28818",
+      "2024",
+      "11",
+      "SAMOA",
+      "3399"
+    ],
+    [
+      "6150",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "6354",
+      "2024",
+      "12",
+      "SAMOA",
+      "3399"
+    ],
+    [
+      "6150",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "6097",
+      "2024",
+      "06",
+      "SAMOA",
+      "3314"
+    ],
+    [
+      "6150",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3314"
+    ],
+    [
+      "6150",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3314"
+    ],
+    [
+      "6150",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3314"
+    ],
+    [
+      "6150",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3314"
+    ],
+    [
+      "6150",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3314"
+    ],
+    [
+      "6150",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3314"
+    ],
+    [
+      "6150",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "7762",
+      "2024",
+      "04",
+      "SAMOA",
+      "332"
+    ],
+    [
+      "6150",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "SAMOA",
+      "332"
+    ],
+    [
+      "6150",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "332"
+    ],
+    [
+      "6150",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "332"
+    ],
+    [
+      "6150",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "332"
+    ],
+    [
+      "6150",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "332"
+    ],
+    [
+      "6150",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "2639",
+      "2024",
+      "10",
+      "SAMOA",
+      "332"
+    ],
+    [
+      "6150",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "332"
+    ],
+    [
+      "6150",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "332"
+    ],
+    [
+      "6150",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "7762",
+      "2024",
+      "04",
+      "SAMOA",
+      "3329"
+    ],
+    [
+      "6150",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "SAMOA",
+      "3329"
+    ],
+    [
+      "6150",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SAMOA",
+      "3329"
+    ],
+    [
+      "6150",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SAMOA",
+      "3329"
+    ],
+    [
+      "6150",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SAMOA",
+      "3329"
+    ],
+    [
+      "6150",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "3329"
+    ],
+    [
+      "6150",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "3329"
+    ],
+    [
+      "6150",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "3329"
+    ],
+    [
+      "6150",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SAMOA",
+      "3329"
+    ],
+    [
+      "6150",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "5065",
+      "2024",
+      "08",
+      "SAMOA",
+      "333"
+    ],
+    [
+      "6150",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "09",
+      "SAMOA",
+      "333"
+    ],
+    [
+      "6150",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "10",
+      "SAMOA",
+      "333"
+    ],
+    [
+      "6150",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "11",
+      "SAMOA",
+      "333"
+    ],
+    [
+      "6150",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "22911",
+      "2024",
+      "12",
+      "SAMOA",
+      "333"
+    ]
+  ]
+}

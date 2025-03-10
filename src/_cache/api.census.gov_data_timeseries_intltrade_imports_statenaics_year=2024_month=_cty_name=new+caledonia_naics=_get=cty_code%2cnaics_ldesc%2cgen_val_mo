@@ -1,0 +1,5879 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:33:49 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a450a45157bbf5f34e88a71da63d82bdf98273a02b7e88a0e7dc2b87a407074e165615af736f63e093852467fa8e5f27e6; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "6412",
+      "CHEMICALS",
+      "8515",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "325"
+    ],
+    [
+      "6412",
+      "CHEMICALS",
+      "4228",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "325"
+    ],
+    [
+      "6412",
+      "CHEMICALS",
+      "52668",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "325"
+    ],
+    [
+      "6412",
+      "CHEMICALS",
+      "23547",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "325"
+    ],
+    [
+      "6412",
+      "CHEMICALS",
+      "14988",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "325"
+    ],
+    [
+      "6412",
+      "CHEMICALS",
+      "28832",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "325"
+    ],
+    [
+      "6412",
+      "CHEMICALS",
+      "59090",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "325"
+    ],
+    [
+      "6412",
+      "CHEMICALS",
+      "19260",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "325"
+    ],
+    [
+      "6412",
+      "CHEMICALS",
+      "29247",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "325"
+    ],
+    [
+      "6412",
+      "CHEMICALS",
+      "6321",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "325"
+    ],
+    [
+      "6412",
+      "CHEMICALS",
+      "26430",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "325"
+    ],
+    [
+      "6412",
+      "BASIC CHEMICALS",
+      "8515",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "3251"
+    ],
+    [
+      "6412",
+      "BASIC CHEMICALS",
+      "4228",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3251"
+    ],
+    [
+      "6412",
+      "BASIC CHEMICALS",
+      "52668",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3251"
+    ],
+    [
+      "6412",
+      "BASIC CHEMICALS",
+      "23547",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3251"
+    ],
+    [
+      "6412",
+      "BASIC CHEMICALS",
+      "14988",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3251"
+    ],
+    [
+      "6412",
+      "BASIC CHEMICALS",
+      "26697",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3251"
+    ],
+    [
+      "6412",
+      "BASIC CHEMICALS",
+      "59090",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3251"
+    ],
+    [
+      "6412",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3251"
+    ],
+    [
+      "6412",
+      "BASIC CHEMICALS",
+      "29247",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3251"
+    ],
+    [
+      "6412",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3251"
+    ],
+    [
+      "6412",
+      "BASIC CHEMICALS",
+      "26430",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3251"
+    ],
+    [
+      "6412",
+      "PHARMACEUTICALS AND MEDICINES",
+      "19260",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3254"
+    ],
+    [
+      "6412",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3254"
+    ],
+    [
+      "6412",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3254"
+    ],
+    [
+      "6412",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3254"
+    ],
+    [
+      "6412",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "6321",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3256"
+    ],
+    [
+      "6412",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3256"
+    ],
+    [
+      "6412",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "2135",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3259"
+    ],
+    [
+      "6412",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3259"
+    ],
+    [
+      "6412",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3259"
+    ],
+    [
+      "6412",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3259"
+    ],
+    [
+      "6412",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3259"
+    ],
+    [
+      "6412",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3259"
+    ],
+    [
+      "6412",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "17107",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "326"
+    ],
+    [
+      "6412",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "326"
+    ],
+    [
+      "6412",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "326"
+    ],
+    [
+      "6412",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "326"
+    ],
+    [
+      "6412",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "7332",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "326"
+    ],
+    [
+      "6412",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "326"
+    ],
+    [
+      "6412",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "21864",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "326"
+    ],
+    [
+      "6412",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "326"
+    ],
+    [
+      "6412",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "326"
+    ],
+    [
+      "6412",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "326"
+    ],
+    [
+      "6412",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "56480",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "326"
+    ],
+    [
+      "6412",
+      "PLASTICS PRODUCTS",
+      "17107",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "3261"
+    ],
+    [
+      "6412",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3261"
+    ],
+    [
+      "6412",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3261"
+    ],
+    [
+      "6412",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3261"
+    ],
+    [
+      "6412",
+      "PLASTICS PRODUCTS",
+      "7332",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3261"
+    ],
+    [
+      "6412",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3261"
+    ],
+    [
+      "6412",
+      "PLASTICS PRODUCTS",
+      "21383",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3261"
+    ],
+    [
+      "6412",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3261"
+    ],
+    [
+      "6412",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3261"
+    ],
+    [
+      "6412",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3261"
+    ],
+    [
+      "6412",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3261"
+    ],
+    [
+      "6412",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "3640",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "327"
+    ],
+    [
+      "6412",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "327"
+    ],
+    [
+      "6412",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "327"
+    ],
+    [
+      "6412",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "327"
+    ],
+    [
+      "6412",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "327"
+    ],
+    [
+      "6412",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "327"
+    ],
+    [
+      "6412",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "327"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 3",
+      "1994892",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "33"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 3",
+      "88934",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "33"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 3",
+      "2551095",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "33"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 3",
+      "5278480",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "33"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 3",
+      "3042731",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "33"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 3",
+      "3356096",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "33"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 3",
+      "1563685",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "33"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 3",
+      "4092247",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "33"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 3",
+      "40644",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "33"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 3",
+      "2658990",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "33"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 3",
+      "2254448",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "33"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 3",
+      "3986407",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "33"
+    ],
+    [
+      "6412",
+      "PRIMARY METAL MANUFACTURING",
+      "1860651",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "331"
+    ],
+    [
+      "6412",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "331"
+    ],
+    [
+      "6412",
+      "PRIMARY METAL MANUFACTURING",
+      "2484177",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "331"
+    ],
+    [
+      "6412",
+      "PRIMARY METAL MANUFACTURING",
+      "5167183",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "331"
+    ],
+    [
+      "6412",
+      "PRIMARY METAL MANUFACTURING",
+      "3032014",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "331"
+    ],
+    [
+      "6412",
+      "PRIMARY METAL MANUFACTURING",
+      "3259278",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "331"
+    ],
+    [
+      "6412",
+      "PRIMARY METAL MANUFACTURING",
+      "1421302",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "331"
+    ],
+    [
+      "6412",
+      "PRIMARY METAL MANUFACTURING",
+      "4049058",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "331"
+    ],
+    [
+      "6412",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "331"
+    ],
+    [
+      "6412",
+      "PRIMARY METAL MANUFACTURING",
+      "2634740",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "331"
+    ],
+    [
+      "6412",
+      "PRIMARY METAL MANUFACTURING",
+      "2126038",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "331"
+    ],
+    [
+      "6412",
+      "PRIMARY METAL MANUFACTURING",
+      "3776457",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "331"
+    ],
+    [
+      "6412",
+      "IRON AND STEEL AND FERROALLOY",
+      "1860651",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "3311"
+    ],
+    [
+      "6412",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "3311"
+    ],
+    [
+      "6412",
+      "IRON AND STEEL AND FERROALLOY",
+      "2484177",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3311"
+    ],
+    [
+      "6412",
+      "IRON AND STEEL AND FERROALLOY",
+      "5167183",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3311"
+    ],
+    [
+      "6412",
+      "IRON AND STEEL AND FERROALLOY",
+      "3032014",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3311"
+    ],
+    [
+      "6412",
+      "IRON AND STEEL AND FERROALLOY",
+      "3259278",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3311"
+    ],
+    [
+      "6412",
+      "IRON AND STEEL AND FERROALLOY",
+      "1421302",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3311"
+    ],
+    [
+      "6412",
+      "IRON AND STEEL AND FERROALLOY",
+      "4049058",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3311"
+    ],
+    [
+      "6412",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3311"
+    ],
+    [
+      "6412",
+      "IRON AND STEEL AND FERROALLOY",
+      "2634740",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3311"
+    ],
+    [
+      "6412",
+      "IRON AND STEEL AND FERROALLOY",
+      "2126038",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3311"
+    ],
+    [
+      "6412",
+      "IRON AND STEEL AND FERROALLOY",
+      "3776457",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3311"
+    ],
+    [
+      "6412",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2050990",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "-"
+    ],
+    [
+      "6412",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "154193",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "-"
+    ],
+    [
+      "6412",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2595661",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "-"
+    ],
+    [
+      "6412",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "5559623",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "-"
+    ],
+    [
+      "6412",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3114685",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "-"
+    ],
+    [
+      "6412",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3844930",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "-"
+    ],
+    [
+      "6412",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1644373",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "-"
+    ],
+    [
+      "6412",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "4410784",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "-"
+    ],
+    [
+      "6412",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "317576",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "-"
+    ],
+    [
+      "6412",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3156727",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "-"
+    ],
+    [
+      "6412",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2477094",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "-"
+    ],
+    [
+      "6412",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "4518268",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "-"
+    ],
+    [
+      "6412",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "17229",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "11"
+    ],
+    [
+      "6412",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "5215",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "11"
+    ],
+    [
+      "6412",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "6446",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "11"
+    ],
+    [
+      "6412",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "111173",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "11"
+    ],
+    [
+      "6412",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "2176",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "11"
+    ],
+    [
+      "6412",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "11"
+    ],
+    [
+      "6412",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "5290",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "11"
+    ],
+    [
+      "6412",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "192484",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "11"
+    ],
+    [
+      "6412",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "192466",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "11"
+    ],
+    [
+      "6412",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "392497",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "11"
+    ],
+    [
+      "6412",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "200352",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "11"
+    ],
+    [
+      "6412",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "406587",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "11"
+    ],
+    [
+      "6412",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "17229",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "1125"
+    ],
+    [
+      "6412",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "5215",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "1125"
+    ],
+    [
+      "6412",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "6446",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "1125"
+    ],
+    [
+      "6412",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "111173",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "1125"
+    ],
+    [
+      "6412",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "2176",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "1125"
+    ],
+    [
+      "6412",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "1125"
+    ],
+    [
+      "6412",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "5290",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "1125"
+    ],
+    [
+      "6412",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "192484",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "1125"
+    ],
+    [
+      "6412",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "192466",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "1125"
+    ],
+    [
+      "6412",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "392497",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "1125"
+    ],
+    [
+      "6412",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "200352",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "1125"
+    ],
+    [
+      "6412",
+      "FARMED FISH AND RELATED PRODUCTS",
+      "406587",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "1125"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART1",
+      "12069",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "31"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "31"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART1",
+      "6839",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "31"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART1",
+      "1245",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "31"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART1",
+      "12823",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "31"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART1",
+      "6839",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "31"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART1",
+      "49300",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "31"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART1",
+      "1463",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "31"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART1",
+      "6421",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "31"
+    ],
+    [
+      "6412",
+      "MANUFACTURED GOODS",
+      "1994892",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "31-33"
+    ],
+    [
+      "6412",
+      "MANUFACTURED GOODS",
+      "114556",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "31-33"
+    ],
+    [
+      "6412",
+      "MANUFACTURED GOODS",
+      "2555323",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "31-33"
+    ],
+    [
+      "6412",
+      "MANUFACTURED GOODS",
+      "5343217",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "31-33"
+    ],
+    [
+      "6412",
+      "MANUFACTURED GOODS",
+      "3066278",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "31-33"
+    ],
+    [
+      "6412",
+      "MANUFACTURED GOODS",
+      "3388895",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "31-33"
+    ],
+    [
+      "6412",
+      "MANUFACTURED GOODS",
+      "1593762",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "31-33"
+    ],
+    [
+      "6412",
+      "MANUFACTURED GOODS",
+      "4186024",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "31-33"
+    ],
+    [
+      "6412",
+      "MANUFACTURED GOODS",
+      "66743",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "31-33"
+    ],
+    [
+      "6412",
+      "MANUFACTURED GOODS",
+      "2737537",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "31-33"
+    ],
+    [
+      "6412",
+      "MANUFACTURED GOODS",
+      "2262232",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "31-33"
+    ],
+    [
+      "6412",
+      "MANUFACTURED GOODS",
+      "4075738",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "31-33"
+    ],
+    [
+      "6412",
+      "FOOD AND KINDRED PRODUCTS",
+      "6079",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "311"
+    ],
+    [
+      "6412",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "311"
+    ],
+    [
+      "6412",
+      "FOOD AND KINDRED PRODUCTS",
+      "6839",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "311"
+    ],
+    [
+      "6412",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "311"
+    ],
+    [
+      "6412",
+      "FOOD AND KINDRED PRODUCTS",
+      "6839",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "311"
+    ],
+    [
+      "6412",
+      "FOOD AND KINDRED PRODUCTS",
+      "6839",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "311"
+    ],
+    [
+      "6412",
+      "FOOD AND KINDRED PRODUCTS",
+      "45696",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "311"
+    ],
+    [
+      "6412",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "311"
+    ],
+    [
+      "6412",
+      "FOOD AND KINDRED PRODUCTS",
+      "5647",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "311"
+    ],
+    [
+      "6412",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "45696",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3114"
+    ],
+    [
+      "6412",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3114"
+    ],
+    [
+      "6412",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3114"
+    ],
+    [
+      "6412",
+      "FOODS, NESOI",
+      "6079",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3119"
+    ],
+    [
+      "6412",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3119"
+    ],
+    [
+      "6412",
+      "FOODS, NESOI",
+      "6839",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3119"
+    ],
+    [
+      "6412",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3119"
+    ],
+    [
+      "6412",
+      "FOODS, NESOI",
+      "6839",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3119"
+    ],
+    [
+      "6412",
+      "FOODS, NESOI",
+      "6839",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3119"
+    ],
+    [
+      "6412",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3119"
+    ],
+    [
+      "6412",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3119"
+    ],
+    [
+      "6412",
+      "FOODS, NESOI",
+      "5647",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3119"
+    ],
+    [
+      "6412",
+      "APPAREL AND ACCESSORIES",
+      "5990",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "315"
+    ],
+    [
+      "6412",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "315"
+    ],
+    [
+      "6412",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "315"
+    ],
+    [
+      "6412",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "315"
+    ],
+    [
+      "6412",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "315"
+    ],
+    [
+      "6412",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "315"
+    ],
+    [
+      "6412",
+      "APPAREL AND ACCESSORIES",
+      "2250",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "315"
+    ],
+    [
+      "6412",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "315"
+    ],
+    [
+      "6412",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "315"
+    ],
+    [
+      "6412",
+      "LEATHER AND ALLIED PRODUCTS",
+      "1245",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "316"
+    ],
+    [
+      "6412",
+      "LEATHER AND ALLIED PRODUCTS",
+      "5984",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "316"
+    ],
+    [
+      "6412",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "316"
+    ],
+    [
+      "6412",
+      "LEATHER AND ALLIED PRODUCTS",
+      "1354",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "316"
+    ],
+    [
+      "6412",
+      "LEATHER AND ALLIED PRODUCTS",
+      "1463",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "316"
+    ],
+    [
+      "6412",
+      "LEATHER AND ALLIED PRODUCTS",
+      "774",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "316"
+    ],
+    [
+      "6412",
+      "FOOTWEAR",
+      "2030",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3162"
+    ],
+    [
+      "6412",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3162"
+    ],
+    [
+      "6412",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3162"
+    ],
+    [
+      "6412",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3162"
+    ],
+    [
+      "6412",
+      "FOOTWEAR",
+      "774",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3162"
+    ],
+    [
+      "6412",
+      "OTHER LEATHER PRODUCTS",
+      "1245",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3169"
+    ],
+    [
+      "6412",
+      "OTHER LEATHER PRODUCTS",
+      "3954",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3169"
+    ],
+    [
+      "6412",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3169"
+    ],
+    [
+      "6412",
+      "OTHER LEATHER PRODUCTS",
+      "1354",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3169"
+    ],
+    [
+      "6412",
+      "OTHER LEATHER PRODUCTS",
+      "1463",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3169"
+    ],
+    [
+      "6412",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3169"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 2",
+      "25622",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "32"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 2",
+      "4228",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "32"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 2",
+      "52668",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "32"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 2",
+      "23547",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "32"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 2",
+      "25960",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "32"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 2",
+      "28832",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "32"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 2",
+      "80954",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "32"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 2",
+      "19260",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "32"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 2",
+      "29247",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "32"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 2",
+      "6321",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "32"
+    ],
+    [
+      "6412",
+      "MANUFACTURING, PART 2",
+      "82910",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "32"
+    ],
+    [
+      "6412",
+      "INDUSTRIAL MACHINERY",
+      "3000",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3332"
+    ],
+    [
+      "6412",
+      "INDUSTRIAL MACHINERY",
+      "73718",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3332"
+    ],
+    [
+      "6412",
+      "INDUSTRIAL MACHINERY",
+      "12975",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3332"
+    ],
+    [
+      "6412",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "5021",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "3334"
+    ],
+    [
+      "6412",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3334"
+    ],
+    [
+      "6412",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3334"
+    ],
+    [
+      "6412",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3334"
+    ],
+    [
+      "6412",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3334"
+    ],
+    [
+      "6412",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3334"
+    ],
+    [
+      "6412",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3334"
+    ],
+    [
+      "6412",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3334"
+    ],
+    [
+      "6412",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3334"
+    ],
+    [
+      "6412",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3334"
+    ],
+    [
+      "6412",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3334"
+    ],
+    [
+      "6412",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "21415",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "3336"
+    ],
+    [
+      "6412",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "34071",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3336"
+    ],
+    [
+      "6412",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "10507",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3336"
+    ],
+    [
+      "6412",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3336"
+    ],
+    [
+      "6412",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3336"
+    ],
+    [
+      "6412",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "16992",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3336"
+    ],
+    [
+      "6412",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3336"
+    ],
+    [
+      "6412",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "21636",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3336"
+    ],
+    [
+      "6412",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "4672",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3336"
+    ],
+    [
+      "6412",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3336"
+    ],
+    [
+      "6412",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3336"
+    ],
+    [
+      "6412",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "2066",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "3339"
+    ],
+    [
+      "6412",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "3339"
+    ],
+    [
+      "6412",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3339"
+    ],
+    [
+      "6412",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "6361",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3339"
+    ],
+    [
+      "6412",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3339"
+    ],
+    [
+      "6412",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "7337",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3339"
+    ],
+    [
+      "6412",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3339"
+    ],
+    [
+      "6412",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "2364",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3339"
+    ],
+    [
+      "6412",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "2061",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3339"
+    ],
+    [
+      "6412",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3339"
+    ],
+    [
+      "6412",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3339"
+    ],
+    [
+      "6412",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "6895",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3339"
+    ],
+    [
+      "6412",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "4785",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "334"
+    ],
+    [
+      "6412",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "8183",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "334"
+    ],
+    [
+      "6412",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "9111",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "334"
+    ],
+    [
+      "6412",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "334"
+    ],
+    [
+      "6412",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "334"
+    ],
+    [
+      "6412",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "10796",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "334"
+    ],
+    [
+      "6412",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "40044",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "334"
+    ],
+    [
+      "6412",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "334"
+    ],
+    [
+      "6412",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "334"
+    ],
+    [
+      "6412",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "12856",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "334"
+    ],
+    [
+      "6412",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "3767",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "334"
+    ],
+    [
+      "6412",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "334"
+    ],
+    [
+      "6412",
+      "COMPUTER EQUIPMENT",
+      "8183",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "3341"
+    ],
+    [
+      "6412",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3341"
+    ],
+    [
+      "6412",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3341"
+    ],
+    [
+      "6412",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3341"
+    ],
+    [
+      "6412",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3341"
+    ],
+    [
+      "6412",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3341"
+    ],
+    [
+      "6412",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3341"
+    ],
+    [
+      "6412",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3341"
+    ],
+    [
+      "6412",
+      "COMPUTER EQUIPMENT",
+      "12856",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3341"
+    ],
+    [
+      "6412",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3341"
+    ],
+    [
+      "6412",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3341"
+    ],
+    [
+      "6412",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "5750",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3344"
+    ],
+    [
+      "6412",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3344"
+    ],
+    [
+      "6412",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3344"
+    ],
+    [
+      "6412",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3344"
+    ],
+    [
+      "6412",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3344"
+    ],
+    [
+      "6412",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3344"
+    ],
+    [
+      "6412",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "2274",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "3345"
+    ],
+    [
+      "6412",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "3345"
+    ],
+    [
+      "6412",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "9111",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3345"
+    ],
+    [
+      "6412",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3345"
+    ],
+    [
+      "6412",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3345"
+    ],
+    [
+      "6412",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3345"
+    ],
+    [
+      "6412",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "34294",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3345"
+    ],
+    [
+      "6412",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3345"
+    ],
+    [
+      "6412",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3345"
+    ],
+    [
+      "6412",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3345"
+    ],
+    [
+      "6412",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3345"
+    ],
+    [
+      "6412",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3345"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "20164",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3352"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3352"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3352"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3352"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3352"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT",
+      "3270",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3353"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3353"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3353"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT",
+      "54794",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3353"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3353"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3353"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3353"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3353"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3353"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3353"
+    ],
+    [
+      "6412",
+      "TRANSPORTATION EQUIPMENT",
+      "117639",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "336"
+    ],
+    [
+      "6412",
+      "TRANSPORTATION EQUIPMENT",
+      "42931",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "336"
+    ],
+    [
+      "6412",
+      "TRANSPORTATION EQUIPMENT",
+      "4031",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "336"
+    ],
+    [
+      "6412",
+      "TRANSPORTATION EQUIPMENT",
+      "88866",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "336"
+    ],
+    [
+      "6412",
+      "TRANSPORTATION EQUIPMENT",
+      "4529",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "336"
+    ],
+    [
+      "6412",
+      "TRANSPORTATION EQUIPMENT",
+      "19167",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "336"
+    ],
+    [
+      "6412",
+      "TRANSPORTATION EQUIPMENT",
+      "11137",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "336"
+    ],
+    [
+      "6412",
+      "TRANSPORTATION EQUIPMENT",
+      "20661",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "336"
+    ],
+    [
+      "6412",
+      "TRANSPORTATION EQUIPMENT",
+      "10767",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "336"
+    ],
+    [
+      "6412",
+      "TRANSPORTATION EQUIPMENT",
+      "3722",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "336"
+    ],
+    [
+      "6412",
+      "TRANSPORTATION EQUIPMENT",
+      "50925",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "336"
+    ],
+    [
+      "6412",
+      "TRANSPORTATION EQUIPMENT",
+      "183947",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "336"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "447196",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "91"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "91"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "91"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "91"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "91"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "91"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "91"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "447196",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "910"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "910"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "910"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "910"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "910"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "910"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "910"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "447196",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "9100"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "9100"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "9100"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "9100"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "9100"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "9100"
+    ],
+    [
+      "6412",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "9100"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "8850",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "93"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "93"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "93"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "93"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "93"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2728",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "93"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "8952",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "93"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "93"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "93"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "93"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "93"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "8850",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "930"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "930"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "930"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "930"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "930"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2728",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "930"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "8952",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "930"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "930"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "930"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "930"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "930"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "8850",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "9300"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "9300"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "9300"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "9300"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "9300"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2728",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "9300"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "8952",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "9300"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "9300"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "9300"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "9300"
+    ],
+    [
+      "6412",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "9300"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "21677",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "980"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "15578",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "980"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "25033",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "980"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "85397",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "980"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "41395",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "980"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "980"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "22689",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "980"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "10428",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "980"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "45521",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "980"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "17216",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "980"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "9288",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "980"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "21310",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "980"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "17192",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "990"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9994",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "990"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8859",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "990"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "19836",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "990"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4836",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "990"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8839",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "990"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "19904",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "990"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "12896",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "990"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "12846",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "990"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9477",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "990"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5222",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "990"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14633",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "990"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "17192",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "9900"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9994",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "9900"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8859",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "9900"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "19836",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "9900"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4836",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "9900"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8839",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "9900"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "19904",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "9900"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "12896",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "9900"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "12846",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "9900"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9477",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "9900"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5222",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "9900"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14633",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "9900"
+    ],
+    [
+      "6412",
+      "RUBBER PRODUCTS",
+      "481",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3262"
+    ],
+    [
+      "6412",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3262"
+    ],
+    [
+      "6412",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3262"
+    ],
+    [
+      "6412",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3262"
+    ],
+    [
+      "6412",
+      "RUBBER PRODUCTS",
+      "56480",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3262"
+    ],
+    [
+      "6412",
+      "APPAREL",
+      "5990",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3152"
+    ],
+    [
+      "6412",
+      "APPAREL",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3152"
+    ],
+    [
+      "6412",
+      "APPAREL",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3152"
+    ],
+    [
+      "6412",
+      "APPAREL",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3152"
+    ],
+    [
+      "6412",
+      "APPAREL",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3152"
+    ],
+    [
+      "6412",
+      "APPAREL",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3152"
+    ],
+    [
+      "6412",
+      "APPAREL",
+      "2250",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3152"
+    ],
+    [
+      "6412",
+      "APPAREL",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3152"
+    ],
+    [
+      "6412",
+      "APPAREL",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3152"
+    ],
+    [
+      "6412",
+      "COMMUNICATIONS EQUIPMENT",
+      "2511",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "3342"
+    ],
+    [
+      "6412",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "3342"
+    ],
+    [
+      "6412",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3342"
+    ],
+    [
+      "6412",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3342"
+    ],
+    [
+      "6412",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3342"
+    ],
+    [
+      "6412",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3342"
+    ],
+    [
+      "6412",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3342"
+    ],
+    [
+      "6412",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3342"
+    ],
+    [
+      "6412",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3342"
+    ],
+    [
+      "6412",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3342"
+    ],
+    [
+      "6412",
+      "COMMUNICATIONS EQUIPMENT",
+      "3767",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3342"
+    ],
+    [
+      "6412",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3342"
+    ],
+    [
+      "6412",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "10796",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3346"
+    ],
+    [
+      "6412",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3346"
+    ],
+    [
+      "6412",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3346"
+    ],
+    [
+      "6412",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3346"
+    ],
+    [
+      "6412",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3346"
+    ],
+    [
+      "6412",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3346"
+    ],
+    [
+      "6412",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3346"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "3270",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "335"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "3400",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "335"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "335"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "54794",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "335"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "335"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "20164",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "335"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "335"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "335"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "335"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "335"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "3400",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3359"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3359"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3359"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3359"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3359"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3359"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3359"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3359"
+    ],
+    [
+      "6412",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3359"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "21677",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "98"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "15578",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "98"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "25033",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "98"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "85397",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "98"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "41395",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "98"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "98"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "22689",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "98"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "10428",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "98"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "45521",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "98"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "17216",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "98"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "9288",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "98"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "21310",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "98"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "21677",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "9800"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "15578",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "9800"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "25033",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "9800"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "85397",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "9800"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "41395",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "9800"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "9800"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "22689",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "9800"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "10428",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "9800"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "45521",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "9800"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "17216",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "9800"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "9288",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "9800"
+    ],
+    [
+      "6412",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "21310",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "9800"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "17192",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "99"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9994",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "99"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8859",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "99"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "19836",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "99"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4836",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "99"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8839",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "99"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "19904",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "99"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "12896",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "99"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "12846",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "99"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9477",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "99"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5222",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "99"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14633",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "99"
+    ],
+    [
+      "6412",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "2721",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3364"
+    ],
+    [
+      "6412",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3364"
+    ],
+    [
+      "6412",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3364"
+    ],
+    [
+      "6412",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3364"
+    ],
+    [
+      "6412",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3364"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "11384",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "3371"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3371"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3371"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3371"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3371"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "35786",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3371"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3371"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3371"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3371"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3371"
+    ],
+    [
+      "6412",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3371"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "491",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "339"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "339"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "339"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "339"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "339"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "339"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "339"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "339"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "339"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "6133",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "339"
+    ],
+    [
+      "6412",
+      "CUTLERY AND HANDTOOLS",
+      "15944",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3322"
+    ],
+    [
+      "6412",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3322"
+    ],
+    [
+      "6412",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3322"
+    ],
+    [
+      "6412",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3322"
+    ],
+    [
+      "6412",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3322"
+    ],
+    [
+      "6412",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3322"
+    ],
+    [
+      "6412",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3322"
+    ],
+    [
+      "6412",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3322"
+    ],
+    [
+      "6412",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3322"
+    ],
+    [
+      "6412",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3322"
+    ],
+    [
+      "6412",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "2163",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3324"
+    ],
+    [
+      "6412",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3324"
+    ],
+    [
+      "6412",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "2454",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3324"
+    ],
+    [
+      "6412",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3324"
+    ],
+    [
+      "6412",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3324"
+    ],
+    [
+      "6412",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3324"
+    ],
+    [
+      "6412",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3324"
+    ],
+    [
+      "6412",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3324"
+    ],
+    [
+      "6412",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3324"
+    ],
+    [
+      "6412",
+      "SPRINGS AND WIRE PRODUCTS",
+      "9751",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "3326"
+    ],
+    [
+      "6412",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "3326"
+    ],
+    [
+      "6412",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3326"
+    ],
+    [
+      "6412",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3326"
+    ],
+    [
+      "6412",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3326"
+    ],
+    [
+      "6412",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3326"
+    ],
+    [
+      "6412",
+      "SPRINGS AND WIRE PRODUCTS",
+      "38424",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3326"
+    ],
+    [
+      "6412",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3326"
+    ],
+    [
+      "6412",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3326"
+    ],
+    [
+      "6412",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3326"
+    ],
+    [
+      "6412",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3326"
+    ],
+    [
+      "6412",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3326"
+    ],
+    [
+      "6412",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "3640",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3279"
+    ],
+    [
+      "6412",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3279"
+    ],
+    [
+      "6412",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3279"
+    ],
+    [
+      "6412",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3279"
+    ],
+    [
+      "6412",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3279"
+    ],
+    [
+      "6412",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3279"
+    ],
+    [
+      "6412",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3279"
+    ],
+    [
+      "6412",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "17229",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "112"
+    ],
+    [
+      "6412",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "5215",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "112"
+    ],
+    [
+      "6412",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "6446",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "112"
+    ],
+    [
+      "6412",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "111173",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "112"
+    ],
+    [
+      "6412",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "2176",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "112"
+    ],
+    [
+      "6412",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "112"
+    ],
+    [
+      "6412",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "5290",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "112"
+    ],
+    [
+      "6412",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "192484",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "112"
+    ],
+    [
+      "6412",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "192466",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "112"
+    ],
+    [
+      "6412",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "392497",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "112"
+    ],
+    [
+      "6412",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "200352",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "112"
+    ],
+    [
+      "6412",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "406587",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "112"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "6960",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "3362"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3362"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3362"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3362"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3362"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3362"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3362"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3362"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3362"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3362"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3362"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE PARTS",
+      "117639",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "3363"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE PARTS",
+      "35971",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "3363"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE PARTS",
+      "4031",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3363"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE PARTS",
+      "88866",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3363"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE PARTS",
+      "4529",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3363"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE PARTS",
+      "19167",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3363"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE PARTS",
+      "11137",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3363"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE PARTS",
+      "17940",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3363"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE PARTS",
+      "10767",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3363"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE PARTS",
+      "3722",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3363"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE PARTS",
+      "50925",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3363"
+    ],
+    [
+      "6412",
+      "MOTOR VEHICLE PARTS",
+      "183947",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3363"
+    ],
+    [
+      "6412",
+      "FURNITURE AND FIXTURES",
+      "11384",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "337"
+    ],
+    [
+      "6412",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "337"
+    ],
+    [
+      "6412",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "337"
+    ],
+    [
+      "6412",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "337"
+    ],
+    [
+      "6412",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "337"
+    ],
+    [
+      "6412",
+      "FURNITURE AND FIXTURES",
+      "35786",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "337"
+    ],
+    [
+      "6412",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "337"
+    ],
+    [
+      "6412",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "337"
+    ],
+    [
+      "6412",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "337"
+    ],
+    [
+      "6412",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "337"
+    ],
+    [
+      "6412",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "337"
+    ],
+    [
+      "6412",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "5755",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3391"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "491",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "3399"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "3399"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3399"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3399"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3399"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3399"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3399"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3399"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3399"
+    ],
+    [
+      "6412",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "378",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3399"
+    ],
+    [
+      "6412",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "9751",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "332"
+    ],
+    [
+      "6412",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "332"
+    ],
+    [
+      "6412",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "15944",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "332"
+    ],
+    [
+      "6412",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "2163",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "332"
+    ],
+    [
+      "6412",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "6188",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "332"
+    ],
+    [
+      "6412",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "4724",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "332"
+    ],
+    [
+      "6412",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "38424",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "332"
+    ],
+    [
+      "6412",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "332"
+    ],
+    [
+      "6412",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "6180",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "332"
+    ],
+    [
+      "6412",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "332"
+    ],
+    [
+      "6412",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "332"
+    ],
+    [
+      "6412",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "332"
+    ],
+    [
+      "6412",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "6188",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "3329"
+    ],
+    [
+      "6412",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "2270",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "3329"
+    ],
+    [
+      "6412",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "3329"
+    ],
+    [
+      "6412",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "3329"
+    ],
+    [
+      "6412",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "6180",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "3329"
+    ],
+    [
+      "6412",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "3329"
+    ],
+    [
+      "6412",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "3329"
+    ],
+    [
+      "6412",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "3329"
+    ],
+    [
+      "6412",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "2066",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "333"
+    ],
+    [
+      "6412",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "26436",
+      "2024",
+      "02",
+      "NEW CALEDONIA",
+      "333"
+    ],
+    [
+      "6412",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "34071",
+      "2024",
+      "03",
+      "NEW CALEDONIA",
+      "333"
+    ],
+    [
+      "6412",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "16868",
+      "2024",
+      "04",
+      "NEW CALEDONIA",
+      "333"
+    ],
+    [
+      "6412",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "05",
+      "NEW CALEDONIA",
+      "333"
+    ],
+    [
+      "6412",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "7337",
+      "2024",
+      "06",
+      "NEW CALEDONIA",
+      "333"
+    ],
+    [
+      "6412",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "16992",
+      "2024",
+      "07",
+      "NEW CALEDONIA",
+      "333"
+    ],
+    [
+      "6412",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "2364",
+      "2024",
+      "08",
+      "NEW CALEDONIA",
+      "333"
+    ],
+    [
+      "6412",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "23697",
+      "2024",
+      "09",
+      "NEW CALEDONIA",
+      "333"
+    ],
+    [
+      "6412",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "7672",
+      "2024",
+      "10",
+      "NEW CALEDONIA",
+      "333"
+    ],
+    [
+      "6412",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "73718",
+      "2024",
+      "11",
+      "NEW CALEDONIA",
+      "333"
+    ],
+    [
+      "6412",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "19870",
+      "2024",
+      "12",
+      "NEW CALEDONIA",
+      "333"
+    ]
+  ]
+}

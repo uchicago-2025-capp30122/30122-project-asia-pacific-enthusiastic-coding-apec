@@ -1,0 +1,7328 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:21:35 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4fdeefc1a6f017b51c89be0e85c9a90b4c07e918b2930315ab0ce98eb2dc6e63cea86cecd4874a6769722d8cace6eaf1c; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "7950",
+      "PAPER",
+      "594224",
+      "2024",
+      "01",
+      "ESWATINI",
+      "322"
+    ],
+    [
+      "7950",
+      "PAPER",
+      "442490",
+      "2024",
+      "02",
+      "ESWATINI",
+      "322"
+    ],
+    [
+      "7950",
+      "PAPER",
+      "419303",
+      "2024",
+      "03",
+      "ESWATINI",
+      "322"
+    ],
+    [
+      "7950",
+      "PAPER",
+      "528569",
+      "2024",
+      "04",
+      "ESWATINI",
+      "322"
+    ],
+    [
+      "7950",
+      "PAPER",
+      "418241",
+      "2024",
+      "05",
+      "ESWATINI",
+      "322"
+    ],
+    [
+      "7950",
+      "PAPER",
+      "446435",
+      "2024",
+      "06",
+      "ESWATINI",
+      "322"
+    ],
+    [
+      "7950",
+      "PAPER",
+      "885300",
+      "2024",
+      "07",
+      "ESWATINI",
+      "322"
+    ],
+    [
+      "7950",
+      "PAPER",
+      "657825",
+      "2024",
+      "08",
+      "ESWATINI",
+      "322"
+    ],
+    [
+      "7950",
+      "PAPER",
+      "853867",
+      "2024",
+      "09",
+      "ESWATINI",
+      "322"
+    ],
+    [
+      "7950",
+      "PAPER",
+      "650009",
+      "2024",
+      "10",
+      "ESWATINI",
+      "322"
+    ],
+    [
+      "7950",
+      "PAPER",
+      "510370",
+      "2024",
+      "11",
+      "ESWATINI",
+      "322"
+    ],
+    [
+      "7950",
+      "PAPER",
+      "572720",
+      "2024",
+      "12",
+      "ESWATINI",
+      "322"
+    ],
+    [
+      "7950",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "589366",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3221"
+    ],
+    [
+      "7950",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "442490",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3221"
+    ],
+    [
+      "7950",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "419303",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3221"
+    ],
+    [
+      "7950",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "528569",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3221"
+    ],
+    [
+      "7950",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "418241",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3221"
+    ],
+    [
+      "7950",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "446435",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3221"
+    ],
+    [
+      "7950",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "885300",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3221"
+    ],
+    [
+      "7950",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "657825",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3221"
+    ],
+    [
+      "7950",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "853867",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3221"
+    ],
+    [
+      "7950",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "650009",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3221"
+    ],
+    [
+      "7950",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "510370",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3221"
+    ],
+    [
+      "7950",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "572720",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3221"
+    ],
+    [
+      "7950",
+      "CONVERTED PAPER PRODUCTS",
+      "4858",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3222"
+    ],
+    [
+      "7950",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3222"
+    ],
+    [
+      "7950",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3222"
+    ],
+    [
+      "7950",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3222"
+    ],
+    [
+      "7950",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3222"
+    ],
+    [
+      "7950",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3222"
+    ],
+    [
+      "7950",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3222"
+    ],
+    [
+      "7950",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3222"
+    ],
+    [
+      "7950",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3222"
+    ],
+    [
+      "7950",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3222"
+    ],
+    [
+      "7950",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3222"
+    ],
+    [
+      "7950",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3222"
+    ],
+    [
+      "7950",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "2712",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3231"
+    ],
+    [
+      "7950",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3231"
+    ],
+    [
+      "7950",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3231"
+    ],
+    [
+      "7950",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3231"
+    ],
+    [
+      "7950",
+      "CHEMICALS",
+      "1000096",
+      "2024",
+      "01",
+      "ESWATINI",
+      "325"
+    ],
+    [
+      "7950",
+      "CHEMICALS",
+      "908117",
+      "2024",
+      "02",
+      "ESWATINI",
+      "325"
+    ],
+    [
+      "7950",
+      "CHEMICALS",
+      "1393267",
+      "2024",
+      "03",
+      "ESWATINI",
+      "325"
+    ],
+    [
+      "7950",
+      "CHEMICALS",
+      "1303476",
+      "2024",
+      "04",
+      "ESWATINI",
+      "325"
+    ],
+    [
+      "7950",
+      "CHEMICALS",
+      "1811328",
+      "2024",
+      "05",
+      "ESWATINI",
+      "325"
+    ],
+    [
+      "7950",
+      "CHEMICALS",
+      "1907383",
+      "2024",
+      "06",
+      "ESWATINI",
+      "325"
+    ],
+    [
+      "7950",
+      "CHEMICALS",
+      "1291574",
+      "2024",
+      "07",
+      "ESWATINI",
+      "325"
+    ],
+    [
+      "7950",
+      "CHEMICALS",
+      "244674",
+      "2024",
+      "08",
+      "ESWATINI",
+      "325"
+    ],
+    [
+      "7950",
+      "CHEMICALS",
+      "371771",
+      "2024",
+      "09",
+      "ESWATINI",
+      "325"
+    ],
+    [
+      "7950",
+      "CHEMICALS",
+      "657964",
+      "2024",
+      "10",
+      "ESWATINI",
+      "325"
+    ],
+    [
+      "7950",
+      "CHEMICALS",
+      "580542",
+      "2024",
+      "11",
+      "ESWATINI",
+      "325"
+    ],
+    [
+      "7950",
+      "CHEMICALS",
+      "1468317",
+      "2024",
+      "12",
+      "ESWATINI",
+      "325"
+    ],
+    [
+      "7950",
+      "BASIC CHEMICALS",
+      "919867",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3251"
+    ],
+    [
+      "7950",
+      "BASIC CHEMICALS",
+      "846805",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3251"
+    ],
+    [
+      "7950",
+      "BASIC CHEMICALS",
+      "1241951",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3251"
+    ],
+    [
+      "7950",
+      "BASIC CHEMICALS",
+      "1179834",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3251"
+    ],
+    [
+      "7950",
+      "BASIC CHEMICALS",
+      "1688807",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3251"
+    ],
+    [
+      "7950",
+      "BASIC CHEMICALS",
+      "1708190",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3251"
+    ],
+    [
+      "7950",
+      "BASIC CHEMICALS",
+      "1138892",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3251"
+    ],
+    [
+      "7950",
+      "BASIC CHEMICALS",
+      "143177",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3251"
+    ],
+    [
+      "7950",
+      "BASIC CHEMICALS",
+      "38171",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3251"
+    ],
+    [
+      "7950",
+      "BASIC CHEMICALS",
+      "502264",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3251"
+    ],
+    [
+      "7950",
+      "BASIC CHEMICALS",
+      "299343",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3251"
+    ],
+    [
+      "7950",
+      "BASIC CHEMICALS",
+      "984286",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3251"
+    ],
+    [
+      "7950",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "14982",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3252"
+    ],
+    [
+      "7950",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "12080",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3252"
+    ],
+    [
+      "7950",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "9197",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3252"
+    ],
+    [
+      "7950",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3252"
+    ],
+    [
+      "7950",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3252"
+    ],
+    [
+      "7950",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "29298",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3252"
+    ],
+    [
+      "7950",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "12080",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3252"
+    ],
+    [
+      "7950",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3252"
+    ],
+    [
+      "7950",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "3394",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3252"
+    ],
+    [
+      "7950",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "36657",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3252"
+    ],
+    [
+      "7950",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "163656",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3252"
+    ],
+    [
+      "7950",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3252"
+    ],
+    [
+      "7950",
+      "PHARMACEUTICALS AND MEDICINES",
+      "8724",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3254"
+    ],
+    [
+      "7950",
+      "PHARMACEUTICALS AND MEDICINES",
+      "16660",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3254"
+    ],
+    [
+      "7950",
+      "PHARMACEUTICALS AND MEDICINES",
+      "8500",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3254"
+    ],
+    [
+      "7950",
+      "PHARMACEUTICALS AND MEDICINES",
+      "9442",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3254"
+    ],
+    [
+      "7950",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3254"
+    ],
+    [
+      "7950",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3254"
+    ],
+    [
+      "7950",
+      "PHARMACEUTICALS AND MEDICINES",
+      "8926",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3254"
+    ],
+    [
+      "7950",
+      "PHARMACEUTICALS AND MEDICINES",
+      "7588",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3254"
+    ],
+    [
+      "7950",
+      "PHARMACEUTICALS AND MEDICINES",
+      "29610",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3254"
+    ],
+    [
+      "7950",
+      "PHARMACEUTICALS AND MEDICINES",
+      "63624",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3254"
+    ],
+    [
+      "7950",
+      "PHARMACEUTICALS AND MEDICINES",
+      "12877",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3254"
+    ],
+    [
+      "7950",
+      "PHARMACEUTICALS AND MEDICINES",
+      "16441",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3254"
+    ],
+    [
+      "7950",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "13500",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3256"
+    ],
+    [
+      "7950",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3256"
+    ],
+    [
+      "7950",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3256"
+    ],
+    [
+      "7950",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3256"
+    ],
+    [
+      "7950",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "56523",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3259"
+    ],
+    [
+      "7950",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "32572",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3259"
+    ],
+    [
+      "7950",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "133619",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3259"
+    ],
+    [
+      "7950",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "108435",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3259"
+    ],
+    [
+      "7950",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "98271",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3259"
+    ],
+    [
+      "7950",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "169895",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3259"
+    ],
+    [
+      "7950",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "131676",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3259"
+    ],
+    [
+      "7950",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "93909",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3259"
+    ],
+    [
+      "7950",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "287096",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3259"
+    ],
+    [
+      "7950",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "55419",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3259"
+    ],
+    [
+      "7950",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "104666",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3259"
+    ],
+    [
+      "7950",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "467590",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3259"
+    ],
+    [
+      "7950",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "21596",
+      "2024",
+      "01",
+      "ESWATINI",
+      "326"
+    ],
+    [
+      "7950",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "10500",
+      "2024",
+      "02",
+      "ESWATINI",
+      "326"
+    ],
+    [
+      "7950",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "326"
+    ],
+    [
+      "7950",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "326"
+    ],
+    [
+      "7950",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "326"
+    ],
+    [
+      "7950",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "326"
+    ],
+    [
+      "7950",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "326"
+    ],
+    [
+      "7950",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "326"
+    ],
+    [
+      "7950",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "326"
+    ],
+    [
+      "7950",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "13059",
+      "2024",
+      "10",
+      "ESWATINI",
+      "326"
+    ],
+    [
+      "7950",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "326"
+    ],
+    [
+      "7950",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "326"
+    ],
+    [
+      "7950",
+      "PLASTICS PRODUCTS",
+      "6103",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3261"
+    ],
+    [
+      "7950",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3261"
+    ],
+    [
+      "7950",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3261"
+    ],
+    [
+      "7950",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3261"
+    ],
+    [
+      "7950",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3261"
+    ],
+    [
+      "7950",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3261"
+    ],
+    [
+      "7950",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3261"
+    ],
+    [
+      "7950",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3261"
+    ],
+    [
+      "7950",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3261"
+    ],
+    [
+      "7950",
+      "PLASTICS PRODUCTS",
+      "13059",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3261"
+    ],
+    [
+      "7950",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3261"
+    ],
+    [
+      "7950",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3261"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "518067",
+      "2024",
+      "03",
+      "ESWATINI",
+      "327"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "3607",
+      "2024",
+      "04",
+      "ESWATINI",
+      "327"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "327"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "327"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "327"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "327"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "2580",
+      "2024",
+      "09",
+      "ESWATINI",
+      "327"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "327"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "327"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "327"
+    ],
+    [
+      "7950",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "2580",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3271"
+    ],
+    [
+      "7950",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3271"
+    ],
+    [
+      "7950",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3271"
+    ],
+    [
+      "7950",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3271"
+    ],
+    [
+      "7950",
+      "GLASS AND GLASS PRODUCTS",
+      "500000",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3272"
+    ],
+    [
+      "7950",
+      "GLASS AND GLASS PRODUCTS",
+      "3607",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3272"
+    ],
+    [
+      "7950",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3272"
+    ],
+    [
+      "7950",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3272"
+    ],
+    [
+      "7950",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3272"
+    ],
+    [
+      "7950",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3272"
+    ],
+    [
+      "7950",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3272"
+    ],
+    [
+      "7950",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3272"
+    ],
+    [
+      "7950",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3272"
+    ],
+    [
+      "7950",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3272"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 3",
+      "283027",
+      "2024",
+      "01",
+      "ESWATINI",
+      "33"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 3",
+      "10414219",
+      "2024",
+      "02",
+      "ESWATINI",
+      "33"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 3",
+      "1065718",
+      "2024",
+      "03",
+      "ESWATINI",
+      "33"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 3",
+      "493935",
+      "2024",
+      "04",
+      "ESWATINI",
+      "33"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 3",
+      "384773",
+      "2024",
+      "05",
+      "ESWATINI",
+      "33"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 3",
+      "573188",
+      "2024",
+      "06",
+      "ESWATINI",
+      "33"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 3",
+      "471236",
+      "2024",
+      "07",
+      "ESWATINI",
+      "33"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 3",
+      "316013",
+      "2024",
+      "08",
+      "ESWATINI",
+      "33"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 3",
+      "1149802",
+      "2024",
+      "09",
+      "ESWATINI",
+      "33"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 3",
+      "496117",
+      "2024",
+      "10",
+      "ESWATINI",
+      "33"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 3",
+      "946624",
+      "2024",
+      "11",
+      "ESWATINI",
+      "33"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 3",
+      "245366",
+      "2024",
+      "12",
+      "ESWATINI",
+      "33"
+    ],
+    [
+      "7950",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2155696",
+      "2024",
+      "01",
+      "ESWATINI",
+      "-"
+    ],
+    [
+      "7950",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "13392541",
+      "2024",
+      "02",
+      "ESWATINI",
+      "-"
+    ],
+    [
+      "7950",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "4019247",
+      "2024",
+      "03",
+      "ESWATINI",
+      "-"
+    ],
+    [
+      "7950",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2743961",
+      "2024",
+      "04",
+      "ESWATINI",
+      "-"
+    ],
+    [
+      "7950",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3062578",
+      "2024",
+      "05",
+      "ESWATINI",
+      "-"
+    ],
+    [
+      "7950",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2604139",
+      "2024",
+      "12",
+      "ESWATINI",
+      "-"
+    ],
+    [
+      "7950",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3408076",
+      "2024",
+      "06",
+      "ESWATINI",
+      "-"
+    ],
+    [
+      "7950",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "4344672",
+      "2024",
+      "07",
+      "ESWATINI",
+      "-"
+    ],
+    [
+      "7950",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1456490",
+      "2024",
+      "08",
+      "ESWATINI",
+      "-"
+    ],
+    [
+      "7950",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3714589",
+      "2024",
+      "09",
+      "ESWATINI",
+      "-"
+    ],
+    [
+      "7950",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2784548",
+      "2024",
+      "10",
+      "ESWATINI",
+      "-"
+    ],
+    [
+      "7950",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2426980",
+      "2024",
+      "11",
+      "ESWATINI",
+      "-"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "42353",
+      "2024",
+      "01",
+      "ESWATINI",
+      "11"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "191762",
+      "2024",
+      "02",
+      "ESWATINI",
+      "11"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "444878",
+      "2024",
+      "03",
+      "ESWATINI",
+      "11"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "280928",
+      "2024",
+      "04",
+      "ESWATINI",
+      "11"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "311988",
+      "2024",
+      "05",
+      "ESWATINI",
+      "11"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "108564",
+      "2024",
+      "06",
+      "ESWATINI",
+      "11"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "470784",
+      "2024",
+      "07",
+      "ESWATINI",
+      "11"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "11"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "984900",
+      "2024",
+      "09",
+      "ESWATINI",
+      "11"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "604516",
+      "2024",
+      "10",
+      "ESWATINI",
+      "11"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "252325",
+      "2024",
+      "11",
+      "ESWATINI",
+      "11"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "182918",
+      "2024",
+      "12",
+      "ESWATINI",
+      "11"
+    ],
+    [
+      "7950",
+      "AGRICULTURAL PRODUCTS",
+      "170000",
+      "2024",
+      "03",
+      "ESWATINI",
+      "111"
+    ],
+    [
+      "7950",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "111"
+    ],
+    [
+      "7950",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "111"
+    ],
+    [
+      "7950",
+      "AGRICULTURAL PRODUCTS",
+      "80000",
+      "2024",
+      "06",
+      "ESWATINI",
+      "111"
+    ],
+    [
+      "7950",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "111"
+    ],
+    [
+      "7950",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "111"
+    ],
+    [
+      "7950",
+      "AGRICULTURAL PRODUCTS",
+      "100000",
+      "2024",
+      "09",
+      "ESWATINI",
+      "111"
+    ],
+    [
+      "7950",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "111"
+    ],
+    [
+      "7950",
+      "AGRICULTURAL PRODUCTS",
+      "100000",
+      "2024",
+      "11",
+      "ESWATINI",
+      "111"
+    ],
+    [
+      "7950",
+      "AGRICULTURAL PRODUCTS",
+      "116000",
+      "2024",
+      "12",
+      "ESWATINI",
+      "111"
+    ],
+    [
+      "7950",
+      "FRUITS AND TREE NUTS",
+      "170000",
+      "2024",
+      "03",
+      "ESWATINI",
+      "1113"
+    ],
+    [
+      "7950",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "1113"
+    ],
+    [
+      "7950",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "1113"
+    ],
+    [
+      "7950",
+      "FRUITS AND TREE NUTS",
+      "80000",
+      "2024",
+      "06",
+      "ESWATINI",
+      "1113"
+    ],
+    [
+      "7950",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "1113"
+    ],
+    [
+      "7950",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "1113"
+    ],
+    [
+      "7950",
+      "FRUITS AND TREE NUTS",
+      "100000",
+      "2024",
+      "09",
+      "ESWATINI",
+      "1113"
+    ],
+    [
+      "7950",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "1113"
+    ],
+    [
+      "7950",
+      "FRUITS AND TREE NUTS",
+      "100000",
+      "2024",
+      "11",
+      "ESWATINI",
+      "1113"
+    ],
+    [
+      "7950",
+      "FRUITS AND TREE NUTS",
+      "116000",
+      "2024",
+      "12",
+      "ESWATINI",
+      "1113"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS, NESOI",
+      "42353",
+      "2024",
+      "01",
+      "ESWATINI",
+      "113"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS, NESOI",
+      "191762",
+      "2024",
+      "02",
+      "ESWATINI",
+      "113"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS, NESOI",
+      "274878",
+      "2024",
+      "03",
+      "ESWATINI",
+      "113"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS, NESOI",
+      "280928",
+      "2024",
+      "04",
+      "ESWATINI",
+      "113"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS, NESOI",
+      "270983",
+      "2024",
+      "05",
+      "ESWATINI",
+      "113"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS, NESOI",
+      "28564",
+      "2024",
+      "06",
+      "ESWATINI",
+      "113"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS, NESOI",
+      "470784",
+      "2024",
+      "07",
+      "ESWATINI",
+      "113"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "113"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS, NESOI",
+      "844900",
+      "2024",
+      "09",
+      "ESWATINI",
+      "113"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS, NESOI",
+      "604516",
+      "2024",
+      "10",
+      "ESWATINI",
+      "113"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS, NESOI",
+      "152325",
+      "2024",
+      "11",
+      "ESWATINI",
+      "113"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS, NESOI",
+      "66918",
+      "2024",
+      "12",
+      "ESWATINI",
+      "113"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS",
+      "42353",
+      "2024",
+      "01",
+      "ESWATINI",
+      "1132"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS",
+      "191762",
+      "2024",
+      "02",
+      "ESWATINI",
+      "1132"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS",
+      "274878",
+      "2024",
+      "03",
+      "ESWATINI",
+      "1132"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS",
+      "280928",
+      "2024",
+      "04",
+      "ESWATINI",
+      "1132"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS",
+      "270983",
+      "2024",
+      "05",
+      "ESWATINI",
+      "1132"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS",
+      "28564",
+      "2024",
+      "06",
+      "ESWATINI",
+      "1132"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS",
+      "470784",
+      "2024",
+      "07",
+      "ESWATINI",
+      "1132"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "1132"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS",
+      "844900",
+      "2024",
+      "09",
+      "ESWATINI",
+      "1132"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS",
+      "604516",
+      "2024",
+      "10",
+      "ESWATINI",
+      "1132"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS",
+      "152325",
+      "2024",
+      "11",
+      "ESWATINI",
+      "1132"
+    ],
+    [
+      "7950",
+      "FORESTRY PRODUCTS",
+      "66918",
+      "2024",
+      "12",
+      "ESWATINI",
+      "1132"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "41005",
+      "2024",
+      "05",
+      "ESWATINI",
+      "1141"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "1141"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "1141"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "1141"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "40000",
+      "2024",
+      "09",
+      "ESWATINI",
+      "1141"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "1141"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "1141"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "1141"
+    ],
+    [
+      "7950",
+      "OIL, GAS, MINERALS AND ORES",
+      "54500",
+      "2024",
+      "07",
+      "ESWATINI",
+      "21"
+    ],
+    [
+      "7950",
+      "OIL, GAS, MINERALS AND ORES",
+      "168500",
+      "2024",
+      "08",
+      "ESWATINI",
+      "21"
+    ],
+    [
+      "7950",
+      "OIL, GAS, MINERALS AND ORES",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "21"
+    ],
+    [
+      "7950",
+      "OIL, GAS, MINERALS AND ORES",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "21"
+    ],
+    [
+      "7950",
+      "OIL, GAS, MINERALS AND ORES",
+      "4990",
+      "2024",
+      "11",
+      "ESWATINI",
+      "21"
+    ],
+    [
+      "7950",
+      "OIL, GAS, MINERALS AND ORES",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "21"
+    ],
+    [
+      "7950",
+      "METAL ORES",
+      "4990",
+      "2024",
+      "11",
+      "ESWATINI",
+      "2122"
+    ],
+    [
+      "7950",
+      "METAL ORES",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "2122"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERALS",
+      "54500",
+      "2024",
+      "07",
+      "ESWATINI",
+      "2123"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERALS",
+      "168500",
+      "2024",
+      "08",
+      "ESWATINI",
+      "2123"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERALS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "2123"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERALS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "2123"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERALS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "2123"
+    ],
+    [
+      "7950",
+      "NONMETALLIC MINERALS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "2123"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART1",
+      "131445",
+      "2024",
+      "01",
+      "ESWATINI",
+      "31"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART1",
+      "8096",
+      "2024",
+      "02",
+      "ESWATINI",
+      "31"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART1",
+      "32386",
+      "2024",
+      "03",
+      "ESWATINI",
+      "31"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART1",
+      "79152",
+      "2024",
+      "04",
+      "ESWATINI",
+      "31"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART1",
+      "68116",
+      "2024",
+      "05",
+      "ESWATINI",
+      "31"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART1",
+      "254614",
+      "2024",
+      "06",
+      "ESWATINI",
+      "31"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART1",
+      "28338",
+      "2024",
+      "07",
+      "ESWATINI",
+      "31"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART1",
+      "25738",
+      "2024",
+      "08",
+      "ESWATINI",
+      "31"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART1",
+      "219086",
+      "2024",
+      "09",
+      "ESWATINI",
+      "31"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART1",
+      "254947",
+      "2024",
+      "10",
+      "ESWATINI",
+      "31"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART1",
+      "6288",
+      "2024",
+      "11",
+      "ESWATINI",
+      "31"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART1",
+      "21953",
+      "2024",
+      "12",
+      "ESWATINI",
+      "31"
+    ],
+    [
+      "7950",
+      "MANUFACTURED GOODS",
+      "2030388",
+      "2024",
+      "01",
+      "ESWATINI",
+      "31-33"
+    ],
+    [
+      "7950",
+      "MANUFACTURED GOODS",
+      "11783422",
+      "2024",
+      "02",
+      "ESWATINI",
+      "31-33"
+    ],
+    [
+      "7950",
+      "MANUFACTURED GOODS",
+      "3428741",
+      "2024",
+      "03",
+      "ESWATINI",
+      "31-33"
+    ],
+    [
+      "7950",
+      "MANUFACTURED GOODS",
+      "2408739",
+      "2024",
+      "04",
+      "ESWATINI",
+      "31-33"
+    ],
+    [
+      "7950",
+      "MANUFACTURED GOODS",
+      "2682458",
+      "2024",
+      "05",
+      "ESWATINI",
+      "31-33"
+    ],
+    [
+      "7950",
+      "MANUFACTURED GOODS",
+      "3181620",
+      "2024",
+      "06",
+      "ESWATINI",
+      "31-33"
+    ],
+    [
+      "7950",
+      "MANUFACTURED GOODS",
+      "2676448",
+      "2024",
+      "07",
+      "ESWATINI",
+      "31-33"
+    ],
+    [
+      "7950",
+      "MANUFACTURED GOODS",
+      "1244250",
+      "2024",
+      "08",
+      "ESWATINI",
+      "31-33"
+    ],
+    [
+      "7950",
+      "MANUFACTURED GOODS",
+      "2599818",
+      "2024",
+      "09",
+      "ESWATINI",
+      "31-33"
+    ],
+    [
+      "7950",
+      "MANUFACTURED GOODS",
+      "2072096",
+      "2024",
+      "10",
+      "ESWATINI",
+      "31-33"
+    ],
+    [
+      "7950",
+      "MANUFACTURED GOODS",
+      "2043824",
+      "2024",
+      "11",
+      "ESWATINI",
+      "31-33"
+    ],
+    [
+      "7950",
+      "MANUFACTURED GOODS",
+      "2308356",
+      "2024",
+      "12",
+      "ESWATINI",
+      "31-33"
+    ],
+    [
+      "7950",
+      "FOOD AND KINDRED PRODUCTS",
+      "127339",
+      "2024",
+      "01",
+      "ESWATINI",
+      "311"
+    ],
+    [
+      "7950",
+      "FOOD AND KINDRED PRODUCTS",
+      "8096",
+      "2024",
+      "02",
+      "ESWATINI",
+      "311"
+    ],
+    [
+      "7950",
+      "FOOD AND KINDRED PRODUCTS",
+      "32386",
+      "2024",
+      "03",
+      "ESWATINI",
+      "311"
+    ],
+    [
+      "7950",
+      "FOOD AND KINDRED PRODUCTS",
+      "79152",
+      "2024",
+      "04",
+      "ESWATINI",
+      "311"
+    ],
+    [
+      "7950",
+      "FOOD AND KINDRED PRODUCTS",
+      "18116",
+      "2024",
+      "05",
+      "ESWATINI",
+      "311"
+    ],
+    [
+      "7950",
+      "FOOD AND KINDRED PRODUCTS",
+      "254614",
+      "2024",
+      "06",
+      "ESWATINI",
+      "311"
+    ],
+    [
+      "7950",
+      "FOOD AND KINDRED PRODUCTS",
+      "28338",
+      "2024",
+      "07",
+      "ESWATINI",
+      "311"
+    ],
+    [
+      "7950",
+      "FOOD AND KINDRED PRODUCTS",
+      "25738",
+      "2024",
+      "08",
+      "ESWATINI",
+      "311"
+    ],
+    [
+      "7950",
+      "FOOD AND KINDRED PRODUCTS",
+      "203977",
+      "2024",
+      "09",
+      "ESWATINI",
+      "311"
+    ],
+    [
+      "7950",
+      "FOOD AND KINDRED PRODUCTS",
+      "245572",
+      "2024",
+      "10",
+      "ESWATINI",
+      "311"
+    ],
+    [
+      "7950",
+      "FOOD AND KINDRED PRODUCTS",
+      "6288",
+      "2024",
+      "11",
+      "ESWATINI",
+      "311"
+    ],
+    [
+      "7950",
+      "FOOD AND KINDRED PRODUCTS",
+      "18953",
+      "2024",
+      "12",
+      "ESWATINI",
+      "311"
+    ],
+    [
+      "7950",
+      "FOODS, NESOI",
+      "100000",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3119"
+    ],
+    [
+      "7950",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3119"
+    ],
+    [
+      "7950",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3119"
+    ],
+    [
+      "7950",
+      "FOODS, NESOI",
+      "12454",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3119"
+    ],
+    [
+      "7950",
+      "FOODS, NESOI",
+      "10020",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3119"
+    ],
+    [
+      "7950",
+      "FOODS, NESOI",
+      "246518",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3119"
+    ],
+    [
+      "7950",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3119"
+    ],
+    [
+      "7950",
+      "FOODS, NESOI",
+      "9545",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3119"
+    ],
+    [
+      "7950",
+      "FOODS, NESOI",
+      "203977",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3119"
+    ],
+    [
+      "7950",
+      "FOODS, NESOI",
+      "28525",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3119"
+    ],
+    [
+      "7950",
+      "FOODS, NESOI",
+      "6288",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3119"
+    ],
+    [
+      "7950",
+      "FOODS, NESOI",
+      "6645",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3119"
+    ],
+    [
+      "7950",
+      "BEVERAGES",
+      "50000",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3121"
+    ],
+    [
+      "7950",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3121"
+    ],
+    [
+      "7950",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3121"
+    ],
+    [
+      "7950",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3121"
+    ],
+    [
+      "7950",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3121"
+    ],
+    [
+      "7950",
+      "BEVERAGES",
+      "9375",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3121"
+    ],
+    [
+      "7950",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3121"
+    ],
+    [
+      "7950",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3121"
+    ],
+    [
+      "7950",
+      "TEXTILE MILL PRODUCTS",
+      "4106",
+      "2024",
+      "01",
+      "ESWATINI",
+      "314"
+    ],
+    [
+      "7950",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "ESWATINI",
+      "314"
+    ],
+    [
+      "7950",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "314"
+    ],
+    [
+      "7950",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "314"
+    ],
+    [
+      "7950",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "314"
+    ],
+    [
+      "7950",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "314"
+    ],
+    [
+      "7950",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "314"
+    ],
+    [
+      "7950",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "314"
+    ],
+    [
+      "7950",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "314"
+    ],
+    [
+      "7950",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "314"
+    ],
+    [
+      "7950",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "314"
+    ],
+    [
+      "7950",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "314"
+    ],
+    [
+      "7950",
+      "OTHER TEXTILE PRODUCTS",
+      "4106",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3149"
+    ],
+    [
+      "7950",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3149"
+    ],
+    [
+      "7950",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3149"
+    ],
+    [
+      "7950",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3149"
+    ],
+    [
+      "7950",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3149"
+    ],
+    [
+      "7950",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3149"
+    ],
+    [
+      "7950",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3149"
+    ],
+    [
+      "7950",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3149"
+    ],
+    [
+      "7950",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3149"
+    ],
+    [
+      "7950",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3149"
+    ],
+    [
+      "7950",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3149"
+    ],
+    [
+      "7950",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3149"
+    ],
+    [
+      "7950",
+      "LEATHER AND ALLIED PRODUCTS",
+      "3000",
+      "2024",
+      "12",
+      "ESWATINI",
+      "316"
+    ],
+    [
+      "7950",
+      "FOOTWEAR",
+      "3000",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3162"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 2",
+      "1615916",
+      "2024",
+      "01",
+      "ESWATINI",
+      "32"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 2",
+      "1361107",
+      "2024",
+      "02",
+      "ESWATINI",
+      "32"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 2",
+      "2330637",
+      "2024",
+      "03",
+      "ESWATINI",
+      "32"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 2",
+      "1835652",
+      "2024",
+      "04",
+      "ESWATINI",
+      "32"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 2",
+      "2229569",
+      "2024",
+      "05",
+      "ESWATINI",
+      "32"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 2",
+      "2353818",
+      "2024",
+      "06",
+      "ESWATINI",
+      "32"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 2",
+      "2176874",
+      "2024",
+      "07",
+      "ESWATINI",
+      "32"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 2",
+      "902499",
+      "2024",
+      "08",
+      "ESWATINI",
+      "32"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 2",
+      "1230930",
+      "2024",
+      "09",
+      "ESWATINI",
+      "32"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 2",
+      "1321032",
+      "2024",
+      "10",
+      "ESWATINI",
+      "32"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 2",
+      "1090912",
+      "2024",
+      "11",
+      "ESWATINI",
+      "32"
+    ],
+    [
+      "7950",
+      "MANUFACTURING, PART 2",
+      "2041037",
+      "2024",
+      "12",
+      "ESWATINI",
+      "32"
+    ],
+    [
+      "7950",
+      "INDUSTRIAL MACHINERY",
+      "5694",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3332"
+    ],
+    [
+      "7950",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3332"
+    ],
+    [
+      "7950",
+      "INDUSTRIAL MACHINERY",
+      "87895",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3332"
+    ],
+    [
+      "7950",
+      "INDUSTRIAL MACHINERY",
+      "4168",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3332"
+    ],
+    [
+      "7950",
+      "INDUSTRIAL MACHINERY",
+      "3000",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3332"
+    ],
+    [
+      "7950",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3332"
+    ],
+    [
+      "7950",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3332"
+    ],
+    [
+      "7950",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3332"
+    ],
+    [
+      "7950",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3332"
+    ],
+    [
+      "7950",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3332"
+    ],
+    [
+      "7950",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "19274",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3333"
+    ],
+    [
+      "7950",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3333"
+    ],
+    [
+      "7950",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3333"
+    ],
+    [
+      "7950",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3333"
+    ],
+    [
+      "7950",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "2940",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3333"
+    ],
+    [
+      "7950",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "5724",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3333"
+    ],
+    [
+      "7950",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3333"
+    ],
+    [
+      "7950",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "5321",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3333"
+    ],
+    [
+      "7950",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3333"
+    ],
+    [
+      "7950",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "3208",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3333"
+    ],
+    [
+      "7950",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3333"
+    ],
+    [
+      "7950",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "3644",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3334"
+    ],
+    [
+      "7950",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3334"
+    ],
+    [
+      "7950",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3334"
+    ],
+    [
+      "7950",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3334"
+    ],
+    [
+      "7950",
+      "METALWORKING MACHINERY",
+      "20456",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3335"
+    ],
+    [
+      "7950",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3335"
+    ],
+    [
+      "7950",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3335"
+    ],
+    [
+      "7950",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3335"
+    ],
+    [
+      "7950",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3335"
+    ],
+    [
+      "7950",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "3450",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3336"
+    ],
+    [
+      "7950",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "40440",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3336"
+    ],
+    [
+      "7950",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3336"
+    ],
+    [
+      "7950",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3336"
+    ],
+    [
+      "7950",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "3907",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3336"
+    ],
+    [
+      "7950",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3336"
+    ],
+    [
+      "7950",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3336"
+    ],
+    [
+      "7950",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "13668",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3336"
+    ],
+    [
+      "7950",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "15202",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3336"
+    ],
+    [
+      "7950",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "12205",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3336"
+    ],
+    [
+      "7950",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "33668",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3336"
+    ],
+    [
+      "7950",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "8196",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3339"
+    ],
+    [
+      "7950",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "50615",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3339"
+    ],
+    [
+      "7950",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "5768",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3339"
+    ],
+    [
+      "7950",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3339"
+    ],
+    [
+      "7950",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "4000",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3339"
+    ],
+    [
+      "7950",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "3045",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3339"
+    ],
+    [
+      "7950",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3339"
+    ],
+    [
+      "7950",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "8350",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3339"
+    ],
+    [
+      "7950",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "7725",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3339"
+    ],
+    [
+      "7950",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "12315",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3339"
+    ],
+    [
+      "7950",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "50856",
+      "2024",
+      "01",
+      "ESWATINI",
+      "334"
+    ],
+    [
+      "7950",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "332628",
+      "2024",
+      "02",
+      "ESWATINI",
+      "334"
+    ],
+    [
+      "7950",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "834129",
+      "2024",
+      "03",
+      "ESWATINI",
+      "334"
+    ],
+    [
+      "7950",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "254620",
+      "2024",
+      "04",
+      "ESWATINI",
+      "334"
+    ],
+    [
+      "7950",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "133661",
+      "2024",
+      "05",
+      "ESWATINI",
+      "334"
+    ],
+    [
+      "7950",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "18857",
+      "2024",
+      "06",
+      "ESWATINI",
+      "334"
+    ],
+    [
+      "7950",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "119982",
+      "2024",
+      "07",
+      "ESWATINI",
+      "334"
+    ],
+    [
+      "7950",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "266500",
+      "2024",
+      "08",
+      "ESWATINI",
+      "334"
+    ],
+    [
+      "7950",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "921244",
+      "2024",
+      "09",
+      "ESWATINI",
+      "334"
+    ],
+    [
+      "7950",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "62953",
+      "2024",
+      "10",
+      "ESWATINI",
+      "334"
+    ],
+    [
+      "7950",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "75979",
+      "2024",
+      "11",
+      "ESWATINI",
+      "334"
+    ],
+    [
+      "7950",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "65838",
+      "2024",
+      "12",
+      "ESWATINI",
+      "334"
+    ],
+    [
+      "7950",
+      "COMPUTER EQUIPMENT",
+      "3500",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3341"
+    ],
+    [
+      "7950",
+      "COMPUTER EQUIPMENT",
+      "3709",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3341"
+    ],
+    [
+      "7950",
+      "COMPUTER EQUIPMENT",
+      "496838",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3341"
+    ],
+    [
+      "7950",
+      "COMPUTER EQUIPMENT",
+      "13277",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3341"
+    ],
+    [
+      "7950",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3341"
+    ],
+    [
+      "7950",
+      "COMPUTER EQUIPMENT",
+      "3157",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3341"
+    ],
+    [
+      "7950",
+      "COMPUTER EQUIPMENT",
+      "37500",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3341"
+    ],
+    [
+      "7950",
+      "COMPUTER EQUIPMENT",
+      "60025",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3341"
+    ],
+    [
+      "7950",
+      "COMPUTER EQUIPMENT",
+      "2744",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3341"
+    ],
+    [
+      "7950",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3341"
+    ],
+    [
+      "7950",
+      "COMPUTER EQUIPMENT",
+      "37232",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3341"
+    ],
+    [
+      "7950",
+      "COMPUTER EQUIPMENT",
+      "10032",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3341"
+    ],
+    [
+      "7950",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "30906",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3343"
+    ],
+    [
+      "7950",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "324061",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3343"
+    ],
+    [
+      "7950",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "233975",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3343"
+    ],
+    [
+      "7950",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3343"
+    ],
+    [
+      "7950",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "11043",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3343"
+    ],
+    [
+      "7950",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3343"
+    ],
+    [
+      "7950",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3343"
+    ],
+    [
+      "7950",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "2835",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3343"
+    ],
+    [
+      "7950",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "16499",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3343"
+    ],
+    [
+      "7950",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3343"
+    ],
+    [
+      "7950",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3343"
+    ],
+    [
+      "7950",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3343"
+    ],
+    [
+      "7950",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "3600",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3344"
+    ],
+    [
+      "7950",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3344"
+    ],
+    [
+      "7950",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "7497",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3344"
+    ],
+    [
+      "7950",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "5208",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3344"
+    ],
+    [
+      "7950",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3344"
+    ],
+    [
+      "7950",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3344"
+    ],
+    [
+      "7950",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "39919",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3344"
+    ],
+    [
+      "7950",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "17915",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3344"
+    ],
+    [
+      "7950",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3344"
+    ],
+    [
+      "7950",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "9292",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3344"
+    ],
+    [
+      "7950",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3344"
+    ],
+    [
+      "7950",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "9856",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3344"
+    ],
+    [
+      "7950",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "12850",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3345"
+    ],
+    [
+      "7950",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3345"
+    ],
+    [
+      "7950",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "95819",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3345"
+    ],
+    [
+      "7950",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "207335",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3345"
+    ],
+    [
+      "7950",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "34018",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3345"
+    ],
+    [
+      "7950",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "4500",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3345"
+    ],
+    [
+      "7950",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "6500",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3345"
+    ],
+    [
+      "7950",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "143062",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3345"
+    ],
+    [
+      "7950",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "902001",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3345"
+    ],
+    [
+      "7950",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "51021",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3345"
+    ],
+    [
+      "7950",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "9983",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3345"
+    ],
+    [
+      "7950",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "45950",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3345"
+    ],
+    [
+      "7950",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "3965",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3351"
+    ],
+    [
+      "7950",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3351"
+    ],
+    [
+      "7950",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "3126",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3352"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT",
+      "16719",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3353"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT",
+      "8889",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3353"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT",
+      "2520",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3353"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3353"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3353"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT",
+      "83500",
+      "2024",
+      "01",
+      "ESWATINI",
+      "336"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT",
+      "2629",
+      "2024",
+      "02",
+      "ESWATINI",
+      "336"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT",
+      "150380",
+      "2024",
+      "03",
+      "ESWATINI",
+      "336"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT",
+      "69500",
+      "2024",
+      "04",
+      "ESWATINI",
+      "336"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT",
+      "142119",
+      "2024",
+      "05",
+      "ESWATINI",
+      "336"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT",
+      "36994",
+      "2024",
+      "06",
+      "ESWATINI",
+      "336"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT",
+      "27036",
+      "2024",
+      "07",
+      "ESWATINI",
+      "336"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "336"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT",
+      "179699",
+      "2024",
+      "09",
+      "ESWATINI",
+      "336"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT",
+      "25878",
+      "2024",
+      "10",
+      "ESWATINI",
+      "336"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT",
+      "714547",
+      "2024",
+      "11",
+      "ESWATINI",
+      "336"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT",
+      "110665",
+      "2024",
+      "12",
+      "ESWATINI",
+      "336"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "3250",
+      "2024",
+      "02",
+      "ESWATINI",
+      "93"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "93"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "93"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "93"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2661",
+      "2024",
+      "06",
+      "ESWATINI",
+      "93"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "1036821",
+      "2024",
+      "07",
+      "ESWATINI",
+      "93"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "93"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "93"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "22707",
+      "2024",
+      "10",
+      "ESWATINI",
+      "93"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "93"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "40000",
+      "2024",
+      "12",
+      "ESWATINI",
+      "93"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "3250",
+      "2024",
+      "02",
+      "ESWATINI",
+      "930"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "930"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "930"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "930"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2661",
+      "2024",
+      "06",
+      "ESWATINI",
+      "930"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "1036821",
+      "2024",
+      "07",
+      "ESWATINI",
+      "930"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "930"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "930"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "22707",
+      "2024",
+      "10",
+      "ESWATINI",
+      "930"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "930"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "40000",
+      "2024",
+      "12",
+      "ESWATINI",
+      "930"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "3250",
+      "2024",
+      "02",
+      "ESWATINI",
+      "9300"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "9300"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "9300"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "9300"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "2661",
+      "2024",
+      "06",
+      "ESWATINI",
+      "9300"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "1036821",
+      "2024",
+      "07",
+      "ESWATINI",
+      "9300"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "9300"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "9300"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "22707",
+      "2024",
+      "10",
+      "ESWATINI",
+      "9300"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "9300"
+    ],
+    [
+      "7950",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "40000",
+      "2024",
+      "12",
+      "ESWATINI",
+      "9300"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "82955",
+      "2024",
+      "01",
+      "ESWATINI",
+      "990"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1414107",
+      "2024",
+      "02",
+      "ESWATINI",
+      "990"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "145628",
+      "2024",
+      "03",
+      "ESWATINI",
+      "990"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "54294",
+      "2024",
+      "04",
+      "ESWATINI",
+      "990"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "68132",
+      "2024",
+      "05",
+      "ESWATINI",
+      "990"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "115231",
+      "2024",
+      "06",
+      "ESWATINI",
+      "990"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "106119",
+      "2024",
+      "07",
+      "ESWATINI",
+      "990"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "43740",
+      "2024",
+      "08",
+      "ESWATINI",
+      "990"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "129871",
+      "2024",
+      "09",
+      "ESWATINI",
+      "990"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "85229",
+      "2024",
+      "10",
+      "ESWATINI",
+      "990"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "125841",
+      "2024",
+      "11",
+      "ESWATINI",
+      "990"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "72865",
+      "2024",
+      "12",
+      "ESWATINI",
+      "990"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "82955",
+      "2024",
+      "01",
+      "ESWATINI",
+      "9900"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1414107",
+      "2024",
+      "02",
+      "ESWATINI",
+      "9900"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "145628",
+      "2024",
+      "03",
+      "ESWATINI",
+      "9900"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "54294",
+      "2024",
+      "04",
+      "ESWATINI",
+      "9900"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "68132",
+      "2024",
+      "05",
+      "ESWATINI",
+      "9900"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "115231",
+      "2024",
+      "06",
+      "ESWATINI",
+      "9900"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "106119",
+      "2024",
+      "07",
+      "ESWATINI",
+      "9900"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "43740",
+      "2024",
+      "08",
+      "ESWATINI",
+      "9900"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "129871",
+      "2024",
+      "09",
+      "ESWATINI",
+      "9900"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "125841",
+      "2024",
+      "11",
+      "ESWATINI",
+      "9900"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "72865",
+      "2024",
+      "12",
+      "ESWATINI",
+      "9900"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "85229",
+      "2024",
+      "10",
+      "ESWATINI",
+      "9900"
+    ],
+    [
+      "7950",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "2712",
+      "2024",
+      "09",
+      "ESWATINI",
+      "323"
+    ],
+    [
+      "7950",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "323"
+    ],
+    [
+      "7950",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "323"
+    ],
+    [
+      "7950",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "323"
+    ],
+    [
+      "7950",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "5765",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3255"
+    ],
+    [
+      "7950",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "24250",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3255"
+    ],
+    [
+      "7950",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3255"
+    ],
+    [
+      "7950",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3255"
+    ],
+    [
+      "7950",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3255"
+    ],
+    [
+      "7950",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3255"
+    ],
+    [
+      "7950",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3255"
+    ],
+    [
+      "7950",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3255"
+    ],
+    [
+      "7950",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3255"
+    ],
+    [
+      "7950",
+      "RUBBER PRODUCTS",
+      "15493",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3262"
+    ],
+    [
+      "7950",
+      "RUBBER PRODUCTS",
+      "10500",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3262"
+    ],
+    [
+      "7950",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3262"
+    ],
+    [
+      "7950",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3262"
+    ],
+    [
+      "7950",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3262"
+    ],
+    [
+      "7950",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3262"
+    ],
+    [
+      "7950",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3262"
+    ],
+    [
+      "7950",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3262"
+    ],
+    [
+      "7950",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3262"
+    ],
+    [
+      "7950",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3262"
+    ],
+    [
+      "7950",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3262"
+    ],
+    [
+      "7950",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3262"
+    ],
+    [
+      "7950",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "50000",
+      "2024",
+      "05",
+      "ESWATINI",
+      "312"
+    ],
+    [
+      "7950",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "312"
+    ],
+    [
+      "7950",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "312"
+    ],
+    [
+      "7950",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "312"
+    ],
+    [
+      "7950",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "15109",
+      "2024",
+      "09",
+      "ESWATINI",
+      "312"
+    ],
+    [
+      "7950",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "9375",
+      "2024",
+      "10",
+      "ESWATINI",
+      "312"
+    ],
+    [
+      "7950",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "312"
+    ],
+    [
+      "7950",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "312"
+    ],
+    [
+      "7950",
+      "TOBACCO PRODUCTS",
+      "15109",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3122"
+    ],
+    [
+      "7950",
+      "TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3122"
+    ],
+    [
+      "7950",
+      "TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3122"
+    ],
+    [
+      "7950",
+      "TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3122"
+    ],
+    [
+      "7950",
+      "COMMUNICATIONS EQUIPMENT",
+      "4858",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3342"
+    ],
+    [
+      "7950",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3342"
+    ],
+    [
+      "7950",
+      "COMMUNICATIONS EQUIPMENT",
+      "28800",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3342"
+    ],
+    [
+      "7950",
+      "COMMUNICATIONS EQUIPMENT",
+      "88600",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3342"
+    ],
+    [
+      "7950",
+      "COMMUNICATIONS EQUIPMENT",
+      "11200",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3342"
+    ],
+    [
+      "7950",
+      "COMMUNICATIONS EQUIPMENT",
+      "36063",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3342"
+    ],
+    [
+      "7950",
+      "COMMUNICATIONS EQUIPMENT",
+      "42663",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3342"
+    ],
+    [
+      "7950",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3342"
+    ],
+    [
+      "7950",
+      "COMMUNICATIONS EQUIPMENT",
+      "2640",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3342"
+    ],
+    [
+      "7950",
+      "COMMUNICATIONS EQUIPMENT",
+      "28764",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3342"
+    ],
+    [
+      "7950",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3342"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "6127",
+      "2024",
+      "01",
+      "ESWATINI",
+      "335"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "02",
+      "ESWATINI",
+      "335"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "335"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "11200",
+      "2024",
+      "04",
+      "ESWATINI",
+      "335"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "335"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "335"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "17846",
+      "2024",
+      "07",
+      "ESWATINI",
+      "335"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "19802",
+      "2024",
+      "08",
+      "ESWATINI",
+      "335"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "14009",
+      "2024",
+      "09",
+      "ESWATINI",
+      "335"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "2520",
+      "2024",
+      "10",
+      "ESWATINI",
+      "335"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "3965",
+      "2024",
+      "11",
+      "ESWATINI",
+      "335"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "6864",
+      "2024",
+      "12",
+      "ESWATINI",
+      "335"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "6127",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3359"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3359"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3359"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "11200",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3359"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3359"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3359"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "17846",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3359"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "3083",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3359"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "5120",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3359"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3359"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3359"
+    ],
+    [
+      "7950",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "3738",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3359"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "82955",
+      "2024",
+      "01",
+      "ESWATINI",
+      "99"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1414107",
+      "2024",
+      "02",
+      "ESWATINI",
+      "99"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "145628",
+      "2024",
+      "03",
+      "ESWATINI",
+      "99"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "54294",
+      "2024",
+      "04",
+      "ESWATINI",
+      "99"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "68132",
+      "2024",
+      "05",
+      "ESWATINI",
+      "99"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "115231",
+      "2024",
+      "06",
+      "ESWATINI",
+      "99"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "106119",
+      "2024",
+      "07",
+      "ESWATINI",
+      "99"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "43740",
+      "2024",
+      "08",
+      "ESWATINI",
+      "99"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "129871",
+      "2024",
+      "09",
+      "ESWATINI",
+      "99"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "85229",
+      "2024",
+      "10",
+      "ESWATINI",
+      "99"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "125841",
+      "2024",
+      "11",
+      "ESWATINI",
+      "99"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "72865",
+      "2024",
+      "12",
+      "ESWATINI",
+      "99"
+    ],
+    [
+      "7950",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "83500",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3364"
+    ],
+    [
+      "7950",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "2629",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3364"
+    ],
+    [
+      "7950",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "150380",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3364"
+    ],
+    [
+      "7950",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "69500",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3364"
+    ],
+    [
+      "7950",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "142119",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3364"
+    ],
+    [
+      "7950",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "36994",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3364"
+    ],
+    [
+      "7950",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "12336",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3364"
+    ],
+    [
+      "7950",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3364"
+    ],
+    [
+      "7950",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "154709",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3364"
+    ],
+    [
+      "7950",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "25878",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3364"
+    ],
+    [
+      "7950",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "714547",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3364"
+    ],
+    [
+      "7950",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "95965",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3364"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "14700",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3369"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3369"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "24990",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3369"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3369"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3369"
+    ],
+    [
+      "7950",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "14700",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3369"
+    ],
+    [
+      "7950",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "131112",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3371"
+    ],
+    [
+      "7950",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "122082",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3371"
+    ],
+    [
+      "7950",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3371"
+    ],
+    [
+      "7950",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "62982",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3371"
+    ],
+    [
+      "7950",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3371"
+    ],
+    [
+      "7950",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "481200",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3371"
+    ],
+    [
+      "7950",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "215736",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3371"
+    ],
+    [
+      "7950",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3371"
+    ],
+    [
+      "7950",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3371"
+    ],
+    [
+      "7950",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "4737",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3371"
+    ],
+    [
+      "7950",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3371"
+    ],
+    [
+      "7950",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3371"
+    ],
+    [
+      "7950",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "13650",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3379"
+    ],
+    [
+      "7950",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3379"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "11432",
+      "2024",
+      "01",
+      "ESWATINI",
+      "339"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "5100",
+      "2024",
+      "02",
+      "ESWATINI",
+      "339"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "7991",
+      "2024",
+      "03",
+      "ESWATINI",
+      "339"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "17222",
+      "2024",
+      "04",
+      "ESWATINI",
+      "339"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "6600",
+      "2024",
+      "05",
+      "ESWATINI",
+      "339"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "15122",
+      "2024",
+      "06",
+      "ESWATINI",
+      "339"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "59335",
+      "2024",
+      "07",
+      "ESWATINI",
+      "339"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "3270",
+      "2024",
+      "08",
+      "ESWATINI",
+      "339"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "5093",
+      "2024",
+      "09",
+      "ESWATINI",
+      "339"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "276477",
+      "2024",
+      "10",
+      "ESWATINI",
+      "339"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "115345",
+      "2024",
+      "11",
+      "ESWATINI",
+      "339"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "16016",
+      "2024",
+      "12",
+      "ESWATINI",
+      "339"
+    ],
+    [
+      "7950",
+      "CUTLERY AND HANDTOOLS",
+      "7796",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3322"
+    ],
+    [
+      "7950",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3322"
+    ],
+    [
+      "7950",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3322"
+    ],
+    [
+      "7950",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3322"
+    ],
+    [
+      "7950",
+      "CUTLERY AND HANDTOOLS",
+      "2940",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3322"
+    ],
+    [
+      "7950",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3322"
+    ],
+    [
+      "7950",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3322"
+    ],
+    [
+      "7950",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3322"
+    ],
+    [
+      "7950",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3322"
+    ],
+    [
+      "7950",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "10000",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3324"
+    ],
+    [
+      "7950",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3324"
+    ],
+    [
+      "7950",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3324"
+    ],
+    [
+      "7950",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3324"
+    ],
+    [
+      "7950",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3324"
+    ],
+    [
+      "7950",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3324"
+    ],
+    [
+      "7950",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3324"
+    ],
+    [
+      "7950",
+      "HARDWARE",
+      "8730",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3325"
+    ],
+    [
+      "7950",
+      "HARDWARE",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3325"
+    ],
+    [
+      "7950",
+      "HARDWARE",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3325"
+    ],
+    [
+      "7950",
+      "HARDWARE",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3325"
+    ],
+    [
+      "7950",
+      "HARDWARE",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3325"
+    ],
+    [
+      "7950",
+      "HARDWARE",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3325"
+    ],
+    [
+      "7950",
+      "HARDWARE",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3325"
+    ],
+    [
+      "7950",
+      "HARDWARE",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3325"
+    ],
+    [
+      "7950",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "18067",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3279"
+    ],
+    [
+      "7950",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3279"
+    ],
+    [
+      "7950",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3279"
+    ],
+    [
+      "7950",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3279"
+    ],
+    [
+      "7950",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3279"
+    ],
+    [
+      "7950",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3279"
+    ],
+    [
+      "7950",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3279"
+    ],
+    [
+      "7950",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3279"
+    ],
+    [
+      "7950",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3279"
+    ],
+    [
+      "7950",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3279"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "41005",
+      "2024",
+      "05",
+      "ESWATINI",
+      "114"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "114"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "114"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "114"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "40000",
+      "2024",
+      "09",
+      "ESWATINI",
+      "114"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "114"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "114"
+    ],
+    [
+      "7950",
+      "FISH, FRESH, CHILLED, OR FROZEN AND OTHER MARINE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "114"
+    ],
+    [
+      "7950",
+      "MINERALS AND ORES",
+      "54500",
+      "2024",
+      "07",
+      "ESWATINI",
+      "212"
+    ],
+    [
+      "7950",
+      "MINERALS AND ORES",
+      "168500",
+      "2024",
+      "08",
+      "ESWATINI",
+      "212"
+    ],
+    [
+      "7950",
+      "MINERALS AND ORES",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "212"
+    ],
+    [
+      "7950",
+      "MINERALS AND ORES",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "212"
+    ],
+    [
+      "7950",
+      "MINERALS AND ORES",
+      "4990",
+      "2024",
+      "11",
+      "ESWATINI",
+      "212"
+    ],
+    [
+      "7950",
+      "MINERALS AND ORES",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "212"
+    ],
+    [
+      "7950",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "27339",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3112"
+    ],
+    [
+      "7950",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "8096",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3112"
+    ],
+    [
+      "7950",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "32386",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3112"
+    ],
+    [
+      "7950",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "66698",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3112"
+    ],
+    [
+      "7950",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "8096",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3112"
+    ],
+    [
+      "7950",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "8096",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3112"
+    ],
+    [
+      "7950",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "28338",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3112"
+    ],
+    [
+      "7950",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "16193",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3112"
+    ],
+    [
+      "7950",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3112"
+    ],
+    [
+      "7950",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "217047",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3112"
+    ],
+    [
+      "7950",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3112"
+    ],
+    [
+      "7950",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "12308",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3112"
+    ],
+    [
+      "7950",
+      "FURNITURE AND FIXTURES",
+      "131112",
+      "2024",
+      "01",
+      "ESWATINI",
+      "337"
+    ],
+    [
+      "7950",
+      "FURNITURE AND FIXTURES",
+      "122082",
+      "2024",
+      "02",
+      "ESWATINI",
+      "337"
+    ],
+    [
+      "7950",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "337"
+    ],
+    [
+      "7950",
+      "FURNITURE AND FIXTURES",
+      "62982",
+      "2024",
+      "04",
+      "ESWATINI",
+      "337"
+    ],
+    [
+      "7950",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "337"
+    ],
+    [
+      "7950",
+      "FURNITURE AND FIXTURES",
+      "481200",
+      "2024",
+      "06",
+      "ESWATINI",
+      "337"
+    ],
+    [
+      "7950",
+      "FURNITURE AND FIXTURES",
+      "215736",
+      "2024",
+      "07",
+      "ESWATINI",
+      "337"
+    ],
+    [
+      "7950",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "337"
+    ],
+    [
+      "7950",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "337"
+    ],
+    [
+      "7950",
+      "FURNITURE AND FIXTURES",
+      "4737",
+      "2024",
+      "10",
+      "ESWATINI",
+      "337"
+    ],
+    [
+      "7950",
+      "FURNITURE AND FIXTURES",
+      "13650",
+      "2024",
+      "11",
+      "ESWATINI",
+      "337"
+    ],
+    [
+      "7950",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "337"
+    ],
+    [
+      "7950",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "5668",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3391"
+    ],
+    [
+      "7950",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3391"
+    ],
+    [
+      "7950",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "15122",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3391"
+    ],
+    [
+      "7950",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "13310",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3391"
+    ],
+    [
+      "7950",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "3270",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3391"
+    ],
+    [
+      "7950",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "5093",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3391"
+    ],
+    [
+      "7950",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "179962",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3391"
+    ],
+    [
+      "7950",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "79712",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3391"
+    ],
+    [
+      "7950",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "16016",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3391"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "11432",
+      "2024",
+      "01",
+      "ESWATINI",
+      "3399"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "5100",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3399"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "7991",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3399"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "11554",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3399"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "6600",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3399"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3399"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "46025",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3399"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3399"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3399"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "96515",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3399"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "35633",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3399"
+    ],
+    [
+      "7950",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3399"
+    ],
+    [
+      "7950",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "9929056",
+      "2024",
+      "02",
+      "ESWATINI",
+      "332"
+    ],
+    [
+      "7950",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "332"
+    ],
+    [
+      "7950",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "7796",
+      "2024",
+      "04",
+      "ESWATINI",
+      "332"
+    ],
+    [
+      "7950",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "8730",
+      "2024",
+      "05",
+      "ESWATINI",
+      "332"
+    ],
+    [
+      "7950",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "10000",
+      "2024",
+      "06",
+      "ESWATINI",
+      "332"
+    ],
+    [
+      "7950",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "18577",
+      "2024",
+      "07",
+      "ESWATINI",
+      "332"
+    ],
+    [
+      "7950",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "2940",
+      "2024",
+      "08",
+      "ESWATINI",
+      "332"
+    ],
+    [
+      "7950",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "4268",
+      "2024",
+      "09",
+      "ESWATINI",
+      "332"
+    ],
+    [
+      "7950",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "332"
+    ],
+    [
+      "7950",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "332"
+    ],
+    [
+      "7950",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "332"
+    ],
+    [
+      "7950",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "9887705",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3327"
+    ],
+    [
+      "7950",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3327"
+    ],
+    [
+      "7950",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3327"
+    ],
+    [
+      "7950",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3327"
+    ],
+    [
+      "7950",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3327"
+    ],
+    [
+      "7950",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3327"
+    ],
+    [
+      "7950",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3327"
+    ],
+    [
+      "7950",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3327"
+    ],
+    [
+      "7950",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3327"
+    ],
+    [
+      "7950",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3327"
+    ],
+    [
+      "7950",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3327"
+    ],
+    [
+      "7950",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "41351",
+      "2024",
+      "02",
+      "ESWATINI",
+      "3329"
+    ],
+    [
+      "7950",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3329"
+    ],
+    [
+      "7950",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3329"
+    ],
+    [
+      "7950",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3329"
+    ],
+    [
+      "7950",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3329"
+    ],
+    [
+      "7950",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "18577",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3329"
+    ],
+    [
+      "7950",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3329"
+    ],
+    [
+      "7950",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "4268",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3329"
+    ],
+    [
+      "7950",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3329"
+    ],
+    [
+      "7950",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3329"
+    ],
+    [
+      "7950",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3329"
+    ],
+    [
+      "7950",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "22724",
+      "2024",
+      "02",
+      "ESWATINI",
+      "333"
+    ],
+    [
+      "7950",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "73218",
+      "2024",
+      "03",
+      "ESWATINI",
+      "333"
+    ],
+    [
+      "7950",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "70615",
+      "2024",
+      "04",
+      "ESWATINI",
+      "333"
+    ],
+    [
+      "7950",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "93663",
+      "2024",
+      "05",
+      "ESWATINI",
+      "333"
+    ],
+    [
+      "7950",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "11015",
+      "2024",
+      "06",
+      "ESWATINI",
+      "333"
+    ],
+    [
+      "7950",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "12724",
+      "2024",
+      "07",
+      "ESWATINI",
+      "333"
+    ],
+    [
+      "7950",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "23501",
+      "2024",
+      "08",
+      "ESWATINI",
+      "333"
+    ],
+    [
+      "7950",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "25489",
+      "2024",
+      "09",
+      "ESWATINI",
+      "333"
+    ],
+    [
+      "7950",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "123552",
+      "2024",
+      "10",
+      "ESWATINI",
+      "333"
+    ],
+    [
+      "7950",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "23138",
+      "2024",
+      "11",
+      "ESWATINI",
+      "333"
+    ],
+    [
+      "7950",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "45983",
+      "2024",
+      "12",
+      "ESWATINI",
+      "333"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "18888",
+      "2024",
+      "03",
+      "ESWATINI",
+      "3331"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "20000",
+      "2024",
+      "04",
+      "ESWATINI",
+      "3331"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "ESWATINI",
+      "3331"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "ESWATINI",
+      "3331"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "ESWATINI",
+      "3331"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "ESWATINI",
+      "3331"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "2856",
+      "2024",
+      "09",
+      "ESWATINI",
+      "3331"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "100000",
+      "2024",
+      "10",
+      "ESWATINI",
+      "3331"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "ESWATINI",
+      "3331"
+    ],
+    [
+      "7950",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "ESWATINI",
+      "3331"
+    ]
+  ]
+}

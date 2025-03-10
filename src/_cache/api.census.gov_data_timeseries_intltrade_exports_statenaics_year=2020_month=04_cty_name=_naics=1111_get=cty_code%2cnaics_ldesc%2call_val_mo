@@ -1,0 +1,1505 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 03:26:22 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a424a1535ce457e3e3ad85252363a845629040fe52e31de0edd513ac6f929e2842036aec18cc3669d3250b5a28c712f9b3; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "-",
+      "OILSEEDS AND GRAINS",
+      "2631115245",
+      "2020",
+      "04",
+      "TOTAL FOR ALL COUNTRIES",
+      "1111"
+    ],
+    [
+      "0003",
+      "OILSEEDS AND GRAINS",
+      "81591112",
+      "2020",
+      "04",
+      "EUROPEAN UNION",
+      "1111"
+    ],
+    [
+      "0014",
+      "OILSEEDS AND GRAINS",
+      "1068187486",
+      "2020",
+      "04",
+      "PACIFIC RIM COUNTRIES",
+      "1111"
+    ],
+    [
+      "0017",
+      "OILSEEDS AND GRAINS",
+      "138714571",
+      "2020",
+      "04",
+      "CAFTA-DR",
+      "1111"
+    ],
+    [
+      "0020",
+      "OILSEEDS AND GRAINS",
+      "608813502",
+      "2020",
+      "04",
+      "NAFTA",
+      "1111"
+    ],
+    [
+      "0021",
+      "OILSEEDS AND GRAINS",
+      "901871720",
+      "2020",
+      "04",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1111"
+    ],
+    [
+      "0022",
+      "OILSEEDS AND GRAINS",
+      "1219803036",
+      "2020",
+      "04",
+      "OECD",
+      "1111"
+    ],
+    [
+      "0023",
+      "OILSEEDS AND GRAINS",
+      "180028681",
+      "2020",
+      "04",
+      "NATO",
+      "1111"
+    ],
+    [
+      "0024",
+      "OILSEEDS AND GRAINS",
+      "745864619",
+      "2020",
+      "04",
+      "LAFTA",
+      "1111"
+    ],
+    [
+      "0025",
+      "OILSEEDS AND GRAINS",
+      "81154897",
+      "2020",
+      "04",
+      "EURO AREA",
+      "1111"
+    ],
+    [
+      "0026",
+      "OILSEEDS AND GRAINS",
+      "1812137881",
+      "2020",
+      "04",
+      "APEC",
+      "1111"
+    ],
+    [
+      "0027",
+      "OILSEEDS AND GRAINS",
+      "346597164",
+      "2020",
+      "04",
+      "ASEAN",
+      "1111"
+    ],
+    [
+      "0028",
+      "OILSEEDS AND GRAINS",
+      "109728645",
+      "2020",
+      "04",
+      "CACM",
+      "1111"
+    ],
+    [
+      "1220",
+      "OILSEEDS AND GRAINS",
+      "80092097",
+      "2020",
+      "04",
+      "CANADA",
+      "1111"
+    ],
+    [
+      "1XXX",
+      "OILSEEDS AND GRAINS",
+      "608813502",
+      "2020",
+      "04",
+      "NORTH AMERICA",
+      "1111"
+    ],
+    [
+      "2010",
+      "OILSEEDS AND GRAINS",
+      "528721405",
+      "2020",
+      "04",
+      "MEXICO",
+      "1111"
+    ],
+    [
+      "2050",
+      "OILSEEDS AND GRAINS",
+      "43018488",
+      "2020",
+      "04",
+      "GUATEMALA",
+      "1111"
+    ],
+    [
+      "2080",
+      "OILSEEDS AND GRAINS",
+      "1367209",
+      "2020",
+      "04",
+      "BELIZE",
+      "1111"
+    ],
+    [
+      "2110",
+      "OILSEEDS AND GRAINS",
+      "21426825",
+      "2020",
+      "04",
+      "EL SALVADOR",
+      "1111"
+    ],
+    [
+      "2150",
+      "OILSEEDS AND GRAINS",
+      "14853582",
+      "2020",
+      "04",
+      "HONDURAS",
+      "1111"
+    ],
+    [
+      "2190",
+      "OILSEEDS AND GRAINS",
+      "6929197",
+      "2020",
+      "04",
+      "NICARAGUA",
+      "1111"
+    ],
+    [
+      "2230",
+      "OILSEEDS AND GRAINS",
+      "23500553",
+      "2020",
+      "04",
+      "COSTA RICA",
+      "1111"
+    ],
+    [
+      "2250",
+      "OILSEEDS AND GRAINS",
+      "14935379",
+      "2020",
+      "04",
+      "PANAMA",
+      "1111"
+    ],
+    [
+      "2320",
+      "OILSEEDS AND GRAINS",
+      "3113",
+      "2020",
+      "04",
+      "BERMUDA",
+      "1111"
+    ],
+    [
+      "2360",
+      "OILSEEDS AND GRAINS",
+      "71458",
+      "2020",
+      "04",
+      "BAHAMAS",
+      "1111"
+    ],
+    [
+      "2390",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "CUBA",
+      "1111"
+    ],
+    [
+      "2410",
+      "OILSEEDS AND GRAINS",
+      "11313101",
+      "2020",
+      "04",
+      "JAMAICA",
+      "1111"
+    ],
+    [
+      "2430",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "TURKS AND CAICOS ISLANDS",
+      "1111"
+    ],
+    [
+      "2440",
+      "OILSEEDS AND GRAINS",
+      "37976",
+      "2020",
+      "04",
+      "CAYMAN ISLANDS",
+      "1111"
+    ],
+    [
+      "2450",
+      "OILSEEDS AND GRAINS",
+      "2357151",
+      "2020",
+      "04",
+      "HAITI",
+      "1111"
+    ],
+    [
+      "2470",
+      "OILSEEDS AND GRAINS",
+      "28985926",
+      "2020",
+      "04",
+      "DOMINICAN REPUBLIC",
+      "1111"
+    ],
+    [
+      "2481",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "ANGUILLA",
+      "1111"
+    ],
+    [
+      "2482",
+      "OILSEEDS AND GRAINS",
+      "2620",
+      "2020",
+      "04",
+      "BRITISH VIRGIN ISLANDS",
+      "1111"
+    ],
+    [
+      "2483",
+      "OILSEEDS AND GRAINS",
+      "6192",
+      "2020",
+      "04",
+      "ST KITTS AND NEVIS",
+      "1111"
+    ],
+    [
+      "2484",
+      "OILSEEDS AND GRAINS",
+      "28550",
+      "2020",
+      "04",
+      "ANTIGUA AND BARBUDA",
+      "1111"
+    ],
+    [
+      "2486",
+      "OILSEEDS AND GRAINS",
+      "2702",
+      "2020",
+      "04",
+      "DOMINICA",
+      "1111"
+    ],
+    [
+      "2487",
+      "OILSEEDS AND GRAINS",
+      "490441",
+      "2020",
+      "04",
+      "ST LUCIA",
+      "1111"
+    ],
+    [
+      "2488",
+      "OILSEEDS AND GRAINS",
+      "2258814",
+      "2020",
+      "04",
+      "ST VINCENT AND THE GRENADINES",
+      "1111"
+    ],
+    [
+      "2489",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "GRENADA",
+      "1111"
+    ],
+    [
+      "2720",
+      "OILSEEDS AND GRAINS",
+      "56413",
+      "2020",
+      "04",
+      "BARBADOS",
+      "1111"
+    ],
+    [
+      "2740",
+      "OILSEEDS AND GRAINS",
+      "3190848",
+      "2020",
+      "04",
+      "TRINIDAD AND TOBAGO",
+      "1111"
+    ],
+    [
+      "2774",
+      "OILSEEDS AND GRAINS",
+      "12899",
+      "2020",
+      "04",
+      "SINT MAARTEN",
+      "1111"
+    ],
+    [
+      "2777",
+      "OILSEEDS AND GRAINS",
+      "43796",
+      "2020",
+      "04",
+      "CURACAO",
+      "1111"
+    ],
+    [
+      "2779",
+      "OILSEEDS AND GRAINS",
+      "8457",
+      "2020",
+      "04",
+      "ARUBA",
+      "1111"
+    ],
+    [
+      "2831",
+      "OILSEEDS AND GRAINS",
+      "36575",
+      "2020",
+      "04",
+      "GUADELOUPE",
+      "1111"
+    ],
+    [
+      "2839",
+      "OILSEEDS AND GRAINS",
+      "33000",
+      "2020",
+      "04",
+      "MARTINIQUE",
+      "1111"
+    ],
+    [
+      "2XXX",
+      "OILSEEDS AND GRAINS",
+      "174971265",
+      "2020",
+      "04",
+      "CENTRAL AMERICA",
+      "1111"
+    ],
+    [
+      "3010",
+      "OILSEEDS AND GRAINS",
+      "155921402",
+      "2020",
+      "04",
+      "COLOMBIA",
+      "1111"
+    ],
+    [
+      "3070",
+      "OILSEEDS AND GRAINS",
+      "11941757",
+      "2020",
+      "04",
+      "VENEZUELA",
+      "1111"
+    ],
+    [
+      "3120",
+      "OILSEEDS AND GRAINS",
+      "851302",
+      "2020",
+      "04",
+      "GUYANA",
+      "1111"
+    ],
+    [
+      "3150",
+      "OILSEEDS AND GRAINS",
+      "20664",
+      "2020",
+      "04",
+      "SURINAME",
+      "1111"
+    ],
+    [
+      "3170",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "FRENCH GUIANA",
+      "1111"
+    ],
+    [
+      "3310",
+      "OILSEEDS AND GRAINS",
+      "20190259",
+      "2020",
+      "04",
+      "ECUADOR",
+      "1111"
+    ],
+    [
+      "3330",
+      "OILSEEDS AND GRAINS",
+      "12885666",
+      "2020",
+      "04",
+      "PERU",
+      "1111"
+    ],
+    [
+      "3350",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "BOLIVIA",
+      "1111"
+    ],
+    [
+      "3370",
+      "OILSEEDS AND GRAINS",
+      "290361",
+      "2020",
+      "04",
+      "CHILE",
+      "1111"
+    ],
+    [
+      "3510",
+      "OILSEEDS AND GRAINS",
+      "15909389",
+      "2020",
+      "04",
+      "BRAZIL",
+      "1111"
+    ],
+    [
+      "3550",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "URUGUAY",
+      "1111"
+    ],
+    [
+      "3570",
+      "OILSEEDS AND GRAINS",
+      "4380",
+      "2020",
+      "04",
+      "ARGENTINA",
+      "1111"
+    ],
+    [
+      "3XXX",
+      "OILSEEDS AND GRAINS",
+      "218015180",
+      "2020",
+      "04",
+      "SOUTH AMERICA",
+      "1111"
+    ],
+    [
+      "4010",
+      "OILSEEDS AND GRAINS",
+      "20901",
+      "2020",
+      "04",
+      "SWEDEN",
+      "1111"
+    ],
+    [
+      "4039",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "NORWAY",
+      "1111"
+    ],
+    [
+      "4050",
+      "OILSEEDS AND GRAINS",
+      "66000",
+      "2020",
+      "04",
+      "FINLAND",
+      "1111"
+    ],
+    [
+      "4099",
+      "OILSEEDS AND GRAINS",
+      "154556",
+      "2020",
+      "04",
+      "DENMARK",
+      "1111"
+    ],
+    [
+      "4120",
+      "OILSEEDS AND GRAINS",
+      "3883070",
+      "2020",
+      "04",
+      "UNITED KINGDOM",
+      "1111"
+    ],
+    [
+      "4190",
+      "OILSEEDS AND GRAINS",
+      "53102",
+      "2020",
+      "04",
+      "IRELAND",
+      "1111"
+    ],
+    [
+      "4210",
+      "OILSEEDS AND GRAINS",
+      "1006886",
+      "2020",
+      "04",
+      "NETHERLANDS",
+      "1111"
+    ],
+    [
+      "4231",
+      "OILSEEDS AND GRAINS",
+      "1217083",
+      "2020",
+      "04",
+      "BELGIUM",
+      "1111"
+    ],
+    [
+      "4279",
+      "OILSEEDS AND GRAINS",
+      "1499697",
+      "2020",
+      "04",
+      "FRANCE",
+      "1111"
+    ],
+    [
+      "4280",
+      "OILSEEDS AND GRAINS",
+      "833880",
+      "2020",
+      "04",
+      "GERMANY",
+      "1111"
+    ],
+    [
+      "4330",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "AUSTRIA",
+      "1111"
+    ],
+    [
+      "4351",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "CZECH REPUBLIC",
+      "1111"
+    ],
+    [
+      "4370",
+      "OILSEEDS AND GRAINS",
+      "229638",
+      "2020",
+      "04",
+      "HUNGARY",
+      "1111"
+    ],
+    [
+      "4419",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "SWITZERLAND",
+      "1111"
+    ],
+    [
+      "4490",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "LATVIA",
+      "1111"
+    ],
+    [
+      "4510",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "LITHUANIA",
+      "1111"
+    ],
+    [
+      "4550",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "POLAND",
+      "1111"
+    ],
+    [
+      "4621",
+      "OILSEEDS AND GRAINS",
+      "98820",
+      "2020",
+      "04",
+      "RUSSIA",
+      "1111"
+    ],
+    [
+      "4623",
+      "OILSEEDS AND GRAINS",
+      "9024",
+      "2020",
+      "04",
+      "UKRAINE",
+      "1111"
+    ],
+    [
+      "4633",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "GEORGIA",
+      "1111"
+    ],
+    [
+      "4634",
+      "OILSEEDS AND GRAINS",
+      "6932",
+      "2020",
+      "04",
+      "KAZAKHSTAN",
+      "1111"
+    ],
+    [
+      "4644",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "UZBEKISTAN",
+      "1111"
+    ],
+    [
+      "4700",
+      "OILSEEDS AND GRAINS",
+      "28098862",
+      "2020",
+      "04",
+      "SPAIN",
+      "1111"
+    ],
+    [
+      "4710",
+      "OILSEEDS AND GRAINS",
+      "1187335",
+      "2020",
+      "04",
+      "PORTUGAL",
+      "1111"
+    ],
+    [
+      "4759",
+      "OILSEEDS AND GRAINS",
+      "46847765",
+      "2020",
+      "04",
+      "ITALY",
+      "1111"
+    ],
+    [
+      "4791",
+      "OILSEEDS AND GRAINS",
+      "4082",
+      "2020",
+      "04",
+      "CROATIA",
+      "1111"
+    ],
+    [
+      "4792",
+      "OILSEEDS AND GRAINS",
+      "3564",
+      "2020",
+      "04",
+      "SLOVENIA",
+      "1111"
+    ],
+    [
+      "4801",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "SERBIA",
+      "1111"
+    ],
+    [
+      "4810",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "ALBANIA",
+      "1111"
+    ],
+    [
+      "4840",
+      "OILSEEDS AND GRAINS",
+      "340723",
+      "2020",
+      "04",
+      "GREECE",
+      "1111"
+    ],
+    [
+      "4850",
+      "OILSEEDS AND GRAINS",
+      "27038",
+      "2020",
+      "04",
+      "ROMANIA",
+      "1111"
+    ],
+    [
+      "4870",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "BULGARIA",
+      "1111"
+    ],
+    [
+      "5040",
+      "OILSEEDS AND GRAINS",
+      "301996",
+      "2020",
+      "04",
+      "LEBANON",
+      "1111"
+    ],
+    [
+      "4890",
+      "OILSEEDS AND GRAINS",
+      "14606487",
+      "2020",
+      "04",
+      "TURKEY",
+      "1111"
+    ],
+    [
+      "4910",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "CYPRUS",
+      "1111"
+    ],
+    [
+      "4XXX",
+      "OILSEEDS AND GRAINS",
+      "100195445",
+      "2020",
+      "04",
+      "EUROPE",
+      "1111"
+    ],
+    [
+      "5050",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "IRAQ",
+      "1111"
+    ],
+    [
+      "5081",
+      "OILSEEDS AND GRAINS",
+      "12213747",
+      "2020",
+      "04",
+      "ISRAEL",
+      "1111"
+    ],
+    [
+      "5110",
+      "OILSEEDS AND GRAINS",
+      "169451",
+      "2020",
+      "04",
+      "JORDAN",
+      "1111"
+    ],
+    [
+      "5130",
+      "OILSEEDS AND GRAINS",
+      "93165",
+      "2020",
+      "04",
+      "KUWAIT",
+      "1111"
+    ],
+    [
+      "5170",
+      "OILSEEDS AND GRAINS",
+      "25961773",
+      "2020",
+      "04",
+      "SAUDI ARABIA",
+      "1111"
+    ],
+    [
+      "5180",
+      "OILSEEDS AND GRAINS",
+      "51101",
+      "2020",
+      "04",
+      "QATAR",
+      "1111"
+    ],
+    [
+      "5200",
+      "OILSEEDS AND GRAINS",
+      "1999197",
+      "2020",
+      "04",
+      "UNITED ARAB EMIRATES",
+      "1111"
+    ],
+    [
+      "5210",
+      "OILSEEDS AND GRAINS",
+      "11911271",
+      "2020",
+      "04",
+      "YEMEN",
+      "1111"
+    ],
+    [
+      "5230",
+      "OILSEEDS AND GRAINS",
+      "3189000",
+      "2020",
+      "04",
+      "OMAN",
+      "1111"
+    ],
+    [
+      "5250",
+      "OILSEEDS AND GRAINS",
+      "19065",
+      "2020",
+      "04",
+      "BAHRAIN",
+      "1111"
+    ],
+    [
+      "5330",
+      "OILSEEDS AND GRAINS",
+      "1961132",
+      "2020",
+      "04",
+      "INDIA",
+      "1111"
+    ],
+    [
+      "5350",
+      "OILSEEDS AND GRAINS",
+      "3242065",
+      "2020",
+      "04",
+      "PAKISTAN",
+      "1111"
+    ],
+    [
+      "5360",
+      "OILSEEDS AND GRAINS",
+      "130000",
+      "2020",
+      "04",
+      "NEPAL",
+      "1111"
+    ],
+    [
+      "5380",
+      "OILSEEDS AND GRAINS",
+      "19599127",
+      "2020",
+      "04",
+      "BANGLADESH",
+      "1111"
+    ],
+    [
+      "5420",
+      "OILSEEDS AND GRAINS",
+      "353523",
+      "2020",
+      "04",
+      "SRI LANKA",
+      "1111"
+    ],
+    [
+      "5460",
+      "OILSEEDS AND GRAINS",
+      "17233048",
+      "2020",
+      "04",
+      "BURMA",
+      "1111"
+    ],
+    [
+      "5490",
+      "OILSEEDS AND GRAINS",
+      "53227594",
+      "2020",
+      "04",
+      "THAILAND",
+      "1111"
+    ],
+    [
+      "5520",
+      "OILSEEDS AND GRAINS",
+      "68634452",
+      "2020",
+      "04",
+      "VIETNAM",
+      "1111"
+    ],
+    [
+      "5530",
+      "OILSEEDS AND GRAINS",
+      "374147",
+      "2020",
+      "04",
+      "LAOS",
+      "1111"
+    ],
+    [
+      "5550",
+      "OILSEEDS AND GRAINS",
+      "236129",
+      "2020",
+      "04",
+      "CAMBODIA",
+      "1111"
+    ],
+    [
+      "5570",
+      "OILSEEDS AND GRAINS",
+      "30848267",
+      "2020",
+      "04",
+      "MALAYSIA",
+      "1111"
+    ],
+    [
+      "5590",
+      "OILSEEDS AND GRAINS",
+      "5597494",
+      "2020",
+      "04",
+      "SINGAPORE",
+      "1111"
+    ],
+    [
+      "5600",
+      "OILSEEDS AND GRAINS",
+      "86083883",
+      "2020",
+      "04",
+      "INDONESIA",
+      "1111"
+    ],
+    [
+      "5650",
+      "OILSEEDS AND GRAINS",
+      "84362150",
+      "2020",
+      "04",
+      "PHILIPPINES",
+      "1111"
+    ],
+    [
+      "5700",
+      "OILSEEDS AND GRAINS",
+      "301024206",
+      "2020",
+      "04",
+      "CHINA",
+      "1111"
+    ],
+    [
+      "5740",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "MONGOLIA",
+      "1111"
+    ],
+    [
+      "5800",
+      "OILSEEDS AND GRAINS",
+      "141088817",
+      "2020",
+      "04",
+      "KOREA, SOUTH",
+      "1111"
+    ],
+    [
+      "5820",
+      "OILSEEDS AND GRAINS",
+      "1274115",
+      "2020",
+      "04",
+      "HONG KONG",
+      "1111"
+    ],
+    [
+      "5830",
+      "OILSEEDS AND GRAINS",
+      "60561494",
+      "2020",
+      "04",
+      "TAIWAN",
+      "1111"
+    ],
+    [
+      "5880",
+      "OILSEEDS AND GRAINS",
+      "355150362",
+      "2020",
+      "04",
+      "JAPAN",
+      "1111"
+    ],
+    [
+      "5XXX",
+      "OILSEEDS AND GRAINS",
+      "1286891771",
+      "2020",
+      "04",
+      "ASIA",
+      "1111"
+    ],
+    [
+      "6021",
+      "OILSEEDS AND GRAINS",
+      "1951820",
+      "2020",
+      "04",
+      "AUSTRALIA",
+      "1111"
+    ],
+    [
+      "6141",
+      "OILSEEDS AND GRAINS",
+      "244878",
+      "2020",
+      "04",
+      "NEW ZEALAND",
+      "1111"
+    ],
+    [
+      "6412",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "NEW CALEDONIA",
+      "1111"
+    ],
+    [
+      "6414",
+      "OILSEEDS AND GRAINS",
+      "49914",
+      "2020",
+      "04",
+      "FRENCH POLYNESIA",
+      "1111"
+    ],
+    [
+      "6863",
+      "OILSEEDS AND GRAINS",
+      "40988",
+      "2020",
+      "04",
+      "FIJI",
+      "1111"
+    ],
+    [
+      "6XXX",
+      "OILSEEDS AND GRAINS",
+      "2287600",
+      "2020",
+      "04",
+      "AUSTRALIA AND OCEANIA",
+      "1111"
+    ],
+    [
+      "7140",
+      "OILSEEDS AND GRAINS",
+      "23020732",
+      "2020",
+      "04",
+      "MOROCCO",
+      "1111"
+    ],
+    [
+      "7210",
+      "OILSEEDS AND GRAINS",
+      "16368818",
+      "2020",
+      "04",
+      "ALGERIA",
+      "1111"
+    ],
+    [
+      "7230",
+      "OILSEEDS AND GRAINS",
+      "4543401",
+      "2020",
+      "04",
+      "TUNISIA",
+      "1111"
+    ],
+    [
+      "7250",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "LIBYA",
+      "1111"
+    ],
+    [
+      "7290",
+      "OILSEEDS AND GRAINS",
+      "141565720",
+      "2020",
+      "04",
+      "EGYPT",
+      "1111"
+    ],
+    [
+      "7321",
+      "OILSEEDS AND GRAINS",
+      "394535",
+      "2020",
+      "04",
+      "SUDAN",
+      "1111"
+    ],
+    [
+      "7420",
+      "OILSEEDS AND GRAINS",
+      "5700",
+      "2020",
+      "04",
+      "CAMEROON",
+      "1111"
+    ],
+    [
+      "7440",
+      "OILSEEDS AND GRAINS",
+      "4610443",
+      "2020",
+      "04",
+      "SENEGAL",
+      "1111"
+    ],
+    [
+      "7450",
+      "OILSEEDS AND GRAINS",
+      "1215680",
+      "2020",
+      "04",
+      "MALI",
+      "1111"
+    ],
+    [
+      "7490",
+      "OILSEEDS AND GRAINS",
+      "14899",
+      "2020",
+      "04",
+      "GHANA",
+      "1111"
+    ],
+    [
+      "7510",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "NIGER",
+      "1111"
+    ],
+    [
+      "7520",
+      "OILSEEDS AND GRAINS",
+      "738594",
+      "2020",
+      "04",
+      "TOGO",
+      "1111"
+    ],
+    [
+      "7530",
+      "OILSEEDS AND GRAINS",
+      "30998959",
+      "2020",
+      "04",
+      "NIGERIA",
+      "1111"
+    ],
+    [
+      "7540",
+      "OILSEEDS AND GRAINS",
+      "5700",
+      "2020",
+      "04",
+      "CENTRAL AFRICAN REPUBLIC",
+      "1111"
+    ],
+    [
+      "7630",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "CONGO (BRAZZAVILLE)",
+      "1111"
+    ],
+    [
+      "7643",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "CABO VERDE",
+      "1111"
+    ],
+    [
+      "7650",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "LIBERIA",
+      "1111"
+    ],
+    [
+      "7660",
+      "OILSEEDS AND GRAINS",
+      "658597",
+      "2020",
+      "04",
+      "CONGO (KINSHASA)",
+      "1111"
+    ],
+    [
+      "7700",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "SOMALIA",
+      "1111"
+    ],
+    [
+      "7749",
+      "OILSEEDS AND GRAINS",
+      "10925005",
+      "2020",
+      "04",
+      "ETHIOPIA",
+      "1111"
+    ],
+    [
+      "7770",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "DJIBOUTI",
+      "1111"
+    ],
+    [
+      "7780",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "UGANDA",
+      "1111"
+    ],
+    [
+      "7790",
+      "OILSEEDS AND GRAINS",
+      "1603432",
+      "2020",
+      "04",
+      "KENYA",
+      "1111"
+    ],
+    [
+      "7830",
+      "OILSEEDS AND GRAINS",
+      "665201",
+      "2020",
+      "04",
+      "TANZANIA",
+      "1111"
+    ],
+    [
+      "7850",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "MAURITIUS",
+      "1111"
+    ],
+    [
+      "7880",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "MADAGASCAR",
+      "1111"
+    ],
+    [
+      "7904",
+      "OILSEEDS AND GRAINS",
+      "24700",
+      "2020",
+      "04",
+      "REUNION",
+      "1111"
+    ],
+    [
+      "7910",
+      "OILSEEDS AND GRAINS",
+      "2580366",
+      "2020",
+      "04",
+      "SOUTH AFRICA",
+      "1111"
+    ],
+    [
+      "7920",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "NAMIBIA",
+      "1111"
+    ],
+    [
+      "7960",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2020",
+      "04",
+      "ZIMBABWE",
+      "1111"
+    ],
+    [
+      "7XXX",
+      "OILSEEDS AND GRAINS",
+      "239940482",
+      "2020",
+      "04",
+      "AFRICA",
+      "1111"
+    ]
+  ]
+}

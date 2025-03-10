@@ -1,0 +1,515 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Sun, 09 Mar 2025 08:21:47 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4ddfa35c00fb5e342a45208342660d219e41b997d1ce8c452073e8ea061a0633c1a3fe7f08556eb6d41eaf5defce78359; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5330",
+      "METAL ORES",
+      "0",
+      "2014",
+      "02",
+      "INDIA",
+      "2122"
+    ],
+    [
+      "5490",
+      "METAL ORES",
+      "0",
+      "2014",
+      "02",
+      "THAILAND",
+      "2122"
+    ],
+    [
+      "5700",
+      "METAL ORES",
+      "194928",
+      "2014",
+      "02",
+      "CHINA",
+      "2122"
+    ],
+    [
+      "5880",
+      "METAL ORES",
+      "27781",
+      "2014",
+      "02",
+      "JAPAN",
+      "2122"
+    ],
+    [
+      "6021",
+      "METAL ORES",
+      "40371624",
+      "2014",
+      "02",
+      "AUSTRALIA",
+      "2122"
+    ],
+    [
+      "6141",
+      "METAL ORES",
+      "0",
+      "2014",
+      "02",
+      "NEW ZEALAND",
+      "2122"
+    ],
+    [
+      "2740",
+      "METAL ORES",
+      "0",
+      "2014",
+      "02",
+      "TRINIDAD AND TOBAGO",
+      "2122"
+    ],
+    [
+      "3010",
+      "METAL ORES",
+      "2470",
+      "2014",
+      "02",
+      "COLOMBIA",
+      "2122"
+    ],
+    [
+      "3120",
+      "METAL ORES",
+      "1624247",
+      "2014",
+      "02",
+      "GUYANA",
+      "2122"
+    ],
+    [
+      "3330",
+      "METAL ORES",
+      "7062890",
+      "2014",
+      "02",
+      "PERU",
+      "2122"
+    ],
+    [
+      "3350",
+      "METAL ORES",
+      "6971657",
+      "2014",
+      "02",
+      "BOLIVIA",
+      "2122"
+    ],
+    [
+      "3370",
+      "METAL ORES",
+      "582890",
+      "2014",
+      "02",
+      "CHILE",
+      "2122"
+    ],
+    [
+      "3510",
+      "METAL ORES",
+      "24578626",
+      "2014",
+      "02",
+      "BRAZIL",
+      "2122"
+    ],
+    [
+      "4010",
+      "METAL ORES",
+      "6561",
+      "2014",
+      "02",
+      "SWEDEN",
+      "2122"
+    ],
+    [
+      "4210",
+      "METAL ORES",
+      "42455",
+      "2014",
+      "02",
+      "NETHERLANDS",
+      "2122"
+    ],
+    [
+      "4231",
+      "METAL ORES",
+      "0",
+      "2014",
+      "02",
+      "BELGIUM",
+      "2122"
+    ],
+    [
+      "4351",
+      "METAL ORES",
+      "0",
+      "2014",
+      "02",
+      "CZECH REPUBLIC",
+      "2122"
+    ],
+    [
+      "7460",
+      "METAL ORES",
+      "11776268",
+      "2014",
+      "02",
+      "GUINEA",
+      "2122"
+    ],
+    [
+      "7530",
+      "METAL ORES",
+      "39604",
+      "2014",
+      "02",
+      "NIGERIA",
+      "2122"
+    ],
+    [
+      "7550",
+      "METAL ORES",
+      "7227002",
+      "2014",
+      "02",
+      "GABON",
+      "2122"
+    ],
+    [
+      "7690",
+      "METAL ORES",
+      "471286",
+      "2014",
+      "02",
+      "RWANDA",
+      "2122"
+    ],
+    [
+      "4621",
+      "METAL ORES",
+      "1076424",
+      "2014",
+      "02",
+      "RUSSIA",
+      "2122"
+    ],
+    [
+      "4623",
+      "METAL ORES",
+      "152000",
+      "2014",
+      "02",
+      "UKRAINE",
+      "2122"
+    ],
+    [
+      "4634",
+      "METAL ORES",
+      "0",
+      "2014",
+      "02",
+      "KAZAKHSTAN",
+      "2122"
+    ],
+    [
+      "4700",
+      "METAL ORES",
+      "1940846",
+      "2014",
+      "02",
+      "SPAIN",
+      "2122"
+    ],
+    [
+      "4710",
+      "METAL ORES",
+      "1386655",
+      "2014",
+      "02",
+      "PORTUGAL",
+      "2122"
+    ],
+    [
+      "4759",
+      "METAL ORES",
+      "183785",
+      "2014",
+      "02",
+      "ITALY",
+      "2122"
+    ],
+    [
+      "4840",
+      "METAL ORES",
+      "1496313",
+      "2014",
+      "02",
+      "GREECE",
+      "2122"
+    ],
+    [
+      "4890",
+      "METAL ORES",
+      "3101",
+      "2014",
+      "02",
+      "TURKEY",
+      "2122"
+    ],
+    [
+      "-",
+      "METAL ORES",
+      "240032825",
+      "2014",
+      "02",
+      "TOTAL FOR ALL COUNTRIES",
+      "2122"
+    ],
+    [
+      "0003",
+      "METAL ORES",
+      "5056615",
+      "2014",
+      "02",
+      "EUROPEAN UNION",
+      "2122"
+    ],
+    [
+      "1XXX",
+      "METAL ORES",
+      "81580250",
+      "2014",
+      "02",
+      "NORTH AMERICA",
+      "2122"
+    ],
+    [
+      "4XXX",
+      "METAL ORES",
+      "6288140",
+      "2014",
+      "02",
+      "EUROPE",
+      "2122"
+    ],
+    [
+      "7XXX",
+      "METAL ORES",
+      "61522543",
+      "2014",
+      "02",
+      "AFRICA",
+      "2122"
+    ],
+    [
+      "0014",
+      "METAL ORES",
+      "40594333",
+      "2014",
+      "02",
+      "PACIFIC RIM COUNTRIES",
+      "2122"
+    ],
+    [
+      "5XXX",
+      "METAL ORES",
+      "222709",
+      "2014",
+      "02",
+      "ASIA",
+      "2122"
+    ],
+    [
+      "6XXX",
+      "METAL ORES",
+      "40371624",
+      "2014",
+      "02",
+      "AUSTRALIA AND OCEANIA",
+      "2122"
+    ],
+    [
+      "0020",
+      "METAL ORES",
+      "81580250",
+      "2014",
+      "02",
+      "NAFTA",
+      "2122"
+    ],
+    [
+      "0021",
+      "METAL ORES",
+      "48286647",
+      "2014",
+      "02",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2122"
+    ],
+    [
+      "0022",
+      "METAL ORES",
+      "127622261",
+      "2014",
+      "02",
+      "OECD",
+      "2122"
+    ],
+    [
+      "0023",
+      "METAL ORES",
+      "77545291",
+      "2014",
+      "02",
+      "NATO",
+      "2122"
+    ],
+    [
+      "0024",
+      "METAL ORES",
+      "48286647",
+      "2014",
+      "02",
+      "LAFTA",
+      "2122"
+    ],
+    [
+      "0025",
+      "METAL ORES",
+      "5050054",
+      "2014",
+      "02",
+      "EURO AREA",
+      "2122"
+    ],
+    [
+      "0026",
+      "METAL ORES",
+      "130896787",
+      "2014",
+      "02",
+      "APEC",
+      "2122"
+    ],
+    [
+      "0027",
+      "METAL ORES",
+      "0",
+      "2014",
+      "02",
+      "ASEAN",
+      "2122"
+    ],
+    [
+      "1220",
+      "METAL ORES",
+      "72492136",
+      "2014",
+      "02",
+      "CANADA",
+      "2122"
+    ],
+    [
+      "2010",
+      "METAL ORES",
+      "9088114",
+      "2014",
+      "02",
+      "MEXICO",
+      "2122"
+    ],
+    [
+      "2410",
+      "METAL ORES",
+      "9224779",
+      "2014",
+      "02",
+      "JAMAICA",
+      "2122"
+    ],
+    [
+      "7870",
+      "METAL ORES",
+      "0",
+      "2014",
+      "02",
+      "MOZAMBIQUE",
+      "2122"
+    ],
+    [
+      "7910",
+      "METAL ORES",
+      "20237940",
+      "2014",
+      "02",
+      "SOUTH AFRICA",
+      "2122"
+    ],
+    [
+      "7920",
+      "METAL ORES",
+      "21770443",
+      "2014",
+      "02",
+      "NAMIBIA",
+      "2122"
+    ],
+    [
+      "2XXX",
+      "METAL ORES",
+      "9224779",
+      "2014",
+      "02",
+      "CENTRAL AMERICA",
+      "2122"
+    ],
+    [
+      "3XXX",
+      "METAL ORES",
+      "40822780",
+      "2014",
+      "02",
+      "SOUTH AMERICA",
+      "2122"
+    ],
+    [
+      "0001",
+      "METAL ORES",
+      "39604",
+      "2014",
+      "02",
+      "OPEC",
+      "2122"
+    ]
+  ]
+}

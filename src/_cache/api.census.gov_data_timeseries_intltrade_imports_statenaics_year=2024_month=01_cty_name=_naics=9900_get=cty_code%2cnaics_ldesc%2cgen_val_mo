@@ -1,0 +1,2216 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 03:53:00 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4a5af45a7b660234d64292161b94364fde5a356a1d9c6710bb6a5bfe5cd1aa2890d78ce1ac0057276c7f59adfee1d02c2; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5200",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3802479",
+      "2024",
+      "01",
+      "UNITED ARAB EMIRATES",
+      "9900"
+    ],
+    [
+      "5210",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5243",
+      "2024",
+      "01",
+      "YEMEN",
+      "9900"
+    ],
+    [
+      "5230",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "480255",
+      "2024",
+      "01",
+      "OMAN",
+      "9900"
+    ],
+    [
+      "5250",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "105928",
+      "2024",
+      "01",
+      "BAHRAIN",
+      "9900"
+    ],
+    [
+      "5310",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "34181",
+      "2024",
+      "01",
+      "AFGHANISTAN",
+      "9900"
+    ],
+    [
+      "5330",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "37828479",
+      "2024",
+      "01",
+      "INDIA",
+      "9900"
+    ],
+    [
+      "5350",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2898915",
+      "2024",
+      "01",
+      "PAKISTAN",
+      "9900"
+    ],
+    [
+      "5360",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "188895",
+      "2024",
+      "01",
+      "NEPAL",
+      "9900"
+    ],
+    [
+      "5380",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2929295",
+      "2024",
+      "01",
+      "BANGLADESH",
+      "9900"
+    ],
+    [
+      "5420",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1238938",
+      "2024",
+      "01",
+      "SRI LANKA",
+      "9900"
+    ],
+    [
+      "5490",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "26599674",
+      "2024",
+      "01",
+      "THAILAND",
+      "9900"
+    ],
+    [
+      "5520",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "31557285",
+      "2024",
+      "01",
+      "VIETNAM",
+      "9900"
+    ],
+    [
+      "5530",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "384664",
+      "2024",
+      "01",
+      "LAOS",
+      "9900"
+    ],
+    [
+      "5550",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1961518",
+      "2024",
+      "01",
+      "CAMBODIA",
+      "9900"
+    ],
+    [
+      "5570",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "53768107",
+      "2024",
+      "01",
+      "MALAYSIA",
+      "9900"
+    ],
+    [
+      "5590",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "21563768",
+      "2024",
+      "01",
+      "SINGAPORE",
+      "9900"
+    ],
+    [
+      "5600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "6088800",
+      "2024",
+      "01",
+      "INDONESIA",
+      "9900"
+    ],
+    [
+      "5601",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3109",
+      "2024",
+      "01",
+      "TIMOR-LESTE",
+      "9900"
+    ],
+    [
+      "5610",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1820",
+      "2024",
+      "01",
+      "BRUNEI",
+      "9900"
+    ],
+    [
+      "5650",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8482284",
+      "2024",
+      "01",
+      "PHILIPPINES",
+      "9900"
+    ],
+    [
+      "5660",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "46039",
+      "2024",
+      "01",
+      "MACAU",
+      "9900"
+    ],
+    [
+      "5682",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4308",
+      "2024",
+      "01",
+      "BHUTAN",
+      "9900"
+    ],
+    [
+      "5683",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "22954",
+      "2024",
+      "01",
+      "MALDIVES",
+      "9900"
+    ],
+    [
+      "5700",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "563092605",
+      "2024",
+      "01",
+      "CHINA",
+      "9900"
+    ],
+    [
+      "5740",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "12557",
+      "2024",
+      "01",
+      "MONGOLIA",
+      "9900"
+    ],
+    [
+      "5800",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "47769905",
+      "2024",
+      "01",
+      "KOREA, SOUTH",
+      "9900"
+    ],
+    [
+      "5820",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4125728",
+      "2024",
+      "01",
+      "HONG KONG",
+      "9900"
+    ],
+    [
+      "5830",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "82709092",
+      "2024",
+      "01",
+      "TAIWAN",
+      "9900"
+    ],
+    [
+      "5880",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "100825389",
+      "2024",
+      "01",
+      "JAPAN",
+      "9900"
+    ],
+    [
+      "6021",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5595538",
+      "2024",
+      "01",
+      "AUSTRALIA",
+      "9900"
+    ],
+    [
+      "6022",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1562",
+      "2024",
+      "01",
+      "NORFOLK ISLAND",
+      "9900"
+    ],
+    [
+      "6023",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1530",
+      "2024",
+      "01",
+      "COCOS (KEELING) ISLANDS",
+      "9900"
+    ],
+    [
+      "6024",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "168",
+      "2024",
+      "01",
+      "CHRISTMAS ISLAND",
+      "9900"
+    ],
+    [
+      "6040",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "15439",
+      "2024",
+      "01",
+      "PAPUA NEW GUINEA",
+      "9900"
+    ],
+    [
+      "6141",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2061164",
+      "2024",
+      "01",
+      "NEW ZEALAND",
+      "9900"
+    ],
+    [
+      "6142",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1758",
+      "2024",
+      "01",
+      "COOK ISLANDS",
+      "9900"
+    ],
+    [
+      "6143",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7483",
+      "2024",
+      "01",
+      "TOKELAU",
+      "9900"
+    ],
+    [
+      "6144",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7566",
+      "2024",
+      "01",
+      "NIUE",
+      "9900"
+    ],
+    [
+      "6150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2763",
+      "2024",
+      "01",
+      "SAMOA",
+      "9900"
+    ],
+    [
+      "6223",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8068",
+      "2024",
+      "01",
+      "SOLOMON ISLANDS",
+      "9900"
+    ],
+    [
+      "6224",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2489",
+      "2024",
+      "01",
+      "VANUATU",
+      "9900"
+    ],
+    [
+      "6225",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "545",
+      "2024",
+      "01",
+      "PITCAIRN ISLANDS",
+      "9900"
+    ],
+    [
+      "6226",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "734",
+      "2024",
+      "01",
+      "KIRIBATI",
+      "9900"
+    ],
+    [
+      "6227",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1559",
+      "2024",
+      "01",
+      "TUVALU",
+      "9900"
+    ],
+    [
+      "6412",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "17192",
+      "2024",
+      "01",
+      "NEW CALEDONIA",
+      "9900"
+    ],
+    [
+      "6414",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "150944",
+      "2024",
+      "01",
+      "FRENCH POLYNESIA",
+      "9900"
+    ],
+    [
+      "2483",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "62544",
+      "2024",
+      "01",
+      "ST KITTS AND NEVIS",
+      "9900"
+    ],
+    [
+      "2484",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "18181",
+      "2024",
+      "01",
+      "ANTIGUA AND BARBUDA",
+      "9900"
+    ],
+    [
+      "2485",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2001",
+      "2024",
+      "01",
+      "MONTSERRAT",
+      "9900"
+    ],
+    [
+      "2486",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9220",
+      "2024",
+      "01",
+      "DOMINICA",
+      "9900"
+    ],
+    [
+      "2487",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "29431",
+      "2024",
+      "01",
+      "ST LUCIA",
+      "9900"
+    ],
+    [
+      "2488",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9718",
+      "2024",
+      "01",
+      "ST VINCENT AND THE GRENADINES",
+      "9900"
+    ],
+    [
+      "2489",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "67897",
+      "2024",
+      "01",
+      "GRENADA",
+      "9900"
+    ],
+    [
+      "2720",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "77618",
+      "2024",
+      "01",
+      "BARBADOS",
+      "9900"
+    ],
+    [
+      "2740",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "239905",
+      "2024",
+      "01",
+      "TRINIDAD AND TOBAGO",
+      "9900"
+    ],
+    [
+      "2774",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "59221",
+      "2024",
+      "01",
+      "SINT MAARTEN",
+      "9900"
+    ],
+    [
+      "2777",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "51575",
+      "2024",
+      "01",
+      "CURACAO",
+      "9900"
+    ],
+    [
+      "2779",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "17956",
+      "2024",
+      "01",
+      "ARUBA",
+      "9900"
+    ],
+    [
+      "2831",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8395",
+      "2024",
+      "01",
+      "GUADELOUPE",
+      "9900"
+    ],
+    [
+      "2839",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1354",
+      "2024",
+      "01",
+      "MARTINIQUE",
+      "9900"
+    ],
+    [
+      "3010",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "40474002",
+      "2024",
+      "01",
+      "COLOMBIA",
+      "9900"
+    ],
+    [
+      "3070",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "132007",
+      "2024",
+      "01",
+      "VENEZUELA",
+      "9900"
+    ],
+    [
+      "3120",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "98244",
+      "2024",
+      "01",
+      "GUYANA",
+      "9900"
+    ],
+    [
+      "3150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "56831",
+      "2024",
+      "01",
+      "SURINAME",
+      "9900"
+    ],
+    [
+      "3170",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "50",
+      "2024",
+      "01",
+      "FRENCH GUIANA",
+      "9900"
+    ],
+    [
+      "3310",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "26725317",
+      "2024",
+      "01",
+      "ECUADOR",
+      "9900"
+    ],
+    [
+      "3330",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1207001",
+      "2024",
+      "01",
+      "PERU",
+      "9900"
+    ],
+    [
+      "3350",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "50579",
+      "2024",
+      "01",
+      "BOLIVIA",
+      "9900"
+    ],
+    [
+      "3370",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1207534",
+      "2024",
+      "01",
+      "CHILE",
+      "9900"
+    ],
+    [
+      "3510",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8930469",
+      "2024",
+      "01",
+      "BRAZIL",
+      "9900"
+    ],
+    [
+      "3530",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "62976",
+      "2024",
+      "01",
+      "PARAGUAY",
+      "9900"
+    ],
+    [
+      "3550",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "194088",
+      "2024",
+      "01",
+      "URUGUAY",
+      "9900"
+    ],
+    [
+      "3570",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1110107",
+      "2024",
+      "01",
+      "ARGENTINA",
+      "9900"
+    ],
+    [
+      "3720",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1034",
+      "2024",
+      "01",
+      "FALKLAND ISLANDS (ISLAS MALVINAS)",
+      "9900"
+    ],
+    [
+      "4000",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "570004",
+      "2024",
+      "01",
+      "ICELAND",
+      "9900"
+    ],
+    [
+      "4010",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "12271484",
+      "2024",
+      "01",
+      "SWEDEN",
+      "9900"
+    ],
+    [
+      "4031",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "56",
+      "2024",
+      "01",
+      "SVALBARD, JAN MAYEN ISLAND",
+      "9900"
+    ],
+    [
+      "4039",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1610292",
+      "2024",
+      "01",
+      "NORWAY",
+      "9900"
+    ],
+    [
+      "4050",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4459959",
+      "2024",
+      "01",
+      "FINLAND",
+      "9900"
+    ],
+    [
+      "4091",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9891",
+      "2024",
+      "01",
+      "FAROE ISLANDS",
+      "9900"
+    ],
+    [
+      "4099",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8150525",
+      "2024",
+      "01",
+      "DENMARK",
+      "9900"
+    ],
+    [
+      "4120",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "65091089",
+      "2024",
+      "01",
+      "UNITED KINGDOM",
+      "9900"
+    ],
+    [
+      "4190",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "23193398",
+      "2024",
+      "01",
+      "IRELAND",
+      "9900"
+    ],
+    [
+      "4210",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "20920515",
+      "2024",
+      "01",
+      "NETHERLANDS",
+      "9900"
+    ],
+    [
+      "4231",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8121736",
+      "2024",
+      "01",
+      "BELGIUM",
+      "9900"
+    ],
+    [
+      "4239",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "377262",
+      "2024",
+      "01",
+      "LUXEMBOURG",
+      "9900"
+    ],
+    [
+      "4271",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1141",
+      "2024",
+      "01",
+      "ANDORRA",
+      "9900"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41858",
+      "2024",
+      "01",
+      "MONACO",
+      "9900"
+    ],
+    [
+      "4279",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "44116111",
+      "2024",
+      "01",
+      "FRANCE",
+      "9900"
+    ],
+    [
+      "4280",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "134506403",
+      "2024",
+      "01",
+      "GERMANY",
+      "9900"
+    ],
+    [
+      "4330",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9529355",
+      "2024",
+      "01",
+      "AUSTRIA",
+      "9900"
+    ],
+    [
+      "4351",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14170277",
+      "2024",
+      "01",
+      "CZECH REPUBLIC",
+      "9900"
+    ],
+    [
+      "6810",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "119674",
+      "2024",
+      "01",
+      "MARSHALL ISLANDS",
+      "9900"
+    ],
+    [
+      "6820",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1133",
+      "2024",
+      "01",
+      "MICRONESIA",
+      "9900"
+    ],
+    [
+      "6830",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1691",
+      "2024",
+      "01",
+      "PALAU",
+      "9900"
+    ],
+    [
+      "6862",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "689",
+      "2024",
+      "01",
+      "NAURU",
+      "9900"
+    ],
+    [
+      "6863",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "128697",
+      "2024",
+      "01",
+      "FIJI",
+      "9900"
+    ],
+    [
+      "6864",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "29996",
+      "2024",
+      "01",
+      "TONGA",
+      "9900"
+    ],
+    [
+      "7140",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2686644",
+      "2024",
+      "01",
+      "MOROCCO",
+      "9900"
+    ],
+    [
+      "7210",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "18990",
+      "2024",
+      "01",
+      "ALGERIA",
+      "9900"
+    ],
+    [
+      "7230",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1261133",
+      "2024",
+      "01",
+      "TUNISIA",
+      "9900"
+    ],
+    [
+      "7250",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1630",
+      "2024",
+      "01",
+      "LIBYA",
+      "9900"
+    ],
+    [
+      "7290",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "550063",
+      "2024",
+      "01",
+      "EGYPT",
+      "9900"
+    ],
+    [
+      "7321",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3236",
+      "2024",
+      "01",
+      "SUDAN",
+      "9900"
+    ],
+    [
+      "7380",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "11",
+      "2024",
+      "01",
+      "EQUATORIAL GUINEA",
+      "9900"
+    ],
+    [
+      "7410",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4875",
+      "2024",
+      "01",
+      "MAURITANIA",
+      "9900"
+    ],
+    [
+      "7420",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "59223",
+      "2024",
+      "01",
+      "CAMEROON",
+      "9900"
+    ],
+    [
+      "7440",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "62241",
+      "2024",
+      "01",
+      "SENEGAL",
+      "9900"
+    ],
+    [
+      "7450",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "19176",
+      "2024",
+      "01",
+      "MALI",
+      "9900"
+    ],
+    [
+      "7460",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4216",
+      "2024",
+      "01",
+      "GUINEA",
+      "9900"
+    ],
+    [
+      "7470",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "39246",
+      "2024",
+      "01",
+      "SIERRA LEONE",
+      "9900"
+    ],
+    [
+      "7480",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "40923",
+      "2024",
+      "01",
+      "COTE D'IVOIRE",
+      "9900"
+    ],
+    [
+      "7490",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "165863",
+      "2024",
+      "01",
+      "GHANA",
+      "9900"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1132",
+      "2024",
+      "01",
+      "GAMBIA",
+      "9900"
+    ],
+    [
+      "7510",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "37971",
+      "2024",
+      "01",
+      "NIGER",
+      "9900"
+    ],
+    [
+      "7520",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14944",
+      "2024",
+      "01",
+      "TOGO",
+      "9900"
+    ],
+    [
+      "7530",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "338348",
+      "2024",
+      "01",
+      "NIGERIA",
+      "9900"
+    ],
+    [
+      "7540",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2812",
+      "2024",
+      "01",
+      "CENTRAL AFRICAN REPUBLIC",
+      "9900"
+    ],
+    [
+      "7550",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1312",
+      "2024",
+      "01",
+      "GABON",
+      "9900"
+    ],
+    [
+      "7560",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1538",
+      "2024",
+      "01",
+      "CHAD",
+      "9900"
+    ],
+    [
+      "7580",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "719",
+      "2024",
+      "01",
+      "ST HELENA",
+      "9900"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3892",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "9900"
+    ],
+    [
+      "7610",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3113",
+      "2024",
+      "01",
+      "BENIN",
+      "9900"
+    ],
+    [
+      "7630",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "11903",
+      "2024",
+      "01",
+      "CONGO (BRAZZAVILLE)",
+      "9900"
+    ],
+    [
+      "7642",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14",
+      "2024",
+      "01",
+      "GUINEA-BISSAU",
+      "9900"
+    ],
+    [
+      "7643",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "6479",
+      "2024",
+      "01",
+      "CABO VERDE",
+      "9900"
+    ],
+    [
+      "7644",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3050",
+      "2024",
+      "01",
+      "SAO TOME AND PRINCIPE",
+      "9900"
+    ],
+    [
+      "7650",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2574",
+      "2024",
+      "01",
+      "LIBERIA",
+      "9900"
+    ],
+    [
+      "7660",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "12650",
+      "2024",
+      "01",
+      "CONGO (KINSHASA)",
+      "9900"
+    ],
+    [
+      "7670",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1428",
+      "2024",
+      "01",
+      "BURUNDI",
+      "9900"
+    ],
+    [
+      "7690",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7955",
+      "2024",
+      "01",
+      "RWANDA",
+      "9900"
+    ],
+    [
+      "7700",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2350",
+      "2024",
+      "01",
+      "SOMALIA",
+      "9900"
+    ],
+    [
+      "7741",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1770",
+      "2024",
+      "01",
+      "ERITREA",
+      "9900"
+    ],
+    [
+      "7749",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "361577",
+      "2024",
+      "01",
+      "ETHIOPIA",
+      "9900"
+    ],
+    [
+      "7770",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "26025",
+      "2024",
+      "01",
+      "DJIBOUTI",
+      "9900"
+    ],
+    [
+      "7780",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "23675",
+      "2024",
+      "01",
+      "UGANDA",
+      "9900"
+    ],
+    [
+      "7790",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "423745",
+      "2024",
+      "01",
+      "KENYA",
+      "9900"
+    ],
+    [
+      "2482",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "16385",
+      "2024",
+      "01",
+      "BRITISH VIRGIN ISLANDS",
+      "9900"
+    ],
+    [
+      "4359",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4327304",
+      "2024",
+      "01",
+      "SLOVAKIA",
+      "9900"
+    ],
+    [
+      "4370",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "9082283",
+      "2024",
+      "01",
+      "HUNGARY",
+      "9900"
+    ],
+    [
+      "4411",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "390785",
+      "2024",
+      "01",
+      "LIECHTENSTEIN",
+      "9900"
+    ],
+    [
+      "4419",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "37920799",
+      "2024",
+      "01",
+      "SWITZERLAND",
+      "9900"
+    ],
+    [
+      "4470",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "719788",
+      "2024",
+      "01",
+      "ESTONIA",
+      "9900"
+    ],
+    [
+      "4490",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "762936",
+      "2024",
+      "01",
+      "LATVIA",
+      "9900"
+    ],
+    [
+      "4510",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1199685",
+      "2024",
+      "01",
+      "LITHUANIA",
+      "9900"
+    ],
+    [
+      "4550",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "18361651",
+      "2024",
+      "01",
+      "POLAND",
+      "9900"
+    ],
+    [
+      "4621",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "468469",
+      "2024",
+      "01",
+      "RUSSIA",
+      "9900"
+    ],
+    [
+      "4622",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "31994",
+      "2024",
+      "01",
+      "BELARUS",
+      "9900"
+    ],
+    [
+      "4623",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1448462",
+      "2024",
+      "01",
+      "UKRAINE",
+      "9900"
+    ],
+    [
+      "4631",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "70070",
+      "2024",
+      "01",
+      "ARMENIA",
+      "9900"
+    ],
+    [
+      "4632",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "47634",
+      "2024",
+      "01",
+      "AZERBAIJAN",
+      "9900"
+    ],
+    [
+      "4633",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "88105",
+      "2024",
+      "01",
+      "GEORGIA",
+      "9900"
+    ],
+    [
+      "4634",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "38194",
+      "2024",
+      "01",
+      "KAZAKHSTAN",
+      "9900"
+    ],
+    [
+      "4635",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "10625",
+      "2024",
+      "01",
+      "KYRGYZSTAN",
+      "9900"
+    ],
+    [
+      "4641",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "169469",
+      "2024",
+      "01",
+      "MOLDOVA",
+      "9900"
+    ],
+    [
+      "4642",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1914",
+      "2024",
+      "01",
+      "TAJIKISTAN",
+      "9900"
+    ],
+    [
+      "4643",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1179",
+      "2024",
+      "01",
+      "TURKMENISTAN",
+      "9900"
+    ],
+    [
+      "4644",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "16736",
+      "2024",
+      "01",
+      "UZBEKISTAN",
+      "9900"
+    ],
+    [
+      "4700",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "20066741",
+      "2024",
+      "01",
+      "SPAIN",
+      "9900"
+    ],
+    [
+      "4710",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3949809",
+      "2024",
+      "01",
+      "PORTUGAL",
+      "9900"
+    ],
+    [
+      "4720",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1500",
+      "2024",
+      "01",
+      "GIBRALTAR",
+      "9900"
+    ],
+    [
+      "4730",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "174331",
+      "2024",
+      "01",
+      "MALTA",
+      "9900"
+    ],
+    [
+      "4751",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28677",
+      "2024",
+      "01",
+      "SAN MARINO",
+      "9900"
+    ],
+    [
+      "4752",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2322",
+      "2024",
+      "01",
+      "VATICAN CITY",
+      "9900"
+    ],
+    [
+      "4759",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "73906610",
+      "2024",
+      "01",
+      "ITALY",
+      "9900"
+    ],
+    [
+      "4791",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "439985",
+      "2024",
+      "01",
+      "CROATIA",
+      "9900"
+    ],
+    [
+      "4792",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1536133",
+      "2024",
+      "01",
+      "SLOVENIA",
+      "9900"
+    ],
+    [
+      "4793",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "286498",
+      "2024",
+      "01",
+      "BOSNIA AND HERZEGOVINA",
+      "9900"
+    ],
+    [
+      "4794",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "240750",
+      "2024",
+      "01",
+      "MACEDONIA",
+      "9900"
+    ],
+    [
+      "4801",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "669589",
+      "2024",
+      "01",
+      "SERBIA",
+      "9900"
+    ],
+    [
+      "4803",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4580",
+      "2024",
+      "01",
+      "KOSOVO",
+      "9900"
+    ],
+    [
+      "4804",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "21490",
+      "2024",
+      "01",
+      "MONTENEGRO",
+      "9900"
+    ],
+    [
+      "4810",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "87241",
+      "2024",
+      "01",
+      "ALBANIA",
+      "9900"
+    ],
+    [
+      "4840",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1626256",
+      "2024",
+      "01",
+      "GREECE",
+      "9900"
+    ],
+    [
+      "4850",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5912789",
+      "2024",
+      "01",
+      "ROMANIA",
+      "9900"
+    ],
+    [
+      "4870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2218395",
+      "2024",
+      "01",
+      "BULGARIA",
+      "9900"
+    ],
+    [
+      "4890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "11410411",
+      "2024",
+      "01",
+      "TURKEY",
+      "9900"
+    ],
+    [
+      "4910",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "61706",
+      "2024",
+      "01",
+      "CYPRUS",
+      "9900"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "37478",
+      "2024",
+      "01",
+      "SYRIA",
+      "9900"
+    ],
+    [
+      "5040",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "172753",
+      "2024",
+      "01",
+      "LEBANON",
+      "9900"
+    ],
+    [
+      "5050",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "36869",
+      "2024",
+      "01",
+      "IRAQ",
+      "9900"
+    ],
+    [
+      "5081",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "15789281",
+      "2024",
+      "01",
+      "ISRAEL",
+      "9900"
+    ],
+    [
+      "5083",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "38230",
+      "2024",
+      "01",
+      "WEST BANK ADMINISTERED BY ISRAEL",
+      "9900"
+    ],
+    [
+      "5110",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "257750",
+      "2024",
+      "01",
+      "JORDAN",
+      "9900"
+    ],
+    [
+      "5130",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "59947",
+      "2024",
+      "01",
+      "KUWAIT",
+      "9900"
+    ],
+    [
+      "5170",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "608248",
+      "2024",
+      "01",
+      "SAUDI ARABIA",
+      "9900"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "52714",
+      "2024",
+      "01",
+      "QATAR",
+      "9900"
+    ],
+    [
+      "-",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2402034515",
+      "2024",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "9900"
+    ],
+    [
+      "0003",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "424163427",
+      "2024",
+      "01",
+      "EUROPEAN UNION",
+      "9900"
+    ],
+    [
+      "1XXX",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "716202827",
+      "2024",
+      "01",
+      "NORTH AMERICA",
+      "9900"
+    ],
+    [
+      "4XXX",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "544945251",
+      "2024",
+      "01",
+      "EUROPE",
+      "9900"
+    ],
+    [
+      "7XXX",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8598080",
+      "2024",
+      "01",
+      "AFRICA",
+      "9900"
+    ],
+    [
+      "0014",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "896145678",
+      "2024",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "9900"
+    ],
+    [
+      "5XXX",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1015585484",
+      "2024",
+      "01",
+      "ASIA",
+      "9900"
+    ],
+    [
+      "0017",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "26066463",
+      "2024",
+      "01",
+      "CAFTA-DR",
+      "9900"
+    ],
+    [
+      "6XXX",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8158382",
+      "2024",
+      "01",
+      "AUSTRALIA AND OCEANIA",
+      "9900"
+    ],
+    [
+      "0020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "716202442",
+      "2024",
+      "01",
+      "NAFTA",
+      "9900"
+    ],
+    [
+      "0021",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "357097327",
+      "2024",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "9900"
+    ],
+    [
+      "0022",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1419447448",
+      "2024",
+      "01",
+      "OECD",
+      "9900"
+    ],
+    [
+      "0023",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "923208663",
+      "2024",
+      "01",
+      "NATO",
+      "9900"
+    ],
+    [
+      "0024",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "330262823",
+      "2024",
+      "01",
+      "LAFTA",
+      "9900"
+    ],
+    [
+      "0025",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "353996023",
+      "2024",
+      "01",
+      "EURO AREA",
+      "9900"
+    ],
+    [
+      "0026",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1673342044",
+      "2024",
+      "01",
+      "APEC",
+      "9900"
+    ],
+    [
+      "0027",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "150407920",
+      "2024",
+      "01",
+      "ASEAN",
+      "9900"
+    ],
+    [
+      "0028",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "18304691",
+      "2024",
+      "01",
+      "CACM",
+      "9900"
+    ],
+    [
+      "1010",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "322",
+      "2024",
+      "01",
+      "GREENLAND",
+      "9900"
+    ],
+    [
+      "1220",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "466033699",
+      "2024",
+      "01",
+      "CANADA",
+      "9900"
+    ],
+    [
+      "1610",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "63",
+      "2024",
+      "01",
+      "ST PIERRE AND MIQUELON",
+      "9900"
+    ],
+    [
+      "2010",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "250168743",
+      "2024",
+      "01",
+      "MEXICO",
+      "9900"
+    ],
+    [
+      "2050",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2321806",
+      "2024",
+      "01",
+      "GUATEMALA",
+      "9900"
+    ],
+    [
+      "2080",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "14843",
+      "2024",
+      "01",
+      "BELIZE",
+      "9900"
+    ],
+    [
+      "2110",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1147744",
+      "2024",
+      "01",
+      "EL SALVADOR",
+      "9900"
+    ],
+    [
+      "2150",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1735823",
+      "2024",
+      "01",
+      "HONDURAS",
+      "9900"
+    ],
+    [
+      "2190",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1182930",
+      "2024",
+      "01",
+      "NICARAGUA",
+      "9900"
+    ],
+    [
+      "2230",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "11916388",
+      "2024",
+      "01",
+      "COSTA RICA",
+      "9900"
+    ],
+    [
+      "2250",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "658004",
+      "2024",
+      "01",
+      "PANAMA",
+      "9900"
+    ],
+    [
+      "2320",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "50692",
+      "2024",
+      "01",
+      "BERMUDA",
+      "9900"
+    ],
+    [
+      "2360",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "392837",
+      "2024",
+      "01",
+      "BAHAMAS",
+      "9900"
+    ],
+    [
+      "2410",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "188052",
+      "2024",
+      "01",
+      "JAMAICA",
+      "9900"
+    ],
+    [
+      "2430",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "40251",
+      "2024",
+      "01",
+      "TURKS AND CAICOS ISLANDS",
+      "9900"
+    ],
+    [
+      "2440",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "94536",
+      "2024",
+      "01",
+      "CAYMAN ISLANDS",
+      "9900"
+    ],
+    [
+      "2450",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "110037",
+      "2024",
+      "01",
+      "HAITI",
+      "9900"
+    ],
+    [
+      "2470",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7761772",
+      "2024",
+      "01",
+      "DOMINICAN REPUBLIC",
+      "9900"
+    ],
+    [
+      "2481",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7136",
+      "2024",
+      "01",
+      "ANGUILLA",
+      "9900"
+    ],
+    [
+      "7800",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3955",
+      "2024",
+      "01",
+      "SEYCHELLES",
+      "9900"
+    ],
+    [
+      "7830",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "131845",
+      "2024",
+      "01",
+      "TANZANIA",
+      "9900"
+    ],
+    [
+      "7850",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "106280",
+      "2024",
+      "01",
+      "MAURITIUS",
+      "9900"
+    ],
+    [
+      "7870",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "24894",
+      "2024",
+      "01",
+      "MOZAMBIQUE",
+      "9900"
+    ],
+    [
+      "7880",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "177012",
+      "2024",
+      "01",
+      "MADAGASCAR",
+      "9900"
+    ],
+    [
+      "7881",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "145",
+      "2024",
+      "01",
+      "MAYOTTE",
+      "9900"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "213",
+      "2024",
+      "01",
+      "COMOROS",
+      "9900"
+    ],
+    [
+      "7904",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1976",
+      "2024",
+      "01",
+      "REUNION",
+      "9900"
+    ],
+    [
+      "7905",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "204",
+      "2024",
+      "01",
+      "FRENCH SOUTHERN AND ANTARCTIC LANDS",
+      "9900"
+    ],
+    [
+      "7910",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1736155",
+      "2024",
+      "01",
+      "SOUTH AFRICA",
+      "9900"
+    ],
+    [
+      "7920",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "22242",
+      "2024",
+      "01",
+      "NAMIBIA",
+      "9900"
+    ],
+    [
+      "7930",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "69908",
+      "2024",
+      "01",
+      "BOTSWANA",
+      "9900"
+    ],
+    [
+      "7940",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "32423",
+      "2024",
+      "01",
+      "ZAMBIA",
+      "9900"
+    ],
+    [
+      "7950",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "15539",
+      "2024",
+      "01",
+      "ESWATINI",
+      "9900"
+    ],
+    [
+      "7960",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "42427",
+      "2024",
+      "01",
+      "ZIMBABWE",
+      "9900"
+    ],
+    [
+      "7970",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4211",
+      "2024",
+      "01",
+      "MALAWI",
+      "9900"
+    ],
+    [
+      "7990",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "20205",
+      "2024",
+      "01",
+      "LESOTHO",
+      "9900"
+    ],
+    [
+      "2XXX",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28294252",
+      "2024",
+      "01",
+      "CENTRAL AMERICA",
+      "9900"
+    ],
+    [
+      "3XXX",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "80250239",
+      "2024",
+      "01",
+      "SOUTH AMERICA",
+      "9900"
+    ]
+  ]
+}

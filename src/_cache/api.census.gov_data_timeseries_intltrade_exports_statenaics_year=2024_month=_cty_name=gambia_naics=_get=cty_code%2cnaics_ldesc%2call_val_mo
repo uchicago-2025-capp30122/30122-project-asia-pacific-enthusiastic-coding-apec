@@ -1,0 +1,9335 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:22:07 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a46b0b81152a458a1d0418b3d2ce32b5a8e4dbb8f0ec305ad9e3a12f692e254d32c5cf92c77b11f31c5bc5dea6d143f10b; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "7500",
+      "PAPER",
+      "2700",
+      "2024",
+      "08",
+      "GAMBIA",
+      "322"
+    ],
+    [
+      "7500",
+      "PAPER",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "322"
+    ],
+    [
+      "7500",
+      "PAPER",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "322"
+    ],
+    [
+      "7500",
+      "PAPER",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "322"
+    ],
+    [
+      "7500",
+      "PAPER",
+      "12000",
+      "2024",
+      "12",
+      "GAMBIA",
+      "322"
+    ],
+    [
+      "7500",
+      "CONVERTED PAPER PRODUCTS",
+      "2700",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3222"
+    ],
+    [
+      "7500",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3222"
+    ],
+    [
+      "7500",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3222"
+    ],
+    [
+      "7500",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3222"
+    ],
+    [
+      "7500",
+      "CONVERTED PAPER PRODUCTS",
+      "12000",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3222"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "3000",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3231"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "3500",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3231"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "3375",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3231"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "11250",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3231"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3231"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3231"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "6000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3231"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "11500",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3231"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "10000",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3231"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "11000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3231"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3231"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3231"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "4000",
+      "2024",
+      "01",
+      "GAMBIA",
+      "324"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "12800",
+      "2024",
+      "02",
+      "GAMBIA",
+      "324"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "324"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "324"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "324"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "324"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "324"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "324"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "324"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "324"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "324"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "324"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "4000",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3241"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "12800",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3241"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3241"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3241"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3241"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3241"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3241"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3241"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3241"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3241"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3241"
+    ],
+    [
+      "7500",
+      "PETROLEUM AND COAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3241"
+    ],
+    [
+      "7500",
+      "CHEMICALS",
+      "344276",
+      "2024",
+      "01",
+      "GAMBIA",
+      "325"
+    ],
+    [
+      "7500",
+      "CHEMICALS",
+      "27800",
+      "2024",
+      "02",
+      "GAMBIA",
+      "325"
+    ],
+    [
+      "7500",
+      "CHEMICALS",
+      "127782",
+      "2024",
+      "03",
+      "GAMBIA",
+      "325"
+    ],
+    [
+      "7500",
+      "CHEMICALS",
+      "178295",
+      "2024",
+      "04",
+      "GAMBIA",
+      "325"
+    ],
+    [
+      "7500",
+      "CHEMICALS",
+      "247675",
+      "2024",
+      "05",
+      "GAMBIA",
+      "325"
+    ],
+    [
+      "7500",
+      "CHEMICALS",
+      "116228",
+      "2024",
+      "06",
+      "GAMBIA",
+      "325"
+    ],
+    [
+      "7500",
+      "CHEMICALS",
+      "161450",
+      "2024",
+      "07",
+      "GAMBIA",
+      "325"
+    ],
+    [
+      "7500",
+      "CHEMICALS",
+      "446799",
+      "2024",
+      "08",
+      "GAMBIA",
+      "325"
+    ],
+    [
+      "7500",
+      "CHEMICALS",
+      "315316",
+      "2024",
+      "09",
+      "GAMBIA",
+      "325"
+    ],
+    [
+      "7500",
+      "CHEMICALS",
+      "4000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "325"
+    ],
+    [
+      "7500",
+      "CHEMICALS",
+      "37222",
+      "2024",
+      "11",
+      "GAMBIA",
+      "325"
+    ],
+    [
+      "7500",
+      "CHEMICALS",
+      "120660",
+      "2024",
+      "12",
+      "GAMBIA",
+      "325"
+    ],
+    [
+      "7500",
+      "BASIC CHEMICALS",
+      "9511",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3251"
+    ],
+    [
+      "7500",
+      "BASIC CHEMICALS",
+      "15000",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3251"
+    ],
+    [
+      "7500",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3251"
+    ],
+    [
+      "7500",
+      "BASIC CHEMICALS",
+      "2505",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3251"
+    ],
+    [
+      "7500",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3251"
+    ],
+    [
+      "7500",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3251"
+    ],
+    [
+      "7500",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3251"
+    ],
+    [
+      "7500",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3251"
+    ],
+    [
+      "7500",
+      "BASIC CHEMICALS",
+      "5000",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3251"
+    ],
+    [
+      "7500",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3251"
+    ],
+    [
+      "7500",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3251"
+    ],
+    [
+      "7500",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3251"
+    ],
+    [
+      "7500",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "305002",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3252"
+    ],
+    [
+      "7500",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3252"
+    ],
+    [
+      "7500",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "25394",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3252"
+    ],
+    [
+      "7500",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "114540",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3252"
+    ],
+    [
+      "7500",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "231472",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3252"
+    ],
+    [
+      "7500",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "113150",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3252"
+    ],
+    [
+      "7500",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "125200",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3252"
+    ],
+    [
+      "7500",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "372759",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3252"
+    ],
+    [
+      "7500",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "193880",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3252"
+    ],
+    [
+      "7500",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3252"
+    ],
+    [
+      "7500",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "19543",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3252"
+    ],
+    [
+      "7500",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "84150",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3252"
+    ],
+    [
+      "7500",
+      "PHARMACEUTICALS AND MEDICINES",
+      "4763",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3254"
+    ],
+    [
+      "7500",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3254"
+    ],
+    [
+      "7500",
+      "PHARMACEUTICALS AND MEDICINES",
+      "34128",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3254"
+    ],
+    [
+      "7500",
+      "PHARMACEUTICALS AND MEDICINES",
+      "20953",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3254"
+    ],
+    [
+      "7500",
+      "PHARMACEUTICALS AND MEDICINES",
+      "3723",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3254"
+    ],
+    [
+      "7500",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3254"
+    ],
+    [
+      "7500",
+      "PHARMACEUTICALS AND MEDICINES",
+      "25000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3254"
+    ],
+    [
+      "7500",
+      "PHARMACEUTICALS AND MEDICINES",
+      "3540",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3254"
+    ],
+    [
+      "7500",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3254"
+    ],
+    [
+      "7500",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3254"
+    ],
+    [
+      "7500",
+      "PHARMACEUTICALS AND MEDICINES",
+      "12879",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3254"
+    ],
+    [
+      "7500",
+      "PHARMACEUTICALS AND MEDICINES",
+      "8510",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3254"
+    ],
+    [
+      "7500",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "5000",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3256"
+    ],
+    [
+      "7500",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3256"
+    ],
+    [
+      "7500",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "4000",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3256"
+    ],
+    [
+      "7500",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3256"
+    ],
+    [
+      "7500",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "3078",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3256"
+    ],
+    [
+      "7500",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3256"
+    ],
+    [
+      "7500",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3256"
+    ],
+    [
+      "7500",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "100936",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3256"
+    ],
+    [
+      "7500",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3256"
+    ],
+    [
+      "7500",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3256"
+    ],
+    [
+      "7500",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3256"
+    ],
+    [
+      "7500",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "435389",
+      "2024",
+      "01",
+      "GAMBIA",
+      "326"
+    ],
+    [
+      "7500",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "489574",
+      "2024",
+      "02",
+      "GAMBIA",
+      "326"
+    ],
+    [
+      "7500",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "433911",
+      "2024",
+      "03",
+      "GAMBIA",
+      "326"
+    ],
+    [
+      "7500",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "599691",
+      "2024",
+      "04",
+      "GAMBIA",
+      "326"
+    ],
+    [
+      "7500",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "588860",
+      "2024",
+      "05",
+      "GAMBIA",
+      "326"
+    ],
+    [
+      "7500",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "891364",
+      "2024",
+      "06",
+      "GAMBIA",
+      "326"
+    ],
+    [
+      "7500",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "632874",
+      "2024",
+      "07",
+      "GAMBIA",
+      "326"
+    ],
+    [
+      "7500",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "478437",
+      "2024",
+      "08",
+      "GAMBIA",
+      "326"
+    ],
+    [
+      "7500",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "486368",
+      "2024",
+      "09",
+      "GAMBIA",
+      "326"
+    ],
+    [
+      "7500",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "632868",
+      "2024",
+      "10",
+      "GAMBIA",
+      "326"
+    ],
+    [
+      "7500",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "552425",
+      "2024",
+      "11",
+      "GAMBIA",
+      "326"
+    ],
+    [
+      "7500",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "706222",
+      "2024",
+      "12",
+      "GAMBIA",
+      "326"
+    ],
+    [
+      "7500",
+      "PLASTICS PRODUCTS",
+      "370650",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3261"
+    ],
+    [
+      "7500",
+      "PLASTICS PRODUCTS",
+      "485552",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3261"
+    ],
+    [
+      "7500",
+      "PLASTICS PRODUCTS",
+      "433911",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3261"
+    ],
+    [
+      "7500",
+      "PLASTICS PRODUCTS",
+      "599691",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3261"
+    ],
+    [
+      "7500",
+      "PLASTICS PRODUCTS",
+      "588860",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3261"
+    ],
+    [
+      "7500",
+      "PLASTICS PRODUCTS",
+      "891364",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3261"
+    ],
+    [
+      "7500",
+      "PLASTICS PRODUCTS",
+      "632874",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3261"
+    ],
+    [
+      "7500",
+      "PLASTICS PRODUCTS",
+      "472437",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3261"
+    ],
+    [
+      "7500",
+      "PLASTICS PRODUCTS",
+      "486368",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3261"
+    ],
+    [
+      "7500",
+      "PLASTICS PRODUCTS",
+      "624690",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3261"
+    ],
+    [
+      "7500",
+      "PLASTICS PRODUCTS",
+      "552425",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3261"
+    ],
+    [
+      "7500",
+      "PLASTICS PRODUCTS",
+      "706222",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3261"
+    ],
+    [
+      "7500",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "4000",
+      "2024",
+      "01",
+      "GAMBIA",
+      "327"
+    ],
+    [
+      "7500",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "86260",
+      "2024",
+      "02",
+      "GAMBIA",
+      "327"
+    ],
+    [
+      "7500",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "2540",
+      "2024",
+      "03",
+      "GAMBIA",
+      "327"
+    ],
+    [
+      "7500",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "327"
+    ],
+    [
+      "7500",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "327"
+    ],
+    [
+      "7500",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "2800",
+      "2024",
+      "06",
+      "GAMBIA",
+      "327"
+    ],
+    [
+      "7500",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "7000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "327"
+    ],
+    [
+      "7500",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "2640",
+      "2024",
+      "08",
+      "GAMBIA",
+      "327"
+    ],
+    [
+      "7500",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "4617",
+      "2024",
+      "09",
+      "GAMBIA",
+      "327"
+    ],
+    [
+      "7500",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "327"
+    ],
+    [
+      "7500",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "6000",
+      "2024",
+      "11",
+      "GAMBIA",
+      "327"
+    ],
+    [
+      "7500",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "327"
+    ],
+    [
+      "7500",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "86260",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3271"
+    ],
+    [
+      "7500",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "2540",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3271"
+    ],
+    [
+      "7500",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3271"
+    ],
+    [
+      "7500",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3271"
+    ],
+    [
+      "7500",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "2800",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3271"
+    ],
+    [
+      "7500",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "7000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3271"
+    ],
+    [
+      "7500",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3271"
+    ],
+    [
+      "7500",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "4617",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3271"
+    ],
+    [
+      "7500",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3271"
+    ],
+    [
+      "7500",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "6000",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3271"
+    ],
+    [
+      "7500",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3271"
+    ],
+    [
+      "7500",
+      "GLASS AND GLASS PRODUCTS",
+      "4000",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3272"
+    ],
+    [
+      "7500",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3272"
+    ],
+    [
+      "7500",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3272"
+    ],
+    [
+      "7500",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3272"
+    ],
+    [
+      "7500",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3272"
+    ],
+    [
+      "7500",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3272"
+    ],
+    [
+      "7500",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3272"
+    ],
+    [
+      "7500",
+      "GLASS AND GLASS PRODUCTS",
+      "2640",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3272"
+    ],
+    [
+      "7500",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3272"
+    ],
+    [
+      "7500",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3272"
+    ],
+    [
+      "7500",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3272"
+    ],
+    [
+      "7500",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3272"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 3",
+      "682321",
+      "2024",
+      "01",
+      "GAMBIA",
+      "33"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 3",
+      "1244850",
+      "2024",
+      "02",
+      "GAMBIA",
+      "33"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 3",
+      "786416",
+      "2024",
+      "03",
+      "GAMBIA",
+      "33"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 3",
+      "1238241",
+      "2024",
+      "04",
+      "GAMBIA",
+      "33"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 3",
+      "792486",
+      "2024",
+      "05",
+      "GAMBIA",
+      "33"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 3",
+      "611898",
+      "2024",
+      "06",
+      "GAMBIA",
+      "33"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 3",
+      "641128",
+      "2024",
+      "07",
+      "GAMBIA",
+      "33"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 3",
+      "786003",
+      "2024",
+      "08",
+      "GAMBIA",
+      "33"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 3",
+      "840134",
+      "2024",
+      "09",
+      "GAMBIA",
+      "33"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 3",
+      "750626",
+      "2024",
+      "10",
+      "GAMBIA",
+      "33"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 3",
+      "1158146",
+      "2024",
+      "11",
+      "GAMBIA",
+      "33"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 3",
+      "1233795",
+      "2024",
+      "12",
+      "GAMBIA",
+      "33"
+    ],
+    [
+      "7500",
+      "PRIMARY METAL MANUFACTURING",
+      "3120",
+      "2024",
+      "04",
+      "GAMBIA",
+      "331"
+    ],
+    [
+      "7500",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "331"
+    ],
+    [
+      "7500",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "331"
+    ],
+    [
+      "7500",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "331"
+    ],
+    [
+      "7500",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "331"
+    ],
+    [
+      "7500",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "331"
+    ],
+    [
+      "7500",
+      "PRIMARY METAL MANUFACTURING",
+      "7000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "331"
+    ],
+    [
+      "7500",
+      "PRIMARY METAL MANUFACTURING",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "331"
+    ],
+    [
+      "7500",
+      "PRIMARY METAL MANUFACTURING",
+      "36000",
+      "2024",
+      "12",
+      "GAMBIA",
+      "331"
+    ],
+    [
+      "7500",
+      "IRON AND STEEL AND FERROALLOY",
+      "3120",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3311"
+    ],
+    [
+      "7500",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3311"
+    ],
+    [
+      "7500",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3311"
+    ],
+    [
+      "7500",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3311"
+    ],
+    [
+      "7500",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3311"
+    ],
+    [
+      "7500",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3311"
+    ],
+    [
+      "7500",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3311"
+    ],
+    [
+      "7500",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3311"
+    ],
+    [
+      "7500",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3311"
+    ],
+    [
+      "7500",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "36000",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3312"
+    ],
+    [
+      "7500",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "4724581",
+      "2024",
+      "01",
+      "GAMBIA",
+      "-"
+    ],
+    [
+      "7500",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "7642927",
+      "2024",
+      "02",
+      "GAMBIA",
+      "-"
+    ],
+    [
+      "7500",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "5442337",
+      "2024",
+      "03",
+      "GAMBIA",
+      "-"
+    ],
+    [
+      "7500",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "7098276",
+      "2024",
+      "04",
+      "GAMBIA",
+      "-"
+    ],
+    [
+      "7500",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "5553895",
+      "2024",
+      "05",
+      "GAMBIA",
+      "-"
+    ],
+    [
+      "7500",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "8776415",
+      "2024",
+      "06",
+      "GAMBIA",
+      "-"
+    ],
+    [
+      "7500",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "4715208",
+      "2024",
+      "07",
+      "GAMBIA",
+      "-"
+    ],
+    [
+      "7500",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "5969872",
+      "2024",
+      "08",
+      "GAMBIA",
+      "-"
+    ],
+    [
+      "7500",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "5961140",
+      "2024",
+      "09",
+      "GAMBIA",
+      "-"
+    ],
+    [
+      "7500",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "5237435",
+      "2024",
+      "10",
+      "GAMBIA",
+      "-"
+    ],
+    [
+      "7500",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "10816754",
+      "2024",
+      "11",
+      "GAMBIA",
+      "-"
+    ],
+    [
+      "7500",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "8624682",
+      "2024",
+      "12",
+      "GAMBIA",
+      "-"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "6800",
+      "2024",
+      "04",
+      "GAMBIA",
+      "11"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "4662",
+      "2024",
+      "05",
+      "GAMBIA",
+      "11"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "182575",
+      "2024",
+      "06",
+      "GAMBIA",
+      "11"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "25568",
+      "2024",
+      "07",
+      "GAMBIA",
+      "11"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "11"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "11"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "11"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "11"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "11"
+    ],
+    [
+      "7500",
+      "AGRICULTURAL PRODUCTS",
+      "4662",
+      "2024",
+      "05",
+      "GAMBIA",
+      "111"
+    ],
+    [
+      "7500",
+      "AGRICULTURAL PRODUCTS",
+      "182575",
+      "2024",
+      "06",
+      "GAMBIA",
+      "111"
+    ],
+    [
+      "7500",
+      "AGRICULTURAL PRODUCTS",
+      "25568",
+      "2024",
+      "07",
+      "GAMBIA",
+      "111"
+    ],
+    [
+      "7500",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "111"
+    ],
+    [
+      "7500",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "111"
+    ],
+    [
+      "7500",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "111"
+    ],
+    [
+      "7500",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "111"
+    ],
+    [
+      "7500",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "111"
+    ],
+    [
+      "7500",
+      "OILSEEDS AND GRAINS",
+      "182575",
+      "2024",
+      "06",
+      "GAMBIA",
+      "1111"
+    ],
+    [
+      "7500",
+      "OILSEEDS AND GRAINS",
+      "25568",
+      "2024",
+      "07",
+      "GAMBIA",
+      "1111"
+    ],
+    [
+      "7500",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "1111"
+    ],
+    [
+      "7500",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "1111"
+    ],
+    [
+      "7500",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "1111"
+    ],
+    [
+      "7500",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "1111"
+    ],
+    [
+      "7500",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "1111"
+    ],
+    [
+      "7500",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "4662",
+      "2024",
+      "05",
+      "GAMBIA",
+      "1119"
+    ],
+    [
+      "7500",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "1119"
+    ],
+    [
+      "7500",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "1119"
+    ],
+    [
+      "7500",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "1119"
+    ],
+    [
+      "7500",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "1119"
+    ],
+    [
+      "7500",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "1119"
+    ],
+    [
+      "7500",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "1119"
+    ],
+    [
+      "7500",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "1119"
+    ],
+    [
+      "7500",
+      "OTHER ANIMALS",
+      "6800",
+      "2024",
+      "04",
+      "GAMBIA",
+      "1129"
+    ],
+    [
+      "7500",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "1129"
+    ],
+    [
+      "7500",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "1129"
+    ],
+    [
+      "7500",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "1129"
+    ],
+    [
+      "7500",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "1129"
+    ],
+    [
+      "7500",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "1129"
+    ],
+    [
+      "7500",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "1129"
+    ],
+    [
+      "7500",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "1129"
+    ],
+    [
+      "7500",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "1129"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART1",
+      "2782313",
+      "2024",
+      "01",
+      "GAMBIA",
+      "31"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART1",
+      "4377310",
+      "2024",
+      "02",
+      "GAMBIA",
+      "31"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART1",
+      "3552384",
+      "2024",
+      "03",
+      "GAMBIA",
+      "31"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART1",
+      "4385917",
+      "2024",
+      "04",
+      "GAMBIA",
+      "31"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART1",
+      "3150179",
+      "2024",
+      "05",
+      "GAMBIA",
+      "31"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART1",
+      "6354785",
+      "2024",
+      "06",
+      "GAMBIA",
+      "31"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART1",
+      "2687973",
+      "2024",
+      "07",
+      "GAMBIA",
+      "31"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART1",
+      "3338539",
+      "2024",
+      "08",
+      "GAMBIA",
+      "31"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART1",
+      "3500898",
+      "2024",
+      "09",
+      "GAMBIA",
+      "31"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART1",
+      "3226621",
+      "2024",
+      "10",
+      "GAMBIA",
+      "31"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART1",
+      "8287310",
+      "2024",
+      "11",
+      "GAMBIA",
+      "31"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART1",
+      "5061090",
+      "2024",
+      "12",
+      "GAMBIA",
+      "31"
+    ],
+    [
+      "7500",
+      "MANUFACTURED GOODS",
+      "4255299",
+      "2024",
+      "01",
+      "GAMBIA",
+      "31-33"
+    ],
+    [
+      "7500",
+      "MANUFACTURED GOODS",
+      "6250844",
+      "2024",
+      "02",
+      "GAMBIA",
+      "31-33"
+    ],
+    [
+      "7500",
+      "MANUFACTURED GOODS",
+      "4911408",
+      "2024",
+      "03",
+      "GAMBIA",
+      "31-33"
+    ],
+    [
+      "7500",
+      "MANUFACTURED GOODS",
+      "6422194",
+      "2024",
+      "04",
+      "GAMBIA",
+      "31-33"
+    ],
+    [
+      "7500",
+      "MANUFACTURED GOODS",
+      "4807600",
+      "2024",
+      "05",
+      "GAMBIA",
+      "31-33"
+    ],
+    [
+      "7500",
+      "MANUFACTURED GOODS",
+      "7981075",
+      "2024",
+      "06",
+      "GAMBIA",
+      "31-33"
+    ],
+    [
+      "7500",
+      "MANUFACTURED GOODS",
+      "4136425",
+      "2024",
+      "07",
+      "GAMBIA",
+      "31-33"
+    ],
+    [
+      "7500",
+      "MANUFACTURED GOODS",
+      "5090618",
+      "2024",
+      "08",
+      "GAMBIA",
+      "31-33"
+    ],
+    [
+      "7500",
+      "MANUFACTURED GOODS",
+      "5162333",
+      "2024",
+      "09",
+      "GAMBIA",
+      "31-33"
+    ],
+    [
+      "7500",
+      "MANUFACTURED GOODS",
+      "4630115",
+      "2024",
+      "10",
+      "GAMBIA",
+      "31-33"
+    ],
+    [
+      "7500",
+      "MANUFACTURED GOODS",
+      "10045503",
+      "2024",
+      "11",
+      "GAMBIA",
+      "31-33"
+    ],
+    [
+      "7500",
+      "MANUFACTURED GOODS",
+      "7148967",
+      "2024",
+      "12",
+      "GAMBIA",
+      "31-33"
+    ],
+    [
+      "7500",
+      "FOOD AND KINDRED PRODUCTS",
+      "2782313",
+      "2024",
+      "01",
+      "GAMBIA",
+      "311"
+    ],
+    [
+      "7500",
+      "FOOD AND KINDRED PRODUCTS",
+      "4374310",
+      "2024",
+      "02",
+      "GAMBIA",
+      "311"
+    ],
+    [
+      "7500",
+      "FOOD AND KINDRED PRODUCTS",
+      "3521036",
+      "2024",
+      "03",
+      "GAMBIA",
+      "311"
+    ],
+    [
+      "7500",
+      "FOOD AND KINDRED PRODUCTS",
+      "4355217",
+      "2024",
+      "04",
+      "GAMBIA",
+      "311"
+    ],
+    [
+      "7500",
+      "FOOD AND KINDRED PRODUCTS",
+      "3133849",
+      "2024",
+      "05",
+      "GAMBIA",
+      "311"
+    ],
+    [
+      "7500",
+      "FOOD AND KINDRED PRODUCTS",
+      "6351191",
+      "2024",
+      "06",
+      "GAMBIA",
+      "311"
+    ],
+    [
+      "7500",
+      "FOOD AND KINDRED PRODUCTS",
+      "2667973",
+      "2024",
+      "07",
+      "GAMBIA",
+      "311"
+    ],
+    [
+      "7500",
+      "FOOD AND KINDRED PRODUCTS",
+      "3218746",
+      "2024",
+      "08",
+      "GAMBIA",
+      "311"
+    ],
+    [
+      "7500",
+      "FOOD AND KINDRED PRODUCTS",
+      "3481698",
+      "2024",
+      "09",
+      "GAMBIA",
+      "311"
+    ],
+    [
+      "7500",
+      "FOOD AND KINDRED PRODUCTS",
+      "3226621",
+      "2024",
+      "10",
+      "GAMBIA",
+      "311"
+    ],
+    [
+      "7500",
+      "FOOD AND KINDRED PRODUCTS",
+      "8273132",
+      "2024",
+      "11",
+      "GAMBIA",
+      "311"
+    ],
+    [
+      "7500",
+      "FOOD AND KINDRED PRODUCTS",
+      "5027490",
+      "2024",
+      "12",
+      "GAMBIA",
+      "311"
+    ],
+    [
+      "7500",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "5600",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3113"
+    ],
+    [
+      "7500",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3113"
+    ],
+    [
+      "7500",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3113"
+    ],
+    [
+      "7500",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3113"
+    ],
+    [
+      "7500",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3113"
+    ],
+    [
+      "7500",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3113"
+    ],
+    [
+      "7500",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3113"
+    ],
+    [
+      "7500",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3113"
+    ],
+    [
+      "7500",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "3000",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3113"
+    ],
+    [
+      "7500",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "2800",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3114"
+    ],
+    [
+      "7500",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3114"
+    ],
+    [
+      "7500",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3114"
+    ],
+    [
+      "7500",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3114"
+    ],
+    [
+      "7500",
+      "DAIRY PRODUCTS",
+      "48000",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3115"
+    ],
+    [
+      "7500",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3115"
+    ],
+    [
+      "7500",
+      "DAIRY PRODUCTS",
+      "3500",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3115"
+    ],
+    [
+      "7500",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3115"
+    ],
+    [
+      "7500",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3115"
+    ],
+    [
+      "7500",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3115"
+    ],
+    [
+      "7500",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3115"
+    ],
+    [
+      "7500",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3115"
+    ],
+    [
+      "7500",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3115"
+    ],
+    [
+      "7500",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "2709563",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3116"
+    ],
+    [
+      "7500",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "4282539",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3116"
+    ],
+    [
+      "7500",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "3502536",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3116"
+    ],
+    [
+      "7500",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "4268237",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3116"
+    ],
+    [
+      "7500",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "3101049",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3116"
+    ],
+    [
+      "7500",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "6231369",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3116"
+    ],
+    [
+      "7500",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "1788472",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3116"
+    ],
+    [
+      "7500",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "3065828",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3116"
+    ],
+    [
+      "7500",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "3414488",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3116"
+    ],
+    [
+      "7500",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "3144141",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3116"
+    ],
+    [
+      "7500",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "8269382",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3116"
+    ],
+    [
+      "7500",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "5009040",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3116"
+    ],
+    [
+      "7500",
+      "FOODS, NESOI",
+      "72750",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3119"
+    ],
+    [
+      "7500",
+      "FOODS, NESOI",
+      "86771",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3119"
+    ],
+    [
+      "7500",
+      "FOODS, NESOI",
+      "18500",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3119"
+    ],
+    [
+      "7500",
+      "FOODS, NESOI",
+      "33380",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3119"
+    ],
+    [
+      "7500",
+      "FOODS, NESOI",
+      "32800",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3119"
+    ],
+    [
+      "7500",
+      "FOODS, NESOI",
+      "25000",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3119"
+    ],
+    [
+      "7500",
+      "FOODS, NESOI",
+      "64000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3119"
+    ],
+    [
+      "7500",
+      "FOODS, NESOI",
+      "147918",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3119"
+    ],
+    [
+      "7500",
+      "FOODS, NESOI",
+      "59410",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3119"
+    ],
+    [
+      "7500",
+      "FOODS, NESOI",
+      "82480",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3119"
+    ],
+    [
+      "7500",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3119"
+    ],
+    [
+      "7500",
+      "FOODS, NESOI",
+      "15450",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3119"
+    ],
+    [
+      "7500",
+      "BEVERAGES",
+      "3000",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3121"
+    ],
+    [
+      "7500",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3121"
+    ],
+    [
+      "7500",
+      "BEVERAGES",
+      "7200",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3121"
+    ],
+    [
+      "7500",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3121"
+    ],
+    [
+      "7500",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3121"
+    ],
+    [
+      "7500",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3121"
+    ],
+    [
+      "7500",
+      "BEVERAGES",
+      "3893",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3121"
+    ],
+    [
+      "7500",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3121"
+    ],
+    [
+      "7500",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3121"
+    ],
+    [
+      "7500",
+      "BEVERAGES",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3121"
+    ],
+    [
+      "7500",
+      "BEVERAGES",
+      "9600",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3121"
+    ],
+    [
+      "7500",
+      "TEXTILES AND FABRICS",
+      "12348",
+      "2024",
+      "03",
+      "GAMBIA",
+      "313"
+    ],
+    [
+      "7500",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "313"
+    ],
+    [
+      "7500",
+      "TEXTILES AND FABRICS",
+      "3750",
+      "2024",
+      "05",
+      "GAMBIA",
+      "313"
+    ],
+    [
+      "7500",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "313"
+    ],
+    [
+      "7500",
+      "TEXTILES AND FABRICS",
+      "15000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "313"
+    ],
+    [
+      "7500",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "313"
+    ],
+    [
+      "7500",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "313"
+    ],
+    [
+      "7500",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "313"
+    ],
+    [
+      "7500",
+      "TEXTILES AND FABRICS",
+      "11178",
+      "2024",
+      "11",
+      "GAMBIA",
+      "313"
+    ],
+    [
+      "7500",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "313"
+    ],
+    [
+      "7500",
+      "FIBERS, YARNS, AND THREADS",
+      "3820",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3131"
+    ],
+    [
+      "7500",
+      "FIBERS, YARNS, AND THREADS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3131"
+    ],
+    [
+      "7500",
+      "FABRICS",
+      "12348",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3132"
+    ],
+    [
+      "7500",
+      "FABRICS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3132"
+    ],
+    [
+      "7500",
+      "FABRICS",
+      "3750",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3132"
+    ],
+    [
+      "7500",
+      "FABRICS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3132"
+    ],
+    [
+      "7500",
+      "FABRICS",
+      "15000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3132"
+    ],
+    [
+      "7500",
+      "FABRICS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3132"
+    ],
+    [
+      "7500",
+      "FABRICS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3132"
+    ],
+    [
+      "7500",
+      "FABRICS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3132"
+    ],
+    [
+      "7500",
+      "FABRICS",
+      "7358",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3132"
+    ],
+    [
+      "7500",
+      "FABRICS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3132"
+    ],
+    [
+      "7500",
+      "TEXTILE MILL PRODUCTS",
+      "19000",
+      "2024",
+      "03",
+      "GAMBIA",
+      "314"
+    ],
+    [
+      "7500",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "314"
+    ],
+    [
+      "7500",
+      "TEXTILE MILL PRODUCTS",
+      "12580",
+      "2024",
+      "05",
+      "GAMBIA",
+      "314"
+    ],
+    [
+      "7500",
+      "TEXTILE MILL PRODUCTS",
+      "3594",
+      "2024",
+      "06",
+      "GAMBIA",
+      "314"
+    ],
+    [
+      "7500",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "314"
+    ],
+    [
+      "7500",
+      "TEXTILE MILL PRODUCTS",
+      "5000",
+      "2024",
+      "08",
+      "GAMBIA",
+      "314"
+    ],
+    [
+      "7500",
+      "TEXTILE MILL PRODUCTS",
+      "4200",
+      "2024",
+      "09",
+      "GAMBIA",
+      "314"
+    ],
+    [
+      "7500",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "314"
+    ],
+    [
+      "7500",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "314"
+    ],
+    [
+      "7500",
+      "TEXTILE MILL PRODUCTS",
+      "4000",
+      "2024",
+      "12",
+      "GAMBIA",
+      "314"
+    ],
+    [
+      "7500",
+      "TEXTILE FURNISHINGS",
+      "5000",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3141"
+    ],
+    [
+      "7500",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3141"
+    ],
+    [
+      "7500",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3141"
+    ],
+    [
+      "7500",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3141"
+    ],
+    [
+      "7500",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3141"
+    ],
+    [
+      "7500",
+      "TEXTILE FURNISHINGS",
+      "5000",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3141"
+    ],
+    [
+      "7500",
+      "TEXTILE FURNISHINGS",
+      "4200",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3141"
+    ],
+    [
+      "7500",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3141"
+    ],
+    [
+      "7500",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3141"
+    ],
+    [
+      "7500",
+      "TEXTILE FURNISHINGS",
+      "4000",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3141"
+    ],
+    [
+      "7500",
+      "OTHER TEXTILE PRODUCTS",
+      "14000",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3149"
+    ],
+    [
+      "7500",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3149"
+    ],
+    [
+      "7500",
+      "OTHER TEXTILE PRODUCTS",
+      "12580",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3149"
+    ],
+    [
+      "7500",
+      "OTHER TEXTILE PRODUCTS",
+      "3594",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3149"
+    ],
+    [
+      "7500",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3149"
+    ],
+    [
+      "7500",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3149"
+    ],
+    [
+      "7500",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3149"
+    ],
+    [
+      "7500",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3149"
+    ],
+    [
+      "7500",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3149"
+    ],
+    [
+      "7500",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3149"
+    ],
+    [
+      "7500",
+      "APPAREL AND ACCESSORIES",
+      "23500",
+      "2024",
+      "04",
+      "GAMBIA",
+      "315"
+    ],
+    [
+      "7500",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "315"
+    ],
+    [
+      "7500",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "315"
+    ],
+    [
+      "7500",
+      "APPAREL AND ACCESSORIES",
+      "5000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "315"
+    ],
+    [
+      "7500",
+      "APPAREL AND ACCESSORIES",
+      "93500",
+      "2024",
+      "08",
+      "GAMBIA",
+      "315"
+    ],
+    [
+      "7500",
+      "APPAREL AND ACCESSORIES",
+      "15000",
+      "2024",
+      "09",
+      "GAMBIA",
+      "315"
+    ],
+    [
+      "7500",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "315"
+    ],
+    [
+      "7500",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "315"
+    ],
+    [
+      "7500",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "315"
+    ],
+    [
+      "7500",
+      "LEATHER AND ALLIED PRODUCTS",
+      "17400",
+      "2024",
+      "08",
+      "GAMBIA",
+      "316"
+    ],
+    [
+      "7500",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "316"
+    ],
+    [
+      "7500",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "316"
+    ],
+    [
+      "7500",
+      "LEATHER AND ALLIED PRODUCTS",
+      "3000",
+      "2024",
+      "11",
+      "GAMBIA",
+      "316"
+    ],
+    [
+      "7500",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "316"
+    ],
+    [
+      "7500",
+      "OTHER LEATHER PRODUCTS",
+      "17400",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3169"
+    ],
+    [
+      "7500",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3169"
+    ],
+    [
+      "7500",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3169"
+    ],
+    [
+      "7500",
+      "OTHER LEATHER PRODUCTS",
+      "3000",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3169"
+    ],
+    [
+      "7500",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3169"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 2",
+      "790665",
+      "2024",
+      "01",
+      "GAMBIA",
+      "32"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 2",
+      "628684",
+      "2024",
+      "02",
+      "GAMBIA",
+      "32"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 2",
+      "572608",
+      "2024",
+      "03",
+      "GAMBIA",
+      "32"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 2",
+      "798036",
+      "2024",
+      "04",
+      "GAMBIA",
+      "32"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 2",
+      "864935",
+      "2024",
+      "05",
+      "GAMBIA",
+      "32"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 2",
+      "1014392",
+      "2024",
+      "06",
+      "GAMBIA",
+      "32"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 2",
+      "807324",
+      "2024",
+      "07",
+      "GAMBIA",
+      "32"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 2",
+      "966076",
+      "2024",
+      "08",
+      "GAMBIA",
+      "32"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 2",
+      "821301",
+      "2024",
+      "09",
+      "GAMBIA",
+      "32"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 2",
+      "652868",
+      "2024",
+      "10",
+      "GAMBIA",
+      "32"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 2",
+      "600047",
+      "2024",
+      "11",
+      "GAMBIA",
+      "32"
+    ],
+    [
+      "7500",
+      "MANUFACTURING, PART 2",
+      "854082",
+      "2024",
+      "12",
+      "GAMBIA",
+      "32"
+    ],
+    [
+      "7500",
+      "OTHER WOOD PRODUCTS",
+      "8750",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3219"
+    ],
+    [
+      "7500",
+      "OTHER WOOD PRODUCTS",
+      "5000",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3219"
+    ],
+    [
+      "7500",
+      "OTHER WOOD PRODUCTS",
+      "8800",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3219"
+    ],
+    [
+      "7500",
+      "OTHER WOOD PRODUCTS",
+      "28400",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3219"
+    ],
+    [
+      "7500",
+      "OTHER WOOD PRODUCTS",
+      "4000",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3219"
+    ],
+    [
+      "7500",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3219"
+    ],
+    [
+      "7500",
+      "OTHER WOOD PRODUCTS",
+      "10000",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3219"
+    ],
+    [
+      "7500",
+      "OTHER WOOD PRODUCTS",
+      "5000",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3219"
+    ],
+    [
+      "7500",
+      "OTHER WOOD PRODUCTS",
+      "5000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3219"
+    ],
+    [
+      "7500",
+      "OTHER WOOD PRODUCTS",
+      "4400",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3219"
+    ],
+    [
+      "7500",
+      "OTHER WOOD PRODUCTS",
+      "3200",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3219"
+    ],
+    [
+      "7500",
+      "INDUSTRIAL MACHINERY",
+      "12336",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3332"
+    ],
+    [
+      "7500",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3332"
+    ],
+    [
+      "7500",
+      "INDUSTRIAL MACHINERY",
+      "9558",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3332"
+    ],
+    [
+      "7500",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3332"
+    ],
+    [
+      "7500",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3332"
+    ],
+    [
+      "7500",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3332"
+    ],
+    [
+      "7500",
+      "INDUSTRIAL MACHINERY",
+      "28117",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3332"
+    ],
+    [
+      "7500",
+      "INDUSTRIAL MACHINERY",
+      "5600",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3332"
+    ],
+    [
+      "7500",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3332"
+    ],
+    [
+      "7500",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3332"
+    ],
+    [
+      "7500",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3332"
+    ],
+    [
+      "7500",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3332"
+    ],
+    [
+      "7500",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "12795",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3333"
+    ],
+    [
+      "7500",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3333"
+    ],
+    [
+      "7500",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3333"
+    ],
+    [
+      "7500",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3333"
+    ],
+    [
+      "7500",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3333"
+    ],
+    [
+      "7500",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3333"
+    ],
+    [
+      "7500",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "4629",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3333"
+    ],
+    [
+      "7500",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "3740",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3333"
+    ],
+    [
+      "7500",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3333"
+    ],
+    [
+      "7500",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "7280",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3333"
+    ],
+    [
+      "7500",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3333"
+    ],
+    [
+      "7500",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3333"
+    ],
+    [
+      "7500",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "8000",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3334"
+    ],
+    [
+      "7500",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3334"
+    ],
+    [
+      "7500",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "4000",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3334"
+    ],
+    [
+      "7500",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3334"
+    ],
+    [
+      "7500",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3334"
+    ],
+    [
+      "7500",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3334"
+    ],
+    [
+      "7500",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3334"
+    ],
+    [
+      "7500",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3334"
+    ],
+    [
+      "7500",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3334"
+    ],
+    [
+      "7500",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3334"
+    ],
+    [
+      "7500",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3334"
+    ],
+    [
+      "7500",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3334"
+    ],
+    [
+      "7500",
+      "METALWORKING MACHINERY",
+      "8310",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3335"
+    ],
+    [
+      "7500",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3335"
+    ],
+    [
+      "7500",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3335"
+    ],
+    [
+      "7500",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3335"
+    ],
+    [
+      "7500",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3335"
+    ],
+    [
+      "7500",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3335"
+    ],
+    [
+      "7500",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3335"
+    ],
+    [
+      "7500",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3335"
+    ],
+    [
+      "7500",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3335"
+    ],
+    [
+      "7500",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3335"
+    ],
+    [
+      "7500",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "10000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3336"
+    ],
+    [
+      "7500",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3336"
+    ],
+    [
+      "7500",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "15287",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3336"
+    ],
+    [
+      "7500",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "3250",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3339"
+    ],
+    [
+      "7500",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3339"
+    ],
+    [
+      "7500",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "10000",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3339"
+    ],
+    [
+      "7500",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3339"
+    ],
+    [
+      "7500",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "17274",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3339"
+    ],
+    [
+      "7500",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "4484",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3339"
+    ],
+    [
+      "7500",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3339"
+    ],
+    [
+      "7500",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3339"
+    ],
+    [
+      "7500",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3339"
+    ],
+    [
+      "7500",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "140491",
+      "2024",
+      "01",
+      "GAMBIA",
+      "334"
+    ],
+    [
+      "7500",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "728803",
+      "2024",
+      "02",
+      "GAMBIA",
+      "334"
+    ],
+    [
+      "7500",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "110477",
+      "2024",
+      "03",
+      "GAMBIA",
+      "334"
+    ],
+    [
+      "7500",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "312657",
+      "2024",
+      "04",
+      "GAMBIA",
+      "334"
+    ],
+    [
+      "7500",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "171631",
+      "2024",
+      "05",
+      "GAMBIA",
+      "334"
+    ],
+    [
+      "7500",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "109629",
+      "2024",
+      "06",
+      "GAMBIA",
+      "334"
+    ],
+    [
+      "7500",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "79064",
+      "2024",
+      "07",
+      "GAMBIA",
+      "334"
+    ],
+    [
+      "7500",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "144598",
+      "2024",
+      "08",
+      "GAMBIA",
+      "334"
+    ],
+    [
+      "7500",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "199803",
+      "2024",
+      "09",
+      "GAMBIA",
+      "334"
+    ],
+    [
+      "7500",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "35559",
+      "2024",
+      "10",
+      "GAMBIA",
+      "334"
+    ],
+    [
+      "7500",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "149648",
+      "2024",
+      "11",
+      "GAMBIA",
+      "334"
+    ],
+    [
+      "7500",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "220106",
+      "2024",
+      "12",
+      "GAMBIA",
+      "334"
+    ],
+    [
+      "7500",
+      "COMPUTER EQUIPMENT",
+      "16981",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3341"
+    ],
+    [
+      "7500",
+      "COMPUTER EQUIPMENT",
+      "674303",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3341"
+    ],
+    [
+      "7500",
+      "COMPUTER EQUIPMENT",
+      "14879",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3341"
+    ],
+    [
+      "7500",
+      "COMPUTER EQUIPMENT",
+      "64459",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3341"
+    ],
+    [
+      "7500",
+      "COMPUTER EQUIPMENT",
+      "45145",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3341"
+    ],
+    [
+      "7500",
+      "COMPUTER EQUIPMENT",
+      "109629",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3341"
+    ],
+    [
+      "7500",
+      "COMPUTER EQUIPMENT",
+      "70318",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3341"
+    ],
+    [
+      "7500",
+      "COMPUTER EQUIPMENT",
+      "87201",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3341"
+    ],
+    [
+      "7500",
+      "COMPUTER EQUIPMENT",
+      "107457",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3341"
+    ],
+    [
+      "7500",
+      "COMPUTER EQUIPMENT",
+      "21559",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3341"
+    ],
+    [
+      "7500",
+      "COMPUTER EQUIPMENT",
+      "32583",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3341"
+    ],
+    [
+      "7500",
+      "COMPUTER EQUIPMENT",
+      "212406",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3341"
+    ],
+    [
+      "7500",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "3400",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3343"
+    ],
+    [
+      "7500",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "39000",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3343"
+    ],
+    [
+      "7500",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3343"
+    ],
+    [
+      "7500",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "3190",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3343"
+    ],
+    [
+      "7500",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "5000",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3343"
+    ],
+    [
+      "7500",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3343"
+    ],
+    [
+      "7500",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3343"
+    ],
+    [
+      "7500",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "5490",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3343"
+    ],
+    [
+      "7500",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3343"
+    ],
+    [
+      "7500",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "5000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3343"
+    ],
+    [
+      "7500",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3343"
+    ],
+    [
+      "7500",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "7700",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3343"
+    ],
+    [
+      "7500",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "47310",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3344"
+    ],
+    [
+      "7500",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "15500",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3344"
+    ],
+    [
+      "7500",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "83100",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3344"
+    ],
+    [
+      "7500",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "123308",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3344"
+    ],
+    [
+      "7500",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "87300",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3344"
+    ],
+    [
+      "7500",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3344"
+    ],
+    [
+      "7500",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "3000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3344"
+    ],
+    [
+      "7500",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "20000",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3344"
+    ],
+    [
+      "7500",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "12000",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3344"
+    ],
+    [
+      "7500",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3344"
+    ],
+    [
+      "7500",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "21666",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3344"
+    ],
+    [
+      "7500",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3344"
+    ],
+    [
+      "7500",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "8998",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3345"
+    ],
+    [
+      "7500",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "61700",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3345"
+    ],
+    [
+      "7500",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3345"
+    ],
+    [
+      "7500",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3345"
+    ],
+    [
+      "7500",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3345"
+    ],
+    [
+      "7500",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3345"
+    ],
+    [
+      "7500",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "31575",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3345"
+    ],
+    [
+      "7500",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3345"
+    ],
+    [
+      "7500",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "5000",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3345"
+    ],
+    [
+      "7500",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3345"
+    ],
+    [
+      "7500",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "5950",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3351"
+    ],
+    [
+      "7500",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3351"
+    ],
+    [
+      "7500",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3351"
+    ],
+    [
+      "7500",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3351"
+    ],
+    [
+      "7500",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3351"
+    ],
+    [
+      "7500",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3351"
+    ],
+    [
+      "7500",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3351"
+    ],
+    [
+      "7500",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3351"
+    ],
+    [
+      "7500",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3351"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "15500",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3352"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3352"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "3750",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3352"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3352"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3352"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3352"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3352"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3352"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "5200",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3352"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "6900",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3352"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "2833",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3352"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3352"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT",
+      "7060",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3353"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3353"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3353"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3353"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3353"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3353"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3353"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3353"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3353"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT",
+      "35000",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3353"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3353"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT",
+      "324449",
+      "2024",
+      "01",
+      "GAMBIA",
+      "336"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT",
+      "457551",
+      "2024",
+      "02",
+      "GAMBIA",
+      "336"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT",
+      "577393",
+      "2024",
+      "03",
+      "GAMBIA",
+      "336"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT",
+      "537257",
+      "2024",
+      "04",
+      "GAMBIA",
+      "336"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT",
+      "530882",
+      "2024",
+      "05",
+      "GAMBIA",
+      "336"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT",
+      "451469",
+      "2024",
+      "06",
+      "GAMBIA",
+      "336"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT",
+      "394672",
+      "2024",
+      "07",
+      "GAMBIA",
+      "336"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT",
+      "456873",
+      "2024",
+      "08",
+      "GAMBIA",
+      "336"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT",
+      "574347",
+      "2024",
+      "09",
+      "GAMBIA",
+      "336"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT",
+      "606612",
+      "2024",
+      "10",
+      "GAMBIA",
+      "336"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT",
+      "849143",
+      "2024",
+      "11",
+      "GAMBIA",
+      "336"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT",
+      "887502",
+      "2024",
+      "12",
+      "GAMBIA",
+      "336"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLES",
+      "185507",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3361"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLES",
+      "178211",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3361"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLES",
+      "250453",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3361"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLES",
+      "202854",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3361"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLES",
+      "209402",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3361"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLES",
+      "290977",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3361"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLES",
+      "231308",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3361"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLES",
+      "236315",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3361"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLES",
+      "307310",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3361"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLES",
+      "227820",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3361"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLES",
+      "496557",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3361"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLES",
+      "491454",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3361"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "441393",
+      "2024",
+      "01",
+      "GAMBIA",
+      "93"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "479336",
+      "2024",
+      "02",
+      "GAMBIA",
+      "93"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "499928",
+      "2024",
+      "03",
+      "GAMBIA",
+      "93"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "639288",
+      "2024",
+      "04",
+      "GAMBIA",
+      "93"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "689007",
+      "2024",
+      "05",
+      "GAMBIA",
+      "93"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "576197",
+      "2024",
+      "06",
+      "GAMBIA",
+      "93"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "528541",
+      "2024",
+      "07",
+      "GAMBIA",
+      "93"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "854642",
+      "2024",
+      "08",
+      "GAMBIA",
+      "93"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "772482",
+      "2024",
+      "09",
+      "GAMBIA",
+      "93"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "584404",
+      "2024",
+      "10",
+      "GAMBIA",
+      "93"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "714999",
+      "2024",
+      "11",
+      "GAMBIA",
+      "93"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "702148",
+      "2024",
+      "12",
+      "GAMBIA",
+      "93"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "441393",
+      "2024",
+      "01",
+      "GAMBIA",
+      "930"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "479336",
+      "2024",
+      "02",
+      "GAMBIA",
+      "930"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "499928",
+      "2024",
+      "03",
+      "GAMBIA",
+      "930"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "639288",
+      "2024",
+      "04",
+      "GAMBIA",
+      "930"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "689007",
+      "2024",
+      "05",
+      "GAMBIA",
+      "930"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "576197",
+      "2024",
+      "06",
+      "GAMBIA",
+      "930"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "528541",
+      "2024",
+      "07",
+      "GAMBIA",
+      "930"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "854642",
+      "2024",
+      "08",
+      "GAMBIA",
+      "930"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "772482",
+      "2024",
+      "09",
+      "GAMBIA",
+      "930"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "584404",
+      "2024",
+      "10",
+      "GAMBIA",
+      "930"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "714999",
+      "2024",
+      "11",
+      "GAMBIA",
+      "930"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "702148",
+      "2024",
+      "12",
+      "GAMBIA",
+      "930"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "441393",
+      "2024",
+      "01",
+      "GAMBIA",
+      "9300"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "479336",
+      "2024",
+      "02",
+      "GAMBIA",
+      "9300"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "499928",
+      "2024",
+      "03",
+      "GAMBIA",
+      "9300"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "639288",
+      "2024",
+      "04",
+      "GAMBIA",
+      "9300"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "689007",
+      "2024",
+      "05",
+      "GAMBIA",
+      "9300"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "576197",
+      "2024",
+      "06",
+      "GAMBIA",
+      "9300"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "528541",
+      "2024",
+      "07",
+      "GAMBIA",
+      "9300"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "854642",
+      "2024",
+      "08",
+      "GAMBIA",
+      "9300"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "772482",
+      "2024",
+      "09",
+      "GAMBIA",
+      "9300"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "584404",
+      "2024",
+      "10",
+      "GAMBIA",
+      "9300"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "714999",
+      "2024",
+      "11",
+      "GAMBIA",
+      "9300"
+    ],
+    [
+      "7500",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "702148",
+      "2024",
+      "12",
+      "GAMBIA",
+      "9300"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "27889",
+      "2024",
+      "01",
+      "GAMBIA",
+      "990"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "912747",
+      "2024",
+      "02",
+      "GAMBIA",
+      "990"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "31001",
+      "2024",
+      "03",
+      "GAMBIA",
+      "990"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "29994",
+      "2024",
+      "04",
+      "GAMBIA",
+      "990"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "52626",
+      "2024",
+      "05",
+      "GAMBIA",
+      "990"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "36568",
+      "2024",
+      "06",
+      "GAMBIA",
+      "990"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "24674",
+      "2024",
+      "07",
+      "GAMBIA",
+      "990"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "24612",
+      "2024",
+      "08",
+      "GAMBIA",
+      "990"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "26325",
+      "2024",
+      "09",
+      "GAMBIA",
+      "990"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "22916",
+      "2024",
+      "10",
+      "GAMBIA",
+      "990"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "56252",
+      "2024",
+      "11",
+      "GAMBIA",
+      "990"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "773567",
+      "2024",
+      "12",
+      "GAMBIA",
+      "990"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "27889",
+      "2024",
+      "01",
+      "GAMBIA",
+      "9900"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "912747",
+      "2024",
+      "02",
+      "GAMBIA",
+      "9900"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "31001",
+      "2024",
+      "03",
+      "GAMBIA",
+      "9900"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "29994",
+      "2024",
+      "04",
+      "GAMBIA",
+      "9900"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "52626",
+      "2024",
+      "05",
+      "GAMBIA",
+      "9900"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "36568",
+      "2024",
+      "06",
+      "GAMBIA",
+      "9900"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "24674",
+      "2024",
+      "07",
+      "GAMBIA",
+      "9900"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "24612",
+      "2024",
+      "08",
+      "GAMBIA",
+      "9900"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "26325",
+      "2024",
+      "09",
+      "GAMBIA",
+      "9900"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "22916",
+      "2024",
+      "10",
+      "GAMBIA",
+      "9900"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "56252",
+      "2024",
+      "11",
+      "GAMBIA",
+      "9900"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "773567",
+      "2024",
+      "12",
+      "GAMBIA",
+      "9900"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "3000",
+      "2024",
+      "01",
+      "GAMBIA",
+      "323"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "3500",
+      "2024",
+      "02",
+      "GAMBIA",
+      "323"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "3375",
+      "2024",
+      "03",
+      "GAMBIA",
+      "323"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "11250",
+      "2024",
+      "04",
+      "GAMBIA",
+      "323"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "323"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "323"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "6000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "323"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "11500",
+      "2024",
+      "08",
+      "GAMBIA",
+      "323"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "10000",
+      "2024",
+      "09",
+      "GAMBIA",
+      "323"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "11000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "323"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "323"
+    ],
+    [
+      "7500",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "323"
+    ],
+    [
+      "7500",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "25000",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3255"
+    ],
+    [
+      "7500",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "7800",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3255"
+    ],
+    [
+      "7500",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "68260",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3255"
+    ],
+    [
+      "7500",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "36297",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3255"
+    ],
+    [
+      "7500",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "12480",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3255"
+    ],
+    [
+      "7500",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3255"
+    ],
+    [
+      "7500",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "11250",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3255"
+    ],
+    [
+      "7500",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "70500",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3255"
+    ],
+    [
+      "7500",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "15500",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3255"
+    ],
+    [
+      "7500",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "4000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3255"
+    ],
+    [
+      "7500",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "4800",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3255"
+    ],
+    [
+      "7500",
+      "PAINTS, COATINGS, AND ADHESIVES",
+      "28000",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3255"
+    ],
+    [
+      "7500",
+      "RUBBER PRODUCTS",
+      "64739",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3262"
+    ],
+    [
+      "7500",
+      "RUBBER PRODUCTS",
+      "4022",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3262"
+    ],
+    [
+      "7500",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3262"
+    ],
+    [
+      "7500",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3262"
+    ],
+    [
+      "7500",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3262"
+    ],
+    [
+      "7500",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3262"
+    ],
+    [
+      "7500",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3262"
+    ],
+    [
+      "7500",
+      "RUBBER PRODUCTS",
+      "6000",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3262"
+    ],
+    [
+      "7500",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3262"
+    ],
+    [
+      "7500",
+      "RUBBER PRODUCTS",
+      "8178",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3262"
+    ],
+    [
+      "7500",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3262"
+    ],
+    [
+      "7500",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3262"
+    ],
+    [
+      "7500",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "3000",
+      "2024",
+      "02",
+      "GAMBIA",
+      "312"
+    ],
+    [
+      "7500",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "312"
+    ],
+    [
+      "7500",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "7200",
+      "2024",
+      "04",
+      "GAMBIA",
+      "312"
+    ],
+    [
+      "7500",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "312"
+    ],
+    [
+      "7500",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "312"
+    ],
+    [
+      "7500",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "312"
+    ],
+    [
+      "7500",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "3893",
+      "2024",
+      "08",
+      "GAMBIA",
+      "312"
+    ],
+    [
+      "7500",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "312"
+    ],
+    [
+      "7500",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "312"
+    ],
+    [
+      "7500",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "312"
+    ],
+    [
+      "7500",
+      "BEVERAGES AND TOBACCO PRODUCTS",
+      "29600",
+      "2024",
+      "12",
+      "GAMBIA",
+      "312"
+    ],
+    [
+      "7500",
+      "TOBACCO PRODUCTS",
+      "20000",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3122"
+    ],
+    [
+      "7500",
+      "APPAREL",
+      "23500",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3152"
+    ],
+    [
+      "7500",
+      "APPAREL",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3152"
+    ],
+    [
+      "7500",
+      "APPAREL",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3152"
+    ],
+    [
+      "7500",
+      "APPAREL",
+      "5000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3152"
+    ],
+    [
+      "7500",
+      "APPAREL",
+      "93500",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3152"
+    ],
+    [
+      "7500",
+      "APPAREL",
+      "15000",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3152"
+    ],
+    [
+      "7500",
+      "APPAREL",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3152"
+    ],
+    [
+      "7500",
+      "APPAREL",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3152"
+    ],
+    [
+      "7500",
+      "APPAREL",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3152"
+    ],
+    [
+      "7500",
+      "WOOD PRODUCTS",
+      "8750",
+      "2024",
+      "02",
+      "GAMBIA",
+      "321"
+    ],
+    [
+      "7500",
+      "WOOD PRODUCTS",
+      "5000",
+      "2024",
+      "03",
+      "GAMBIA",
+      "321"
+    ],
+    [
+      "7500",
+      "WOOD PRODUCTS",
+      "8800",
+      "2024",
+      "04",
+      "GAMBIA",
+      "321"
+    ],
+    [
+      "7500",
+      "WOOD PRODUCTS",
+      "28400",
+      "2024",
+      "05",
+      "GAMBIA",
+      "321"
+    ],
+    [
+      "7500",
+      "WOOD PRODUCTS",
+      "4000",
+      "2024",
+      "06",
+      "GAMBIA",
+      "321"
+    ],
+    [
+      "7500",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "321"
+    ],
+    [
+      "7500",
+      "WOOD PRODUCTS",
+      "24000",
+      "2024",
+      "08",
+      "GAMBIA",
+      "321"
+    ],
+    [
+      "7500",
+      "WOOD PRODUCTS",
+      "5000",
+      "2024",
+      "09",
+      "GAMBIA",
+      "321"
+    ],
+    [
+      "7500",
+      "WOOD PRODUCTS",
+      "5000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "321"
+    ],
+    [
+      "7500",
+      "WOOD PRODUCTS",
+      "4400",
+      "2024",
+      "11",
+      "GAMBIA",
+      "321"
+    ],
+    [
+      "7500",
+      "WOOD PRODUCTS",
+      "15200",
+      "2024",
+      "12",
+      "GAMBIA",
+      "321"
+    ],
+    [
+      "7500",
+      "SAWMILL AND WOOD PRODUCTS",
+      "10000",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3211"
+    ],
+    [
+      "7500",
+      "SAWMILL AND WOOD PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3211"
+    ],
+    [
+      "7500",
+      "SAWMILL AND WOOD PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3211"
+    ],
+    [
+      "7500",
+      "SAWMILL AND WOOD PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3211"
+    ],
+    [
+      "7500",
+      "SAWMILL AND WOOD PRODUCTS",
+      "12000",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3211"
+    ],
+    [
+      "7500",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "4000",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3212"
+    ],
+    [
+      "7500",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3212"
+    ],
+    [
+      "7500",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3212"
+    ],
+    [
+      "7500",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3212"
+    ],
+    [
+      "7500",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3212"
+    ],
+    [
+      "7500",
+      "COMMUNICATIONS EQUIPMENT",
+      "72800",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3342"
+    ],
+    [
+      "7500",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3342"
+    ],
+    [
+      "7500",
+      "COMMUNICATIONS EQUIPMENT",
+      "3500",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3342"
+    ],
+    [
+      "7500",
+      "COMMUNICATIONS EQUIPMENT",
+      "60000",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3342"
+    ],
+    [
+      "7500",
+      "COMMUNICATIONS EQUIPMENT",
+      "34186",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3342"
+    ],
+    [
+      "7500",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3342"
+    ],
+    [
+      "7500",
+      "COMMUNICATIONS EQUIPMENT",
+      "5746",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3342"
+    ],
+    [
+      "7500",
+      "COMMUNICATIONS EQUIPMENT",
+      "31907",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3342"
+    ],
+    [
+      "7500",
+      "COMMUNICATIONS EQUIPMENT",
+      "48771",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3342"
+    ],
+    [
+      "7500",
+      "COMMUNICATIONS EQUIPMENT",
+      "9000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3342"
+    ],
+    [
+      "7500",
+      "COMMUNICATIONS EQUIPMENT",
+      "90399",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3342"
+    ],
+    [
+      "7500",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3342"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "15500",
+      "2024",
+      "01",
+      "GAMBIA",
+      "335"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "7060",
+      "2024",
+      "02",
+      "GAMBIA",
+      "335"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "3750",
+      "2024",
+      "03",
+      "GAMBIA",
+      "335"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "5950",
+      "2024",
+      "04",
+      "GAMBIA",
+      "335"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "335"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "335"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "11323",
+      "2024",
+      "07",
+      "GAMBIA",
+      "335"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "50918",
+      "2024",
+      "08",
+      "GAMBIA",
+      "335"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "5200",
+      "2024",
+      "09",
+      "GAMBIA",
+      "335"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "45575",
+      "2024",
+      "10",
+      "GAMBIA",
+      "335"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "76427",
+      "2024",
+      "11",
+      "GAMBIA",
+      "335"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "335"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "11323",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3359"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "50918",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3359"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3359"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "38675",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3359"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "38594",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3359"
+    ],
+    [
+      "7500",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3359"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "27889",
+      "2024",
+      "01",
+      "GAMBIA",
+      "99"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "912747",
+      "2024",
+      "02",
+      "GAMBIA",
+      "99"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "31001",
+      "2024",
+      "03",
+      "GAMBIA",
+      "99"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "29994",
+      "2024",
+      "04",
+      "GAMBIA",
+      "99"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "52626",
+      "2024",
+      "05",
+      "GAMBIA",
+      "99"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "36568",
+      "2024",
+      "06",
+      "GAMBIA",
+      "99"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "24674",
+      "2024",
+      "07",
+      "GAMBIA",
+      "99"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "24612",
+      "2024",
+      "08",
+      "GAMBIA",
+      "99"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "26325",
+      "2024",
+      "09",
+      "GAMBIA",
+      "99"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "22916",
+      "2024",
+      "10",
+      "GAMBIA",
+      "99"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "56252",
+      "2024",
+      "11",
+      "GAMBIA",
+      "99"
+    ],
+    [
+      "7500",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "773567",
+      "2024",
+      "12",
+      "GAMBIA",
+      "99"
+    ],
+    [
+      "7500",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "3183",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3364"
+    ],
+    [
+      "7500",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3364"
+    ],
+    [
+      "7500",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3364"
+    ],
+    [
+      "7500",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3364"
+    ],
+    [
+      "7500",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3364"
+    ],
+    [
+      "7500",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3364"
+    ],
+    [
+      "7500",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3364"
+    ],
+    [
+      "7500",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3364"
+    ],
+    [
+      "7500",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3364"
+    ],
+    [
+      "7500",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3364"
+    ],
+    [
+      "7500",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3364"
+    ],
+    [
+      "7500",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3364"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "54915",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3369"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "192568",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3369"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "220907",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3369"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "170931",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3369"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "159436",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3369"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "63902",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3369"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "37800",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3369"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "100890",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3369"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "166863",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3369"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "203680",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3369"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "47167",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3369"
+    ],
+    [
+      "7500",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "39292",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3369"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "53850",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3371"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "38200",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3371"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "28265",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3371"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "43443",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3371"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "64749",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3371"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "16000",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3371"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "25500",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3371"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "84700",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3371"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "41300",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3371"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "19600",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3371"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "39458",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3371"
+    ],
+    [
+      "7500",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "34700",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3371"
+    ],
+    [
+      "7500",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "4000",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3379"
+    ],
+    [
+      "7500",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3379"
+    ],
+    [
+      "7500",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "3000",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3379"
+    ],
+    [
+      "7500",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "12000",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3379"
+    ],
+    [
+      "7500",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "8900",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3379"
+    ],
+    [
+      "7500",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "4800",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3379"
+    ],
+    [
+      "7500",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3379"
+    ],
+    [
+      "7500",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3379"
+    ],
+    [
+      "7500",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3379"
+    ],
+    [
+      "7500",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "3000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3379"
+    ],
+    [
+      "7500",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "3200",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3379"
+    ],
+    [
+      "7500",
+      "FURNITURE RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3379"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "36900",
+      "2024",
+      "01",
+      "GAMBIA",
+      "339"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "339"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "8068",
+      "2024",
+      "03",
+      "GAMBIA",
+      "339"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "123084",
+      "2024",
+      "04",
+      "GAMBIA",
+      "339"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "7524",
+      "2024",
+      "05",
+      "GAMBIA",
+      "339"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "339"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "77823",
+      "2024",
+      "07",
+      "GAMBIA",
+      "339"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "339"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "339"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "9000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "339"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "16700",
+      "2024",
+      "11",
+      "GAMBIA",
+      "339"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "339"
+    ],
+    [
+      "7500",
+      "CUTLERY AND HANDTOOLS",
+      "74000",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3322"
+    ],
+    [
+      "7500",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3322"
+    ],
+    [
+      "7500",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3322"
+    ],
+    [
+      "7500",
+      "CUTLERY AND HANDTOOLS",
+      "20000",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3322"
+    ],
+    [
+      "7500",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3322"
+    ],
+    [
+      "7500",
+      "CUTLERY AND HANDTOOLS",
+      "20000",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3322"
+    ],
+    [
+      "7500",
+      "CUTLERY AND HANDTOOLS",
+      "20000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3322"
+    ],
+    [
+      "7500",
+      "CUTLERY AND HANDTOOLS",
+      "10000",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3322"
+    ],
+    [
+      "7500",
+      "CUTLERY AND HANDTOOLS",
+      "15000",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3322"
+    ],
+    [
+      "7500",
+      "CUTLERY AND HANDTOOLS",
+      "3000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3322"
+    ],
+    [
+      "7500",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3322"
+    ],
+    [
+      "7500",
+      "CUTLERY AND HANDTOOLS",
+      "30000",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3322"
+    ],
+    [
+      "7500",
+      "HARDWARE",
+      "8197",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3325"
+    ],
+    [
+      "7500",
+      "HARDWARE",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3325"
+    ],
+    [
+      "7500",
+      "SPRINGS AND WIRE PRODUCTS",
+      "7645",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3326"
+    ],
+    [
+      "7500",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3326"
+    ],
+    [
+      "7500",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3326"
+    ],
+    [
+      "7500",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3326"
+    ],
+    [
+      "7500",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3326"
+    ],
+    [
+      "7500",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3326"
+    ],
+    [
+      "7500",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3326"
+    ],
+    [
+      "7500",
+      "SPRINGS AND WIRE PRODUCTS",
+      "4000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3326"
+    ],
+    [
+      "7500",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3326"
+    ],
+    [
+      "7500",
+      "SPRINGS AND WIRE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3326"
+    ],
+    [
+      "7500",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "6800",
+      "2024",
+      "04",
+      "GAMBIA",
+      "112"
+    ],
+    [
+      "7500",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "112"
+    ],
+    [
+      "7500",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "112"
+    ],
+    [
+      "7500",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "112"
+    ],
+    [
+      "7500",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "112"
+    ],
+    [
+      "7500",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "112"
+    ],
+    [
+      "7500",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "112"
+    ],
+    [
+      "7500",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "112"
+    ],
+    [
+      "7500",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "112"
+    ],
+    [
+      "7500",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "5000",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3112"
+    ],
+    [
+      "7500",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3112"
+    ],
+    [
+      "7500",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3112"
+    ],
+    [
+      "7500",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3112"
+    ],
+    [
+      "7500",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "91322",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3112"
+    ],
+    [
+      "7500",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "815501",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3112"
+    ],
+    [
+      "7500",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "5000",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3112"
+    ],
+    [
+      "7500",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "5000",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3112"
+    ],
+    [
+      "7500",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3112"
+    ],
+    [
+      "7500",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "3750",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3112"
+    ],
+    [
+      "7500",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3112"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "3000",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3362"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3362"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3362"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "24387",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3362"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3362"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "17000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3362"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3362"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "7500",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3362"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3362"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3362"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE BODIES AND TRAILERS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3362"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE PARTS",
+      "80844",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3363"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE PARTS",
+      "73772",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3363"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE PARTS",
+      "106033",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3363"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE PARTS",
+      "163472",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3363"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE PARTS",
+      "137657",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3363"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE PARTS",
+      "96590",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3363"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE PARTS",
+      "108564",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3363"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE PARTS",
+      "119668",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3363"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE PARTS",
+      "92674",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3363"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE PARTS",
+      "175112",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3363"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE PARTS",
+      "305419",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3363"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLE PARTS",
+      "356756",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3363"
+    ],
+    [
+      "7500",
+      "SHIPS AND BOATS",
+      "10000",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3366"
+    ],
+    [
+      "7500",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3366"
+    ],
+    [
+      "7500",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3366"
+    ],
+    [
+      "7500",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3366"
+    ],
+    [
+      "7500",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3366"
+    ],
+    [
+      "7500",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3366"
+    ],
+    [
+      "7500",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3366"
+    ],
+    [
+      "7500",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3366"
+    ],
+    [
+      "7500",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3366"
+    ],
+    [
+      "7500",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3366"
+    ],
+    [
+      "7500",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3366"
+    ],
+    [
+      "7500",
+      "FURNITURE AND FIXTURES",
+      "57850",
+      "2024",
+      "01",
+      "GAMBIA",
+      "337"
+    ],
+    [
+      "7500",
+      "FURNITURE AND FIXTURES",
+      "38200",
+      "2024",
+      "02",
+      "GAMBIA",
+      "337"
+    ],
+    [
+      "7500",
+      "FURNITURE AND FIXTURES",
+      "37215",
+      "2024",
+      "03",
+      "GAMBIA",
+      "337"
+    ],
+    [
+      "7500",
+      "FURNITURE AND FIXTURES",
+      "55443",
+      "2024",
+      "04",
+      "GAMBIA",
+      "337"
+    ],
+    [
+      "7500",
+      "FURNITURE AND FIXTURES",
+      "82449",
+      "2024",
+      "05",
+      "GAMBIA",
+      "337"
+    ],
+    [
+      "7500",
+      "FURNITURE AND FIXTURES",
+      "20800",
+      "2024",
+      "06",
+      "GAMBIA",
+      "337"
+    ],
+    [
+      "7500",
+      "FURNITURE AND FIXTURES",
+      "25500",
+      "2024",
+      "07",
+      "GAMBIA",
+      "337"
+    ],
+    [
+      "7500",
+      "FURNITURE AND FIXTURES",
+      "84700",
+      "2024",
+      "08",
+      "GAMBIA",
+      "337"
+    ],
+    [
+      "7500",
+      "FURNITURE AND FIXTURES",
+      "41300",
+      "2024",
+      "09",
+      "GAMBIA",
+      "337"
+    ],
+    [
+      "7500",
+      "FURNITURE AND FIXTURES",
+      "22600",
+      "2024",
+      "10",
+      "GAMBIA",
+      "337"
+    ],
+    [
+      "7500",
+      "FURNITURE AND FIXTURES",
+      "42658",
+      "2024",
+      "11",
+      "GAMBIA",
+      "337"
+    ],
+    [
+      "7500",
+      "FURNITURE AND FIXTURES",
+      "34700",
+      "2024",
+      "12",
+      "GAMBIA",
+      "337"
+    ],
+    [
+      "7500",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "5950",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3372"
+    ],
+    [
+      "7500",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3372"
+    ],
+    [
+      "7500",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "8800",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3372"
+    ],
+    [
+      "7500",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3372"
+    ],
+    [
+      "7500",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3372"
+    ],
+    [
+      "7500",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3372"
+    ],
+    [
+      "7500",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3372"
+    ],
+    [
+      "7500",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3372"
+    ],
+    [
+      "7500",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3372"
+    ],
+    [
+      "7500",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3372"
+    ],
+    [
+      "7500",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "28500",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3391"
+    ],
+    [
+      "7500",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3391"
+    ],
+    [
+      "7500",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "8068",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3391"
+    ],
+    [
+      "7500",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "119184",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3391"
+    ],
+    [
+      "7500",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "7524",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3391"
+    ],
+    [
+      "7500",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3391"
+    ],
+    [
+      "7500",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3391"
+    ],
+    [
+      "7500",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3391"
+    ],
+    [
+      "7500",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3391"
+    ],
+    [
+      "7500",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "9000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3391"
+    ],
+    [
+      "7500",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "16700",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3391"
+    ],
+    [
+      "7500",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3391"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "8400",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3399"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3399"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3399"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "3900",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3399"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3399"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3399"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "77823",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3399"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3399"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3399"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3399"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3399"
+    ],
+    [
+      "7500",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3399"
+    ],
+    [
+      "7500",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "7000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3314"
+    ],
+    [
+      "7500",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3314"
+    ],
+    [
+      "7500",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3314"
+    ],
+    [
+      "7500",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "74000",
+      "2024",
+      "01",
+      "GAMBIA",
+      "332"
+    ],
+    [
+      "7500",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "9236",
+      "2024",
+      "02",
+      "GAMBIA",
+      "332"
+    ],
+    [
+      "7500",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "7645",
+      "2024",
+      "03",
+      "GAMBIA",
+      "332"
+    ],
+    [
+      "7500",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "197480",
+      "2024",
+      "04",
+      "GAMBIA",
+      "332"
+    ],
+    [
+      "7500",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "332"
+    ],
+    [
+      "7500",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "20000",
+      "2024",
+      "06",
+      "GAMBIA",
+      "332"
+    ],
+    [
+      "7500",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "20000",
+      "2024",
+      "07",
+      "GAMBIA",
+      "332"
+    ],
+    [
+      "7500",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "18800",
+      "2024",
+      "08",
+      "GAMBIA",
+      "332"
+    ],
+    [
+      "7500",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "15000",
+      "2024",
+      "09",
+      "GAMBIA",
+      "332"
+    ],
+    [
+      "7500",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "7000",
+      "2024",
+      "10",
+      "GAMBIA",
+      "332"
+    ],
+    [
+      "7500",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "10735",
+      "2024",
+      "11",
+      "GAMBIA",
+      "332"
+    ],
+    [
+      "7500",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "40200",
+      "2024",
+      "12",
+      "GAMBIA",
+      "332"
+    ],
+    [
+      "7500",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "165000",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3323"
+    ],
+    [
+      "7500",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3323"
+    ],
+    [
+      "7500",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3323"
+    ],
+    [
+      "7500",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3323"
+    ],
+    [
+      "7500",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3323"
+    ],
+    [
+      "7500",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3323"
+    ],
+    [
+      "7500",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3323"
+    ],
+    [
+      "7500",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3323"
+    ],
+    [
+      "7500",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3323"
+    ],
+    [
+      "7500",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "8800",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3327"
+    ],
+    [
+      "7500",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3327"
+    ],
+    [
+      "7500",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3327"
+    ],
+    [
+      "7500",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3327"
+    ],
+    [
+      "7500",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "10200",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3327"
+    ],
+    [
+      "7500",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "9236",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3329"
+    ],
+    [
+      "7500",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3329"
+    ],
+    [
+      "7500",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "12480",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3329"
+    ],
+    [
+      "7500",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3329"
+    ],
+    [
+      "7500",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3329"
+    ],
+    [
+      "7500",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3329"
+    ],
+    [
+      "7500",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3329"
+    ],
+    [
+      "7500",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3329"
+    ],
+    [
+      "7500",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3329"
+    ],
+    [
+      "7500",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "2538",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3329"
+    ],
+    [
+      "7500",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3329"
+    ],
+    [
+      "7500",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "33131",
+      "2024",
+      "01",
+      "GAMBIA",
+      "333"
+    ],
+    [
+      "7500",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "4000",
+      "2024",
+      "02",
+      "GAMBIA",
+      "333"
+    ],
+    [
+      "7500",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "41868",
+      "2024",
+      "03",
+      "GAMBIA",
+      "333"
+    ],
+    [
+      "7500",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "3250",
+      "2024",
+      "04",
+      "GAMBIA",
+      "333"
+    ],
+    [
+      "7500",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "333"
+    ],
+    [
+      "7500",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "10000",
+      "2024",
+      "06",
+      "GAMBIA",
+      "333"
+    ],
+    [
+      "7500",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "32746",
+      "2024",
+      "07",
+      "GAMBIA",
+      "333"
+    ],
+    [
+      "7500",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "30114",
+      "2024",
+      "08",
+      "GAMBIA",
+      "333"
+    ],
+    [
+      "7500",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "4484",
+      "2024",
+      "09",
+      "GAMBIA",
+      "333"
+    ],
+    [
+      "7500",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "17280",
+      "2024",
+      "10",
+      "GAMBIA",
+      "333"
+    ],
+    [
+      "7500",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "12835",
+      "2024",
+      "11",
+      "GAMBIA",
+      "333"
+    ],
+    [
+      "7500",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "15287",
+      "2024",
+      "12",
+      "GAMBIA",
+      "333"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "4000",
+      "2024",
+      "02",
+      "GAMBIA",
+      "3331"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "20000",
+      "2024",
+      "03",
+      "GAMBIA",
+      "3331"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "GAMBIA",
+      "3331"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "GAMBIA",
+      "3331"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "GAMBIA",
+      "3331"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "GAMBIA",
+      "3331"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "3500",
+      "2024",
+      "08",
+      "GAMBIA",
+      "3331"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "GAMBIA",
+      "3331"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "GAMBIA",
+      "3331"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "12835",
+      "2024",
+      "11",
+      "GAMBIA",
+      "3331"
+    ],
+    [
+      "7500",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "GAMBIA",
+      "3331"
+    ]
+  ]
+}

@@ -1,0 +1,7742 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:34:30 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4b33ca6e44687474c9899d0513710b72e8bece926ce6bd697ac0ec100d1f0c60a488f981b15ba52fa194dfd3067b2b529; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5180",
+      "PAPER",
+      "10828",
+      "2024",
+      "01",
+      "QATAR",
+      "322"
+    ],
+    [
+      "5180",
+      "PAPER",
+      "0",
+      "2024",
+      "02",
+      "QATAR",
+      "322"
+    ],
+    [
+      "5180",
+      "PAPER",
+      "29813",
+      "2024",
+      "03",
+      "QATAR",
+      "322"
+    ],
+    [
+      "5180",
+      "PAPER",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "322"
+    ],
+    [
+      "5180",
+      "PAPER",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "322"
+    ],
+    [
+      "5180",
+      "PAPER",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "322"
+    ],
+    [
+      "5180",
+      "PAPER",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "322"
+    ],
+    [
+      "5180",
+      "PAPER",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "322"
+    ],
+    [
+      "5180",
+      "PAPER",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "322"
+    ],
+    [
+      "5180",
+      "PAPER",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "322"
+    ],
+    [
+      "5180",
+      "PAPER",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "322"
+    ],
+    [
+      "5180",
+      "PAPER",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "322"
+    ],
+    [
+      "5180",
+      "CONVERTED PAPER PRODUCTS",
+      "10828",
+      "2024",
+      "01",
+      "QATAR",
+      "3222"
+    ],
+    [
+      "5180",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "QATAR",
+      "3222"
+    ],
+    [
+      "5180",
+      "CONVERTED PAPER PRODUCTS",
+      "29813",
+      "2024",
+      "03",
+      "QATAR",
+      "3222"
+    ],
+    [
+      "5180",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3222"
+    ],
+    [
+      "5180",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3222"
+    ],
+    [
+      "5180",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3222"
+    ],
+    [
+      "5180",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3222"
+    ],
+    [
+      "5180",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3222"
+    ],
+    [
+      "5180",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3222"
+    ],
+    [
+      "5180",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3222"
+    ],
+    [
+      "5180",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3222"
+    ],
+    [
+      "5180",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3222"
+    ],
+    [
+      "5180",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "12200",
+      "2024",
+      "10",
+      "QATAR",
+      "3231"
+    ],
+    [
+      "5180",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "2197",
+      "2024",
+      "11",
+      "QATAR",
+      "3231"
+    ],
+    [
+      "5180",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3231"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "66015350",
+      "2024",
+      "01",
+      "QATAR",
+      "324"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "56587352",
+      "2024",
+      "02",
+      "QATAR",
+      "324"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "57849319",
+      "2024",
+      "03",
+      "QATAR",
+      "324"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "125123349",
+      "2024",
+      "04",
+      "QATAR",
+      "324"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "59294139",
+      "2024",
+      "05",
+      "QATAR",
+      "324"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "121381193",
+      "2024",
+      "06",
+      "QATAR",
+      "324"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "55471934",
+      "2024",
+      "07",
+      "QATAR",
+      "324"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "40542110",
+      "2024",
+      "08",
+      "QATAR",
+      "324"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "134688534",
+      "2024",
+      "09",
+      "QATAR",
+      "324"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "57089362",
+      "2024",
+      "10",
+      "QATAR",
+      "324"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "114336680",
+      "2024",
+      "11",
+      "QATAR",
+      "324"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "165077",
+      "2024",
+      "12",
+      "QATAR",
+      "324"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "66015350",
+      "2024",
+      "01",
+      "QATAR",
+      "3241"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "56587352",
+      "2024",
+      "02",
+      "QATAR",
+      "3241"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "57849319",
+      "2024",
+      "03",
+      "QATAR",
+      "3241"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "125123349",
+      "2024",
+      "04",
+      "QATAR",
+      "3241"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "59294139",
+      "2024",
+      "05",
+      "QATAR",
+      "3241"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "121381193",
+      "2024",
+      "06",
+      "QATAR",
+      "3241"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "55471934",
+      "2024",
+      "07",
+      "QATAR",
+      "3241"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "40542110",
+      "2024",
+      "08",
+      "QATAR",
+      "3241"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "134688534",
+      "2024",
+      "09",
+      "QATAR",
+      "3241"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "57089362",
+      "2024",
+      "10",
+      "QATAR",
+      "3241"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "114336680",
+      "2024",
+      "11",
+      "QATAR",
+      "3241"
+    ],
+    [
+      "5180",
+      "PETROLEUM AND COAL PRODUCTS",
+      "165077",
+      "2024",
+      "12",
+      "QATAR",
+      "3241"
+    ],
+    [
+      "5180",
+      "CHEMICALS",
+      "44887066",
+      "2024",
+      "01",
+      "QATAR",
+      "325"
+    ],
+    [
+      "5180",
+      "CHEMICALS",
+      "18459259",
+      "2024",
+      "02",
+      "QATAR",
+      "325"
+    ],
+    [
+      "5180",
+      "CHEMICALS",
+      "45693451",
+      "2024",
+      "03",
+      "QATAR",
+      "325"
+    ],
+    [
+      "5180",
+      "CHEMICALS",
+      "90171422",
+      "2024",
+      "04",
+      "QATAR",
+      "325"
+    ],
+    [
+      "5180",
+      "CHEMICALS",
+      "39335780",
+      "2024",
+      "05",
+      "QATAR",
+      "325"
+    ],
+    [
+      "5180",
+      "CHEMICALS",
+      "18194398",
+      "2024",
+      "06",
+      "QATAR",
+      "325"
+    ],
+    [
+      "5180",
+      "CHEMICALS",
+      "4626035",
+      "2024",
+      "07",
+      "QATAR",
+      "325"
+    ],
+    [
+      "5180",
+      "CHEMICALS",
+      "30887199",
+      "2024",
+      "08",
+      "QATAR",
+      "325"
+    ],
+    [
+      "5180",
+      "CHEMICALS",
+      "2527868",
+      "2024",
+      "09",
+      "QATAR",
+      "325"
+    ],
+    [
+      "5180",
+      "CHEMICALS",
+      "49981052",
+      "2024",
+      "10",
+      "QATAR",
+      "325"
+    ],
+    [
+      "5180",
+      "CHEMICALS",
+      "3515525",
+      "2024",
+      "11",
+      "QATAR",
+      "325"
+    ],
+    [
+      "5180",
+      "CHEMICALS",
+      "34865664",
+      "2024",
+      "12",
+      "QATAR",
+      "325"
+    ],
+    [
+      "5180",
+      "BASIC CHEMICALS",
+      "1333409",
+      "2024",
+      "01",
+      "QATAR",
+      "3251"
+    ],
+    [
+      "5180",
+      "BASIC CHEMICALS",
+      "2512826",
+      "2024",
+      "02",
+      "QATAR",
+      "3251"
+    ],
+    [
+      "5180",
+      "BASIC CHEMICALS",
+      "634306",
+      "2024",
+      "03",
+      "QATAR",
+      "3251"
+    ],
+    [
+      "5180",
+      "BASIC CHEMICALS",
+      "2778896",
+      "2024",
+      "04",
+      "QATAR",
+      "3251"
+    ],
+    [
+      "5180",
+      "BASIC CHEMICALS",
+      "3111927",
+      "2024",
+      "05",
+      "QATAR",
+      "3251"
+    ],
+    [
+      "5180",
+      "BASIC CHEMICALS",
+      "2067956",
+      "2024",
+      "06",
+      "QATAR",
+      "3251"
+    ],
+    [
+      "5180",
+      "BASIC CHEMICALS",
+      "4063003",
+      "2024",
+      "07",
+      "QATAR",
+      "3251"
+    ],
+    [
+      "5180",
+      "BASIC CHEMICALS",
+      "3570542",
+      "2024",
+      "08",
+      "QATAR",
+      "3251"
+    ],
+    [
+      "5180",
+      "BASIC CHEMICALS",
+      "2242859",
+      "2024",
+      "09",
+      "QATAR",
+      "3251"
+    ],
+    [
+      "5180",
+      "BASIC CHEMICALS",
+      "2172501",
+      "2024",
+      "10",
+      "QATAR",
+      "3251"
+    ],
+    [
+      "5180",
+      "BASIC CHEMICALS",
+      "3387623",
+      "2024",
+      "11",
+      "QATAR",
+      "3251"
+    ],
+    [
+      "5180",
+      "BASIC CHEMICALS",
+      "2610839",
+      "2024",
+      "12",
+      "QATAR",
+      "3251"
+    ],
+    [
+      "5180",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "4000",
+      "2024",
+      "02",
+      "QATAR",
+      "3252"
+    ],
+    [
+      "5180",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "03",
+      "QATAR",
+      "3252"
+    ],
+    [
+      "5180",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3252"
+    ],
+    [
+      "5180",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3252"
+    ],
+    [
+      "5180",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3252"
+    ],
+    [
+      "5180",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3252"
+    ],
+    [
+      "5180",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3252"
+    ],
+    [
+      "5180",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "29334",
+      "2024",
+      "09",
+      "QATAR",
+      "3252"
+    ],
+    [
+      "5180",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "32583",
+      "2024",
+      "10",
+      "QATAR",
+      "3252"
+    ],
+    [
+      "5180",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "3015",
+      "2024",
+      "11",
+      "QATAR",
+      "3252"
+    ],
+    [
+      "5180",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3252"
+    ],
+    [
+      "5180",
+      "PHARMACEUTICALS AND MEDICINES",
+      "20004",
+      "2024",
+      "04",
+      "QATAR",
+      "3254"
+    ],
+    [
+      "5180",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3254"
+    ],
+    [
+      "5180",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3254"
+    ],
+    [
+      "5180",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3254"
+    ],
+    [
+      "5180",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3254"
+    ],
+    [
+      "5180",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3254"
+    ],
+    [
+      "5180",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3254"
+    ],
+    [
+      "5180",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3254"
+    ],
+    [
+      "5180",
+      "PHARMACEUTICALS AND MEDICINES",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3254"
+    ],
+    [
+      "5180",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "130373",
+      "2024",
+      "01",
+      "QATAR",
+      "3256"
+    ],
+    [
+      "5180",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "300434",
+      "2024",
+      "02",
+      "QATAR",
+      "3256"
+    ],
+    [
+      "5180",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "244323",
+      "2024",
+      "03",
+      "QATAR",
+      "3256"
+    ],
+    [
+      "5180",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "429748",
+      "2024",
+      "04",
+      "QATAR",
+      "3256"
+    ],
+    [
+      "5180",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "507498",
+      "2024",
+      "05",
+      "QATAR",
+      "3256"
+    ],
+    [
+      "5180",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "44388",
+      "2024",
+      "06",
+      "QATAR",
+      "3256"
+    ],
+    [
+      "5180",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "367790",
+      "2024",
+      "07",
+      "QATAR",
+      "3256"
+    ],
+    [
+      "5180",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "242266",
+      "2024",
+      "08",
+      "QATAR",
+      "3256"
+    ],
+    [
+      "5180",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "255675",
+      "2024",
+      "09",
+      "QATAR",
+      "3256"
+    ],
+    [
+      "5180",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "176841",
+      "2024",
+      "10",
+      "QATAR",
+      "3256"
+    ],
+    [
+      "5180",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "124887",
+      "2024",
+      "11",
+      "QATAR",
+      "3256"
+    ],
+    [
+      "5180",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "254562",
+      "2024",
+      "12",
+      "QATAR",
+      "3256"
+    ],
+    [
+      "5180",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "20975",
+      "2024",
+      "04",
+      "QATAR",
+      "3259"
+    ],
+    [
+      "5180",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3259"
+    ],
+    [
+      "5180",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3259"
+    ],
+    [
+      "5180",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "195242",
+      "2024",
+      "07",
+      "QATAR",
+      "3259"
+    ],
+    [
+      "5180",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3259"
+    ],
+    [
+      "5180",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3259"
+    ],
+    [
+      "5180",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3259"
+    ],
+    [
+      "5180",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3259"
+    ],
+    [
+      "5180",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3259"
+    ],
+    [
+      "5180",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "57124",
+      "2024",
+      "01",
+      "QATAR",
+      "326"
+    ],
+    [
+      "5180",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "74270",
+      "2024",
+      "02",
+      "QATAR",
+      "326"
+    ],
+    [
+      "5180",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "39529",
+      "2024",
+      "03",
+      "QATAR",
+      "326"
+    ],
+    [
+      "5180",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "36048",
+      "2024",
+      "04",
+      "QATAR",
+      "326"
+    ],
+    [
+      "5180",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "42012",
+      "2024",
+      "05",
+      "QATAR",
+      "326"
+    ],
+    [
+      "5180",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "15120",
+      "2024",
+      "06",
+      "QATAR",
+      "326"
+    ],
+    [
+      "5180",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "90308",
+      "2024",
+      "07",
+      "QATAR",
+      "326"
+    ],
+    [
+      "5180",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "91031",
+      "2024",
+      "08",
+      "QATAR",
+      "326"
+    ],
+    [
+      "5180",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "67665",
+      "2024",
+      "09",
+      "QATAR",
+      "326"
+    ],
+    [
+      "5180",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "40883",
+      "2024",
+      "10",
+      "QATAR",
+      "326"
+    ],
+    [
+      "5180",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "89318",
+      "2024",
+      "11",
+      "QATAR",
+      "326"
+    ],
+    [
+      "5180",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "86968",
+      "2024",
+      "12",
+      "QATAR",
+      "326"
+    ],
+    [
+      "5180",
+      "PLASTICS PRODUCTS",
+      "54500",
+      "2024",
+      "01",
+      "QATAR",
+      "3261"
+    ],
+    [
+      "5180",
+      "PLASTICS PRODUCTS",
+      "74270",
+      "2024",
+      "02",
+      "QATAR",
+      "3261"
+    ],
+    [
+      "5180",
+      "PLASTICS PRODUCTS",
+      "39529",
+      "2024",
+      "03",
+      "QATAR",
+      "3261"
+    ],
+    [
+      "5180",
+      "PLASTICS PRODUCTS",
+      "31507",
+      "2024",
+      "04",
+      "QATAR",
+      "3261"
+    ],
+    [
+      "5180",
+      "PLASTICS PRODUCTS",
+      "42012",
+      "2024",
+      "05",
+      "QATAR",
+      "3261"
+    ],
+    [
+      "5180",
+      "PLASTICS PRODUCTS",
+      "15120",
+      "2024",
+      "06",
+      "QATAR",
+      "3261"
+    ],
+    [
+      "5180",
+      "PLASTICS PRODUCTS",
+      "90308",
+      "2024",
+      "07",
+      "QATAR",
+      "3261"
+    ],
+    [
+      "5180",
+      "PLASTICS PRODUCTS",
+      "91031",
+      "2024",
+      "08",
+      "QATAR",
+      "3261"
+    ],
+    [
+      "5180",
+      "PLASTICS PRODUCTS",
+      "67665",
+      "2024",
+      "09",
+      "QATAR",
+      "3261"
+    ],
+    [
+      "5180",
+      "PLASTICS PRODUCTS",
+      "40883",
+      "2024",
+      "10",
+      "QATAR",
+      "3261"
+    ],
+    [
+      "5180",
+      "PLASTICS PRODUCTS",
+      "88680",
+      "2024",
+      "11",
+      "QATAR",
+      "3261"
+    ],
+    [
+      "5180",
+      "PLASTICS PRODUCTS",
+      "45441",
+      "2024",
+      "12",
+      "QATAR",
+      "3261"
+    ],
+    [
+      "5180",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "7672",
+      "2024",
+      "08",
+      "QATAR",
+      "327"
+    ],
+    [
+      "5180",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "327"
+    ],
+    [
+      "5180",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "327"
+    ],
+    [
+      "5180",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "327"
+    ],
+    [
+      "5180",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "327"
+    ],
+    [
+      "5180",
+      "GLASS AND GLASS PRODUCTS",
+      "7672",
+      "2024",
+      "08",
+      "QATAR",
+      "3272"
+    ],
+    [
+      "5180",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3272"
+    ],
+    [
+      "5180",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3272"
+    ],
+    [
+      "5180",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3272"
+    ],
+    [
+      "5180",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3272"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 3",
+      "15422219",
+      "2024",
+      "01",
+      "QATAR",
+      "33"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 3",
+      "39084390",
+      "2024",
+      "02",
+      "QATAR",
+      "33"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 3",
+      "10494956",
+      "2024",
+      "03",
+      "QATAR",
+      "33"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 3",
+      "13656863",
+      "2024",
+      "04",
+      "QATAR",
+      "33"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 3",
+      "10582261",
+      "2024",
+      "05",
+      "QATAR",
+      "33"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 3",
+      "14471419",
+      "2024",
+      "06",
+      "QATAR",
+      "33"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 3",
+      "8546666",
+      "2024",
+      "07",
+      "QATAR",
+      "33"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 3",
+      "23464143",
+      "2024",
+      "08",
+      "QATAR",
+      "33"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 3",
+      "14819508",
+      "2024",
+      "09",
+      "QATAR",
+      "33"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 3",
+      "12270296",
+      "2024",
+      "10",
+      "QATAR",
+      "33"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 3",
+      "10593071",
+      "2024",
+      "11",
+      "QATAR",
+      "33"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 3",
+      "17289879",
+      "2024",
+      "12",
+      "QATAR",
+      "33"
+    ],
+    [
+      "5180",
+      "PRIMARY METAL MANUFACTURING",
+      "14554413",
+      "2024",
+      "01",
+      "QATAR",
+      "331"
+    ],
+    [
+      "5180",
+      "PRIMARY METAL MANUFACTURING",
+      "33111341",
+      "2024",
+      "02",
+      "QATAR",
+      "331"
+    ],
+    [
+      "5180",
+      "PRIMARY METAL MANUFACTURING",
+      "8590850",
+      "2024",
+      "03",
+      "QATAR",
+      "331"
+    ],
+    [
+      "5180",
+      "PRIMARY METAL MANUFACTURING",
+      "13042502",
+      "2024",
+      "04",
+      "QATAR",
+      "331"
+    ],
+    [
+      "5180",
+      "PRIMARY METAL MANUFACTURING",
+      "9644965",
+      "2024",
+      "05",
+      "QATAR",
+      "331"
+    ],
+    [
+      "5180",
+      "PRIMARY METAL MANUFACTURING",
+      "14068103",
+      "2024",
+      "06",
+      "QATAR",
+      "331"
+    ],
+    [
+      "5180",
+      "PRIMARY METAL MANUFACTURING",
+      "7963167",
+      "2024",
+      "07",
+      "QATAR",
+      "331"
+    ],
+    [
+      "5180",
+      "PRIMARY METAL MANUFACTURING",
+      "22740123",
+      "2024",
+      "08",
+      "QATAR",
+      "331"
+    ],
+    [
+      "5180",
+      "PRIMARY METAL MANUFACTURING",
+      "13718940",
+      "2024",
+      "09",
+      "QATAR",
+      "331"
+    ],
+    [
+      "5180",
+      "PRIMARY METAL MANUFACTURING",
+      "11775077",
+      "2024",
+      "10",
+      "QATAR",
+      "331"
+    ],
+    [
+      "5180",
+      "PRIMARY METAL MANUFACTURING",
+      "8716030",
+      "2024",
+      "11",
+      "QATAR",
+      "331"
+    ],
+    [
+      "5180",
+      "PRIMARY METAL MANUFACTURING",
+      "16705273",
+      "2024",
+      "12",
+      "QATAR",
+      "331"
+    ],
+    [
+      "5180",
+      "IRON AND STEEL AND FERROALLOY",
+      "88122",
+      "2024",
+      "02",
+      "QATAR",
+      "3311"
+    ],
+    [
+      "5180",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "03",
+      "QATAR",
+      "3311"
+    ],
+    [
+      "5180",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3311"
+    ],
+    [
+      "5180",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3311"
+    ],
+    [
+      "5180",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3311"
+    ],
+    [
+      "5180",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3311"
+    ],
+    [
+      "5180",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3311"
+    ],
+    [
+      "5180",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3311"
+    ],
+    [
+      "5180",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3311"
+    ],
+    [
+      "5180",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3311"
+    ],
+    [
+      "5180",
+      "IRON AND STEEL AND FERROALLOY",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3311"
+    ],
+    [
+      "5180",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "11250",
+      "2024",
+      "11",
+      "QATAR",
+      "3312"
+    ],
+    [
+      "5180",
+      "STEEL PRODUCTS FROM PURCHASED STEEL",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3312"
+    ],
+    [
+      "5180",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "14554413",
+      "2024",
+      "01",
+      "QATAR",
+      "3313"
+    ],
+    [
+      "5180",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "33023219",
+      "2024",
+      "02",
+      "QATAR",
+      "3313"
+    ],
+    [
+      "5180",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "8590850",
+      "2024",
+      "03",
+      "QATAR",
+      "3313"
+    ],
+    [
+      "5180",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "13042502",
+      "2024",
+      "04",
+      "QATAR",
+      "3313"
+    ],
+    [
+      "5180",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "9644965",
+      "2024",
+      "05",
+      "QATAR",
+      "3313"
+    ],
+    [
+      "5180",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "14068103",
+      "2024",
+      "06",
+      "QATAR",
+      "3313"
+    ],
+    [
+      "5180",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "7963167",
+      "2024",
+      "07",
+      "QATAR",
+      "3313"
+    ],
+    [
+      "5180",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "22740123",
+      "2024",
+      "08",
+      "QATAR",
+      "3313"
+    ],
+    [
+      "5180",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "13698069",
+      "2024",
+      "09",
+      "QATAR",
+      "3313"
+    ],
+    [
+      "5180",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "11775077",
+      "2024",
+      "10",
+      "QATAR",
+      "3313"
+    ],
+    [
+      "5180",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "8704780",
+      "2024",
+      "11",
+      "QATAR",
+      "3313"
+    ],
+    [
+      "5180",
+      "ALUMINA AND ALUMINUM AND PROCESSING",
+      "16705273",
+      "2024",
+      "12",
+      "QATAR",
+      "3313"
+    ],
+    [
+      "5180",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "137296798",
+      "2024",
+      "01",
+      "QATAR",
+      "-"
+    ],
+    [
+      "5180",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "275238012",
+      "2024",
+      "02",
+      "QATAR",
+      "-"
+    ],
+    [
+      "5180",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "233681143",
+      "2024",
+      "03",
+      "QATAR",
+      "-"
+    ],
+    [
+      "5180",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "234341351",
+      "2024",
+      "04",
+      "QATAR",
+      "-"
+    ],
+    [
+      "5180",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "121803181",
+      "2024",
+      "05",
+      "QATAR",
+      "-"
+    ],
+    [
+      "5180",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "161528585",
+      "2024",
+      "06",
+      "QATAR",
+      "-"
+    ],
+    [
+      "5180",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "73715188",
+      "2024",
+      "07",
+      "QATAR",
+      "-"
+    ],
+    [
+      "5180",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "115938595",
+      "2024",
+      "08",
+      "QATAR",
+      "-"
+    ],
+    [
+      "5180",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "156123817",
+      "2024",
+      "09",
+      "QATAR",
+      "-"
+    ],
+    [
+      "5180",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "130363231",
+      "2024",
+      "10",
+      "QATAR",
+      "-"
+    ],
+    [
+      "5180",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "133493401",
+      "2024",
+      "11",
+      "QATAR",
+      "-"
+    ],
+    [
+      "5180",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "60662425",
+      "2024",
+      "12",
+      "QATAR",
+      "-"
+    ],
+    [
+      "5180",
+      "OIL, GAS, MINERALS AND ORES",
+      "3100",
+      "2024",
+      "03",
+      "QATAR",
+      "21"
+    ],
+    [
+      "5180",
+      "OIL, GAS, MINERALS AND ORES",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "21"
+    ],
+    [
+      "5180",
+      "OIL, GAS, MINERALS AND ORES",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "21"
+    ],
+    [
+      "5180",
+      "OIL, GAS, MINERALS AND ORES",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "21"
+    ],
+    [
+      "5180",
+      "OIL, GAS, MINERALS AND ORES",
+      "3000",
+      "2024",
+      "07",
+      "QATAR",
+      "21"
+    ],
+    [
+      "5180",
+      "OIL, GAS, MINERALS AND ORES",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "21"
+    ],
+    [
+      "5180",
+      "OIL, GAS, MINERALS AND ORES",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "21"
+    ],
+    [
+      "5180",
+      "OIL, GAS, MINERALS AND ORES",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "21"
+    ],
+    [
+      "5180",
+      "OIL, GAS, MINERALS AND ORES",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "21"
+    ],
+    [
+      "5180",
+      "OIL, GAS, MINERALS AND ORES",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "21"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "3100",
+      "2024",
+      "03",
+      "QATAR",
+      "211"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "211"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "211"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "211"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "3000",
+      "2024",
+      "07",
+      "QATAR",
+      "211"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "211"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "211"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "211"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "211"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "211"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "3100",
+      "2024",
+      "03",
+      "QATAR",
+      "2111"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "2111"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "2111"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "2111"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "3000",
+      "2024",
+      "07",
+      "QATAR",
+      "2111"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "2111"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "2111"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "2111"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "2111"
+    ],
+    [
+      "5180",
+      "OIL AND GAS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "2111"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART1",
+      "16875",
+      "2024",
+      "01",
+      "QATAR",
+      "31"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "02",
+      "QATAR",
+      "31"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART1",
+      "1400",
+      "2024",
+      "03",
+      "QATAR",
+      "31"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART1",
+      "2747",
+      "2024",
+      "04",
+      "QATAR",
+      "31"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART1",
+      "4009",
+      "2024",
+      "05",
+      "QATAR",
+      "31"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART1",
+      "259",
+      "2024",
+      "06",
+      "QATAR",
+      "31"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART1",
+      "3451",
+      "2024",
+      "07",
+      "QATAR",
+      "31"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART1",
+      "12400",
+      "2024",
+      "08",
+      "QATAR",
+      "31"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART1",
+      "5577",
+      "2024",
+      "09",
+      "QATAR",
+      "31"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART1",
+      "1280",
+      "2024",
+      "10",
+      "QATAR",
+      "31"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART1",
+      "500",
+      "2024",
+      "11",
+      "QATAR",
+      "31"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART1",
+      "277042",
+      "2024",
+      "12",
+      "QATAR",
+      "31"
+    ],
+    [
+      "5180",
+      "MANUFACTURED GOODS",
+      "126409462",
+      "2024",
+      "01",
+      "QATAR",
+      "31-33"
+    ],
+    [
+      "5180",
+      "MANUFACTURED GOODS",
+      "114205271",
+      "2024",
+      "02",
+      "QATAR",
+      "31-33"
+    ],
+    [
+      "5180",
+      "MANUFACTURED GOODS",
+      "114108468",
+      "2024",
+      "03",
+      "QATAR",
+      "31-33"
+    ],
+    [
+      "5180",
+      "MANUFACTURED GOODS",
+      "228990429",
+      "2024",
+      "04",
+      "QATAR",
+      "31-33"
+    ],
+    [
+      "5180",
+      "MANUFACTURED GOODS",
+      "109258201",
+      "2024",
+      "05",
+      "QATAR",
+      "31-33"
+    ],
+    [
+      "5180",
+      "MANUFACTURED GOODS",
+      "154062389",
+      "2024",
+      "06",
+      "QATAR",
+      "31-33"
+    ],
+    [
+      "5180",
+      "MANUFACTURED GOODS",
+      "68738394",
+      "2024",
+      "07",
+      "QATAR",
+      "31-33"
+    ],
+    [
+      "5180",
+      "MANUFACTURED GOODS",
+      "95004555",
+      "2024",
+      "08",
+      "QATAR",
+      "31-33"
+    ],
+    [
+      "5180",
+      "MANUFACTURED GOODS",
+      "152109152",
+      "2024",
+      "09",
+      "QATAR",
+      "31-33"
+    ],
+    [
+      "5180",
+      "MANUFACTURED GOODS",
+      "119395073",
+      "2024",
+      "10",
+      "QATAR",
+      "31-33"
+    ],
+    [
+      "5180",
+      "MANUFACTURED GOODS",
+      "128537291",
+      "2024",
+      "11",
+      "QATAR",
+      "31-33"
+    ],
+    [
+      "5180",
+      "MANUFACTURED GOODS",
+      "52684630",
+      "2024",
+      "12",
+      "QATAR",
+      "31-33"
+    ],
+    [
+      "5180",
+      "FOOD AND KINDRED PRODUCTS",
+      "12400",
+      "2024",
+      "08",
+      "QATAR",
+      "311"
+    ],
+    [
+      "5180",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "311"
+    ],
+    [
+      "5180",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "311"
+    ],
+    [
+      "5180",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "311"
+    ],
+    [
+      "5180",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "311"
+    ],
+    [
+      "5180",
+      "FOODS, NESOI",
+      "12400",
+      "2024",
+      "08",
+      "QATAR",
+      "3119"
+    ],
+    [
+      "5180",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3119"
+    ],
+    [
+      "5180",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3119"
+    ],
+    [
+      "5180",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3119"
+    ],
+    [
+      "5180",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3119"
+    ],
+    [
+      "5180",
+      "TEXTILES AND FABRICS",
+      "500",
+      "2024",
+      "11",
+      "QATAR",
+      "313"
+    ],
+    [
+      "5180",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "313"
+    ],
+    [
+      "5180",
+      "FABRICS",
+      "500",
+      "2024",
+      "11",
+      "QATAR",
+      "3132"
+    ],
+    [
+      "5180",
+      "FABRICS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3132"
+    ],
+    [
+      "5180",
+      "TEXTILE MILL PRODUCTS",
+      "8493",
+      "2024",
+      "01",
+      "QATAR",
+      "314"
+    ],
+    [
+      "5180",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "QATAR",
+      "314"
+    ],
+    [
+      "5180",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "QATAR",
+      "314"
+    ],
+    [
+      "5180",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "314"
+    ],
+    [
+      "5180",
+      "TEXTILE MILL PRODUCTS",
+      "600",
+      "2024",
+      "05",
+      "QATAR",
+      "314"
+    ],
+    [
+      "5180",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "314"
+    ],
+    [
+      "5180",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "314"
+    ],
+    [
+      "5180",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "314"
+    ],
+    [
+      "5180",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "314"
+    ],
+    [
+      "5180",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "314"
+    ],
+    [
+      "5180",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "314"
+    ],
+    [
+      "5180",
+      "TEXTILE MILL PRODUCTS",
+      "276354",
+      "2024",
+      "12",
+      "QATAR",
+      "314"
+    ],
+    [
+      "5180",
+      "TEXTILE FURNISHINGS",
+      "8493",
+      "2024",
+      "01",
+      "QATAR",
+      "3141"
+    ],
+    [
+      "5180",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "02",
+      "QATAR",
+      "3141"
+    ],
+    [
+      "5180",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "03",
+      "QATAR",
+      "3141"
+    ],
+    [
+      "5180",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3141"
+    ],
+    [
+      "5180",
+      "TEXTILE FURNISHINGS",
+      "600",
+      "2024",
+      "05",
+      "QATAR",
+      "3141"
+    ],
+    [
+      "5180",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3141"
+    ],
+    [
+      "5180",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3141"
+    ],
+    [
+      "5180",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3141"
+    ],
+    [
+      "5180",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3141"
+    ],
+    [
+      "5180",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3141"
+    ],
+    [
+      "5180",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3141"
+    ],
+    [
+      "5180",
+      "TEXTILE FURNISHINGS",
+      "276354",
+      "2024",
+      "12",
+      "QATAR",
+      "3141"
+    ],
+    [
+      "5180",
+      "APPAREL AND ACCESSORIES",
+      "8382",
+      "2024",
+      "01",
+      "QATAR",
+      "315"
+    ],
+    [
+      "5180",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "02",
+      "QATAR",
+      "315"
+    ],
+    [
+      "5180",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "03",
+      "QATAR",
+      "315"
+    ],
+    [
+      "5180",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "315"
+    ],
+    [
+      "5180",
+      "APPAREL AND ACCESSORIES",
+      "2820",
+      "2024",
+      "05",
+      "QATAR",
+      "315"
+    ],
+    [
+      "5180",
+      "APPAREL AND ACCESSORIES",
+      "259",
+      "2024",
+      "06",
+      "QATAR",
+      "315"
+    ],
+    [
+      "5180",
+      "APPAREL AND ACCESSORIES",
+      "3451",
+      "2024",
+      "07",
+      "QATAR",
+      "315"
+    ],
+    [
+      "5180",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "315"
+    ],
+    [
+      "5180",
+      "APPAREL AND ACCESSORIES",
+      "702",
+      "2024",
+      "09",
+      "QATAR",
+      "315"
+    ],
+    [
+      "5180",
+      "APPAREL AND ACCESSORIES",
+      "1280",
+      "2024",
+      "10",
+      "QATAR",
+      "315"
+    ],
+    [
+      "5180",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "315"
+    ],
+    [
+      "5180",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "315"
+    ],
+    [
+      "5180",
+      "LEATHER AND ALLIED PRODUCTS",
+      "1400",
+      "2024",
+      "03",
+      "QATAR",
+      "316"
+    ],
+    [
+      "5180",
+      "LEATHER AND ALLIED PRODUCTS",
+      "2747",
+      "2024",
+      "04",
+      "QATAR",
+      "316"
+    ],
+    [
+      "5180",
+      "LEATHER AND ALLIED PRODUCTS",
+      "589",
+      "2024",
+      "05",
+      "QATAR",
+      "316"
+    ],
+    [
+      "5180",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "316"
+    ],
+    [
+      "5180",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "316"
+    ],
+    [
+      "5180",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "316"
+    ],
+    [
+      "5180",
+      "LEATHER AND ALLIED PRODUCTS",
+      "4875",
+      "2024",
+      "09",
+      "QATAR",
+      "316"
+    ],
+    [
+      "5180",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "316"
+    ],
+    [
+      "5180",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "316"
+    ],
+    [
+      "5180",
+      "LEATHER AND ALLIED PRODUCTS",
+      "688",
+      "2024",
+      "12",
+      "QATAR",
+      "316"
+    ],
+    [
+      "5180",
+      "OTHER LEATHER PRODUCTS",
+      "1400",
+      "2024",
+      "03",
+      "QATAR",
+      "3169"
+    ],
+    [
+      "5180",
+      "OTHER LEATHER PRODUCTS",
+      "2747",
+      "2024",
+      "04",
+      "QATAR",
+      "3169"
+    ],
+    [
+      "5180",
+      "OTHER LEATHER PRODUCTS",
+      "589",
+      "2024",
+      "05",
+      "QATAR",
+      "3169"
+    ],
+    [
+      "5180",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3169"
+    ],
+    [
+      "5180",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3169"
+    ],
+    [
+      "5180",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3169"
+    ],
+    [
+      "5180",
+      "OTHER LEATHER PRODUCTS",
+      "4875",
+      "2024",
+      "09",
+      "QATAR",
+      "3169"
+    ],
+    [
+      "5180",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3169"
+    ],
+    [
+      "5180",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3169"
+    ],
+    [
+      "5180",
+      "OTHER LEATHER PRODUCTS",
+      "688",
+      "2024",
+      "12",
+      "QATAR",
+      "3169"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 2",
+      "110970368",
+      "2024",
+      "01",
+      "QATAR",
+      "32"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 2",
+      "75120881",
+      "2024",
+      "02",
+      "QATAR",
+      "32"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 2",
+      "103612112",
+      "2024",
+      "03",
+      "QATAR",
+      "32"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 2",
+      "215330819",
+      "2024",
+      "04",
+      "QATAR",
+      "32"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 2",
+      "98671931",
+      "2024",
+      "05",
+      "QATAR",
+      "32"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 2",
+      "139590711",
+      "2024",
+      "06",
+      "QATAR",
+      "32"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 2",
+      "60188277",
+      "2024",
+      "07",
+      "QATAR",
+      "32"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 2",
+      "71528012",
+      "2024",
+      "08",
+      "QATAR",
+      "32"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 2",
+      "137284067",
+      "2024",
+      "09",
+      "QATAR",
+      "32"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 2",
+      "107123497",
+      "2024",
+      "10",
+      "QATAR",
+      "32"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 2",
+      "117943720",
+      "2024",
+      "11",
+      "QATAR",
+      "32"
+    ],
+    [
+      "5180",
+      "MANUFACTURING, PART 2",
+      "35117709",
+      "2024",
+      "12",
+      "QATAR",
+      "32"
+    ],
+    [
+      "5180",
+      "INDUSTRIAL MACHINERY",
+      "4409",
+      "2024",
+      "08",
+      "QATAR",
+      "3332"
+    ],
+    [
+      "5180",
+      "INDUSTRIAL MACHINERY",
+      "185000",
+      "2024",
+      "09",
+      "QATAR",
+      "3332"
+    ],
+    [
+      "5180",
+      "INDUSTRIAL MACHINERY",
+      "19966",
+      "2024",
+      "10",
+      "QATAR",
+      "3332"
+    ],
+    [
+      "5180",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3332"
+    ],
+    [
+      "5180",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3332"
+    ],
+    [
+      "5180",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "3541",
+      "2024",
+      "04",
+      "QATAR",
+      "3333"
+    ],
+    [
+      "5180",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3333"
+    ],
+    [
+      "5180",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "51920",
+      "2024",
+      "06",
+      "QATAR",
+      "3333"
+    ],
+    [
+      "5180",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3333"
+    ],
+    [
+      "5180",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3333"
+    ],
+    [
+      "5180",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3333"
+    ],
+    [
+      "5180",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3333"
+    ],
+    [
+      "5180",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3333"
+    ],
+    [
+      "5180",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3333"
+    ],
+    [
+      "5180",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "87302",
+      "2024",
+      "04",
+      "QATAR",
+      "3334"
+    ],
+    [
+      "5180",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "606596",
+      "2024",
+      "05",
+      "QATAR",
+      "3334"
+    ],
+    [
+      "5180",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3334"
+    ],
+    [
+      "5180",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3334"
+    ],
+    [
+      "5180",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3334"
+    ],
+    [
+      "5180",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3334"
+    ],
+    [
+      "5180",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "8500",
+      "2024",
+      "10",
+      "QATAR",
+      "3334"
+    ],
+    [
+      "5180",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "303298",
+      "2024",
+      "11",
+      "QATAR",
+      "3334"
+    ],
+    [
+      "5180",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3334"
+    ],
+    [
+      "5180",
+      "METALWORKING MACHINERY",
+      "2436",
+      "2024",
+      "08",
+      "QATAR",
+      "3335"
+    ],
+    [
+      "5180",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3335"
+    ],
+    [
+      "5180",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3335"
+    ],
+    [
+      "5180",
+      "METALWORKING MACHINERY",
+      "2095",
+      "2024",
+      "11",
+      "QATAR",
+      "3335"
+    ],
+    [
+      "5180",
+      "METALWORKING MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3335"
+    ],
+    [
+      "5180",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "21064",
+      "2024",
+      "03",
+      "QATAR",
+      "3336"
+    ],
+    [
+      "5180",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3336"
+    ],
+    [
+      "5180",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3336"
+    ],
+    [
+      "5180",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "4820",
+      "2024",
+      "06",
+      "QATAR",
+      "3336"
+    ],
+    [
+      "5180",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "18445",
+      "2024",
+      "07",
+      "QATAR",
+      "3336"
+    ],
+    [
+      "5180",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3336"
+    ],
+    [
+      "5180",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3336"
+    ],
+    [
+      "5180",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "51111",
+      "2024",
+      "10",
+      "QATAR",
+      "3336"
+    ],
+    [
+      "5180",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "13860",
+      "2024",
+      "11",
+      "QATAR",
+      "3336"
+    ],
+    [
+      "5180",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "36050",
+      "2024",
+      "12",
+      "QATAR",
+      "3336"
+    ],
+    [
+      "5180",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "01",
+      "QATAR",
+      "3339"
+    ],
+    [
+      "5180",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "02",
+      "QATAR",
+      "3339"
+    ],
+    [
+      "5180",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "22971",
+      "2024",
+      "03",
+      "QATAR",
+      "3339"
+    ],
+    [
+      "5180",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "40000",
+      "2024",
+      "04",
+      "QATAR",
+      "3339"
+    ],
+    [
+      "5180",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "2255",
+      "2024",
+      "05",
+      "QATAR",
+      "3339"
+    ],
+    [
+      "5180",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "5060",
+      "2024",
+      "06",
+      "QATAR",
+      "3339"
+    ],
+    [
+      "5180",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "11437",
+      "2024",
+      "07",
+      "QATAR",
+      "3339"
+    ],
+    [
+      "5180",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "151046",
+      "2024",
+      "08",
+      "QATAR",
+      "3339"
+    ],
+    [
+      "5180",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "80149",
+      "2024",
+      "09",
+      "QATAR",
+      "3339"
+    ],
+    [
+      "5180",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "150326",
+      "2024",
+      "10",
+      "QATAR",
+      "3339"
+    ],
+    [
+      "5180",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "42388",
+      "2024",
+      "11",
+      "QATAR",
+      "3339"
+    ],
+    [
+      "5180",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "12540",
+      "2024",
+      "12",
+      "QATAR",
+      "3339"
+    ],
+    [
+      "5180",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "10777",
+      "2024",
+      "01",
+      "QATAR",
+      "334"
+    ],
+    [
+      "5180",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "10166",
+      "2024",
+      "02",
+      "QATAR",
+      "334"
+    ],
+    [
+      "5180",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "21959",
+      "2024",
+      "03",
+      "QATAR",
+      "334"
+    ],
+    [
+      "5180",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "14383",
+      "2024",
+      "04",
+      "QATAR",
+      "334"
+    ],
+    [
+      "5180",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "23306",
+      "2024",
+      "05",
+      "QATAR",
+      "334"
+    ],
+    [
+      "5180",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "77265",
+      "2024",
+      "06",
+      "QATAR",
+      "334"
+    ],
+    [
+      "5180",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "24175",
+      "2024",
+      "07",
+      "QATAR",
+      "334"
+    ],
+    [
+      "5180",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "26695",
+      "2024",
+      "08",
+      "QATAR",
+      "334"
+    ],
+    [
+      "5180",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "327987",
+      "2024",
+      "09",
+      "QATAR",
+      "334"
+    ],
+    [
+      "5180",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "334"
+    ],
+    [
+      "5180",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "105184",
+      "2024",
+      "11",
+      "QATAR",
+      "334"
+    ],
+    [
+      "5180",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "334"
+    ],
+    [
+      "5180",
+      "COMPUTER EQUIPMENT",
+      "3000",
+      "2024",
+      "08",
+      "QATAR",
+      "3341"
+    ],
+    [
+      "5180",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3341"
+    ],
+    [
+      "5180",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3341"
+    ],
+    [
+      "5180",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3341"
+    ],
+    [
+      "5180",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3341"
+    ],
+    [
+      "5180",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "7500",
+      "2024",
+      "03",
+      "QATAR",
+      "3343"
+    ],
+    [
+      "5180",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3343"
+    ],
+    [
+      "5180",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3343"
+    ],
+    [
+      "5180",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "21910",
+      "2024",
+      "06",
+      "QATAR",
+      "3343"
+    ],
+    [
+      "5180",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3343"
+    ],
+    [
+      "5180",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3343"
+    ],
+    [
+      "5180",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3343"
+    ],
+    [
+      "5180",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3343"
+    ],
+    [
+      "5180",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3343"
+    ],
+    [
+      "5180",
+      "AUDIO AND VIDEO EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3343"
+    ],
+    [
+      "5180",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "7294",
+      "2024",
+      "02",
+      "QATAR",
+      "3344"
+    ],
+    [
+      "5180",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "03",
+      "QATAR",
+      "3344"
+    ],
+    [
+      "5180",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3344"
+    ],
+    [
+      "5180",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3344"
+    ],
+    [
+      "5180",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "3633",
+      "2024",
+      "06",
+      "QATAR",
+      "3344"
+    ],
+    [
+      "5180",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3344"
+    ],
+    [
+      "5180",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3344"
+    ],
+    [
+      "5180",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3344"
+    ],
+    [
+      "5180",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3344"
+    ],
+    [
+      "5180",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3344"
+    ],
+    [
+      "5180",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3344"
+    ],
+    [
+      "5180",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "10777",
+      "2024",
+      "01",
+      "QATAR",
+      "3345"
+    ],
+    [
+      "5180",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "2872",
+      "2024",
+      "02",
+      "QATAR",
+      "3345"
+    ],
+    [
+      "5180",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "10311",
+      "2024",
+      "03",
+      "QATAR",
+      "3345"
+    ],
+    [
+      "5180",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "14383",
+      "2024",
+      "04",
+      "QATAR",
+      "3345"
+    ],
+    [
+      "5180",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "20776",
+      "2024",
+      "05",
+      "QATAR",
+      "3345"
+    ],
+    [
+      "5180",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "51722",
+      "2024",
+      "06",
+      "QATAR",
+      "3345"
+    ],
+    [
+      "5180",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "9175",
+      "2024",
+      "07",
+      "QATAR",
+      "3345"
+    ],
+    [
+      "5180",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "23695",
+      "2024",
+      "08",
+      "QATAR",
+      "3345"
+    ],
+    [
+      "5180",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "308688",
+      "2024",
+      "09",
+      "QATAR",
+      "3345"
+    ],
+    [
+      "5180",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3345"
+    ],
+    [
+      "5180",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "105184",
+      "2024",
+      "11",
+      "QATAR",
+      "3345"
+    ],
+    [
+      "5180",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3345"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "2631",
+      "2024",
+      "03",
+      "QATAR",
+      "3352"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3352"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3352"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3352"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3352"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3352"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3352"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3352"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3352"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3352"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT",
+      "9683",
+      "2024",
+      "01",
+      "QATAR",
+      "3353"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "QATAR",
+      "3353"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "QATAR",
+      "3353"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3353"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3353"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3353"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3353"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3353"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3353"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3353"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3353"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT",
+      "6213",
+      "2024",
+      "12",
+      "QATAR",
+      "3353"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT",
+      "61715",
+      "2024",
+      "01",
+      "QATAR",
+      "336"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT",
+      "76559",
+      "2024",
+      "02",
+      "QATAR",
+      "336"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT",
+      "64427",
+      "2024",
+      "03",
+      "QATAR",
+      "336"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT",
+      "44508",
+      "2024",
+      "04",
+      "QATAR",
+      "336"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT",
+      "8333",
+      "2024",
+      "05",
+      "QATAR",
+      "336"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT",
+      "8424",
+      "2024",
+      "06",
+      "QATAR",
+      "336"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT",
+      "83777",
+      "2024",
+      "07",
+      "QATAR",
+      "336"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT",
+      "78792",
+      "2024",
+      "08",
+      "QATAR",
+      "336"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT",
+      "42712",
+      "2024",
+      "09",
+      "QATAR",
+      "336"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT",
+      "97709",
+      "2024",
+      "10",
+      "QATAR",
+      "336"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT",
+      "62178",
+      "2024",
+      "11",
+      "QATAR",
+      "336"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT",
+      "152459",
+      "2024",
+      "12",
+      "QATAR",
+      "336"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "11707100",
+      "2024",
+      "08",
+      "QATAR",
+      "91"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "91"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "91"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "91"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "91"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "11707100",
+      "2024",
+      "08",
+      "QATAR",
+      "910"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "910"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "910"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "910"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "910"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "11707100",
+      "2024",
+      "08",
+      "QATAR",
+      "9100"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "9100"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "9100"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "9100"
+    ],
+    [
+      "5180",
+      "WASTE AND SCRAP",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "9100"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "12033",
+      "2024",
+      "02",
+      "QATAR",
+      "93"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "6360",
+      "2024",
+      "03",
+      "QATAR",
+      "93"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "93"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "93"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5979",
+      "2024",
+      "06",
+      "QATAR",
+      "93"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "33200",
+      "2024",
+      "07",
+      "QATAR",
+      "93"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "93"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "93"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "10000",
+      "2024",
+      "10",
+      "QATAR",
+      "93"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "93"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5488",
+      "2024",
+      "12",
+      "QATAR",
+      "93"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "12033",
+      "2024",
+      "02",
+      "QATAR",
+      "930"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "6360",
+      "2024",
+      "03",
+      "QATAR",
+      "930"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "930"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "930"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5979",
+      "2024",
+      "06",
+      "QATAR",
+      "930"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "33200",
+      "2024",
+      "07",
+      "QATAR",
+      "930"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "930"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "930"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "10000",
+      "2024",
+      "10",
+      "QATAR",
+      "930"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "930"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5488",
+      "2024",
+      "12",
+      "QATAR",
+      "930"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "12033",
+      "2024",
+      "02",
+      "QATAR",
+      "9300"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "6360",
+      "2024",
+      "03",
+      "QATAR",
+      "9300"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "9300"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "9300"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5979",
+      "2024",
+      "06",
+      "QATAR",
+      "9300"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "33200",
+      "2024",
+      "07",
+      "QATAR",
+      "9300"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "9300"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "9300"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "10000",
+      "2024",
+      "10",
+      "QATAR",
+      "9300"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "9300"
+    ],
+    [
+      "5180",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5488",
+      "2024",
+      "12",
+      "QATAR",
+      "9300"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "10834622",
+      "2024",
+      "01",
+      "QATAR",
+      "980"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "160946583",
+      "2024",
+      "02",
+      "QATAR",
+      "980"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "119479647",
+      "2024",
+      "03",
+      "QATAR",
+      "980"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "5284145",
+      "2024",
+      "04",
+      "QATAR",
+      "980"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "12443267",
+      "2024",
+      "05",
+      "QATAR",
+      "980"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "7410131",
+      "2024",
+      "06",
+      "QATAR",
+      "980"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4860415",
+      "2024",
+      "07",
+      "QATAR",
+      "980"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "9117661",
+      "2024",
+      "08",
+      "QATAR",
+      "980"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3951116",
+      "2024",
+      "09",
+      "QATAR",
+      "980"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "10854530",
+      "2024",
+      "10",
+      "QATAR",
+      "980"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4721855",
+      "2024",
+      "11",
+      "QATAR",
+      "980"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "7846285",
+      "2024",
+      "12",
+      "QATAR",
+      "980"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "52714",
+      "2024",
+      "01",
+      "QATAR",
+      "990"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "74125",
+      "2024",
+      "02",
+      "QATAR",
+      "990"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "83568",
+      "2024",
+      "03",
+      "QATAR",
+      "990"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "66777",
+      "2024",
+      "04",
+      "QATAR",
+      "990"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "101713",
+      "2024",
+      "05",
+      "QATAR",
+      "990"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "50086",
+      "2024",
+      "06",
+      "QATAR",
+      "990"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "80179",
+      "2024",
+      "07",
+      "QATAR",
+      "990"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "109279",
+      "2024",
+      "08",
+      "QATAR",
+      "990"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "63549",
+      "2024",
+      "09",
+      "QATAR",
+      "990"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "103628",
+      "2024",
+      "10",
+      "QATAR",
+      "990"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "234255",
+      "2024",
+      "11",
+      "QATAR",
+      "990"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "126022",
+      "2024",
+      "12",
+      "QATAR",
+      "990"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "52714",
+      "2024",
+      "01",
+      "QATAR",
+      "9900"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "74125",
+      "2024",
+      "02",
+      "QATAR",
+      "9900"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "83568",
+      "2024",
+      "03",
+      "QATAR",
+      "9900"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "66777",
+      "2024",
+      "04",
+      "QATAR",
+      "9900"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "101713",
+      "2024",
+      "05",
+      "QATAR",
+      "9900"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "50086",
+      "2024",
+      "06",
+      "QATAR",
+      "9900"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "80179",
+      "2024",
+      "07",
+      "QATAR",
+      "9900"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "109279",
+      "2024",
+      "08",
+      "QATAR",
+      "9900"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "63549",
+      "2024",
+      "09",
+      "QATAR",
+      "9900"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "103628",
+      "2024",
+      "10",
+      "QATAR",
+      "9900"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "234255",
+      "2024",
+      "11",
+      "QATAR",
+      "9900"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "126022",
+      "2024",
+      "12",
+      "QATAR",
+      "9900"
+    ],
+    [
+      "5180",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "12200",
+      "2024",
+      "10",
+      "QATAR",
+      "323"
+    ],
+    [
+      "5180",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "2197",
+      "2024",
+      "11",
+      "QATAR",
+      "323"
+    ],
+    [
+      "5180",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "323"
+    ],
+    [
+      "5180",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "43423284",
+      "2024",
+      "01",
+      "QATAR",
+      "3253"
+    ],
+    [
+      "5180",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "15641999",
+      "2024",
+      "02",
+      "QATAR",
+      "3253"
+    ],
+    [
+      "5180",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "44814822",
+      "2024",
+      "03",
+      "QATAR",
+      "3253"
+    ],
+    [
+      "5180",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "86921799",
+      "2024",
+      "04",
+      "QATAR",
+      "3253"
+    ],
+    [
+      "5180",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "35716355",
+      "2024",
+      "05",
+      "QATAR",
+      "3253"
+    ],
+    [
+      "5180",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "16082054",
+      "2024",
+      "06",
+      "QATAR",
+      "3253"
+    ],
+    [
+      "5180",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3253"
+    ],
+    [
+      "5180",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "27074391",
+      "2024",
+      "08",
+      "QATAR",
+      "3253"
+    ],
+    [
+      "5180",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3253"
+    ],
+    [
+      "5180",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "47599127",
+      "2024",
+      "10",
+      "QATAR",
+      "3253"
+    ],
+    [
+      "5180",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3253"
+    ],
+    [
+      "5180",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "32000263",
+      "2024",
+      "12",
+      "QATAR",
+      "3253"
+    ],
+    [
+      "5180",
+      "RUBBER PRODUCTS",
+      "2624",
+      "2024",
+      "01",
+      "QATAR",
+      "3262"
+    ],
+    [
+      "5180",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "QATAR",
+      "3262"
+    ],
+    [
+      "5180",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "QATAR",
+      "3262"
+    ],
+    [
+      "5180",
+      "RUBBER PRODUCTS",
+      "4541",
+      "2024",
+      "04",
+      "QATAR",
+      "3262"
+    ],
+    [
+      "5180",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3262"
+    ],
+    [
+      "5180",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3262"
+    ],
+    [
+      "5180",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3262"
+    ],
+    [
+      "5180",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3262"
+    ],
+    [
+      "5180",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3262"
+    ],
+    [
+      "5180",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3262"
+    ],
+    [
+      "5180",
+      "RUBBER PRODUCTS",
+      "638",
+      "2024",
+      "11",
+      "QATAR",
+      "3262"
+    ],
+    [
+      "5180",
+      "RUBBER PRODUCTS",
+      "41527",
+      "2024",
+      "12",
+      "QATAR",
+      "3262"
+    ],
+    [
+      "5180",
+      "APPAREL",
+      "8382",
+      "2024",
+      "01",
+      "QATAR",
+      "3152"
+    ],
+    [
+      "5180",
+      "APPAREL",
+      "0",
+      "2024",
+      "02",
+      "QATAR",
+      "3152"
+    ],
+    [
+      "5180",
+      "APPAREL",
+      "0",
+      "2024",
+      "03",
+      "QATAR",
+      "3152"
+    ],
+    [
+      "5180",
+      "APPAREL",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3152"
+    ],
+    [
+      "5180",
+      "APPAREL",
+      "2820",
+      "2024",
+      "05",
+      "QATAR",
+      "3152"
+    ],
+    [
+      "5180",
+      "APPAREL",
+      "259",
+      "2024",
+      "06",
+      "QATAR",
+      "3152"
+    ],
+    [
+      "5180",
+      "APPAREL",
+      "3451",
+      "2024",
+      "07",
+      "QATAR",
+      "3152"
+    ],
+    [
+      "5180",
+      "APPAREL",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3152"
+    ],
+    [
+      "5180",
+      "APPAREL",
+      "702",
+      "2024",
+      "09",
+      "QATAR",
+      "3152"
+    ],
+    [
+      "5180",
+      "APPAREL",
+      "1280",
+      "2024",
+      "10",
+      "QATAR",
+      "3152"
+    ],
+    [
+      "5180",
+      "APPAREL",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3152"
+    ],
+    [
+      "5180",
+      "APPAREL",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3152"
+    ],
+    [
+      "5180",
+      "COMMUNICATIONS EQUIPMENT",
+      "2530",
+      "2024",
+      "05",
+      "QATAR",
+      "3342"
+    ],
+    [
+      "5180",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3342"
+    ],
+    [
+      "5180",
+      "COMMUNICATIONS EQUIPMENT",
+      "15000",
+      "2024",
+      "07",
+      "QATAR",
+      "3342"
+    ],
+    [
+      "5180",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3342"
+    ],
+    [
+      "5180",
+      "COMMUNICATIONS EQUIPMENT",
+      "19299",
+      "2024",
+      "09",
+      "QATAR",
+      "3342"
+    ],
+    [
+      "5180",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3342"
+    ],
+    [
+      "5180",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3342"
+    ],
+    [
+      "5180",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3342"
+    ],
+    [
+      "5180",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "4148",
+      "2024",
+      "03",
+      "QATAR",
+      "3346"
+    ],
+    [
+      "5180",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3346"
+    ],
+    [
+      "5180",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3346"
+    ],
+    [
+      "5180",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3346"
+    ],
+    [
+      "5180",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3346"
+    ],
+    [
+      "5180",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3346"
+    ],
+    [
+      "5180",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3346"
+    ],
+    [
+      "5180",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3346"
+    ],
+    [
+      "5180",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3346"
+    ],
+    [
+      "5180",
+      "MAGNETIC AND OPTICAL MEDIA",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3346"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "9683",
+      "2024",
+      "01",
+      "QATAR",
+      "335"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "19079",
+      "2024",
+      "02",
+      "QATAR",
+      "335"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "2631",
+      "2024",
+      "03",
+      "QATAR",
+      "335"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "335"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "335"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "335"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "335"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "335"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "335"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "335"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "335"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "28026",
+      "2024",
+      "12",
+      "QATAR",
+      "335"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "19079",
+      "2024",
+      "02",
+      "QATAR",
+      "3359"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "QATAR",
+      "3359"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3359"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3359"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3359"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3359"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3359"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3359"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3359"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3359"
+    ],
+    [
+      "5180",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "21813",
+      "2024",
+      "12",
+      "QATAR",
+      "3359"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "10834622",
+      "2024",
+      "01",
+      "QATAR",
+      "98"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "160946583",
+      "2024",
+      "02",
+      "QATAR",
+      "98"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "119479647",
+      "2024",
+      "03",
+      "QATAR",
+      "98"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "5284145",
+      "2024",
+      "04",
+      "QATAR",
+      "98"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "12443267",
+      "2024",
+      "05",
+      "QATAR",
+      "98"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "7410131",
+      "2024",
+      "06",
+      "QATAR",
+      "98"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4860415",
+      "2024",
+      "07",
+      "QATAR",
+      "98"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "9117661",
+      "2024",
+      "08",
+      "QATAR",
+      "98"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3951116",
+      "2024",
+      "09",
+      "QATAR",
+      "98"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "10854530",
+      "2024",
+      "10",
+      "QATAR",
+      "98"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4721855",
+      "2024",
+      "11",
+      "QATAR",
+      "98"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "7846285",
+      "2024",
+      "12",
+      "QATAR",
+      "98"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "10834622",
+      "2024",
+      "01",
+      "QATAR",
+      "9800"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "160946583",
+      "2024",
+      "02",
+      "QATAR",
+      "9800"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "119479647",
+      "2024",
+      "03",
+      "QATAR",
+      "9800"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "5284145",
+      "2024",
+      "04",
+      "QATAR",
+      "9800"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "12443267",
+      "2024",
+      "05",
+      "QATAR",
+      "9800"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "7410131",
+      "2024",
+      "06",
+      "QATAR",
+      "9800"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4860415",
+      "2024",
+      "07",
+      "QATAR",
+      "9800"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "9117661",
+      "2024",
+      "08",
+      "QATAR",
+      "9800"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3951116",
+      "2024",
+      "09",
+      "QATAR",
+      "9800"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "10854530",
+      "2024",
+      "10",
+      "QATAR",
+      "9800"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4721855",
+      "2024",
+      "11",
+      "QATAR",
+      "9800"
+    ],
+    [
+      "5180",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "7846285",
+      "2024",
+      "12",
+      "QATAR",
+      "9800"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "52714",
+      "2024",
+      "01",
+      "QATAR",
+      "99"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "74125",
+      "2024",
+      "02",
+      "QATAR",
+      "99"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "83568",
+      "2024",
+      "03",
+      "QATAR",
+      "99"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "66777",
+      "2024",
+      "04",
+      "QATAR",
+      "99"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "101713",
+      "2024",
+      "05",
+      "QATAR",
+      "99"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "50086",
+      "2024",
+      "06",
+      "QATAR",
+      "99"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "80179",
+      "2024",
+      "07",
+      "QATAR",
+      "99"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "109279",
+      "2024",
+      "08",
+      "QATAR",
+      "99"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "63549",
+      "2024",
+      "09",
+      "QATAR",
+      "99"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "103628",
+      "2024",
+      "10",
+      "QATAR",
+      "99"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "234255",
+      "2024",
+      "11",
+      "QATAR",
+      "99"
+    ],
+    [
+      "5180",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "126022",
+      "2024",
+      "12",
+      "QATAR",
+      "99"
+    ],
+    [
+      "5180",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "10915",
+      "2024",
+      "03",
+      "QATAR",
+      "3364"
+    ],
+    [
+      "5180",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3364"
+    ],
+    [
+      "5180",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3364"
+    ],
+    [
+      "5180",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3364"
+    ],
+    [
+      "5180",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "22803",
+      "2024",
+      "07",
+      "QATAR",
+      "3364"
+    ],
+    [
+      "5180",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "36041",
+      "2024",
+      "08",
+      "QATAR",
+      "3364"
+    ],
+    [
+      "5180",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "27812",
+      "2024",
+      "09",
+      "QATAR",
+      "3364"
+    ],
+    [
+      "5180",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "8622",
+      "2024",
+      "10",
+      "QATAR",
+      "3364"
+    ],
+    [
+      "5180",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "3800",
+      "2024",
+      "11",
+      "QATAR",
+      "3364"
+    ],
+    [
+      "5180",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "29994",
+      "2024",
+      "12",
+      "QATAR",
+      "3364"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "2500",
+      "2024",
+      "09",
+      "QATAR",
+      "3369"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3369"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3369"
+    ],
+    [
+      "5180",
+      "TRANSPORTATION EQUIPMENT, NESOI",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3369"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "33524",
+      "2024",
+      "06",
+      "QATAR",
+      "3371"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3371"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3371"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3371"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3371"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3371"
+    ],
+    [
+      "5180",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3371"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "550000",
+      "2024",
+      "01",
+      "QATAR",
+      "339"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "4039090",
+      "2024",
+      "02",
+      "QATAR",
+      "339"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1215815",
+      "2024",
+      "03",
+      "QATAR",
+      "339"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "13825",
+      "2024",
+      "04",
+      "QATAR",
+      "339"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "8516",
+      "2024",
+      "05",
+      "QATAR",
+      "339"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2161",
+      "2024",
+      "06",
+      "QATAR",
+      "339"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "339"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "4432",
+      "2024",
+      "08",
+      "QATAR",
+      "339"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "3626",
+      "2024",
+      "09",
+      "QATAR",
+      "339"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "339"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "694660",
+      "2024",
+      "11",
+      "QATAR",
+      "339"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "21404",
+      "2024",
+      "12",
+      "QATAR",
+      "339"
+    ],
+    [
+      "5180",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "4247",
+      "2024",
+      "03",
+      "QATAR",
+      "3324"
+    ],
+    [
+      "5180",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3324"
+    ],
+    [
+      "5180",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3324"
+    ],
+    [
+      "5180",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3324"
+    ],
+    [
+      "5180",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "4658",
+      "2024",
+      "07",
+      "QATAR",
+      "3324"
+    ],
+    [
+      "5180",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3324"
+    ],
+    [
+      "5180",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3324"
+    ],
+    [
+      "5180",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "2215",
+      "2024",
+      "10",
+      "QATAR",
+      "3324"
+    ],
+    [
+      "5180",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3324"
+    ],
+    [
+      "5180",
+      "BOILERS, TANKS, AND SHIPPING CONTAINERS",
+      "2509",
+      "2024",
+      "12",
+      "QATAR",
+      "3324"
+    ],
+    [
+      "5180",
+      "HARDWARE",
+      "8702",
+      "2024",
+      "05",
+      "QATAR",
+      "3325"
+    ],
+    [
+      "5180",
+      "HARDWARE",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3325"
+    ],
+    [
+      "5180",
+      "HARDWARE",
+      "144760",
+      "2024",
+      "07",
+      "QATAR",
+      "3325"
+    ],
+    [
+      "5180",
+      "HARDWARE",
+      "174484",
+      "2024",
+      "08",
+      "QATAR",
+      "3325"
+    ],
+    [
+      "5180",
+      "HARDWARE",
+      "98255",
+      "2024",
+      "09",
+      "QATAR",
+      "3325"
+    ],
+    [
+      "5180",
+      "HARDWARE",
+      "39915",
+      "2024",
+      "10",
+      "QATAR",
+      "3325"
+    ],
+    [
+      "5180",
+      "HARDWARE",
+      "99682",
+      "2024",
+      "11",
+      "QATAR",
+      "3325"
+    ],
+    [
+      "5180",
+      "HARDWARE",
+      "58211",
+      "2024",
+      "12",
+      "QATAR",
+      "3325"
+    ],
+    [
+      "5180",
+      "MOTOR VEHICLE PARTS",
+      "61715",
+      "2024",
+      "01",
+      "QATAR",
+      "3363"
+    ],
+    [
+      "5180",
+      "MOTOR VEHICLE PARTS",
+      "76559",
+      "2024",
+      "02",
+      "QATAR",
+      "3363"
+    ],
+    [
+      "5180",
+      "MOTOR VEHICLE PARTS",
+      "53512",
+      "2024",
+      "03",
+      "QATAR",
+      "3363"
+    ],
+    [
+      "5180",
+      "MOTOR VEHICLE PARTS",
+      "44508",
+      "2024",
+      "04",
+      "QATAR",
+      "3363"
+    ],
+    [
+      "5180",
+      "MOTOR VEHICLE PARTS",
+      "8333",
+      "2024",
+      "05",
+      "QATAR",
+      "3363"
+    ],
+    [
+      "5180",
+      "MOTOR VEHICLE PARTS",
+      "8424",
+      "2024",
+      "06",
+      "QATAR",
+      "3363"
+    ],
+    [
+      "5180",
+      "MOTOR VEHICLE PARTS",
+      "60974",
+      "2024",
+      "07",
+      "QATAR",
+      "3363"
+    ],
+    [
+      "5180",
+      "MOTOR VEHICLE PARTS",
+      "42751",
+      "2024",
+      "08",
+      "QATAR",
+      "3363"
+    ],
+    [
+      "5180",
+      "MOTOR VEHICLE PARTS",
+      "12400",
+      "2024",
+      "09",
+      "QATAR",
+      "3363"
+    ],
+    [
+      "5180",
+      "MOTOR VEHICLE PARTS",
+      "89087",
+      "2024",
+      "10",
+      "QATAR",
+      "3363"
+    ],
+    [
+      "5180",
+      "MOTOR VEHICLE PARTS",
+      "33378",
+      "2024",
+      "11",
+      "QATAR",
+      "3363"
+    ],
+    [
+      "5180",
+      "MOTOR VEHICLE PARTS",
+      "122465",
+      "2024",
+      "12",
+      "QATAR",
+      "3363"
+    ],
+    [
+      "5180",
+      "SHIPS AND BOATS",
+      "25000",
+      "2024",
+      "11",
+      "QATAR",
+      "3366"
+    ],
+    [
+      "5180",
+      "SHIPS AND BOATS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3366"
+    ],
+    [
+      "5180",
+      "FURNITURE AND FIXTURES",
+      "33524",
+      "2024",
+      "06",
+      "QATAR",
+      "337"
+    ],
+    [
+      "5180",
+      "FURNITURE AND FIXTURES",
+      "3586",
+      "2024",
+      "07",
+      "QATAR",
+      "337"
+    ],
+    [
+      "5180",
+      "FURNITURE AND FIXTURES",
+      "2631",
+      "2024",
+      "08",
+      "QATAR",
+      "337"
+    ],
+    [
+      "5180",
+      "FURNITURE AND FIXTURES",
+      "17442",
+      "2024",
+      "09",
+      "QATAR",
+      "337"
+    ],
+    [
+      "5180",
+      "FURNITURE AND FIXTURES",
+      "6763",
+      "2024",
+      "10",
+      "QATAR",
+      "337"
+    ],
+    [
+      "5180",
+      "FURNITURE AND FIXTURES",
+      "3573",
+      "2024",
+      "11",
+      "QATAR",
+      "337"
+    ],
+    [
+      "5180",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "337"
+    ],
+    [
+      "5180",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "3586",
+      "2024",
+      "07",
+      "QATAR",
+      "3372"
+    ],
+    [
+      "5180",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "2631",
+      "2024",
+      "08",
+      "QATAR",
+      "3372"
+    ],
+    [
+      "5180",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "17442",
+      "2024",
+      "09",
+      "QATAR",
+      "3372"
+    ],
+    [
+      "5180",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "6763",
+      "2024",
+      "10",
+      "QATAR",
+      "3372"
+    ],
+    [
+      "5180",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "3573",
+      "2024",
+      "11",
+      "QATAR",
+      "3372"
+    ],
+    [
+      "5180",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3372"
+    ],
+    [
+      "5180",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "13825",
+      "2024",
+      "04",
+      "QATAR",
+      "3391"
+    ],
+    [
+      "5180",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3391"
+    ],
+    [
+      "5180",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "2161",
+      "2024",
+      "06",
+      "QATAR",
+      "3391"
+    ],
+    [
+      "5180",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3391"
+    ],
+    [
+      "5180",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "932",
+      "2024",
+      "08",
+      "QATAR",
+      "3391"
+    ],
+    [
+      "5180",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3391"
+    ],
+    [
+      "5180",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3391"
+    ],
+    [
+      "5180",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "9972",
+      "2024",
+      "11",
+      "QATAR",
+      "3391"
+    ],
+    [
+      "5180",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3391"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "550000",
+      "2024",
+      "01",
+      "QATAR",
+      "3399"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "4039090",
+      "2024",
+      "02",
+      "QATAR",
+      "3399"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "1215815",
+      "2024",
+      "03",
+      "QATAR",
+      "3399"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3399"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "8516",
+      "2024",
+      "05",
+      "QATAR",
+      "3399"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3399"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3399"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "3500",
+      "2024",
+      "08",
+      "QATAR",
+      "3399"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "3626",
+      "2024",
+      "09",
+      "QATAR",
+      "3399"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3399"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "684688",
+      "2024",
+      "11",
+      "QATAR",
+      "3399"
+    ],
+    [
+      "5180",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "21404",
+      "2024",
+      "12",
+      "QATAR",
+      "3399"
+    ],
+    [
+      "5180",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "20871",
+      "2024",
+      "09",
+      "QATAR",
+      "3314"
+    ],
+    [
+      "5180",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3314"
+    ],
+    [
+      "5180",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3314"
+    ],
+    [
+      "5180",
+      "NONFERROUS METAL (EXCEPT ALUMINUM) AND PROCESSING",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3314"
+    ],
+    [
+      "5180",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "235631",
+      "2024",
+      "01",
+      "QATAR",
+      "332"
+    ],
+    [
+      "5180",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "1828155",
+      "2024",
+      "02",
+      "QATAR",
+      "332"
+    ],
+    [
+      "5180",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "523700",
+      "2024",
+      "03",
+      "QATAR",
+      "332"
+    ],
+    [
+      "5180",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "410802",
+      "2024",
+      "04",
+      "QATAR",
+      "332"
+    ],
+    [
+      "5180",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "288290",
+      "2024",
+      "05",
+      "QATAR",
+      "332"
+    ],
+    [
+      "5180",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "216785",
+      "2024",
+      "06",
+      "QATAR",
+      "332"
+    ],
+    [
+      "5180",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "430094",
+      "2024",
+      "07",
+      "QATAR",
+      "332"
+    ],
+    [
+      "5180",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "431642",
+      "2024",
+      "08",
+      "QATAR",
+      "332"
+    ],
+    [
+      "5180",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "443652",
+      "2024",
+      "09",
+      "QATAR",
+      "332"
+    ],
+    [
+      "5180",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "134374",
+      "2024",
+      "10",
+      "QATAR",
+      "332"
+    ],
+    [
+      "5180",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "649805",
+      "2024",
+      "11",
+      "QATAR",
+      "332"
+    ],
+    [
+      "5180",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "334127",
+      "2024",
+      "12",
+      "QATAR",
+      "332"
+    ],
+    [
+      "5180",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "3939",
+      "2024",
+      "05",
+      "QATAR",
+      "3321"
+    ],
+    [
+      "5180",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "0",
+      "2024",
+      "06",
+      "QATAR",
+      "3321"
+    ],
+    [
+      "5180",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3321"
+    ],
+    [
+      "5180",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3321"
+    ],
+    [
+      "5180",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3321"
+    ],
+    [
+      "5180",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3321"
+    ],
+    [
+      "5180",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3321"
+    ],
+    [
+      "5180",
+      "CROWNS, CLOSURES, SEALS AND OTHER PACKING ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3321"
+    ],
+    [
+      "5180",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "232881",
+      "2024",
+      "01",
+      "QATAR",
+      "3323"
+    ],
+    [
+      "5180",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "1799050",
+      "2024",
+      "02",
+      "QATAR",
+      "3323"
+    ],
+    [
+      "5180",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "513767",
+      "2024",
+      "03",
+      "QATAR",
+      "3323"
+    ],
+    [
+      "5180",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "398392",
+      "2024",
+      "04",
+      "QATAR",
+      "3323"
+    ],
+    [
+      "5180",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "154504",
+      "2024",
+      "05",
+      "QATAR",
+      "3323"
+    ],
+    [
+      "5180",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "171880",
+      "2024",
+      "06",
+      "QATAR",
+      "3323"
+    ],
+    [
+      "5180",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "266717",
+      "2024",
+      "07",
+      "QATAR",
+      "3323"
+    ],
+    [
+      "5180",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "254890",
+      "2024",
+      "08",
+      "QATAR",
+      "3323"
+    ],
+    [
+      "5180",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "336935",
+      "2024",
+      "09",
+      "QATAR",
+      "3323"
+    ],
+    [
+      "5180",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "81682",
+      "2024",
+      "10",
+      "QATAR",
+      "3323"
+    ],
+    [
+      "5180",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "545548",
+      "2024",
+      "11",
+      "QATAR",
+      "3323"
+    ],
+    [
+      "5180",
+      "ARCHITECTURAL AND STRUCTURAL METALS",
+      "256290",
+      "2024",
+      "12",
+      "QATAR",
+      "3323"
+    ],
+    [
+      "5180",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "2621",
+      "2024",
+      "06",
+      "QATAR",
+      "3327"
+    ],
+    [
+      "5180",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "QATAR",
+      "3327"
+    ],
+    [
+      "5180",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "QATAR",
+      "3327"
+    ],
+    [
+      "5180",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3327"
+    ],
+    [
+      "5180",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "QATAR",
+      "3327"
+    ],
+    [
+      "5180",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3327"
+    ],
+    [
+      "5180",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3327"
+    ],
+    [
+      "5180",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "2750",
+      "2024",
+      "01",
+      "QATAR",
+      "3329"
+    ],
+    [
+      "5180",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "29105",
+      "2024",
+      "02",
+      "QATAR",
+      "3329"
+    ],
+    [
+      "5180",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "5686",
+      "2024",
+      "03",
+      "QATAR",
+      "3329"
+    ],
+    [
+      "5180",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "12410",
+      "2024",
+      "04",
+      "QATAR",
+      "3329"
+    ],
+    [
+      "5180",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "121145",
+      "2024",
+      "05",
+      "QATAR",
+      "3329"
+    ],
+    [
+      "5180",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "42284",
+      "2024",
+      "06",
+      "QATAR",
+      "3329"
+    ],
+    [
+      "5180",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "13959",
+      "2024",
+      "07",
+      "QATAR",
+      "3329"
+    ],
+    [
+      "5180",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "2268",
+      "2024",
+      "08",
+      "QATAR",
+      "3329"
+    ],
+    [
+      "5180",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "8462",
+      "2024",
+      "09",
+      "QATAR",
+      "3329"
+    ],
+    [
+      "5180",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "10562",
+      "2024",
+      "10",
+      "QATAR",
+      "3329"
+    ],
+    [
+      "5180",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "4575",
+      "2024",
+      "11",
+      "QATAR",
+      "3329"
+    ],
+    [
+      "5180",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "17117",
+      "2024",
+      "12",
+      "QATAR",
+      "3329"
+    ],
+    [
+      "5180",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "01",
+      "QATAR",
+      "333"
+    ],
+    [
+      "5180",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "02",
+      "QATAR",
+      "333"
+    ],
+    [
+      "5180",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "75574",
+      "2024",
+      "03",
+      "QATAR",
+      "333"
+    ],
+    [
+      "5180",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "130843",
+      "2024",
+      "04",
+      "QATAR",
+      "333"
+    ],
+    [
+      "5180",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "608851",
+      "2024",
+      "05",
+      "QATAR",
+      "333"
+    ],
+    [
+      "5180",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "65157",
+      "2024",
+      "06",
+      "QATAR",
+      "333"
+    ],
+    [
+      "5180",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "41867",
+      "2024",
+      "07",
+      "QATAR",
+      "333"
+    ],
+    [
+      "5180",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "179828",
+      "2024",
+      "08",
+      "QATAR",
+      "333"
+    ],
+    [
+      "5180",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "265149",
+      "2024",
+      "09",
+      "QATAR",
+      "333"
+    ],
+    [
+      "5180",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "256373",
+      "2024",
+      "10",
+      "QATAR",
+      "333"
+    ],
+    [
+      "5180",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "361641",
+      "2024",
+      "11",
+      "QATAR",
+      "333"
+    ],
+    [
+      "5180",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "48590",
+      "2024",
+      "12",
+      "QATAR",
+      "333"
+    ],
+    [
+      "5180",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "31539",
+      "2024",
+      "03",
+      "QATAR",
+      "3331"
+    ],
+    [
+      "5180",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "QATAR",
+      "3331"
+    ],
+    [
+      "5180",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "QATAR",
+      "3331"
+    ],
+    [
+      "5180",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "3357",
+      "2024",
+      "06",
+      "QATAR",
+      "3331"
+    ],
+    [
+      "5180",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "11985",
+      "2024",
+      "07",
+      "QATAR",
+      "3331"
+    ],
+    [
+      "5180",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "21937",
+      "2024",
+      "08",
+      "QATAR",
+      "3331"
+    ],
+    [
+      "5180",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "QATAR",
+      "3331"
+    ],
+    [
+      "5180",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "26470",
+      "2024",
+      "10",
+      "QATAR",
+      "3331"
+    ],
+    [
+      "5180",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "QATAR",
+      "3331"
+    ],
+    [
+      "5180",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "QATAR",
+      "3331"
+    ]
+  ]
+}

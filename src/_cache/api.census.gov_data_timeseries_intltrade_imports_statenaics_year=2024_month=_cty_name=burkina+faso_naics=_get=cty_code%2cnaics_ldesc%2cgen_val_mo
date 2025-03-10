@@ -1,0 +1,4277 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:20:11 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4c3f4fa33c8f78c76b786247fbdad146be392c240c67f1b37cec15e8086601690cd21acc6847df2f95b9b532ff1d8c725; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "7600",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "2207",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3231"
+    ],
+    [
+      "7600",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3231"
+    ],
+    [
+      "7600",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3231"
+    ],
+    [
+      "7600",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "3300",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3231"
+    ],
+    [
+      "7600",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3231"
+    ],
+    [
+      "7600",
+      "PRINTED MATTER AND RELATED PRODUCT, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3231"
+    ],
+    [
+      "7600",
+      "CHEMICALS",
+      "14800",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "325"
+    ],
+    [
+      "7600",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "325"
+    ],
+    [
+      "7600",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "325"
+    ],
+    [
+      "7600",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "325"
+    ],
+    [
+      "7600",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "325"
+    ],
+    [
+      "7600",
+      "CHEMICALS",
+      "3067",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "325"
+    ],
+    [
+      "7600",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "325"
+    ],
+    [
+      "7600",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "325"
+    ],
+    [
+      "7600",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "14800",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3256"
+    ],
+    [
+      "7600",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3256"
+    ],
+    [
+      "7600",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3256"
+    ],
+    [
+      "7600",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3256"
+    ],
+    [
+      "7600",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3256"
+    ],
+    [
+      "7600",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "3067",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3256"
+    ],
+    [
+      "7600",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3256"
+    ],
+    [
+      "7600",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3256"
+    ],
+    [
+      "7600",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "3520",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "327"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 3",
+      "46474",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "33"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 3",
+      "5942",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "33"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 3",
+      "22815",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "33"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 3",
+      "87748",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "33"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 3",
+      "5193",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "33"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "33"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 3",
+      "99070",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "33"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 3",
+      "35499",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "33"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 3",
+      "58878",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "33"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 3",
+      "7773",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "33"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 3",
+      "3773",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "33"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "33"
+    ],
+    [
+      "7600",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "53866",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "-"
+    ],
+    [
+      "7600",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "152138",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "-"
+    ],
+    [
+      "7600",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "233963",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "-"
+    ],
+    [
+      "7600",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "101292",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "-"
+    ],
+    [
+      "7600",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "313969",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "-"
+    ],
+    [
+      "7600",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "134511",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "-"
+    ],
+    [
+      "7600",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "120078",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "-"
+    ],
+    [
+      "7600",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "640427",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "-"
+    ],
+    [
+      "7600",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1866958",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "-"
+    ],
+    [
+      "7600",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "683305",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "-"
+    ],
+    [
+      "7600",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "210901",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "-"
+    ],
+    [
+      "7600",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "9258",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "-"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "138152",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "11"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "138152",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "11"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "11"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "120960",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "11"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "11"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "11"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "11"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "11"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "156532",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "11"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "11"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "11"
+    ],
+    [
+      "7600",
+      "AGRICULTURAL PRODUCTS",
+      "138152",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "111"
+    ],
+    [
+      "7600",
+      "AGRICULTURAL PRODUCTS",
+      "138152",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "111"
+    ],
+    [
+      "7600",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "111"
+    ],
+    [
+      "7600",
+      "AGRICULTURAL PRODUCTS",
+      "120960",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "111"
+    ],
+    [
+      "7600",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "111"
+    ],
+    [
+      "7600",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "111"
+    ],
+    [
+      "7600",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "111"
+    ],
+    [
+      "7600",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "111"
+    ],
+    [
+      "7600",
+      "AGRICULTURAL PRODUCTS",
+      "156532",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "111"
+    ],
+    [
+      "7600",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "111"
+    ],
+    [
+      "7600",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "111"
+    ],
+    [
+      "7600",
+      "FRUITS AND TREE NUTS",
+      "138152",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "1113"
+    ],
+    [
+      "7600",
+      "FRUITS AND TREE NUTS",
+      "138152",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "1113"
+    ],
+    [
+      "7600",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "1113"
+    ],
+    [
+      "7600",
+      "FRUITS AND TREE NUTS",
+      "120960",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "1113"
+    ],
+    [
+      "7600",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "1113"
+    ],
+    [
+      "7600",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "1113"
+    ],
+    [
+      "7600",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "1113"
+    ],
+    [
+      "7600",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "1113"
+    ],
+    [
+      "7600",
+      "FRUITS AND TREE NUTS",
+      "156532",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "1113"
+    ],
+    [
+      "7600",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "1113"
+    ],
+    [
+      "7600",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "1113"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART1",
+      "67302",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "31"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART1",
+      "2744",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "31"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART1",
+      "152169",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "31"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART1",
+      "78710",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "31"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART1",
+      "5634",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "31"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART1",
+      "541273",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "31"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART1",
+      "1781863",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "31"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART1",
+      "479316",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "31"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART1",
+      "182722",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "31"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "31"
+    ],
+    [
+      "7600",
+      "MANUFACTURED GOODS",
+      "46474",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "31-33"
+    ],
+    [
+      "7600",
+      "MANUFACTURED GOODS",
+      "5942",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "31-33"
+    ],
+    [
+      "7600",
+      "MANUFACTURED GOODS",
+      "90117",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "31-33"
+    ],
+    [
+      "7600",
+      "MANUFACTURED GOODS",
+      "90492",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "31-33"
+    ],
+    [
+      "7600",
+      "MANUFACTURED GOODS",
+      "172162",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "31-33"
+    ],
+    [
+      "7600",
+      "MANUFACTURED GOODS",
+      "78710",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "31-33"
+    ],
+    [
+      "7600",
+      "MANUFACTURED GOODS",
+      "106911",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "31-33"
+    ],
+    [
+      "7600",
+      "MANUFACTURED GOODS",
+      "576772",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "31-33"
+    ],
+    [
+      "7600",
+      "MANUFACTURED GOODS",
+      "1840741",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "31-33"
+    ],
+    [
+      "7600",
+      "MANUFACTURED GOODS",
+      "493456",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "31-33"
+    ],
+    [
+      "7600",
+      "MANUFACTURED GOODS",
+      "186495",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "31-33"
+    ],
+    [
+      "7600",
+      "MANUFACTURED GOODS",
+      "3520",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "31-33"
+    ],
+    [
+      "7600",
+      "FOOD AND KINDRED PRODUCTS",
+      "67302",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "311"
+    ],
+    [
+      "7600",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "311"
+    ],
+    [
+      "7600",
+      "FOOD AND KINDRED PRODUCTS",
+      "151008",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "311"
+    ],
+    [
+      "7600",
+      "FOOD AND KINDRED PRODUCTS",
+      "72996",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "311"
+    ],
+    [
+      "7600",
+      "FOOD AND KINDRED PRODUCTS",
+      "5634",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "311"
+    ],
+    [
+      "7600",
+      "FOOD AND KINDRED PRODUCTS",
+      "539371",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "311"
+    ],
+    [
+      "7600",
+      "FOOD AND KINDRED PRODUCTS",
+      "1778865",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "311"
+    ],
+    [
+      "7600",
+      "FOOD AND KINDRED PRODUCTS",
+      "479316",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "311"
+    ],
+    [
+      "7600",
+      "FOOD AND KINDRED PRODUCTS",
+      "180690",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "311"
+    ],
+    [
+      "7600",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "311"
+    ],
+    [
+      "7600",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "151008",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3114"
+    ],
+    [
+      "7600",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "72996",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3114"
+    ],
+    [
+      "7600",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3114"
+    ],
+    [
+      "7600",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "523327",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3114"
+    ],
+    [
+      "7600",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "1778865",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3114"
+    ],
+    [
+      "7600",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "479316",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3114"
+    ],
+    [
+      "7600",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "163170",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3114"
+    ],
+    [
+      "7600",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3114"
+    ],
+    [
+      "7600",
+      "FOODS, NESOI",
+      "5634",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3119"
+    ],
+    [
+      "7600",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3119"
+    ],
+    [
+      "7600",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3119"
+    ],
+    [
+      "7600",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3119"
+    ],
+    [
+      "7600",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3119"
+    ],
+    [
+      "7600",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3119"
+    ],
+    [
+      "7600",
+      "TEXTILES AND FABRICS",
+      "1095",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "313"
+    ],
+    [
+      "7600",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "313"
+    ],
+    [
+      "7600",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "313"
+    ],
+    [
+      "7600",
+      "TEXTILES AND FABRICS",
+      "2398",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "313"
+    ],
+    [
+      "7600",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "313"
+    ],
+    [
+      "7600",
+      "TEXTILES AND FABRICS",
+      "2032",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "313"
+    ],
+    [
+      "7600",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "313"
+    ],
+    [
+      "7600",
+      "FABRICS",
+      "1095",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3132"
+    ],
+    [
+      "7600",
+      "FABRICS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3132"
+    ],
+    [
+      "7600",
+      "FABRICS",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3132"
+    ],
+    [
+      "7600",
+      "FABRICS",
+      "2398",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3132"
+    ],
+    [
+      "7600",
+      "FABRICS",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3132"
+    ],
+    [
+      "7600",
+      "FABRICS",
+      "2032",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3132"
+    ],
+    [
+      "7600",
+      "FABRICS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3132"
+    ],
+    [
+      "7600",
+      "APPAREL AND ACCESSORIES",
+      "2134",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "315"
+    ],
+    [
+      "7600",
+      "APPAREL AND ACCESSORIES",
+      "1161",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "315"
+    ],
+    [
+      "7600",
+      "APPAREL AND ACCESSORIES",
+      "3819",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "315"
+    ],
+    [
+      "7600",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "315"
+    ],
+    [
+      "7600",
+      "APPAREL AND ACCESSORIES",
+      "1902",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "315"
+    ],
+    [
+      "7600",
+      "APPAREL AND ACCESSORIES",
+      "600",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "315"
+    ],
+    [
+      "7600",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "315"
+    ],
+    [
+      "7600",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "315"
+    ],
+    [
+      "7600",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "315"
+    ],
+    [
+      "7600",
+      "APPAREL ACCESSORIES",
+      "600",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3159"
+    ],
+    [
+      "7600",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3159"
+    ],
+    [
+      "7600",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3159"
+    ],
+    [
+      "7600",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3159"
+    ],
+    [
+      "7600",
+      "LEATHER AND ALLIED PRODUCTS",
+      "610",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "316"
+    ],
+    [
+      "7600",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "316"
+    ],
+    [
+      "7600",
+      "LEATHER AND ALLIED PRODUCTS",
+      "800",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "316"
+    ],
+    [
+      "7600",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "316"
+    ],
+    [
+      "7600",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "316"
+    ],
+    [
+      "7600",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "316"
+    ],
+    [
+      "7600",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "316"
+    ],
+    [
+      "7600",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "316"
+    ],
+    [
+      "7600",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "316"
+    ],
+    [
+      "7600",
+      "FOOTWEAR",
+      "350",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "3162"
+    ],
+    [
+      "7600",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3162"
+    ],
+    [
+      "7600",
+      "FOOTWEAR",
+      "800",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3162"
+    ],
+    [
+      "7600",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3162"
+    ],
+    [
+      "7600",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3162"
+    ],
+    [
+      "7600",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3162"
+    ],
+    [
+      "7600",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3162"
+    ],
+    [
+      "7600",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3162"
+    ],
+    [
+      "7600",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3162"
+    ],
+    [
+      "7600",
+      "OTHER LEATHER PRODUCTS",
+      "260",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "3169"
+    ],
+    [
+      "7600",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3169"
+    ],
+    [
+      "7600",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3169"
+    ],
+    [
+      "7600",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3169"
+    ],
+    [
+      "7600",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3169"
+    ],
+    [
+      "7600",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3169"
+    ],
+    [
+      "7600",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3169"
+    ],
+    [
+      "7600",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3169"
+    ],
+    [
+      "7600",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3169"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 2",
+      "14800",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "32"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "32"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 2",
+      "2207",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "32"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "32"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "32"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 2",
+      "6367",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "32"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "32"
+    ],
+    [
+      "7600",
+      "MANUFACTURING, PART 2",
+      "3520",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "32"
+    ],
+    [
+      "7600",
+      "INDUSTRIAL MACHINERY",
+      "5691",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3332"
+    ],
+    [
+      "7600",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3332"
+    ],
+    [
+      "7600",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3332"
+    ],
+    [
+      "7600",
+      "INDUSTRIAL MACHINERY",
+      "2011",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3332"
+    ],
+    [
+      "7600",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3332"
+    ],
+    [
+      "7600",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3332"
+    ],
+    [
+      "7600",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "45876",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "3336"
+    ],
+    [
+      "7600",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "3336"
+    ],
+    [
+      "7600",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "3336"
+    ],
+    [
+      "7600",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "3336"
+    ],
+    [
+      "7600",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3336"
+    ],
+    [
+      "7600",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3336"
+    ],
+    [
+      "7600",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "43536",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3336"
+    ],
+    [
+      "7600",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3336"
+    ],
+    [
+      "7600",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "44778",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3336"
+    ],
+    [
+      "7600",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3336"
+    ],
+    [
+      "7600",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3336"
+    ],
+    [
+      "7600",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3336"
+    ],
+    [
+      "7600",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "2039",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3339"
+    ],
+    [
+      "7600",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3339"
+    ],
+    [
+      "7600",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3339"
+    ],
+    [
+      "7600",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3339"
+    ],
+    [
+      "7600",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "22815",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "334"
+    ],
+    [
+      "7600",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "334"
+    ],
+    [
+      "7600",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "3951",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "334"
+    ],
+    [
+      "7600",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "334"
+    ],
+    [
+      "7600",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "334"
+    ],
+    [
+      "7600",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "5582",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "334"
+    ],
+    [
+      "7600",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "334"
+    ],
+    [
+      "7600",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "334"
+    ],
+    [
+      "7600",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "334"
+    ],
+    [
+      "7600",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "334"
+    ],
+    [
+      "7600",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "22815",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "3344"
+    ],
+    [
+      "7600",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "3344"
+    ],
+    [
+      "7600",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3344"
+    ],
+    [
+      "7600",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3344"
+    ],
+    [
+      "7600",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3344"
+    ],
+    [
+      "7600",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3344"
+    ],
+    [
+      "7600",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3344"
+    ],
+    [
+      "7600",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3344"
+    ],
+    [
+      "7600",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3344"
+    ],
+    [
+      "7600",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3344"
+    ],
+    [
+      "7600",
+      "TRANSPORTATION EQUIPMENT",
+      "74688",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "336"
+    ],
+    [
+      "7600",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "336"
+    ],
+    [
+      "7600",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "336"
+    ],
+    [
+      "7600",
+      "TRANSPORTATION EQUIPMENT",
+      "44029",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "336"
+    ],
+    [
+      "7600",
+      "TRANSPORTATION EQUIPMENT",
+      "20429",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "336"
+    ],
+    [
+      "7600",
+      "TRANSPORTATION EQUIPMENT",
+      "12061",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "336"
+    ],
+    [
+      "7600",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "336"
+    ],
+    [
+      "7600",
+      "TRANSPORTATION EQUIPMENT",
+      "3773",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "336"
+    ],
+    [
+      "7600",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "336"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5387",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "93"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "93"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "4101",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "93"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "12758",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "93"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "93"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "93"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "62000",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "93"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "93"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "93"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "22000",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "93"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "93"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5387",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "930"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "930"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "4101",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "930"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "12758",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "930"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "930"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "930"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "62000",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "930"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "930"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "930"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "22000",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "930"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "930"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5387",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "9300"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "9300"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "4101",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "9300"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "12758",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "9300"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "9300"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "9300"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "62000",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "9300"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "9300"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "9300"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "22000",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "9300"
+    ],
+    [
+      "7600",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "9300"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3500",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "980"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "980"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3485",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "980"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "980"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "980"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "48400",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "980"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "9169",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "980"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "980"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "21571",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "980"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "29408",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "980"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "980"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "980"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3892",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "990"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2657",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "990"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2209",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "990"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "6699",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "990"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8089",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "990"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7401",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "990"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3998",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "990"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1655",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "990"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4646",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "990"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3909",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "990"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2406",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "990"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5738",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "990"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3892",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "9900"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2657",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "9900"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2209",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "9900"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "6699",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "9900"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8089",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "9900"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7401",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "9900"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3998",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "9900"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1655",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "9900"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4646",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "9900"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3909",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "9900"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2406",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "9900"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5738",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "9900"
+    ],
+    [
+      "7600",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "2207",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "323"
+    ],
+    [
+      "7600",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "323"
+    ],
+    [
+      "7600",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "323"
+    ],
+    [
+      "7600",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "3300",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "323"
+    ],
+    [
+      "7600",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "323"
+    ],
+    [
+      "7600",
+      "PRINTED MATTER AND RELATED PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "323"
+    ],
+    [
+      "7600",
+      "APPAREL",
+      "2134",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "3152"
+    ],
+    [
+      "7600",
+      "APPAREL",
+      "1161",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3152"
+    ],
+    [
+      "7600",
+      "APPAREL",
+      "3819",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3152"
+    ],
+    [
+      "7600",
+      "APPAREL",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3152"
+    ],
+    [
+      "7600",
+      "APPAREL",
+      "1902",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3152"
+    ],
+    [
+      "7600",
+      "APPAREL",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3152"
+    ],
+    [
+      "7600",
+      "APPAREL",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3152"
+    ],
+    [
+      "7600",
+      "APPAREL",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3152"
+    ],
+    [
+      "7600",
+      "APPAREL",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3152"
+    ],
+    [
+      "7600",
+      "COMMUNICATIONS EQUIPMENT",
+      "3951",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3342"
+    ],
+    [
+      "7600",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3342"
+    ],
+    [
+      "7600",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3342"
+    ],
+    [
+      "7600",
+      "COMMUNICATIONS EQUIPMENT",
+      "5582",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3342"
+    ],
+    [
+      "7600",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3342"
+    ],
+    [
+      "7600",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3342"
+    ],
+    [
+      "7600",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3342"
+    ],
+    [
+      "7600",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3342"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "5942",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "335"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "335"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "335"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "335"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "335"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "5814",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "335"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "335"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "335"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "335"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "335"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "335"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "5942",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "3359"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "3359"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "3359"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3359"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3359"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "5814",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3359"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3359"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3359"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3359"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3359"
+    ],
+    [
+      "7600",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3359"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3500",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "98"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "98"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3485",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "98"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "98"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "98"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "48400",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "98"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "9169",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "98"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "98"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "21571",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "98"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "29408",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "98"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "98"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "98"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3500",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "9800"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "9800"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "3485",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "9800"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "9800"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "9800"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "48400",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "9800"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "9169",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "9800"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "9800"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "21571",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "9800"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "29408",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "9800"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "9800"
+    ],
+    [
+      "7600",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "9800"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3892",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "99"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2657",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "99"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2209",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "99"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "6699",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "99"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "8089",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "99"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7401",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "99"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3998",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "99"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1655",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "99"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4646",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "99"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "3909",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "99"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "2406",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "99"
+    ],
+    [
+      "7600",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5738",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "99"
+    ],
+    [
+      "7600",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "598",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "3371"
+    ],
+    [
+      "7600",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "3371"
+    ],
+    [
+      "7600",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "3371"
+    ],
+    [
+      "7600",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "3371"
+    ],
+    [
+      "7600",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "1242",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3371"
+    ],
+    [
+      "7600",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3371"
+    ],
+    [
+      "7600",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3371"
+    ],
+    [
+      "7600",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3371"
+    ],
+    [
+      "7600",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3371"
+    ],
+    [
+      "7600",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "829",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3371"
+    ],
+    [
+      "7600",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3371"
+    ],
+    [
+      "7600",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3371"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2020",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "339"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "339"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "339"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "339"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "9488",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "339"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "339"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "4933",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "339"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "339"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "339"
+    ],
+    [
+      "7600",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "3520",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3279"
+    ],
+    [
+      "7600",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "67302",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "3112"
+    ],
+    [
+      "7600",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "3112"
+    ],
+    [
+      "7600",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3112"
+    ],
+    [
+      "7600",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3112"
+    ],
+    [
+      "7600",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3112"
+    ],
+    [
+      "7600",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "16044",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3112"
+    ],
+    [
+      "7600",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3112"
+    ],
+    [
+      "7600",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3112"
+    ],
+    [
+      "7600",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "17520",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3112"
+    ],
+    [
+      "7600",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3112"
+    ],
+    [
+      "7600",
+      "MOTOR VEHICLE PARTS",
+      "74688",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "3363"
+    ],
+    [
+      "7600",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3363"
+    ],
+    [
+      "7600",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3363"
+    ],
+    [
+      "7600",
+      "MOTOR VEHICLE PARTS",
+      "44029",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3363"
+    ],
+    [
+      "7600",
+      "MOTOR VEHICLE PARTS",
+      "20429",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3363"
+    ],
+    [
+      "7600",
+      "MOTOR VEHICLE PARTS",
+      "12061",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3363"
+    ],
+    [
+      "7600",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3363"
+    ],
+    [
+      "7600",
+      "MOTOR VEHICLE PARTS",
+      "3773",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3363"
+    ],
+    [
+      "7600",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3363"
+    ],
+    [
+      "7600",
+      "FURNITURE AND FIXTURES",
+      "598",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "337"
+    ],
+    [
+      "7600",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "337"
+    ],
+    [
+      "7600",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "337"
+    ],
+    [
+      "7600",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "337"
+    ],
+    [
+      "7600",
+      "FURNITURE AND FIXTURES",
+      "1242",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "337"
+    ],
+    [
+      "7600",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "337"
+    ],
+    [
+      "7600",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "337"
+    ],
+    [
+      "7600",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "337"
+    ],
+    [
+      "7600",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "337"
+    ],
+    [
+      "7600",
+      "FURNITURE AND FIXTURES",
+      "829",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "337"
+    ],
+    [
+      "7600",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "337"
+    ],
+    [
+      "7600",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "337"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2020",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "3399"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3399"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3399"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3399"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "9488",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3399"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3399"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "4933",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3399"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3399"
+    ],
+    [
+      "7600",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3399"
+    ],
+    [
+      "7600",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "45876",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "333"
+    ],
+    [
+      "7600",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "02",
+      "BURKINA FASO",
+      "333"
+    ],
+    [
+      "7600",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "03",
+      "BURKINA FASO",
+      "333"
+    ],
+    [
+      "7600",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "11040",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "333"
+    ],
+    [
+      "7600",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "333"
+    ],
+    [
+      "7600",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "333"
+    ],
+    [
+      "7600",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "49227",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "333"
+    ],
+    [
+      "7600",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "333"
+    ],
+    [
+      "7600",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "46817",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "333"
+    ],
+    [
+      "7600",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "2011",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "333"
+    ],
+    [
+      "7600",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "333"
+    ],
+    [
+      "7600",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "333"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "11040",
+      "2024",
+      "04",
+      "BURKINA FASO",
+      "3331"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "BURKINA FASO",
+      "3331"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "BURKINA FASO",
+      "3331"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "BURKINA FASO",
+      "3331"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "BURKINA FASO",
+      "3331"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "BURKINA FASO",
+      "3331"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "BURKINA FASO",
+      "3331"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "BURKINA FASO",
+      "3331"
+    ],
+    [
+      "7600",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "BURKINA FASO",
+      "3331"
+    ]
+  ]
+}

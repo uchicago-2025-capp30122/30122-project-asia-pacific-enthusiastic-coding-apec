@@ -1,0 +1,7535 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:33:26 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4124693c2af8ef26ac4700f935429aceb795b6af4458d380d46caa2c3a850c9a1e3ecf8c47158b009aeb065055f57a6b0; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "4272",
+      "PAPER",
+      "7743",
+      "2024",
+      "06",
+      "MONACO",
+      "322"
+    ],
+    [
+      "4272",
+      "PAPER",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "322"
+    ],
+    [
+      "4272",
+      "PAPER",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "322"
+    ],
+    [
+      "4272",
+      "PAPER",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "322"
+    ],
+    [
+      "4272",
+      "PAPER",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "322"
+    ],
+    [
+      "4272",
+      "PAPER",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "322"
+    ],
+    [
+      "4272",
+      "PAPER",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "322"
+    ],
+    [
+      "4272",
+      "CONVERTED PAPER PRODUCTS",
+      "7743",
+      "2024",
+      "06",
+      "MONACO",
+      "3222"
+    ],
+    [
+      "4272",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3222"
+    ],
+    [
+      "4272",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3222"
+    ],
+    [
+      "4272",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3222"
+    ],
+    [
+      "4272",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3222"
+    ],
+    [
+      "4272",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3222"
+    ],
+    [
+      "4272",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3222"
+    ],
+    [
+      "4272",
+      "CHEMICALS",
+      "2520897",
+      "2024",
+      "01",
+      "MONACO",
+      "325"
+    ],
+    [
+      "4272",
+      "CHEMICALS",
+      "1526278",
+      "2024",
+      "02",
+      "MONACO",
+      "325"
+    ],
+    [
+      "4272",
+      "CHEMICALS",
+      "890738",
+      "2024",
+      "03",
+      "MONACO",
+      "325"
+    ],
+    [
+      "4272",
+      "CHEMICALS",
+      "2205209",
+      "2024",
+      "04",
+      "MONACO",
+      "325"
+    ],
+    [
+      "4272",
+      "CHEMICALS",
+      "675108",
+      "2024",
+      "05",
+      "MONACO",
+      "325"
+    ],
+    [
+      "4272",
+      "CHEMICALS",
+      "2088395",
+      "2024",
+      "06",
+      "MONACO",
+      "325"
+    ],
+    [
+      "4272",
+      "CHEMICALS",
+      "3897157",
+      "2024",
+      "07",
+      "MONACO",
+      "325"
+    ],
+    [
+      "4272",
+      "CHEMICALS",
+      "4831611",
+      "2024",
+      "08",
+      "MONACO",
+      "325"
+    ],
+    [
+      "4272",
+      "CHEMICALS",
+      "3356546",
+      "2024",
+      "09",
+      "MONACO",
+      "325"
+    ],
+    [
+      "4272",
+      "CHEMICALS",
+      "1254300",
+      "2024",
+      "10",
+      "MONACO",
+      "325"
+    ],
+    [
+      "4272",
+      "CHEMICALS",
+      "2527741",
+      "2024",
+      "11",
+      "MONACO",
+      "325"
+    ],
+    [
+      "4272",
+      "CHEMICALS",
+      "3066555",
+      "2024",
+      "12",
+      "MONACO",
+      "325"
+    ],
+    [
+      "4272",
+      "BASIC CHEMICALS",
+      "480000",
+      "2024",
+      "01",
+      "MONACO",
+      "3251"
+    ],
+    [
+      "4272",
+      "BASIC CHEMICALS",
+      "4441",
+      "2024",
+      "02",
+      "MONACO",
+      "3251"
+    ],
+    [
+      "4272",
+      "BASIC CHEMICALS",
+      "11531",
+      "2024",
+      "03",
+      "MONACO",
+      "3251"
+    ],
+    [
+      "4272",
+      "BASIC CHEMICALS",
+      "528704",
+      "2024",
+      "04",
+      "MONACO",
+      "3251"
+    ],
+    [
+      "4272",
+      "BASIC CHEMICALS",
+      "39611",
+      "2024",
+      "05",
+      "MONACO",
+      "3251"
+    ],
+    [
+      "4272",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3251"
+    ],
+    [
+      "4272",
+      "BASIC CHEMICALS",
+      "287395",
+      "2024",
+      "07",
+      "MONACO",
+      "3251"
+    ],
+    [
+      "4272",
+      "BASIC CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3251"
+    ],
+    [
+      "4272",
+      "BASIC CHEMICALS",
+      "35703",
+      "2024",
+      "09",
+      "MONACO",
+      "3251"
+    ],
+    [
+      "4272",
+      "BASIC CHEMICALS",
+      "8845",
+      "2024",
+      "10",
+      "MONACO",
+      "3251"
+    ],
+    [
+      "4272",
+      "BASIC CHEMICALS",
+      "24490",
+      "2024",
+      "11",
+      "MONACO",
+      "3251"
+    ],
+    [
+      "4272",
+      "BASIC CHEMICALS",
+      "14499",
+      "2024",
+      "12",
+      "MONACO",
+      "3251"
+    ],
+    [
+      "4272",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "18371",
+      "2024",
+      "01",
+      "MONACO",
+      "3252"
+    ],
+    [
+      "4272",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "02",
+      "MONACO",
+      "3252"
+    ],
+    [
+      "4272",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "03",
+      "MONACO",
+      "3252"
+    ],
+    [
+      "4272",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "3252"
+    ],
+    [
+      "4272",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "3164",
+      "2024",
+      "05",
+      "MONACO",
+      "3252"
+    ],
+    [
+      "4272",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "16784",
+      "2024",
+      "06",
+      "MONACO",
+      "3252"
+    ],
+    [
+      "4272",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "3022",
+      "2024",
+      "07",
+      "MONACO",
+      "3252"
+    ],
+    [
+      "4272",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "16344",
+      "2024",
+      "08",
+      "MONACO",
+      "3252"
+    ],
+    [
+      "4272",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3252"
+    ],
+    [
+      "4272",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3252"
+    ],
+    [
+      "4272",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "14590",
+      "2024",
+      "11",
+      "MONACO",
+      "3252"
+    ],
+    [
+      "4272",
+      "RESIN, SYNTHETIC RUBBER, & ARTIFICIAL & SYNTHETIC FIBERS & FILIMENT",
+      "3482",
+      "2024",
+      "12",
+      "MONACO",
+      "3252"
+    ],
+    [
+      "4272",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "2022526",
+      "2024",
+      "01",
+      "MONACO",
+      "3256"
+    ],
+    [
+      "4272",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "1379034",
+      "2024",
+      "02",
+      "MONACO",
+      "3256"
+    ],
+    [
+      "4272",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "740946",
+      "2024",
+      "03",
+      "MONACO",
+      "3256"
+    ],
+    [
+      "4272",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "1636765",
+      "2024",
+      "04",
+      "MONACO",
+      "3256"
+    ],
+    [
+      "4272",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "563697",
+      "2024",
+      "05",
+      "MONACO",
+      "3256"
+    ],
+    [
+      "4272",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "1844514",
+      "2024",
+      "06",
+      "MONACO",
+      "3256"
+    ],
+    [
+      "4272",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "3489730",
+      "2024",
+      "07",
+      "MONACO",
+      "3256"
+    ],
+    [
+      "4272",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "4815267",
+      "2024",
+      "08",
+      "MONACO",
+      "3256"
+    ],
+    [
+      "4272",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "3219780",
+      "2024",
+      "09",
+      "MONACO",
+      "3256"
+    ],
+    [
+      "4272",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "1125179",
+      "2024",
+      "10",
+      "MONACO",
+      "3256"
+    ],
+    [
+      "4272",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "2352624",
+      "2024",
+      "11",
+      "MONACO",
+      "3256"
+    ],
+    [
+      "4272",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "3018305",
+      "2024",
+      "12",
+      "MONACO",
+      "3256"
+    ],
+    [
+      "4272",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "142803",
+      "2024",
+      "02",
+      "MONACO",
+      "3259"
+    ],
+    [
+      "4272",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "138261",
+      "2024",
+      "03",
+      "MONACO",
+      "3259"
+    ],
+    [
+      "4272",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "39740",
+      "2024",
+      "04",
+      "MONACO",
+      "3259"
+    ],
+    [
+      "4272",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "68636",
+      "2024",
+      "05",
+      "MONACO",
+      "3259"
+    ],
+    [
+      "4272",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "227097",
+      "2024",
+      "06",
+      "MONACO",
+      "3259"
+    ],
+    [
+      "4272",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "25726",
+      "2024",
+      "07",
+      "MONACO",
+      "3259"
+    ],
+    [
+      "4272",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3259"
+    ],
+    [
+      "4272",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "101063",
+      "2024",
+      "09",
+      "MONACO",
+      "3259"
+    ],
+    [
+      "4272",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "120276",
+      "2024",
+      "10",
+      "MONACO",
+      "3259"
+    ],
+    [
+      "4272",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "136037",
+      "2024",
+      "11",
+      "MONACO",
+      "3259"
+    ],
+    [
+      "4272",
+      "OTHER CHEMICAL PRODUCTS AND PREPARATIONS",
+      "30269",
+      "2024",
+      "12",
+      "MONACO",
+      "3259"
+    ],
+    [
+      "4272",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "9791",
+      "2024",
+      "01",
+      "MONACO",
+      "326"
+    ],
+    [
+      "4272",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "9451",
+      "2024",
+      "02",
+      "MONACO",
+      "326"
+    ],
+    [
+      "4272",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "2884",
+      "2024",
+      "03",
+      "MONACO",
+      "326"
+    ],
+    [
+      "4272",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "9461",
+      "2024",
+      "04",
+      "MONACO",
+      "326"
+    ],
+    [
+      "4272",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "10197",
+      "2024",
+      "05",
+      "MONACO",
+      "326"
+    ],
+    [
+      "4272",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "9482",
+      "2024",
+      "06",
+      "MONACO",
+      "326"
+    ],
+    [
+      "4272",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "18963",
+      "2024",
+      "07",
+      "MONACO",
+      "326"
+    ],
+    [
+      "4272",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "444",
+      "2024",
+      "08",
+      "MONACO",
+      "326"
+    ],
+    [
+      "4272",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "12170",
+      "2024",
+      "09",
+      "MONACO",
+      "326"
+    ],
+    [
+      "4272",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "41105",
+      "2024",
+      "10",
+      "MONACO",
+      "326"
+    ],
+    [
+      "4272",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "326"
+    ],
+    [
+      "4272",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "13609",
+      "2024",
+      "12",
+      "MONACO",
+      "326"
+    ],
+    [
+      "4272",
+      "PLASTICS PRODUCTS",
+      "9791",
+      "2024",
+      "01",
+      "MONACO",
+      "3261"
+    ],
+    [
+      "4272",
+      "PLASTICS PRODUCTS",
+      "9451",
+      "2024",
+      "02",
+      "MONACO",
+      "3261"
+    ],
+    [
+      "4272",
+      "PLASTICS PRODUCTS",
+      "2884",
+      "2024",
+      "03",
+      "MONACO",
+      "3261"
+    ],
+    [
+      "4272",
+      "PLASTICS PRODUCTS",
+      "9461",
+      "2024",
+      "04",
+      "MONACO",
+      "3261"
+    ],
+    [
+      "4272",
+      "PLASTICS PRODUCTS",
+      "10197",
+      "2024",
+      "05",
+      "MONACO",
+      "3261"
+    ],
+    [
+      "4272",
+      "PLASTICS PRODUCTS",
+      "9482",
+      "2024",
+      "06",
+      "MONACO",
+      "3261"
+    ],
+    [
+      "4272",
+      "PLASTICS PRODUCTS",
+      "18963",
+      "2024",
+      "07",
+      "MONACO",
+      "3261"
+    ],
+    [
+      "4272",
+      "PLASTICS PRODUCTS",
+      "444",
+      "2024",
+      "08",
+      "MONACO",
+      "3261"
+    ],
+    [
+      "4272",
+      "PLASTICS PRODUCTS",
+      "9070",
+      "2024",
+      "09",
+      "MONACO",
+      "3261"
+    ],
+    [
+      "4272",
+      "PLASTICS PRODUCTS",
+      "9430",
+      "2024",
+      "10",
+      "MONACO",
+      "3261"
+    ],
+    [
+      "4272",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3261"
+    ],
+    [
+      "4272",
+      "PLASTICS PRODUCTS",
+      "13609",
+      "2024",
+      "12",
+      "MONACO",
+      "3261"
+    ],
+    [
+      "4272",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "4474",
+      "2024",
+      "02",
+      "MONACO",
+      "327"
+    ],
+    [
+      "4272",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "21003",
+      "2024",
+      "03",
+      "MONACO",
+      "327"
+    ],
+    [
+      "4272",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "327"
+    ],
+    [
+      "4272",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "6241",
+      "2024",
+      "05",
+      "MONACO",
+      "327"
+    ],
+    [
+      "4272",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "327"
+    ],
+    [
+      "4272",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "75878",
+      "2024",
+      "07",
+      "MONACO",
+      "327"
+    ],
+    [
+      "4272",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "327"
+    ],
+    [
+      "4272",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "327"
+    ],
+    [
+      "4272",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "327"
+    ],
+    [
+      "4272",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "19339",
+      "2024",
+      "11",
+      "MONACO",
+      "327"
+    ],
+    [
+      "4272",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "38615",
+      "2024",
+      "12",
+      "MONACO",
+      "327"
+    ],
+    [
+      "4272",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "14836",
+      "2024",
+      "03",
+      "MONACO",
+      "3271"
+    ],
+    [
+      "4272",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "3271"
+    ],
+    [
+      "4272",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "MONACO",
+      "3271"
+    ],
+    [
+      "4272",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3271"
+    ],
+    [
+      "4272",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3271"
+    ],
+    [
+      "4272",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3271"
+    ],
+    [
+      "4272",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3271"
+    ],
+    [
+      "4272",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3271"
+    ],
+    [
+      "4272",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3271"
+    ],
+    [
+      "4272",
+      "CLAY AND REFRACTORY PRODUCTS",
+      "5577",
+      "2024",
+      "12",
+      "MONACO",
+      "3271"
+    ],
+    [
+      "4272",
+      "GLASS AND GLASS PRODUCTS",
+      "4474",
+      "2024",
+      "02",
+      "MONACO",
+      "3272"
+    ],
+    [
+      "4272",
+      "GLASS AND GLASS PRODUCTS",
+      "6167",
+      "2024",
+      "03",
+      "MONACO",
+      "3272"
+    ],
+    [
+      "4272",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "3272"
+    ],
+    [
+      "4272",
+      "GLASS AND GLASS PRODUCTS",
+      "4173",
+      "2024",
+      "05",
+      "MONACO",
+      "3272"
+    ],
+    [
+      "4272",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3272"
+    ],
+    [
+      "4272",
+      "GLASS AND GLASS PRODUCTS",
+      "75878",
+      "2024",
+      "07",
+      "MONACO",
+      "3272"
+    ],
+    [
+      "4272",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3272"
+    ],
+    [
+      "4272",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3272"
+    ],
+    [
+      "4272",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3272"
+    ],
+    [
+      "4272",
+      "GLASS AND GLASS PRODUCTS",
+      "19339",
+      "2024",
+      "11",
+      "MONACO",
+      "3272"
+    ],
+    [
+      "4272",
+      "GLASS AND GLASS PRODUCTS",
+      "33038",
+      "2024",
+      "12",
+      "MONACO",
+      "3272"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 3",
+      "98443",
+      "2024",
+      "01",
+      "MONACO",
+      "33"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 3",
+      "154052",
+      "2024",
+      "02",
+      "MONACO",
+      "33"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 3",
+      "209479",
+      "2024",
+      "03",
+      "MONACO",
+      "33"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 3",
+      "2358526",
+      "2024",
+      "04",
+      "MONACO",
+      "33"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 3",
+      "223624",
+      "2024",
+      "05",
+      "MONACO",
+      "33"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 3",
+      "452189",
+      "2024",
+      "06",
+      "MONACO",
+      "33"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 3",
+      "646407",
+      "2024",
+      "07",
+      "MONACO",
+      "33"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 3",
+      "272818",
+      "2024",
+      "08",
+      "MONACO",
+      "33"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 3",
+      "2553937",
+      "2024",
+      "09",
+      "MONACO",
+      "33"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 3",
+      "1057300",
+      "2024",
+      "10",
+      "MONACO",
+      "33"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 3",
+      "307175",
+      "2024",
+      "11",
+      "MONACO",
+      "33"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 3",
+      "1186104",
+      "2024",
+      "12",
+      "MONACO",
+      "33"
+    ],
+    [
+      "4272",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3391271",
+      "2024",
+      "01",
+      "MONACO",
+      "-"
+    ],
+    [
+      "4272",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "2679505",
+      "2024",
+      "02",
+      "MONACO",
+      "-"
+    ],
+    [
+      "4272",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1308511",
+      "2024",
+      "03",
+      "MONACO",
+      "-"
+    ],
+    [
+      "4272",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "4822467",
+      "2024",
+      "04",
+      "MONACO",
+      "-"
+    ],
+    [
+      "4272",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1273723",
+      "2024",
+      "05",
+      "MONACO",
+      "-"
+    ],
+    [
+      "4272",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3073685",
+      "2024",
+      "06",
+      "MONACO",
+      "-"
+    ],
+    [
+      "4272",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "5586145",
+      "2024",
+      "07",
+      "MONACO",
+      "-"
+    ],
+    [
+      "4272",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "5917723",
+      "2024",
+      "08",
+      "MONACO",
+      "-"
+    ],
+    [
+      "4272",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "7730532",
+      "2024",
+      "09",
+      "MONACO",
+      "-"
+    ],
+    [
+      "4272",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3657984",
+      "2024",
+      "10",
+      "MONACO",
+      "-"
+    ],
+    [
+      "4272",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3102821",
+      "2024",
+      "11",
+      "MONACO",
+      "-"
+    ],
+    [
+      "4272",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "5045297",
+      "2024",
+      "12",
+      "MONACO",
+      "-"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "100805",
+      "2024",
+      "02",
+      "MONACO",
+      "11"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "MONACO",
+      "11"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "11"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "7893",
+      "2024",
+      "05",
+      "MONACO",
+      "11"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "11"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "11"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "11424",
+      "2024",
+      "08",
+      "MONACO",
+      "11"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "2262",
+      "2024",
+      "09",
+      "MONACO",
+      "11"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "11"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "11"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "11"
+    ],
+    [
+      "4272",
+      "AGRICULTURAL PRODUCTS",
+      "21934",
+      "2024",
+      "02",
+      "MONACO",
+      "111"
+    ],
+    [
+      "4272",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "MONACO",
+      "111"
+    ],
+    [
+      "4272",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "111"
+    ],
+    [
+      "4272",
+      "AGRICULTURAL PRODUCTS",
+      "5610",
+      "2024",
+      "05",
+      "MONACO",
+      "111"
+    ],
+    [
+      "4272",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "111"
+    ],
+    [
+      "4272",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "111"
+    ],
+    [
+      "4272",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "111"
+    ],
+    [
+      "4272",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "111"
+    ],
+    [
+      "4272",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "111"
+    ],
+    [
+      "4272",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "111"
+    ],
+    [
+      "4272",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "111"
+    ],
+    [
+      "4272",
+      "VEGETABLES AND MELONS",
+      "17690",
+      "2024",
+      "02",
+      "MONACO",
+      "1112"
+    ],
+    [
+      "4272",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "03",
+      "MONACO",
+      "1112"
+    ],
+    [
+      "4272",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "1112"
+    ],
+    [
+      "4272",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "05",
+      "MONACO",
+      "1112"
+    ],
+    [
+      "4272",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "1112"
+    ],
+    [
+      "4272",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "1112"
+    ],
+    [
+      "4272",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "1112"
+    ],
+    [
+      "4272",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "1112"
+    ],
+    [
+      "4272",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "1112"
+    ],
+    [
+      "4272",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "1112"
+    ],
+    [
+      "4272",
+      "VEGETABLES AND MELONS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "1112"
+    ],
+    [
+      "4272",
+      "FRUITS AND TREE NUTS",
+      "4244",
+      "2024",
+      "02",
+      "MONACO",
+      "1113"
+    ],
+    [
+      "4272",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "03",
+      "MONACO",
+      "1113"
+    ],
+    [
+      "4272",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "1113"
+    ],
+    [
+      "4272",
+      "FRUITS AND TREE NUTS",
+      "5610",
+      "2024",
+      "05",
+      "MONACO",
+      "1113"
+    ],
+    [
+      "4272",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "1113"
+    ],
+    [
+      "4272",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "1113"
+    ],
+    [
+      "4272",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "1113"
+    ],
+    [
+      "4272",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "1113"
+    ],
+    [
+      "4272",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "1113"
+    ],
+    [
+      "4272",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "1113"
+    ],
+    [
+      "4272",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "1113"
+    ],
+    [
+      "4272",
+      "OTHER ANIMALS",
+      "11424",
+      "2024",
+      "08",
+      "MONACO",
+      "1129"
+    ],
+    [
+      "4272",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "1129"
+    ],
+    [
+      "4272",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "1129"
+    ],
+    [
+      "4272",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "1129"
+    ],
+    [
+      "4272",
+      "OTHER ANIMALS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "1129"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS, NESOI",
+      "78871",
+      "2024",
+      "02",
+      "MONACO",
+      "113"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "MONACO",
+      "113"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "113"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS, NESOI",
+      "2283",
+      "2024",
+      "05",
+      "MONACO",
+      "113"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "113"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "113"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "113"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS, NESOI",
+      "2262",
+      "2024",
+      "09",
+      "MONACO",
+      "113"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "113"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "113"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "113"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS",
+      "78871",
+      "2024",
+      "02",
+      "MONACO",
+      "1132"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "MONACO",
+      "1132"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "1132"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS",
+      "2283",
+      "2024",
+      "05",
+      "MONACO",
+      "1132"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "1132"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "1132"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "1132"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS",
+      "2262",
+      "2024",
+      "09",
+      "MONACO",
+      "1132"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "1132"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "1132"
+    ],
+    [
+      "4272",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "1132"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART1",
+      "76848",
+      "2024",
+      "01",
+      "MONACO",
+      "31"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART1",
+      "35134",
+      "2024",
+      "02",
+      "MONACO",
+      "31"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART1",
+      "76098",
+      "2024",
+      "03",
+      "MONACO",
+      "31"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART1",
+      "2929",
+      "2024",
+      "04",
+      "MONACO",
+      "31"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART1",
+      "58930",
+      "2024",
+      "05",
+      "MONACO",
+      "31"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART1",
+      "7660",
+      "2024",
+      "06",
+      "MONACO",
+      "31"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART1",
+      "13226",
+      "2024",
+      "07",
+      "MONACO",
+      "31"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART1",
+      "10983",
+      "2024",
+      "08",
+      "MONACO",
+      "31"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART1",
+      "10777",
+      "2024",
+      "09",
+      "MONACO",
+      "31"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART1",
+      "140855",
+      "2024",
+      "10",
+      "MONACO",
+      "31"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART1",
+      "195969",
+      "2024",
+      "11",
+      "MONACO",
+      "31"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART1",
+      "177981",
+      "2024",
+      "12",
+      "MONACO",
+      "31"
+    ],
+    [
+      "4272",
+      "MANUFACTURED GOODS",
+      "2705979",
+      "2024",
+      "01",
+      "MONACO",
+      "31-33"
+    ],
+    [
+      "4272",
+      "MANUFACTURED GOODS",
+      "1729389",
+      "2024",
+      "02",
+      "MONACO",
+      "31-33"
+    ],
+    [
+      "4272",
+      "MANUFACTURED GOODS",
+      "1200202",
+      "2024",
+      "03",
+      "MONACO",
+      "31-33"
+    ],
+    [
+      "4272",
+      "MANUFACTURED GOODS",
+      "4576125",
+      "2024",
+      "04",
+      "MONACO",
+      "31-33"
+    ],
+    [
+      "4272",
+      "MANUFACTURED GOODS",
+      "974100",
+      "2024",
+      "05",
+      "MONACO",
+      "31-33"
+    ],
+    [
+      "4272",
+      "MANUFACTURED GOODS",
+      "2565469",
+      "2024",
+      "06",
+      "MONACO",
+      "31-33"
+    ],
+    [
+      "4272",
+      "MANUFACTURED GOODS",
+      "4651631",
+      "2024",
+      "07",
+      "MONACO",
+      "31-33"
+    ],
+    [
+      "4272",
+      "MANUFACTURED GOODS",
+      "5115856",
+      "2024",
+      "08",
+      "MONACO",
+      "31-33"
+    ],
+    [
+      "4272",
+      "MANUFACTURED GOODS",
+      "5933430",
+      "2024",
+      "09",
+      "MONACO",
+      "31-33"
+    ],
+    [
+      "4272",
+      "MANUFACTURED GOODS",
+      "2493560",
+      "2024",
+      "10",
+      "MONACO",
+      "31-33"
+    ],
+    [
+      "4272",
+      "MANUFACTURED GOODS",
+      "3050224",
+      "2024",
+      "11",
+      "MONACO",
+      "31-33"
+    ],
+    [
+      "4272",
+      "MANUFACTURED GOODS",
+      "4482864",
+      "2024",
+      "12",
+      "MONACO",
+      "31-33"
+    ],
+    [
+      "4272",
+      "FOOD AND KINDRED PRODUCTS",
+      "41614",
+      "2024",
+      "01",
+      "MONACO",
+      "311"
+    ],
+    [
+      "4272",
+      "FOOD AND KINDRED PRODUCTS",
+      "35134",
+      "2024",
+      "02",
+      "MONACO",
+      "311"
+    ],
+    [
+      "4272",
+      "FOOD AND KINDRED PRODUCTS",
+      "48531",
+      "2024",
+      "03",
+      "MONACO",
+      "311"
+    ],
+    [
+      "4272",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "311"
+    ],
+    [
+      "4272",
+      "FOOD AND KINDRED PRODUCTS",
+      "26168",
+      "2024",
+      "05",
+      "MONACO",
+      "311"
+    ],
+    [
+      "4272",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "311"
+    ],
+    [
+      "4272",
+      "FOOD AND KINDRED PRODUCTS",
+      "5200",
+      "2024",
+      "07",
+      "MONACO",
+      "311"
+    ],
+    [
+      "4272",
+      "FOOD AND KINDRED PRODUCTS",
+      "2409",
+      "2024",
+      "08",
+      "MONACO",
+      "311"
+    ],
+    [
+      "4272",
+      "FOOD AND KINDRED PRODUCTS",
+      "10777",
+      "2024",
+      "09",
+      "MONACO",
+      "311"
+    ],
+    [
+      "4272",
+      "FOOD AND KINDRED PRODUCTS",
+      "6008",
+      "2024",
+      "10",
+      "MONACO",
+      "311"
+    ],
+    [
+      "4272",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "311"
+    ],
+    [
+      "4272",
+      "FOOD AND KINDRED PRODUCTS",
+      "2442",
+      "2024",
+      "12",
+      "MONACO",
+      "311"
+    ],
+    [
+      "4272",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "11870",
+      "2024",
+      "01",
+      "MONACO",
+      "3113"
+    ],
+    [
+      "4272",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "17682",
+      "2024",
+      "02",
+      "MONACO",
+      "3113"
+    ],
+    [
+      "4272",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "10929",
+      "2024",
+      "03",
+      "MONACO",
+      "3113"
+    ],
+    [
+      "4272",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "3113"
+    ],
+    [
+      "4272",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "9127",
+      "2024",
+      "05",
+      "MONACO",
+      "3113"
+    ],
+    [
+      "4272",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3113"
+    ],
+    [
+      "4272",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3113"
+    ],
+    [
+      "4272",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3113"
+    ],
+    [
+      "4272",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "5577",
+      "2024",
+      "09",
+      "MONACO",
+      "3113"
+    ],
+    [
+      "4272",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "6008",
+      "2024",
+      "10",
+      "MONACO",
+      "3113"
+    ],
+    [
+      "4272",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3113"
+    ],
+    [
+      "4272",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "2442",
+      "2024",
+      "12",
+      "MONACO",
+      "3113"
+    ],
+    [
+      "4272",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "7804",
+      "2024",
+      "01",
+      "MONACO",
+      "3114"
+    ],
+    [
+      "4272",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "02",
+      "MONACO",
+      "3114"
+    ],
+    [
+      "4272",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "6170",
+      "2024",
+      "03",
+      "MONACO",
+      "3114"
+    ],
+    [
+      "4272",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "3114"
+    ],
+    [
+      "4272",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "2291",
+      "2024",
+      "05",
+      "MONACO",
+      "3114"
+    ],
+    [
+      "4272",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3114"
+    ],
+    [
+      "4272",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3114"
+    ],
+    [
+      "4272",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "2409",
+      "2024",
+      "08",
+      "MONACO",
+      "3114"
+    ],
+    [
+      "4272",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3114"
+    ],
+    [
+      "4272",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3114"
+    ],
+    [
+      "4272",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3114"
+    ],
+    [
+      "4272",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3114"
+    ],
+    [
+      "4272",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "5200",
+      "2024",
+      "07",
+      "MONACO",
+      "3117"
+    ],
+    [
+      "4272",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3117"
+    ],
+    [
+      "4272",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "5200",
+      "2024",
+      "09",
+      "MONACO",
+      "3117"
+    ],
+    [
+      "4272",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3117"
+    ],
+    [
+      "4272",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3117"
+    ],
+    [
+      "4272",
+      "SEAFOOD PRODUCTS PREPARED, CANNED AND PACKAGED",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3117"
+    ],
+    [
+      "4272",
+      "FOODS, NESOI",
+      "21940",
+      "2024",
+      "01",
+      "MONACO",
+      "3119"
+    ],
+    [
+      "4272",
+      "FOODS, NESOI",
+      "17452",
+      "2024",
+      "02",
+      "MONACO",
+      "3119"
+    ],
+    [
+      "4272",
+      "FOODS, NESOI",
+      "31432",
+      "2024",
+      "03",
+      "MONACO",
+      "3119"
+    ],
+    [
+      "4272",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "3119"
+    ],
+    [
+      "4272",
+      "FOODS, NESOI",
+      "14750",
+      "2024",
+      "05",
+      "MONACO",
+      "3119"
+    ],
+    [
+      "4272",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3119"
+    ],
+    [
+      "4272",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3119"
+    ],
+    [
+      "4272",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3119"
+    ],
+    [
+      "4272",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3119"
+    ],
+    [
+      "4272",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3119"
+    ],
+    [
+      "4272",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3119"
+    ],
+    [
+      "4272",
+      "FOODS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3119"
+    ],
+    [
+      "4272",
+      "TEXTILES AND FABRICS",
+      "811",
+      "2024",
+      "03",
+      "MONACO",
+      "313"
+    ],
+    [
+      "4272",
+      "TEXTILES AND FABRICS",
+      "668",
+      "2024",
+      "04",
+      "MONACO",
+      "313"
+    ],
+    [
+      "4272",
+      "TEXTILES AND FABRICS",
+      "1954",
+      "2024",
+      "05",
+      "MONACO",
+      "313"
+    ],
+    [
+      "4272",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "313"
+    ],
+    [
+      "4272",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "313"
+    ],
+    [
+      "4272",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "313"
+    ],
+    [
+      "4272",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "313"
+    ],
+    [
+      "4272",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "313"
+    ],
+    [
+      "4272",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "313"
+    ],
+    [
+      "4272",
+      "TEXTILES AND FABRICS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "313"
+    ],
+    [
+      "4272",
+      "FABRICS",
+      "811",
+      "2024",
+      "03",
+      "MONACO",
+      "3132"
+    ],
+    [
+      "4272",
+      "FABRICS",
+      "668",
+      "2024",
+      "04",
+      "MONACO",
+      "3132"
+    ],
+    [
+      "4272",
+      "FABRICS",
+      "1954",
+      "2024",
+      "05",
+      "MONACO",
+      "3132"
+    ],
+    [
+      "4272",
+      "FABRICS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3132"
+    ],
+    [
+      "4272",
+      "FABRICS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3132"
+    ],
+    [
+      "4272",
+      "FABRICS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3132"
+    ],
+    [
+      "4272",
+      "FABRICS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3132"
+    ],
+    [
+      "4272",
+      "FABRICS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3132"
+    ],
+    [
+      "4272",
+      "FABRICS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3132"
+    ],
+    [
+      "4272",
+      "FABRICS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3132"
+    ],
+    [
+      "4272",
+      "TEXTILE MILL PRODUCTS",
+      "31438",
+      "2024",
+      "01",
+      "MONACO",
+      "314"
+    ],
+    [
+      "4272",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "MONACO",
+      "314"
+    ],
+    [
+      "4272",
+      "TEXTILE MILL PRODUCTS",
+      "24290",
+      "2024",
+      "03",
+      "MONACO",
+      "314"
+    ],
+    [
+      "4272",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "314"
+    ],
+    [
+      "4272",
+      "TEXTILE MILL PRODUCTS",
+      "30542",
+      "2024",
+      "05",
+      "MONACO",
+      "314"
+    ],
+    [
+      "4272",
+      "TEXTILE MILL PRODUCTS",
+      "418",
+      "2024",
+      "06",
+      "MONACO",
+      "314"
+    ],
+    [
+      "4272",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "314"
+    ],
+    [
+      "4272",
+      "TEXTILE MILL PRODUCTS",
+      "1207",
+      "2024",
+      "08",
+      "MONACO",
+      "314"
+    ],
+    [
+      "4272",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "314"
+    ],
+    [
+      "4272",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "314"
+    ],
+    [
+      "4272",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "314"
+    ],
+    [
+      "4272",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "314"
+    ],
+    [
+      "4272",
+      "TEXTILE FURNISHINGS",
+      "31438",
+      "2024",
+      "01",
+      "MONACO",
+      "3141"
+    ],
+    [
+      "4272",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "02",
+      "MONACO",
+      "3141"
+    ],
+    [
+      "4272",
+      "TEXTILE FURNISHINGS",
+      "24290",
+      "2024",
+      "03",
+      "MONACO",
+      "3141"
+    ],
+    [
+      "4272",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "3141"
+    ],
+    [
+      "4272",
+      "TEXTILE FURNISHINGS",
+      "30542",
+      "2024",
+      "05",
+      "MONACO",
+      "3141"
+    ],
+    [
+      "4272",
+      "TEXTILE FURNISHINGS",
+      "418",
+      "2024",
+      "06",
+      "MONACO",
+      "3141"
+    ],
+    [
+      "4272",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3141"
+    ],
+    [
+      "4272",
+      "TEXTILE FURNISHINGS",
+      "1207",
+      "2024",
+      "08",
+      "MONACO",
+      "3141"
+    ],
+    [
+      "4272",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3141"
+    ],
+    [
+      "4272",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3141"
+    ],
+    [
+      "4272",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3141"
+    ],
+    [
+      "4272",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3141"
+    ],
+    [
+      "4272",
+      "APPAREL AND ACCESSORIES",
+      "3796",
+      "2024",
+      "01",
+      "MONACO",
+      "315"
+    ],
+    [
+      "4272",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "02",
+      "MONACO",
+      "315"
+    ],
+    [
+      "4272",
+      "APPAREL AND ACCESSORIES",
+      "2466",
+      "2024",
+      "03",
+      "MONACO",
+      "315"
+    ],
+    [
+      "4272",
+      "APPAREL AND ACCESSORIES",
+      "1233",
+      "2024",
+      "04",
+      "MONACO",
+      "315"
+    ],
+    [
+      "4272",
+      "APPAREL AND ACCESSORIES",
+      "266",
+      "2024",
+      "05",
+      "MONACO",
+      "315"
+    ],
+    [
+      "4272",
+      "APPAREL AND ACCESSORIES",
+      "1048",
+      "2024",
+      "06",
+      "MONACO",
+      "315"
+    ],
+    [
+      "4272",
+      "APPAREL AND ACCESSORIES",
+      "8026",
+      "2024",
+      "07",
+      "MONACO",
+      "315"
+    ],
+    [
+      "4272",
+      "APPAREL AND ACCESSORIES",
+      "6755",
+      "2024",
+      "08",
+      "MONACO",
+      "315"
+    ],
+    [
+      "4272",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "315"
+    ],
+    [
+      "4272",
+      "APPAREL AND ACCESSORIES",
+      "134847",
+      "2024",
+      "10",
+      "MONACO",
+      "315"
+    ],
+    [
+      "4272",
+      "APPAREL AND ACCESSORIES",
+      "194734",
+      "2024",
+      "11",
+      "MONACO",
+      "315"
+    ],
+    [
+      "4272",
+      "APPAREL AND ACCESSORIES",
+      "175539",
+      "2024",
+      "12",
+      "MONACO",
+      "315"
+    ],
+    [
+      "4272",
+      "APPAREL ACCESSORIES",
+      "395",
+      "2024",
+      "07",
+      "MONACO",
+      "3159"
+    ],
+    [
+      "4272",
+      "APPAREL ACCESSORIES",
+      "5645",
+      "2024",
+      "08",
+      "MONACO",
+      "3159"
+    ],
+    [
+      "4272",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3159"
+    ],
+    [
+      "4272",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3159"
+    ],
+    [
+      "4272",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3159"
+    ],
+    [
+      "4272",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3159"
+    ],
+    [
+      "4272",
+      "LEATHER AND ALLIED PRODUCTS",
+      "1028",
+      "2024",
+      "04",
+      "MONACO",
+      "316"
+    ],
+    [
+      "4272",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "MONACO",
+      "316"
+    ],
+    [
+      "4272",
+      "LEATHER AND ALLIED PRODUCTS",
+      "6194",
+      "2024",
+      "06",
+      "MONACO",
+      "316"
+    ],
+    [
+      "4272",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "316"
+    ],
+    [
+      "4272",
+      "LEATHER AND ALLIED PRODUCTS",
+      "612",
+      "2024",
+      "08",
+      "MONACO",
+      "316"
+    ],
+    [
+      "4272",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "316"
+    ],
+    [
+      "4272",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "316"
+    ],
+    [
+      "4272",
+      "LEATHER AND ALLIED PRODUCTS",
+      "1235",
+      "2024",
+      "11",
+      "MONACO",
+      "316"
+    ],
+    [
+      "4272",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "316"
+    ],
+    [
+      "4272",
+      "FOOTWEAR",
+      "335",
+      "2024",
+      "11",
+      "MONACO",
+      "3162"
+    ],
+    [
+      "4272",
+      "FOOTWEAR",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3162"
+    ],
+    [
+      "4272",
+      "OTHER LEATHER PRODUCTS",
+      "1028",
+      "2024",
+      "04",
+      "MONACO",
+      "3169"
+    ],
+    [
+      "4272",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "MONACO",
+      "3169"
+    ],
+    [
+      "4272",
+      "OTHER LEATHER PRODUCTS",
+      "6194",
+      "2024",
+      "06",
+      "MONACO",
+      "3169"
+    ],
+    [
+      "4272",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3169"
+    ],
+    [
+      "4272",
+      "OTHER LEATHER PRODUCTS",
+      "612",
+      "2024",
+      "08",
+      "MONACO",
+      "3169"
+    ],
+    [
+      "4272",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3169"
+    ],
+    [
+      "4272",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3169"
+    ],
+    [
+      "4272",
+      "OTHER LEATHER PRODUCTS",
+      "900",
+      "2024",
+      "11",
+      "MONACO",
+      "3169"
+    ],
+    [
+      "4272",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3169"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 2",
+      "2530688",
+      "2024",
+      "01",
+      "MONACO",
+      "32"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 2",
+      "1540203",
+      "2024",
+      "02",
+      "MONACO",
+      "32"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 2",
+      "914625",
+      "2024",
+      "03",
+      "MONACO",
+      "32"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 2",
+      "2214670",
+      "2024",
+      "04",
+      "MONACO",
+      "32"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 2",
+      "691546",
+      "2024",
+      "05",
+      "MONACO",
+      "32"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 2",
+      "2105620",
+      "2024",
+      "06",
+      "MONACO",
+      "32"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 2",
+      "3991998",
+      "2024",
+      "07",
+      "MONACO",
+      "32"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 2",
+      "4832055",
+      "2024",
+      "08",
+      "MONACO",
+      "32"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 2",
+      "3368716",
+      "2024",
+      "09",
+      "MONACO",
+      "32"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 2",
+      "1295405",
+      "2024",
+      "10",
+      "MONACO",
+      "32"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 2",
+      "2547080",
+      "2024",
+      "11",
+      "MONACO",
+      "32"
+    ],
+    [
+      "4272",
+      "MANUFACTURING, PART 2",
+      "3118779",
+      "2024",
+      "12",
+      "MONACO",
+      "32"
+    ],
+    [
+      "4272",
+      "INDUSTRIAL MACHINERY",
+      "3866",
+      "2024",
+      "02",
+      "MONACO",
+      "3332"
+    ],
+    [
+      "4272",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "03",
+      "MONACO",
+      "3332"
+    ],
+    [
+      "4272",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "3332"
+    ],
+    [
+      "4272",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "MONACO",
+      "3332"
+    ],
+    [
+      "4272",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3332"
+    ],
+    [
+      "4272",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3332"
+    ],
+    [
+      "4272",
+      "INDUSTRIAL MACHINERY",
+      "24027",
+      "2024",
+      "08",
+      "MONACO",
+      "3332"
+    ],
+    [
+      "4272",
+      "INDUSTRIAL MACHINERY",
+      "5510",
+      "2024",
+      "09",
+      "MONACO",
+      "3332"
+    ],
+    [
+      "4272",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3332"
+    ],
+    [
+      "4272",
+      "INDUSTRIAL MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3332"
+    ],
+    [
+      "4272",
+      "INDUSTRIAL MACHINERY",
+      "8000",
+      "2024",
+      "12",
+      "MONACO",
+      "3332"
+    ],
+    [
+      "4272",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "20013",
+      "2024",
+      "03",
+      "MONACO",
+      "3333"
+    ],
+    [
+      "4272",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "3333"
+    ],
+    [
+      "4272",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "MONACO",
+      "3333"
+    ],
+    [
+      "4272",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3333"
+    ],
+    [
+      "4272",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "21945",
+      "2024",
+      "07",
+      "MONACO",
+      "3333"
+    ],
+    [
+      "4272",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3333"
+    ],
+    [
+      "4272",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3333"
+    ],
+    [
+      "4272",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3333"
+    ],
+    [
+      "4272",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3333"
+    ],
+    [
+      "4272",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3333"
+    ],
+    [
+      "4272",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "27260",
+      "2024",
+      "09",
+      "MONACO",
+      "3334"
+    ],
+    [
+      "4272",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "39269",
+      "2024",
+      "10",
+      "MONACO",
+      "3334"
+    ],
+    [
+      "4272",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3334"
+    ],
+    [
+      "4272",
+      "VENTILATION, HEATING, AIR-CONDITIONING, AND COMMERCIAL REFRIGERATION EQUIPMENT",
+      "352888",
+      "2024",
+      "12",
+      "MONACO",
+      "3334"
+    ],
+    [
+      "4272",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "111233",
+      "2024",
+      "05",
+      "MONACO",
+      "3336"
+    ],
+    [
+      "4272",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3336"
+    ],
+    [
+      "4272",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "40704",
+      "2024",
+      "07",
+      "MONACO",
+      "3336"
+    ],
+    [
+      "4272",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3336"
+    ],
+    [
+      "4272",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "8892",
+      "2024",
+      "09",
+      "MONACO",
+      "3336"
+    ],
+    [
+      "4272",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3336"
+    ],
+    [
+      "4272",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3336"
+    ],
+    [
+      "4272",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3336"
+    ],
+    [
+      "4272",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "2218",
+      "2024",
+      "07",
+      "MONACO",
+      "3339"
+    ],
+    [
+      "4272",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3339"
+    ],
+    [
+      "4272",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "13458",
+      "2024",
+      "09",
+      "MONACO",
+      "3339"
+    ],
+    [
+      "4272",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3339"
+    ],
+    [
+      "4272",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3339"
+    ],
+    [
+      "4272",
+      "OTHER GENERAL PURPOSE MACHINERY",
+      "340465",
+      "2024",
+      "12",
+      "MONACO",
+      "3339"
+    ],
+    [
+      "4272",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "6453",
+      "2024",
+      "02",
+      "MONACO",
+      "334"
+    ],
+    [
+      "4272",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "60272",
+      "2024",
+      "03",
+      "MONACO",
+      "334"
+    ],
+    [
+      "4272",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "19153",
+      "2024",
+      "04",
+      "MONACO",
+      "334"
+    ],
+    [
+      "4272",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "18327",
+      "2024",
+      "05",
+      "MONACO",
+      "334"
+    ],
+    [
+      "4272",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "61422",
+      "2024",
+      "06",
+      "MONACO",
+      "334"
+    ],
+    [
+      "4272",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "337138",
+      "2024",
+      "07",
+      "MONACO",
+      "334"
+    ],
+    [
+      "4272",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "17971",
+      "2024",
+      "08",
+      "MONACO",
+      "334"
+    ],
+    [
+      "4272",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "30818",
+      "2024",
+      "09",
+      "MONACO",
+      "334"
+    ],
+    [
+      "4272",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "28827",
+      "2024",
+      "10",
+      "MONACO",
+      "334"
+    ],
+    [
+      "4272",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "53334",
+      "2024",
+      "11",
+      "MONACO",
+      "334"
+    ],
+    [
+      "4272",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "411971",
+      "2024",
+      "12",
+      "MONACO",
+      "334"
+    ],
+    [
+      "4272",
+      "COMPUTER EQUIPMENT",
+      "233931",
+      "2024",
+      "07",
+      "MONACO",
+      "3341"
+    ],
+    [
+      "4272",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3341"
+    ],
+    [
+      "4272",
+      "COMPUTER EQUIPMENT",
+      "30818",
+      "2024",
+      "09",
+      "MONACO",
+      "3341"
+    ],
+    [
+      "4272",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3341"
+    ],
+    [
+      "4272",
+      "COMPUTER EQUIPMENT",
+      "19284",
+      "2024",
+      "11",
+      "MONACO",
+      "3341"
+    ],
+    [
+      "4272",
+      "COMPUTER EQUIPMENT",
+      "309273",
+      "2024",
+      "12",
+      "MONACO",
+      "3341"
+    ],
+    [
+      "4272",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "12492",
+      "2024",
+      "03",
+      "MONACO",
+      "3344"
+    ],
+    [
+      "4272",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "7181",
+      "2024",
+      "04",
+      "MONACO",
+      "3344"
+    ],
+    [
+      "4272",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "05",
+      "MONACO",
+      "3344"
+    ],
+    [
+      "4272",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3344"
+    ],
+    [
+      "4272",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "2244",
+      "2024",
+      "07",
+      "MONACO",
+      "3344"
+    ],
+    [
+      "4272",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "4803",
+      "2024",
+      "08",
+      "MONACO",
+      "3344"
+    ],
+    [
+      "4272",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3344"
+    ],
+    [
+      "4272",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3344"
+    ],
+    [
+      "4272",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "19483",
+      "2024",
+      "11",
+      "MONACO",
+      "3344"
+    ],
+    [
+      "4272",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "83984",
+      "2024",
+      "12",
+      "MONACO",
+      "3344"
+    ],
+    [
+      "4272",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "6453",
+      "2024",
+      "02",
+      "MONACO",
+      "3345"
+    ],
+    [
+      "4272",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "03",
+      "MONACO",
+      "3345"
+    ],
+    [
+      "4272",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "9866",
+      "2024",
+      "04",
+      "MONACO",
+      "3345"
+    ],
+    [
+      "4272",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "11950",
+      "2024",
+      "05",
+      "MONACO",
+      "3345"
+    ],
+    [
+      "4272",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "40442",
+      "2024",
+      "06",
+      "MONACO",
+      "3345"
+    ],
+    [
+      "4272",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "11486",
+      "2024",
+      "07",
+      "MONACO",
+      "3345"
+    ],
+    [
+      "4272",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "13168",
+      "2024",
+      "08",
+      "MONACO",
+      "3345"
+    ],
+    [
+      "4272",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3345"
+    ],
+    [
+      "4272",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3345"
+    ],
+    [
+      "4272",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3345"
+    ],
+    [
+      "4272",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3345"
+    ],
+    [
+      "4272",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "9767",
+      "2024",
+      "05",
+      "MONACO",
+      "3351"
+    ],
+    [
+      "4272",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3351"
+    ],
+    [
+      "4272",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "5990",
+      "2024",
+      "07",
+      "MONACO",
+      "3351"
+    ],
+    [
+      "4272",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3351"
+    ],
+    [
+      "4272",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3351"
+    ],
+    [
+      "4272",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3351"
+    ],
+    [
+      "4272",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3351"
+    ],
+    [
+      "4272",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3351"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "2872",
+      "2024",
+      "07",
+      "MONACO",
+      "3352"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3352"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3352"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3352"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "40728",
+      "2024",
+      "11",
+      "MONACO",
+      "3352"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3352"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT",
+      "4450",
+      "2024",
+      "01",
+      "MONACO",
+      "3353"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "MONACO",
+      "3353"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT",
+      "22144",
+      "2024",
+      "03",
+      "MONACO",
+      "3353"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "3353"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT",
+      "3282",
+      "2024",
+      "05",
+      "MONACO",
+      "3353"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT",
+      "14596",
+      "2024",
+      "06",
+      "MONACO",
+      "3353"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3353"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3353"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT",
+      "38202",
+      "2024",
+      "09",
+      "MONACO",
+      "3353"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT",
+      "21700",
+      "2024",
+      "10",
+      "MONACO",
+      "3353"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT",
+      "18647",
+      "2024",
+      "11",
+      "MONACO",
+      "3353"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT",
+      "31579",
+      "2024",
+      "12",
+      "MONACO",
+      "3353"
+    ],
+    [
+      "4272",
+      "TRANSPORTATION EQUIPMENT",
+      "9637",
+      "2024",
+      "01",
+      "MONACO",
+      "336"
+    ],
+    [
+      "4272",
+      "TRANSPORTATION EQUIPMENT",
+      "30292",
+      "2024",
+      "02",
+      "MONACO",
+      "336"
+    ],
+    [
+      "4272",
+      "TRANSPORTATION EQUIPMENT",
+      "33086",
+      "2024",
+      "03",
+      "MONACO",
+      "336"
+    ],
+    [
+      "4272",
+      "TRANSPORTATION EQUIPMENT",
+      "5035",
+      "2024",
+      "04",
+      "MONACO",
+      "336"
+    ],
+    [
+      "4272",
+      "TRANSPORTATION EQUIPMENT",
+      "16032",
+      "2024",
+      "05",
+      "MONACO",
+      "336"
+    ],
+    [
+      "4272",
+      "TRANSPORTATION EQUIPMENT",
+      "30416",
+      "2024",
+      "06",
+      "MONACO",
+      "336"
+    ],
+    [
+      "4272",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "336"
+    ],
+    [
+      "4272",
+      "TRANSPORTATION EQUIPMENT",
+      "117617",
+      "2024",
+      "08",
+      "MONACO",
+      "336"
+    ],
+    [
+      "4272",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "336"
+    ],
+    [
+      "4272",
+      "TRANSPORTATION EQUIPMENT",
+      "5774",
+      "2024",
+      "10",
+      "MONACO",
+      "336"
+    ],
+    [
+      "4272",
+      "TRANSPORTATION EQUIPMENT",
+      "123416",
+      "2024",
+      "11",
+      "MONACO",
+      "336"
+    ],
+    [
+      "4272",
+      "TRANSPORTATION EQUIPMENT",
+      "3499",
+      "2024",
+      "12",
+      "MONACO",
+      "336"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "100683",
+      "2024",
+      "01",
+      "MONACO",
+      "93"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "552941",
+      "2024",
+      "02",
+      "MONACO",
+      "93"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "26294",
+      "2024",
+      "03",
+      "MONACO",
+      "93"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "178826",
+      "2024",
+      "04",
+      "MONACO",
+      "93"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "241486",
+      "2024",
+      "05",
+      "MONACO",
+      "93"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "455150",
+      "2024",
+      "06",
+      "MONACO",
+      "93"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "67526",
+      "2024",
+      "07",
+      "MONACO",
+      "93"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "124545",
+      "2024",
+      "08",
+      "MONACO",
+      "93"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "10500",
+      "2024",
+      "09",
+      "MONACO",
+      "93"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "216400",
+      "2024",
+      "10",
+      "MONACO",
+      "93"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "15325",
+      "2024",
+      "11",
+      "MONACO",
+      "93"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "521142",
+      "2024",
+      "12",
+      "MONACO",
+      "93"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "100683",
+      "2024",
+      "01",
+      "MONACO",
+      "930"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "552941",
+      "2024",
+      "02",
+      "MONACO",
+      "930"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "26294",
+      "2024",
+      "03",
+      "MONACO",
+      "930"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "178826",
+      "2024",
+      "04",
+      "MONACO",
+      "930"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "241486",
+      "2024",
+      "05",
+      "MONACO",
+      "930"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "455150",
+      "2024",
+      "06",
+      "MONACO",
+      "930"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "67526",
+      "2024",
+      "07",
+      "MONACO",
+      "930"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "124545",
+      "2024",
+      "08",
+      "MONACO",
+      "930"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "10500",
+      "2024",
+      "09",
+      "MONACO",
+      "930"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "216400",
+      "2024",
+      "10",
+      "MONACO",
+      "930"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "15325",
+      "2024",
+      "11",
+      "MONACO",
+      "930"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "521142",
+      "2024",
+      "12",
+      "MONACO",
+      "930"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "100683",
+      "2024",
+      "01",
+      "MONACO",
+      "9300"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "552941",
+      "2024",
+      "02",
+      "MONACO",
+      "9300"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "26294",
+      "2024",
+      "03",
+      "MONACO",
+      "9300"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "178826",
+      "2024",
+      "04",
+      "MONACO",
+      "9300"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "241486",
+      "2024",
+      "05",
+      "MONACO",
+      "9300"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "455150",
+      "2024",
+      "06",
+      "MONACO",
+      "9300"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "67526",
+      "2024",
+      "07",
+      "MONACO",
+      "9300"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "124545",
+      "2024",
+      "08",
+      "MONACO",
+      "9300"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "10500",
+      "2024",
+      "09",
+      "MONACO",
+      "9300"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "216400",
+      "2024",
+      "10",
+      "MONACO",
+      "9300"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "15325",
+      "2024",
+      "11",
+      "MONACO",
+      "9300"
+    ],
+    [
+      "4272",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "521142",
+      "2024",
+      "12",
+      "MONACO",
+      "9300"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "542751",
+      "2024",
+      "01",
+      "MONACO",
+      "980"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "243721",
+      "2024",
+      "02",
+      "MONACO",
+      "980"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "44000",
+      "2024",
+      "03",
+      "MONACO",
+      "980"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "19536",
+      "2024",
+      "04",
+      "MONACO",
+      "980"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4000",
+      "2024",
+      "05",
+      "MONACO",
+      "980"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "9923",
+      "2024",
+      "06",
+      "MONACO",
+      "980"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "815420",
+      "2024",
+      "07",
+      "MONACO",
+      "980"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "631448",
+      "2024",
+      "08",
+      "MONACO",
+      "980"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1756202",
+      "2024",
+      "09",
+      "MONACO",
+      "980"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "903032",
+      "2024",
+      "10",
+      "MONACO",
+      "980"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "6910",
+      "2024",
+      "11",
+      "MONACO",
+      "980"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "980"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41858",
+      "2024",
+      "01",
+      "MONACO",
+      "990"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "52649",
+      "2024",
+      "02",
+      "MONACO",
+      "990"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "38015",
+      "2024",
+      "03",
+      "MONACO",
+      "990"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "47980",
+      "2024",
+      "04",
+      "MONACO",
+      "990"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "46244",
+      "2024",
+      "05",
+      "MONACO",
+      "990"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "43143",
+      "2024",
+      "06",
+      "MONACO",
+      "990"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "51568",
+      "2024",
+      "07",
+      "MONACO",
+      "990"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "34450",
+      "2024",
+      "08",
+      "MONACO",
+      "990"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28138",
+      "2024",
+      "09",
+      "MONACO",
+      "990"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "44992",
+      "2024",
+      "10",
+      "MONACO",
+      "990"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "30362",
+      "2024",
+      "11",
+      "MONACO",
+      "990"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41291",
+      "2024",
+      "12",
+      "MONACO",
+      "990"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41858",
+      "2024",
+      "01",
+      "MONACO",
+      "9900"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "52649",
+      "2024",
+      "02",
+      "MONACO",
+      "9900"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "38015",
+      "2024",
+      "03",
+      "MONACO",
+      "9900"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "47980",
+      "2024",
+      "04",
+      "MONACO",
+      "9900"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "46244",
+      "2024",
+      "05",
+      "MONACO",
+      "9900"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "43143",
+      "2024",
+      "06",
+      "MONACO",
+      "9900"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "51568",
+      "2024",
+      "07",
+      "MONACO",
+      "9900"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "34450",
+      "2024",
+      "08",
+      "MONACO",
+      "9900"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28138",
+      "2024",
+      "09",
+      "MONACO",
+      "9900"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "44992",
+      "2024",
+      "10",
+      "MONACO",
+      "9900"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "30362",
+      "2024",
+      "11",
+      "MONACO",
+      "9900"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41291",
+      "2024",
+      "12",
+      "MONACO",
+      "9900"
+    ],
+    [
+      "4272",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "91284",
+      "2024",
+      "07",
+      "MONACO",
+      "3253"
+    ],
+    [
+      "4272",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3253"
+    ],
+    [
+      "4272",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3253"
+    ],
+    [
+      "4272",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3253"
+    ],
+    [
+      "4272",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3253"
+    ],
+    [
+      "4272",
+      "PESTICIDES, FERTILIZERS AND OTHER AGRICULTURAL CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3253"
+    ],
+    [
+      "4272",
+      "RUBBER PRODUCTS",
+      "3100",
+      "2024",
+      "09",
+      "MONACO",
+      "3262"
+    ],
+    [
+      "4272",
+      "RUBBER PRODUCTS",
+      "31675",
+      "2024",
+      "10",
+      "MONACO",
+      "3262"
+    ],
+    [
+      "4272",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3262"
+    ],
+    [
+      "4272",
+      "RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3262"
+    ],
+    [
+      "4272",
+      "APPAREL",
+      "3796",
+      "2024",
+      "01",
+      "MONACO",
+      "3152"
+    ],
+    [
+      "4272",
+      "APPAREL",
+      "0",
+      "2024",
+      "02",
+      "MONACO",
+      "3152"
+    ],
+    [
+      "4272",
+      "APPAREL",
+      "2466",
+      "2024",
+      "03",
+      "MONACO",
+      "3152"
+    ],
+    [
+      "4272",
+      "APPAREL",
+      "1233",
+      "2024",
+      "04",
+      "MONACO",
+      "3152"
+    ],
+    [
+      "4272",
+      "APPAREL",
+      "266",
+      "2024",
+      "05",
+      "MONACO",
+      "3152"
+    ],
+    [
+      "4272",
+      "APPAREL",
+      "1048",
+      "2024",
+      "06",
+      "MONACO",
+      "3152"
+    ],
+    [
+      "4272",
+      "APPAREL",
+      "7631",
+      "2024",
+      "07",
+      "MONACO",
+      "3152"
+    ],
+    [
+      "4272",
+      "APPAREL",
+      "1110",
+      "2024",
+      "08",
+      "MONACO",
+      "3152"
+    ],
+    [
+      "4272",
+      "APPAREL",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3152"
+    ],
+    [
+      "4272",
+      "APPAREL",
+      "134847",
+      "2024",
+      "10",
+      "MONACO",
+      "3152"
+    ],
+    [
+      "4272",
+      "APPAREL",
+      "194734",
+      "2024",
+      "11",
+      "MONACO",
+      "3152"
+    ],
+    [
+      "4272",
+      "APPAREL",
+      "175539",
+      "2024",
+      "12",
+      "MONACO",
+      "3152"
+    ],
+    [
+      "4272",
+      "COMMUNICATIONS EQUIPMENT",
+      "47780",
+      "2024",
+      "03",
+      "MONACO",
+      "3342"
+    ],
+    [
+      "4272",
+      "COMMUNICATIONS EQUIPMENT",
+      "2106",
+      "2024",
+      "04",
+      "MONACO",
+      "3342"
+    ],
+    [
+      "4272",
+      "COMMUNICATIONS EQUIPMENT",
+      "6377",
+      "2024",
+      "05",
+      "MONACO",
+      "3342"
+    ],
+    [
+      "4272",
+      "COMMUNICATIONS EQUIPMENT",
+      "20980",
+      "2024",
+      "06",
+      "MONACO",
+      "3342"
+    ],
+    [
+      "4272",
+      "COMMUNICATIONS EQUIPMENT",
+      "89477",
+      "2024",
+      "07",
+      "MONACO",
+      "3342"
+    ],
+    [
+      "4272",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3342"
+    ],
+    [
+      "4272",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3342"
+    ],
+    [
+      "4272",
+      "COMMUNICATIONS EQUIPMENT",
+      "28827",
+      "2024",
+      "10",
+      "MONACO",
+      "3342"
+    ],
+    [
+      "4272",
+      "COMMUNICATIONS EQUIPMENT",
+      "14567",
+      "2024",
+      "11",
+      "MONACO",
+      "3342"
+    ],
+    [
+      "4272",
+      "COMMUNICATIONS EQUIPMENT",
+      "18714",
+      "2024",
+      "12",
+      "MONACO",
+      "3342"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "38121",
+      "2024",
+      "01",
+      "MONACO",
+      "335"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "61045",
+      "2024",
+      "02",
+      "MONACO",
+      "335"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "39274",
+      "2024",
+      "03",
+      "MONACO",
+      "335"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "111200",
+      "2024",
+      "04",
+      "MONACO",
+      "335"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "32122",
+      "2024",
+      "05",
+      "MONACO",
+      "335"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "100906",
+      "2024",
+      "06",
+      "MONACO",
+      "335"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "31966",
+      "2024",
+      "07",
+      "MONACO",
+      "335"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "40869",
+      "2024",
+      "08",
+      "MONACO",
+      "335"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "110338",
+      "2024",
+      "09",
+      "MONACO",
+      "335"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "120509",
+      "2024",
+      "10",
+      "MONACO",
+      "335"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "79725",
+      "2024",
+      "11",
+      "MONACO",
+      "335"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "46560",
+      "2024",
+      "12",
+      "MONACO",
+      "335"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "33671",
+      "2024",
+      "01",
+      "MONACO",
+      "3359"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "61045",
+      "2024",
+      "02",
+      "MONACO",
+      "3359"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "17130",
+      "2024",
+      "03",
+      "MONACO",
+      "3359"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "111200",
+      "2024",
+      "04",
+      "MONACO",
+      "3359"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "19073",
+      "2024",
+      "05",
+      "MONACO",
+      "3359"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "86310",
+      "2024",
+      "06",
+      "MONACO",
+      "3359"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "23104",
+      "2024",
+      "07",
+      "MONACO",
+      "3359"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "40869",
+      "2024",
+      "08",
+      "MONACO",
+      "3359"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "72136",
+      "2024",
+      "09",
+      "MONACO",
+      "3359"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "98809",
+      "2024",
+      "10",
+      "MONACO",
+      "3359"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "20350",
+      "2024",
+      "11",
+      "MONACO",
+      "3359"
+    ],
+    [
+      "4272",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "14981",
+      "2024",
+      "12",
+      "MONACO",
+      "3359"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "542751",
+      "2024",
+      "01",
+      "MONACO",
+      "98"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "243721",
+      "2024",
+      "02",
+      "MONACO",
+      "98"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "44000",
+      "2024",
+      "03",
+      "MONACO",
+      "98"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "19536",
+      "2024",
+      "04",
+      "MONACO",
+      "98"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4000",
+      "2024",
+      "05",
+      "MONACO",
+      "98"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "9923",
+      "2024",
+      "06",
+      "MONACO",
+      "98"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "815420",
+      "2024",
+      "07",
+      "MONACO",
+      "98"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "631448",
+      "2024",
+      "08",
+      "MONACO",
+      "98"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1756202",
+      "2024",
+      "09",
+      "MONACO",
+      "98"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "903032",
+      "2024",
+      "10",
+      "MONACO",
+      "98"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "6910",
+      "2024",
+      "11",
+      "MONACO",
+      "98"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "98"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "542751",
+      "2024",
+      "01",
+      "MONACO",
+      "9800"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "243721",
+      "2024",
+      "02",
+      "MONACO",
+      "9800"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "44000",
+      "2024",
+      "03",
+      "MONACO",
+      "9800"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "19536",
+      "2024",
+      "04",
+      "MONACO",
+      "9800"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "4000",
+      "2024",
+      "05",
+      "MONACO",
+      "9800"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "9923",
+      "2024",
+      "06",
+      "MONACO",
+      "9800"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "815420",
+      "2024",
+      "07",
+      "MONACO",
+      "9800"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "631448",
+      "2024",
+      "08",
+      "MONACO",
+      "9800"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "1756202",
+      "2024",
+      "09",
+      "MONACO",
+      "9800"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "903032",
+      "2024",
+      "10",
+      "MONACO",
+      "9800"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "6910",
+      "2024",
+      "11",
+      "MONACO",
+      "9800"
+    ],
+    [
+      "4272",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "9800"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41858",
+      "2024",
+      "01",
+      "MONACO",
+      "99"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "52649",
+      "2024",
+      "02",
+      "MONACO",
+      "99"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "38015",
+      "2024",
+      "03",
+      "MONACO",
+      "99"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "47980",
+      "2024",
+      "04",
+      "MONACO",
+      "99"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "46244",
+      "2024",
+      "05",
+      "MONACO",
+      "99"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "43143",
+      "2024",
+      "06",
+      "MONACO",
+      "99"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "51568",
+      "2024",
+      "07",
+      "MONACO",
+      "99"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "34450",
+      "2024",
+      "08",
+      "MONACO",
+      "99"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "28138",
+      "2024",
+      "09",
+      "MONACO",
+      "99"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "44992",
+      "2024",
+      "10",
+      "MONACO",
+      "99"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "30362",
+      "2024",
+      "11",
+      "MONACO",
+      "99"
+    ],
+    [
+      "4272",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41291",
+      "2024",
+      "12",
+      "MONACO",
+      "99"
+    ],
+    [
+      "4272",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "5445",
+      "2024",
+      "02",
+      "MONACO",
+      "3364"
+    ],
+    [
+      "4272",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "03",
+      "MONACO",
+      "3364"
+    ],
+    [
+      "4272",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "3364"
+    ],
+    [
+      "4272",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "05",
+      "MONACO",
+      "3364"
+    ],
+    [
+      "4272",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3364"
+    ],
+    [
+      "4272",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3364"
+    ],
+    [
+      "4272",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3364"
+    ],
+    [
+      "4272",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3364"
+    ],
+    [
+      "4272",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "3420",
+      "2024",
+      "10",
+      "MONACO",
+      "3364"
+    ],
+    [
+      "4272",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3364"
+    ],
+    [
+      "4272",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3364"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "3382",
+      "2024",
+      "01",
+      "MONACO",
+      "3371"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "02",
+      "MONACO",
+      "3371"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "9682",
+      "2024",
+      "03",
+      "MONACO",
+      "3371"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "11141",
+      "2024",
+      "04",
+      "MONACO",
+      "3371"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "05",
+      "MONACO",
+      "3371"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "4954",
+      "2024",
+      "06",
+      "MONACO",
+      "3371"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "30672",
+      "2024",
+      "07",
+      "MONACO",
+      "3371"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "23057",
+      "2024",
+      "08",
+      "MONACO",
+      "3371"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3371"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3371"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "6380",
+      "2024",
+      "11",
+      "MONACO",
+      "3371"
+    ],
+    [
+      "4272",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3371"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "47303",
+      "2024",
+      "01",
+      "MONACO",
+      "339"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "13408",
+      "2024",
+      "02",
+      "MONACO",
+      "339"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "8935",
+      "2024",
+      "03",
+      "MONACO",
+      "339"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2095179",
+      "2024",
+      "04",
+      "MONACO",
+      "339"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "7874",
+      "2024",
+      "05",
+      "MONACO",
+      "339"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "195561",
+      "2024",
+      "06",
+      "MONACO",
+      "339"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "91617",
+      "2024",
+      "07",
+      "MONACO",
+      "339"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "270",
+      "2024",
+      "08",
+      "MONACO",
+      "339"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2340000",
+      "2024",
+      "09",
+      "MONACO",
+      "339"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "827599",
+      "2024",
+      "10",
+      "MONACO",
+      "339"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "8998",
+      "2024",
+      "11",
+      "MONACO",
+      "339"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "11853",
+      "2024",
+      "12",
+      "MONACO",
+      "339"
+    ],
+    [
+      "4272",
+      "HARDWARE",
+      "3666",
+      "2024",
+      "02",
+      "MONACO",
+      "3325"
+    ],
+    [
+      "4272",
+      "HARDWARE",
+      "0",
+      "2024",
+      "03",
+      "MONACO",
+      "3325"
+    ],
+    [
+      "4272",
+      "HARDWARE",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "3325"
+    ],
+    [
+      "4272",
+      "HARDWARE",
+      "0",
+      "2024",
+      "05",
+      "MONACO",
+      "3325"
+    ],
+    [
+      "4272",
+      "HARDWARE",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3325"
+    ],
+    [
+      "4272",
+      "HARDWARE",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3325"
+    ],
+    [
+      "4272",
+      "HARDWARE",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3325"
+    ],
+    [
+      "4272",
+      "HARDWARE",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3325"
+    ],
+    [
+      "4272",
+      "HARDWARE",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3325"
+    ],
+    [
+      "4272",
+      "HARDWARE",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3325"
+    ],
+    [
+      "4272",
+      "HARDWARE",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3325"
+    ],
+    [
+      "4272",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "2068",
+      "2024",
+      "05",
+      "MONACO",
+      "3279"
+    ],
+    [
+      "4272",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3279"
+    ],
+    [
+      "4272",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3279"
+    ],
+    [
+      "4272",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3279"
+    ],
+    [
+      "4272",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3279"
+    ],
+    [
+      "4272",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3279"
+    ],
+    [
+      "4272",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3279"
+    ],
+    [
+      "4272",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3279"
+    ],
+    [
+      "4272",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "11424",
+      "2024",
+      "08",
+      "MONACO",
+      "112"
+    ],
+    [
+      "4272",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "112"
+    ],
+    [
+      "4272",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "112"
+    ],
+    [
+      "4272",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "112"
+    ],
+    [
+      "4272",
+      "LIVESTOCK AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "112"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLE PARTS",
+      "9637",
+      "2024",
+      "01",
+      "MONACO",
+      "3363"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLE PARTS",
+      "24847",
+      "2024",
+      "02",
+      "MONACO",
+      "3363"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLE PARTS",
+      "33086",
+      "2024",
+      "03",
+      "MONACO",
+      "3363"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLE PARTS",
+      "5035",
+      "2024",
+      "04",
+      "MONACO",
+      "3363"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLE PARTS",
+      "16032",
+      "2024",
+      "05",
+      "MONACO",
+      "3363"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLE PARTS",
+      "30416",
+      "2024",
+      "06",
+      "MONACO",
+      "3363"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3363"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLE PARTS",
+      "117617",
+      "2024",
+      "08",
+      "MONACO",
+      "3363"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLE PARTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3363"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLE PARTS",
+      "2354",
+      "2024",
+      "10",
+      "MONACO",
+      "3363"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLE PARTS",
+      "123416",
+      "2024",
+      "11",
+      "MONACO",
+      "3363"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLE PARTS",
+      "3499",
+      "2024",
+      "12",
+      "MONACO",
+      "3363"
+    ],
+    [
+      "4272",
+      "FURNITURE AND FIXTURES",
+      "3382",
+      "2024",
+      "01",
+      "MONACO",
+      "337"
+    ],
+    [
+      "4272",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "02",
+      "MONACO",
+      "337"
+    ],
+    [
+      "4272",
+      "FURNITURE AND FIXTURES",
+      "9682",
+      "2024",
+      "03",
+      "MONACO",
+      "337"
+    ],
+    [
+      "4272",
+      "FURNITURE AND FIXTURES",
+      "11141",
+      "2024",
+      "04",
+      "MONACO",
+      "337"
+    ],
+    [
+      "4272",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "05",
+      "MONACO",
+      "337"
+    ],
+    [
+      "4272",
+      "FURNITURE AND FIXTURES",
+      "4954",
+      "2024",
+      "06",
+      "MONACO",
+      "337"
+    ],
+    [
+      "4272",
+      "FURNITURE AND FIXTURES",
+      "30672",
+      "2024",
+      "07",
+      "MONACO",
+      "337"
+    ],
+    [
+      "4272",
+      "FURNITURE AND FIXTURES",
+      "23057",
+      "2024",
+      "08",
+      "MONACO",
+      "337"
+    ],
+    [
+      "4272",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "337"
+    ],
+    [
+      "4272",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "337"
+    ],
+    [
+      "4272",
+      "FURNITURE AND FIXTURES",
+      "6380",
+      "2024",
+      "11",
+      "MONACO",
+      "337"
+    ],
+    [
+      "4272",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "337"
+    ],
+    [
+      "4272",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "3935",
+      "2024",
+      "01",
+      "MONACO",
+      "3391"
+    ],
+    [
+      "4272",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "13054",
+      "2024",
+      "02",
+      "MONACO",
+      "3391"
+    ],
+    [
+      "4272",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "03",
+      "MONACO",
+      "3391"
+    ],
+    [
+      "4272",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "37992",
+      "2024",
+      "04",
+      "MONACO",
+      "3391"
+    ],
+    [
+      "4272",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "7557",
+      "2024",
+      "05",
+      "MONACO",
+      "3391"
+    ],
+    [
+      "4272",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3391"
+    ],
+    [
+      "4272",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "5151",
+      "2024",
+      "07",
+      "MONACO",
+      "3391"
+    ],
+    [
+      "4272",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3391"
+    ],
+    [
+      "4272",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3391"
+    ],
+    [
+      "4272",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3391"
+    ],
+    [
+      "4272",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3391"
+    ],
+    [
+      "4272",
+      "MEDICAL EQUIPMENT AND SUPPLIES",
+      "9404",
+      "2024",
+      "12",
+      "MONACO",
+      "3391"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "43368",
+      "2024",
+      "01",
+      "MONACO",
+      "3399"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "354",
+      "2024",
+      "02",
+      "MONACO",
+      "3399"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "8935",
+      "2024",
+      "03",
+      "MONACO",
+      "3399"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2057187",
+      "2024",
+      "04",
+      "MONACO",
+      "3399"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "317",
+      "2024",
+      "05",
+      "MONACO",
+      "3399"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "195561",
+      "2024",
+      "06",
+      "MONACO",
+      "3399"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "86466",
+      "2024",
+      "07",
+      "MONACO",
+      "3399"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "270",
+      "2024",
+      "08",
+      "MONACO",
+      "3399"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2340000",
+      "2024",
+      "09",
+      "MONACO",
+      "3399"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "827599",
+      "2024",
+      "10",
+      "MONACO",
+      "3399"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "8998",
+      "2024",
+      "11",
+      "MONACO",
+      "3399"
+    ],
+    [
+      "4272",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2449",
+      "2024",
+      "12",
+      "MONACO",
+      "3399"
+    ],
+    [
+      "4272",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "38988",
+      "2024",
+      "02",
+      "MONACO",
+      "332"
+    ],
+    [
+      "4272",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "38217",
+      "2024",
+      "03",
+      "MONACO",
+      "332"
+    ],
+    [
+      "4272",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "45752",
+      "2024",
+      "04",
+      "MONACO",
+      "332"
+    ],
+    [
+      "4272",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "38036",
+      "2024",
+      "05",
+      "MONACO",
+      "332"
+    ],
+    [
+      "4272",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "58930",
+      "2024",
+      "06",
+      "MONACO",
+      "332"
+    ],
+    [
+      "4272",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "90147",
+      "2024",
+      "07",
+      "MONACO",
+      "332"
+    ],
+    [
+      "4272",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "49007",
+      "2024",
+      "08",
+      "MONACO",
+      "332"
+    ],
+    [
+      "4272",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "17661",
+      "2024",
+      "09",
+      "MONACO",
+      "332"
+    ],
+    [
+      "4272",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "35322",
+      "2024",
+      "10",
+      "MONACO",
+      "332"
+    ],
+    [
+      "4272",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "35322",
+      "2024",
+      "11",
+      "MONACO",
+      "332"
+    ],
+    [
+      "4272",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "10868",
+      "2024",
+      "12",
+      "MONACO",
+      "332"
+    ],
+    [
+      "4272",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "2895",
+      "2024",
+      "03",
+      "MONACO",
+      "3327"
+    ],
+    [
+      "4272",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "MONACO",
+      "3327"
+    ],
+    [
+      "4272",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "MONACO",
+      "3327"
+    ],
+    [
+      "4272",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3327"
+    ],
+    [
+      "4272",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3327"
+    ],
+    [
+      "4272",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "13685",
+      "2024",
+      "08",
+      "MONACO",
+      "3327"
+    ],
+    [
+      "4272",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3327"
+    ],
+    [
+      "4272",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3327"
+    ],
+    [
+      "4272",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3327"
+    ],
+    [
+      "4272",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3327"
+    ],
+    [
+      "4272",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "35322",
+      "2024",
+      "02",
+      "MONACO",
+      "3329"
+    ],
+    [
+      "4272",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "35322",
+      "2024",
+      "03",
+      "MONACO",
+      "3329"
+    ],
+    [
+      "4272",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "45752",
+      "2024",
+      "04",
+      "MONACO",
+      "3329"
+    ],
+    [
+      "4272",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "38036",
+      "2024",
+      "05",
+      "MONACO",
+      "3329"
+    ],
+    [
+      "4272",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "58930",
+      "2024",
+      "06",
+      "MONACO",
+      "3329"
+    ],
+    [
+      "4272",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "90147",
+      "2024",
+      "07",
+      "MONACO",
+      "3329"
+    ],
+    [
+      "4272",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "35322",
+      "2024",
+      "08",
+      "MONACO",
+      "3329"
+    ],
+    [
+      "4272",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "17661",
+      "2024",
+      "09",
+      "MONACO",
+      "3329"
+    ],
+    [
+      "4272",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "35322",
+      "2024",
+      "10",
+      "MONACO",
+      "3329"
+    ],
+    [
+      "4272",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "35322",
+      "2024",
+      "11",
+      "MONACO",
+      "3329"
+    ],
+    [
+      "4272",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "10868",
+      "2024",
+      "12",
+      "MONACO",
+      "3329"
+    ],
+    [
+      "4272",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "3866",
+      "2024",
+      "02",
+      "MONACO",
+      "333"
+    ],
+    [
+      "4272",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "20013",
+      "2024",
+      "03",
+      "MONACO",
+      "333"
+    ],
+    [
+      "4272",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "71066",
+      "2024",
+      "04",
+      "MONACO",
+      "333"
+    ],
+    [
+      "4272",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "111233",
+      "2024",
+      "05",
+      "MONACO",
+      "333"
+    ],
+    [
+      "4272",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "333"
+    ],
+    [
+      "4272",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "64867",
+      "2024",
+      "07",
+      "MONACO",
+      "333"
+    ],
+    [
+      "4272",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "24027",
+      "2024",
+      "08",
+      "MONACO",
+      "333"
+    ],
+    [
+      "4272",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "55120",
+      "2024",
+      "09",
+      "MONACO",
+      "333"
+    ],
+    [
+      "4272",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "39269",
+      "2024",
+      "10",
+      "MONACO",
+      "333"
+    ],
+    [
+      "4272",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "333"
+    ],
+    [
+      "4272",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "701353",
+      "2024",
+      "12",
+      "MONACO",
+      "333"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "71066",
+      "2024",
+      "04",
+      "MONACO",
+      "3331"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "05",
+      "MONACO",
+      "3331"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "06",
+      "MONACO",
+      "3331"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "MONACO",
+      "3331"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "MONACO",
+      "3331"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "MONACO",
+      "3331"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "MONACO",
+      "3331"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "MONACO",
+      "3331"
+    ],
+    [
+      "4272",
+      "AGRICULTURE AND CONSTRUCTION  MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "MONACO",
+      "3331"
+    ]
+  ]
+}

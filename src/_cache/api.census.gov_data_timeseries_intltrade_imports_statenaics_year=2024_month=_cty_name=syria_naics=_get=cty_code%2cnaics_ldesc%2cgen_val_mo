@@ -1,0 +1,5411 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:35:36 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4d2abcb7c455d7fb3966464aa18e447c24486d80f1c9b63d6ea986633a84a3b741dfe18054bf61ee9c3208b8ca924cecf; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5020",
+      "PAPER",
+      "8091",
+      "2024",
+      "07",
+      "SYRIA",
+      "322"
+    ],
+    [
+      "5020",
+      "PAPER",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "322"
+    ],
+    [
+      "5020",
+      "PAPER",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "322"
+    ],
+    [
+      "5020",
+      "PAPER",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "322"
+    ],
+    [
+      "5020",
+      "PAPER",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "322"
+    ],
+    [
+      "5020",
+      "PAPER",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "322"
+    ],
+    [
+      "5020",
+      "CONVERTED PAPER PRODUCTS",
+      "8091",
+      "2024",
+      "07",
+      "SYRIA",
+      "3222"
+    ],
+    [
+      "5020",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3222"
+    ],
+    [
+      "5020",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3222"
+    ],
+    [
+      "5020",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3222"
+    ],
+    [
+      "5020",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "3222"
+    ],
+    [
+      "5020",
+      "CONVERTED PAPER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3222"
+    ],
+    [
+      "5020",
+      "CHEMICALS",
+      "4680",
+      "2024",
+      "05",
+      "SYRIA",
+      "325"
+    ],
+    [
+      "5020",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "325"
+    ],
+    [
+      "5020",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "325"
+    ],
+    [
+      "5020",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "325"
+    ],
+    [
+      "5020",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "325"
+    ],
+    [
+      "5020",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "325"
+    ],
+    [
+      "5020",
+      "CHEMICALS",
+      "12143",
+      "2024",
+      "11",
+      "SYRIA",
+      "325"
+    ],
+    [
+      "5020",
+      "CHEMICALS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "325"
+    ],
+    [
+      "5020",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "4680",
+      "2024",
+      "05",
+      "SYRIA",
+      "3256"
+    ],
+    [
+      "5020",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3256"
+    ],
+    [
+      "5020",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "3256"
+    ],
+    [
+      "5020",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3256"
+    ],
+    [
+      "5020",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3256"
+    ],
+    [
+      "5020",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3256"
+    ],
+    [
+      "5020",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "12143",
+      "2024",
+      "11",
+      "SYRIA",
+      "3256"
+    ],
+    [
+      "5020",
+      "SOAPS, CLEANING COMPOUNDS, AND TOILET PREPARATIONS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3256"
+    ],
+    [
+      "5020",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "1210",
+      "2024",
+      "02",
+      "SYRIA",
+      "326"
+    ],
+    [
+      "5020",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "326"
+    ],
+    [
+      "5020",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "326"
+    ],
+    [
+      "5020",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "688",
+      "2024",
+      "05",
+      "SYRIA",
+      "326"
+    ],
+    [
+      "5020",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "326"
+    ],
+    [
+      "5020",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "1462",
+      "2024",
+      "07",
+      "SYRIA",
+      "326"
+    ],
+    [
+      "5020",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "326"
+    ],
+    [
+      "5020",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "326"
+    ],
+    [
+      "5020",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "326"
+    ],
+    [
+      "5020",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "4203",
+      "2024",
+      "11",
+      "SYRIA",
+      "326"
+    ],
+    [
+      "5020",
+      "PLASTICS AND RUBBER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "326"
+    ],
+    [
+      "5020",
+      "PLASTICS PRODUCTS",
+      "1210",
+      "2024",
+      "02",
+      "SYRIA",
+      "3261"
+    ],
+    [
+      "5020",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "3261"
+    ],
+    [
+      "5020",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "3261"
+    ],
+    [
+      "5020",
+      "PLASTICS PRODUCTS",
+      "688",
+      "2024",
+      "05",
+      "SYRIA",
+      "3261"
+    ],
+    [
+      "5020",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3261"
+    ],
+    [
+      "5020",
+      "PLASTICS PRODUCTS",
+      "1462",
+      "2024",
+      "07",
+      "SYRIA",
+      "3261"
+    ],
+    [
+      "5020",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3261"
+    ],
+    [
+      "5020",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3261"
+    ],
+    [
+      "5020",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3261"
+    ],
+    [
+      "5020",
+      "PLASTICS PRODUCTS",
+      "4203",
+      "2024",
+      "11",
+      "SYRIA",
+      "3261"
+    ],
+    [
+      "5020",
+      "PLASTICS PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3261"
+    ],
+    [
+      "5020",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "110716",
+      "2024",
+      "01",
+      "SYRIA",
+      "327"
+    ],
+    [
+      "5020",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "124990",
+      "2024",
+      "02",
+      "SYRIA",
+      "327"
+    ],
+    [
+      "5020",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "24916",
+      "2024",
+      "03",
+      "SYRIA",
+      "327"
+    ],
+    [
+      "5020",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "133191",
+      "2024",
+      "04",
+      "SYRIA",
+      "327"
+    ],
+    [
+      "5020",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "41320",
+      "2024",
+      "05",
+      "SYRIA",
+      "327"
+    ],
+    [
+      "5020",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "24723",
+      "2024",
+      "06",
+      "SYRIA",
+      "327"
+    ],
+    [
+      "5020",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "80388",
+      "2024",
+      "07",
+      "SYRIA",
+      "327"
+    ],
+    [
+      "5020",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "170998",
+      "2024",
+      "08",
+      "SYRIA",
+      "327"
+    ],
+    [
+      "5020",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "47034",
+      "2024",
+      "09",
+      "SYRIA",
+      "327"
+    ],
+    [
+      "5020",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "91027",
+      "2024",
+      "10",
+      "SYRIA",
+      "327"
+    ],
+    [
+      "5020",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "142942",
+      "2024",
+      "11",
+      "SYRIA",
+      "327"
+    ],
+    [
+      "5020",
+      "NONMETALLIC MINERAL PRODUCTS",
+      "20845",
+      "2024",
+      "12",
+      "SYRIA",
+      "327"
+    ],
+    [
+      "5020",
+      "GLASS AND GLASS PRODUCTS",
+      "2643",
+      "2024",
+      "06",
+      "SYRIA",
+      "3272"
+    ],
+    [
+      "5020",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "3272"
+    ],
+    [
+      "5020",
+      "GLASS AND GLASS PRODUCTS",
+      "3219",
+      "2024",
+      "08",
+      "SYRIA",
+      "3272"
+    ],
+    [
+      "5020",
+      "GLASS AND GLASS PRODUCTS",
+      "2549",
+      "2024",
+      "09",
+      "SYRIA",
+      "3272"
+    ],
+    [
+      "5020",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3272"
+    ],
+    [
+      "5020",
+      "GLASS AND GLASS PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "3272"
+    ],
+    [
+      "5020",
+      "GLASS AND GLASS PRODUCTS",
+      "3678",
+      "2024",
+      "12",
+      "SYRIA",
+      "3272"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 3",
+      "30524",
+      "2024",
+      "01",
+      "SYRIA",
+      "33"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 3",
+      "21712",
+      "2024",
+      "02",
+      "SYRIA",
+      "33"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 3",
+      "555",
+      "2024",
+      "03",
+      "SYRIA",
+      "33"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 3",
+      "11800",
+      "2024",
+      "04",
+      "SYRIA",
+      "33"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 3",
+      "49762",
+      "2024",
+      "05",
+      "SYRIA",
+      "33"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "33"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 3",
+      "18150",
+      "2024",
+      "07",
+      "SYRIA",
+      "33"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "33"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "33"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "33"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 3",
+      "150559",
+      "2024",
+      "11",
+      "SYRIA",
+      "33"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 3",
+      "2300",
+      "2024",
+      "12",
+      "SYRIA",
+      "33"
+    ],
+    [
+      "5020",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1924492",
+      "2024",
+      "01",
+      "SYRIA",
+      "-"
+    ],
+    [
+      "5020",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "834660",
+      "2024",
+      "02",
+      "SYRIA",
+      "-"
+    ],
+    [
+      "5020",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "235260",
+      "2024",
+      "03",
+      "SYRIA",
+      "-"
+    ],
+    [
+      "5020",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "416969",
+      "2024",
+      "04",
+      "SYRIA",
+      "-"
+    ],
+    [
+      "5020",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "630378",
+      "2024",
+      "05",
+      "SYRIA",
+      "-"
+    ],
+    [
+      "5020",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "277294",
+      "2024",
+      "06",
+      "SYRIA",
+      "-"
+    ],
+    [
+      "5020",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "674993",
+      "2024",
+      "07",
+      "SYRIA",
+      "-"
+    ],
+    [
+      "5020",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1258430",
+      "2024",
+      "08",
+      "SYRIA",
+      "-"
+    ],
+    [
+      "5020",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "375814",
+      "2024",
+      "09",
+      "SYRIA",
+      "-"
+    ],
+    [
+      "5020",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1920900",
+      "2024",
+      "10",
+      "SYRIA",
+      "-"
+    ],
+    [
+      "5020",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "1701458",
+      "2024",
+      "11",
+      "SYRIA",
+      "-"
+    ],
+    [
+      "5020",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "400820",
+      "2024",
+      "12",
+      "SYRIA",
+      "-"
+    ],
+    [
+      "5020",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "63909",
+      "2024",
+      "03",
+      "SYRIA",
+      "11"
+    ],
+    [
+      "5020",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "11"
+    ],
+    [
+      "5020",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "SYRIA",
+      "11"
+    ],
+    [
+      "5020",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "11"
+    ],
+    [
+      "5020",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "2875",
+      "2024",
+      "07",
+      "SYRIA",
+      "11"
+    ],
+    [
+      "5020",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "6750",
+      "2024",
+      "08",
+      "SYRIA",
+      "11"
+    ],
+    [
+      "5020",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "11"
+    ],
+    [
+      "5020",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "96714",
+      "2024",
+      "10",
+      "SYRIA",
+      "11"
+    ],
+    [
+      "5020",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "177820",
+      "2024",
+      "11",
+      "SYRIA",
+      "11"
+    ],
+    [
+      "5020",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "11"
+    ],
+    [
+      "5020",
+      "AGRICULTURAL PRODUCTS",
+      "63909",
+      "2024",
+      "03",
+      "SYRIA",
+      "111"
+    ],
+    [
+      "5020",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "111"
+    ],
+    [
+      "5020",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "SYRIA",
+      "111"
+    ],
+    [
+      "5020",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "111"
+    ],
+    [
+      "5020",
+      "AGRICULTURAL PRODUCTS",
+      "2875",
+      "2024",
+      "07",
+      "SYRIA",
+      "111"
+    ],
+    [
+      "5020",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "111"
+    ],
+    [
+      "5020",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "111"
+    ],
+    [
+      "5020",
+      "AGRICULTURAL PRODUCTS",
+      "96714",
+      "2024",
+      "10",
+      "SYRIA",
+      "111"
+    ],
+    [
+      "5020",
+      "AGRICULTURAL PRODUCTS",
+      "177820",
+      "2024",
+      "11",
+      "SYRIA",
+      "111"
+    ],
+    [
+      "5020",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "111"
+    ],
+    [
+      "5020",
+      "OILSEEDS AND GRAINS",
+      "5962",
+      "2024",
+      "11",
+      "SYRIA",
+      "1111"
+    ],
+    [
+      "5020",
+      "OILSEEDS AND GRAINS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "1111"
+    ],
+    [
+      "5020",
+      "FRUITS AND TREE NUTS",
+      "63909",
+      "2024",
+      "03",
+      "SYRIA",
+      "1113"
+    ],
+    [
+      "5020",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "1113"
+    ],
+    [
+      "5020",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "05",
+      "SYRIA",
+      "1113"
+    ],
+    [
+      "5020",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "1113"
+    ],
+    [
+      "5020",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "1113"
+    ],
+    [
+      "5020",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "1113"
+    ],
+    [
+      "5020",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "1113"
+    ],
+    [
+      "5020",
+      "FRUITS AND TREE NUTS",
+      "96714",
+      "2024",
+      "10",
+      "SYRIA",
+      "1113"
+    ],
+    [
+      "5020",
+      "FRUITS AND TREE NUTS",
+      "167913",
+      "2024",
+      "11",
+      "SYRIA",
+      "1113"
+    ],
+    [
+      "5020",
+      "FRUITS AND TREE NUTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "1113"
+    ],
+    [
+      "5020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "2875",
+      "2024",
+      "07",
+      "SYRIA",
+      "1114"
+    ],
+    [
+      "5020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "1114"
+    ],
+    [
+      "5020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "1114"
+    ],
+    [
+      "5020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "1114"
+    ],
+    [
+      "5020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "1114"
+    ],
+    [
+      "5020",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "1114"
+    ],
+    [
+      "5020",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "3945",
+      "2024",
+      "11",
+      "SYRIA",
+      "1119"
+    ],
+    [
+      "5020",
+      "OTHER AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "1119"
+    ],
+    [
+      "5020",
+      "FORESTRY PRODUCTS, NESOI",
+      "6750",
+      "2024",
+      "08",
+      "SYRIA",
+      "113"
+    ],
+    [
+      "5020",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "113"
+    ],
+    [
+      "5020",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "113"
+    ],
+    [
+      "5020",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "113"
+    ],
+    [
+      "5020",
+      "FORESTRY PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "113"
+    ],
+    [
+      "5020",
+      "FORESTRY PRODUCTS",
+      "6750",
+      "2024",
+      "08",
+      "SYRIA",
+      "1132"
+    ],
+    [
+      "5020",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "1132"
+    ],
+    [
+      "5020",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "1132"
+    ],
+    [
+      "5020",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "1132"
+    ],
+    [
+      "5020",
+      "FORESTRY PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "1132"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART1",
+      "539382",
+      "2024",
+      "01",
+      "SYRIA",
+      "31"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART1",
+      "595188",
+      "2024",
+      "02",
+      "SYRIA",
+      "31"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART1",
+      "107686",
+      "2024",
+      "03",
+      "SYRIA",
+      "31"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART1",
+      "220101",
+      "2024",
+      "04",
+      "SYRIA",
+      "31"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART1",
+      "479560",
+      "2024",
+      "05",
+      "SYRIA",
+      "31"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART1",
+      "201073",
+      "2024",
+      "06",
+      "SYRIA",
+      "31"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART1",
+      "474694",
+      "2024",
+      "07",
+      "SYRIA",
+      "31"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART1",
+      "240731",
+      "2024",
+      "08",
+      "SYRIA",
+      "31"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART1",
+      "298411",
+      "2024",
+      "09",
+      "SYRIA",
+      "31"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART1",
+      "15690",
+      "2024",
+      "10",
+      "SYRIA",
+      "31"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART1",
+      "826266",
+      "2024",
+      "11",
+      "SYRIA",
+      "31"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART1",
+      "314862",
+      "2024",
+      "12",
+      "SYRIA",
+      "31"
+    ],
+    [
+      "5020",
+      "MANUFACTURED GOODS",
+      "680622",
+      "2024",
+      "01",
+      "SYRIA",
+      "31-33"
+    ],
+    [
+      "5020",
+      "MANUFACTURED GOODS",
+      "748350",
+      "2024",
+      "02",
+      "SYRIA",
+      "31-33"
+    ],
+    [
+      "5020",
+      "MANUFACTURED GOODS",
+      "133157",
+      "2024",
+      "03",
+      "SYRIA",
+      "31-33"
+    ],
+    [
+      "5020",
+      "MANUFACTURED GOODS",
+      "365092",
+      "2024",
+      "04",
+      "SYRIA",
+      "31-33"
+    ],
+    [
+      "5020",
+      "MANUFACTURED GOODS",
+      "578434",
+      "2024",
+      "05",
+      "SYRIA",
+      "31-33"
+    ],
+    [
+      "5020",
+      "MANUFACTURED GOODS",
+      "225796",
+      "2024",
+      "06",
+      "SYRIA",
+      "31-33"
+    ],
+    [
+      "5020",
+      "MANUFACTURED GOODS",
+      "586925",
+      "2024",
+      "07",
+      "SYRIA",
+      "31-33"
+    ],
+    [
+      "5020",
+      "MANUFACTURED GOODS",
+      "411729",
+      "2024",
+      "08",
+      "SYRIA",
+      "31-33"
+    ],
+    [
+      "5020",
+      "MANUFACTURED GOODS",
+      "345445",
+      "2024",
+      "09",
+      "SYRIA",
+      "31-33"
+    ],
+    [
+      "5020",
+      "MANUFACTURED GOODS",
+      "106717",
+      "2024",
+      "10",
+      "SYRIA",
+      "31-33"
+    ],
+    [
+      "5020",
+      "MANUFACTURED GOODS",
+      "1147047",
+      "2024",
+      "11",
+      "SYRIA",
+      "31-33"
+    ],
+    [
+      "5020",
+      "MANUFACTURED GOODS",
+      "338007",
+      "2024",
+      "12",
+      "SYRIA",
+      "31-33"
+    ],
+    [
+      "5020",
+      "FOOD AND KINDRED PRODUCTS",
+      "539382",
+      "2024",
+      "01",
+      "SYRIA",
+      "311"
+    ],
+    [
+      "5020",
+      "FOOD AND KINDRED PRODUCTS",
+      "592284",
+      "2024",
+      "02",
+      "SYRIA",
+      "311"
+    ],
+    [
+      "5020",
+      "FOOD AND KINDRED PRODUCTS",
+      "107686",
+      "2024",
+      "03",
+      "SYRIA",
+      "311"
+    ],
+    [
+      "5020",
+      "FOOD AND KINDRED PRODUCTS",
+      "220101",
+      "2024",
+      "04",
+      "SYRIA",
+      "311"
+    ],
+    [
+      "5020",
+      "FOOD AND KINDRED PRODUCTS",
+      "473994",
+      "2024",
+      "05",
+      "SYRIA",
+      "311"
+    ],
+    [
+      "5020",
+      "FOOD AND KINDRED PRODUCTS",
+      "201073",
+      "2024",
+      "06",
+      "SYRIA",
+      "311"
+    ],
+    [
+      "5020",
+      "FOOD AND KINDRED PRODUCTS",
+      "467258",
+      "2024",
+      "07",
+      "SYRIA",
+      "311"
+    ],
+    [
+      "5020",
+      "FOOD AND KINDRED PRODUCTS",
+      "235882",
+      "2024",
+      "08",
+      "SYRIA",
+      "311"
+    ],
+    [
+      "5020",
+      "FOOD AND KINDRED PRODUCTS",
+      "298411",
+      "2024",
+      "09",
+      "SYRIA",
+      "311"
+    ],
+    [
+      "5020",
+      "FOOD AND KINDRED PRODUCTS",
+      "15284",
+      "2024",
+      "10",
+      "SYRIA",
+      "311"
+    ],
+    [
+      "5020",
+      "FOOD AND KINDRED PRODUCTS",
+      "824595",
+      "2024",
+      "11",
+      "SYRIA",
+      "311"
+    ],
+    [
+      "5020",
+      "FOOD AND KINDRED PRODUCTS",
+      "311102",
+      "2024",
+      "12",
+      "SYRIA",
+      "311"
+    ],
+    [
+      "5020",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "21666",
+      "2024",
+      "01",
+      "SYRIA",
+      "3113"
+    ],
+    [
+      "5020",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "19469",
+      "2024",
+      "02",
+      "SYRIA",
+      "3113"
+    ],
+    [
+      "5020",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "9343",
+      "2024",
+      "03",
+      "SYRIA",
+      "3113"
+    ],
+    [
+      "5020",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "15448",
+      "2024",
+      "04",
+      "SYRIA",
+      "3113"
+    ],
+    [
+      "5020",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "SYRIA",
+      "3113"
+    ],
+    [
+      "5020",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "7050",
+      "2024",
+      "06",
+      "SYRIA",
+      "3113"
+    ],
+    [
+      "5020",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "12369",
+      "2024",
+      "07",
+      "SYRIA",
+      "3113"
+    ],
+    [
+      "5020",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "37564",
+      "2024",
+      "08",
+      "SYRIA",
+      "3113"
+    ],
+    [
+      "5020",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "2207",
+      "2024",
+      "09",
+      "SYRIA",
+      "3113"
+    ],
+    [
+      "5020",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "2398",
+      "2024",
+      "10",
+      "SYRIA",
+      "3113"
+    ],
+    [
+      "5020",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "31988",
+      "2024",
+      "11",
+      "SYRIA",
+      "3113"
+    ],
+    [
+      "5020",
+      "SUGAR AND CONFECTIONERY PRODUCTS",
+      "9782",
+      "2024",
+      "12",
+      "SYRIA",
+      "3113"
+    ],
+    [
+      "5020",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "68700",
+      "2024",
+      "01",
+      "SYRIA",
+      "3114"
+    ],
+    [
+      "5020",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "159186",
+      "2024",
+      "02",
+      "SYRIA",
+      "3114"
+    ],
+    [
+      "5020",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "27578",
+      "2024",
+      "03",
+      "SYRIA",
+      "3114"
+    ],
+    [
+      "5020",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "86218",
+      "2024",
+      "04",
+      "SYRIA",
+      "3114"
+    ],
+    [
+      "5020",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "43305",
+      "2024",
+      "05",
+      "SYRIA",
+      "3114"
+    ],
+    [
+      "5020",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "56410",
+      "2024",
+      "06",
+      "SYRIA",
+      "3114"
+    ],
+    [
+      "5020",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "163599",
+      "2024",
+      "07",
+      "SYRIA",
+      "3114"
+    ],
+    [
+      "5020",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "59431",
+      "2024",
+      "08",
+      "SYRIA",
+      "3114"
+    ],
+    [
+      "5020",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "100236",
+      "2024",
+      "09",
+      "SYRIA",
+      "3114"
+    ],
+    [
+      "5020",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "8152",
+      "2024",
+      "10",
+      "SYRIA",
+      "3114"
+    ],
+    [
+      "5020",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "247923",
+      "2024",
+      "11",
+      "SYRIA",
+      "3114"
+    ],
+    [
+      "5020",
+      "FRUIT AND VEGETABLE PRESERVES AND SPECIALTY FOODS",
+      "148852",
+      "2024",
+      "12",
+      "SYRIA",
+      "3114"
+    ],
+    [
+      "5020",
+      "DAIRY PRODUCTS",
+      "45436",
+      "2024",
+      "02",
+      "SYRIA",
+      "3115"
+    ],
+    [
+      "5020",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "3115"
+    ],
+    [
+      "5020",
+      "DAIRY PRODUCTS",
+      "3276",
+      "2024",
+      "04",
+      "SYRIA",
+      "3115"
+    ],
+    [
+      "5020",
+      "DAIRY PRODUCTS",
+      "2170",
+      "2024",
+      "05",
+      "SYRIA",
+      "3115"
+    ],
+    [
+      "5020",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3115"
+    ],
+    [
+      "5020",
+      "DAIRY PRODUCTS",
+      "2900",
+      "2024",
+      "07",
+      "SYRIA",
+      "3115"
+    ],
+    [
+      "5020",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3115"
+    ],
+    [
+      "5020",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3115"
+    ],
+    [
+      "5020",
+      "DAIRY PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3115"
+    ],
+    [
+      "5020",
+      "DAIRY PRODUCTS",
+      "2821",
+      "2024",
+      "11",
+      "SYRIA",
+      "3115"
+    ],
+    [
+      "5020",
+      "DAIRY PRODUCTS",
+      "9648",
+      "2024",
+      "12",
+      "SYRIA",
+      "3115"
+    ],
+    [
+      "5020",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "26644",
+      "2024",
+      "01",
+      "SYRIA",
+      "3118"
+    ],
+    [
+      "5020",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "56019",
+      "2024",
+      "02",
+      "SYRIA",
+      "3118"
+    ],
+    [
+      "5020",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "38814",
+      "2024",
+      "03",
+      "SYRIA",
+      "3118"
+    ],
+    [
+      "5020",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "18609",
+      "2024",
+      "04",
+      "SYRIA",
+      "3118"
+    ],
+    [
+      "5020",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "11433",
+      "2024",
+      "05",
+      "SYRIA",
+      "3118"
+    ],
+    [
+      "5020",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "3226",
+      "2024",
+      "06",
+      "SYRIA",
+      "3118"
+    ],
+    [
+      "5020",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "20793",
+      "2024",
+      "07",
+      "SYRIA",
+      "3118"
+    ],
+    [
+      "5020",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3118"
+    ],
+    [
+      "5020",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "13695",
+      "2024",
+      "09",
+      "SYRIA",
+      "3118"
+    ],
+    [
+      "5020",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "2610",
+      "2024",
+      "10",
+      "SYRIA",
+      "3118"
+    ],
+    [
+      "5020",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "33046",
+      "2024",
+      "11",
+      "SYRIA",
+      "3118"
+    ],
+    [
+      "5020",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "11119",
+      "2024",
+      "12",
+      "SYRIA",
+      "3118"
+    ],
+    [
+      "5020",
+      "FOODS, NESOI",
+      "422372",
+      "2024",
+      "01",
+      "SYRIA",
+      "3119"
+    ],
+    [
+      "5020",
+      "FOODS, NESOI",
+      "312174",
+      "2024",
+      "02",
+      "SYRIA",
+      "3119"
+    ],
+    [
+      "5020",
+      "FOODS, NESOI",
+      "6711",
+      "2024",
+      "03",
+      "SYRIA",
+      "3119"
+    ],
+    [
+      "5020",
+      "FOODS, NESOI",
+      "96550",
+      "2024",
+      "04",
+      "SYRIA",
+      "3119"
+    ],
+    [
+      "5020",
+      "FOODS, NESOI",
+      "417086",
+      "2024",
+      "05",
+      "SYRIA",
+      "3119"
+    ],
+    [
+      "5020",
+      "FOODS, NESOI",
+      "134387",
+      "2024",
+      "06",
+      "SYRIA",
+      "3119"
+    ],
+    [
+      "5020",
+      "FOODS, NESOI",
+      "267597",
+      "2024",
+      "07",
+      "SYRIA",
+      "3119"
+    ],
+    [
+      "5020",
+      "FOODS, NESOI",
+      "105587",
+      "2024",
+      "08",
+      "SYRIA",
+      "3119"
+    ],
+    [
+      "5020",
+      "FOODS, NESOI",
+      "182273",
+      "2024",
+      "09",
+      "SYRIA",
+      "3119"
+    ],
+    [
+      "5020",
+      "FOODS, NESOI",
+      "2124",
+      "2024",
+      "10",
+      "SYRIA",
+      "3119"
+    ],
+    [
+      "5020",
+      "FOODS, NESOI",
+      "364836",
+      "2024",
+      "11",
+      "SYRIA",
+      "3119"
+    ],
+    [
+      "5020",
+      "FOODS, NESOI",
+      "104531",
+      "2024",
+      "12",
+      "SYRIA",
+      "3119"
+    ],
+    [
+      "5020",
+      "TEXTILE MILL PRODUCTS",
+      "1170",
+      "2024",
+      "02",
+      "SYRIA",
+      "314"
+    ],
+    [
+      "5020",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "314"
+    ],
+    [
+      "5020",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "314"
+    ],
+    [
+      "5020",
+      "TEXTILE MILL PRODUCTS",
+      "588",
+      "2024",
+      "05",
+      "SYRIA",
+      "314"
+    ],
+    [
+      "5020",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "314"
+    ],
+    [
+      "5020",
+      "TEXTILE MILL PRODUCTS",
+      "4263",
+      "2024",
+      "07",
+      "SYRIA",
+      "314"
+    ],
+    [
+      "5020",
+      "TEXTILE MILL PRODUCTS",
+      "485",
+      "2024",
+      "08",
+      "SYRIA",
+      "314"
+    ],
+    [
+      "5020",
+      "TEXTILE MILL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "314"
+    ],
+    [
+      "5020",
+      "TEXTILE MILL PRODUCTS",
+      "406",
+      "2024",
+      "10",
+      "SYRIA",
+      "314"
+    ],
+    [
+      "5020",
+      "TEXTILE MILL PRODUCTS",
+      "1671",
+      "2024",
+      "11",
+      "SYRIA",
+      "314"
+    ],
+    [
+      "5020",
+      "TEXTILE MILL PRODUCTS",
+      "2430",
+      "2024",
+      "12",
+      "SYRIA",
+      "314"
+    ],
+    [
+      "5020",
+      "TEXTILE FURNISHINGS",
+      "1170",
+      "2024",
+      "02",
+      "SYRIA",
+      "3141"
+    ],
+    [
+      "5020",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "3141"
+    ],
+    [
+      "5020",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "3141"
+    ],
+    [
+      "5020",
+      "TEXTILE FURNISHINGS",
+      "588",
+      "2024",
+      "05",
+      "SYRIA",
+      "3141"
+    ],
+    [
+      "5020",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3141"
+    ],
+    [
+      "5020",
+      "TEXTILE FURNISHINGS",
+      "4263",
+      "2024",
+      "07",
+      "SYRIA",
+      "3141"
+    ],
+    [
+      "5020",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3141"
+    ],
+    [
+      "5020",
+      "TEXTILE FURNISHINGS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3141"
+    ],
+    [
+      "5020",
+      "TEXTILE FURNISHINGS",
+      "406",
+      "2024",
+      "10",
+      "SYRIA",
+      "3141"
+    ],
+    [
+      "5020",
+      "TEXTILE FURNISHINGS",
+      "1671",
+      "2024",
+      "11",
+      "SYRIA",
+      "3141"
+    ],
+    [
+      "5020",
+      "TEXTILE FURNISHINGS",
+      "2430",
+      "2024",
+      "12",
+      "SYRIA",
+      "3141"
+    ],
+    [
+      "5020",
+      "OTHER TEXTILE PRODUCTS",
+      "485",
+      "2024",
+      "08",
+      "SYRIA",
+      "3149"
+    ],
+    [
+      "5020",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3149"
+    ],
+    [
+      "5020",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3149"
+    ],
+    [
+      "5020",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "3149"
+    ],
+    [
+      "5020",
+      "OTHER TEXTILE PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3149"
+    ],
+    [
+      "5020",
+      "APPAREL AND ACCESSORIES",
+      "1734",
+      "2024",
+      "02",
+      "SYRIA",
+      "315"
+    ],
+    [
+      "5020",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "315"
+    ],
+    [
+      "5020",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "315"
+    ],
+    [
+      "5020",
+      "APPAREL AND ACCESSORIES",
+      "4978",
+      "2024",
+      "05",
+      "SYRIA",
+      "315"
+    ],
+    [
+      "5020",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "315"
+    ],
+    [
+      "5020",
+      "APPAREL AND ACCESSORIES",
+      "2825",
+      "2024",
+      "07",
+      "SYRIA",
+      "315"
+    ],
+    [
+      "5020",
+      "APPAREL AND ACCESSORIES",
+      "3564",
+      "2024",
+      "08",
+      "SYRIA",
+      "315"
+    ],
+    [
+      "5020",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "315"
+    ],
+    [
+      "5020",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "315"
+    ],
+    [
+      "5020",
+      "APPAREL AND ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "315"
+    ],
+    [
+      "5020",
+      "APPAREL AND ACCESSORIES",
+      "1330",
+      "2024",
+      "12",
+      "SYRIA",
+      "315"
+    ],
+    [
+      "5020",
+      "APPAREL ACCESSORIES",
+      "894",
+      "2024",
+      "02",
+      "SYRIA",
+      "3159"
+    ],
+    [
+      "5020",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "3159"
+    ],
+    [
+      "5020",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "3159"
+    ],
+    [
+      "5020",
+      "APPAREL ACCESSORIES",
+      "4186",
+      "2024",
+      "05",
+      "SYRIA",
+      "3159"
+    ],
+    [
+      "5020",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3159"
+    ],
+    [
+      "5020",
+      "APPAREL ACCESSORIES",
+      "2825",
+      "2024",
+      "07",
+      "SYRIA",
+      "3159"
+    ],
+    [
+      "5020",
+      "APPAREL ACCESSORIES",
+      "3564",
+      "2024",
+      "08",
+      "SYRIA",
+      "3159"
+    ],
+    [
+      "5020",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3159"
+    ],
+    [
+      "5020",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3159"
+    ],
+    [
+      "5020",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "3159"
+    ],
+    [
+      "5020",
+      "APPAREL ACCESSORIES",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3159"
+    ],
+    [
+      "5020",
+      "LEATHER AND ALLIED PRODUCTS",
+      "348",
+      "2024",
+      "07",
+      "SYRIA",
+      "316"
+    ],
+    [
+      "5020",
+      "LEATHER AND ALLIED PRODUCTS",
+      "800",
+      "2024",
+      "08",
+      "SYRIA",
+      "316"
+    ],
+    [
+      "5020",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "316"
+    ],
+    [
+      "5020",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "316"
+    ],
+    [
+      "5020",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "316"
+    ],
+    [
+      "5020",
+      "LEATHER AND ALLIED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "316"
+    ],
+    [
+      "5020",
+      "OTHER LEATHER PRODUCTS",
+      "348",
+      "2024",
+      "07",
+      "SYRIA",
+      "3169"
+    ],
+    [
+      "5020",
+      "OTHER LEATHER PRODUCTS",
+      "800",
+      "2024",
+      "08",
+      "SYRIA",
+      "3169"
+    ],
+    [
+      "5020",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3169"
+    ],
+    [
+      "5020",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3169"
+    ],
+    [
+      "5020",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "3169"
+    ],
+    [
+      "5020",
+      "OTHER LEATHER PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3169"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 2",
+      "110716",
+      "2024",
+      "01",
+      "SYRIA",
+      "32"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 2",
+      "131450",
+      "2024",
+      "02",
+      "SYRIA",
+      "32"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 2",
+      "24916",
+      "2024",
+      "03",
+      "SYRIA",
+      "32"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 2",
+      "133191",
+      "2024",
+      "04",
+      "SYRIA",
+      "32"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 2",
+      "49112",
+      "2024",
+      "05",
+      "SYRIA",
+      "32"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 2",
+      "24723",
+      "2024",
+      "06",
+      "SYRIA",
+      "32"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 2",
+      "94081",
+      "2024",
+      "07",
+      "SYRIA",
+      "32"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 2",
+      "170998",
+      "2024",
+      "08",
+      "SYRIA",
+      "32"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 2",
+      "47034",
+      "2024",
+      "09",
+      "SYRIA",
+      "32"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 2",
+      "91027",
+      "2024",
+      "10",
+      "SYRIA",
+      "32"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 2",
+      "170222",
+      "2024",
+      "11",
+      "SYRIA",
+      "32"
+    ],
+    [
+      "5020",
+      "MANUFACTURING, PART 2",
+      "20845",
+      "2024",
+      "12",
+      "SYRIA",
+      "32"
+    ],
+    [
+      "5020",
+      "OTHER WOOD PRODUCTS",
+      "2424",
+      "2024",
+      "05",
+      "SYRIA",
+      "3219"
+    ],
+    [
+      "5020",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3219"
+    ],
+    [
+      "5020",
+      "OTHER WOOD PRODUCTS",
+      "4140",
+      "2024",
+      "07",
+      "SYRIA",
+      "3219"
+    ],
+    [
+      "5020",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3219"
+    ],
+    [
+      "5020",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3219"
+    ],
+    [
+      "5020",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3219"
+    ],
+    [
+      "5020",
+      "OTHER WOOD PRODUCTS",
+      "10934",
+      "2024",
+      "11",
+      "SYRIA",
+      "3219"
+    ],
+    [
+      "5020",
+      "OTHER WOOD PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3219"
+    ],
+    [
+      "5020",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "124200",
+      "2024",
+      "11",
+      "SYRIA",
+      "3336"
+    ],
+    [
+      "5020",
+      "ENGINES, TURBINES, AND POWER TRANSMISSION EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3336"
+    ],
+    [
+      "5020",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "13080",
+      "2024",
+      "01",
+      "SYRIA",
+      "334"
+    ],
+    [
+      "5020",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "SYRIA",
+      "334"
+    ],
+    [
+      "5020",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "334"
+    ],
+    [
+      "5020",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "334"
+    ],
+    [
+      "5020",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "42802",
+      "2024",
+      "05",
+      "SYRIA",
+      "334"
+    ],
+    [
+      "5020",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "334"
+    ],
+    [
+      "5020",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "334"
+    ],
+    [
+      "5020",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "334"
+    ],
+    [
+      "5020",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "334"
+    ],
+    [
+      "5020",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "334"
+    ],
+    [
+      "5020",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "334"
+    ],
+    [
+      "5020",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "334"
+    ],
+    [
+      "5020",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "42802",
+      "2024",
+      "05",
+      "SYRIA",
+      "3345"
+    ],
+    [
+      "5020",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3345"
+    ],
+    [
+      "5020",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "3345"
+    ],
+    [
+      "5020",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3345"
+    ],
+    [
+      "5020",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3345"
+    ],
+    [
+      "5020",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3345"
+    ],
+    [
+      "5020",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "3345"
+    ],
+    [
+      "5020",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3345"
+    ],
+    [
+      "5020",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "2000",
+      "2024",
+      "04",
+      "SYRIA",
+      "3351"
+    ],
+    [
+      "5020",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "SYRIA",
+      "3351"
+    ],
+    [
+      "5020",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3351"
+    ],
+    [
+      "5020",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "3351"
+    ],
+    [
+      "5020",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3351"
+    ],
+    [
+      "5020",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3351"
+    ],
+    [
+      "5020",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3351"
+    ],
+    [
+      "5020",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "3351"
+    ],
+    [
+      "5020",
+      "ELECTRIC LIGHTING EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3351"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "5668",
+      "2024",
+      "01",
+      "SYRIA",
+      "3352"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "02",
+      "SYRIA",
+      "3352"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "3352"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "3352"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "05",
+      "SYRIA",
+      "3352"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3352"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "3352"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3352"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3352"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3352"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "3352"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD APPLIANCES AND MISCELLANEOUS MACHINES, NESOI",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3352"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "1206392",
+      "2024",
+      "01",
+      "SYRIA",
+      "93"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "02",
+      "SYRIA",
+      "93"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "12968",
+      "2024",
+      "03",
+      "SYRIA",
+      "93"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "93"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "9349",
+      "2024",
+      "05",
+      "SYRIA",
+      "93"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "18555",
+      "2024",
+      "06",
+      "SYRIA",
+      "93"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "11005",
+      "2024",
+      "07",
+      "SYRIA",
+      "93"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "798371",
+      "2024",
+      "08",
+      "SYRIA",
+      "93"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "22771",
+      "2024",
+      "09",
+      "SYRIA",
+      "93"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "1707067",
+      "2024",
+      "10",
+      "SYRIA",
+      "93"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "66156",
+      "2024",
+      "11",
+      "SYRIA",
+      "93"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5168",
+      "2024",
+      "12",
+      "SYRIA",
+      "93"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "1206392",
+      "2024",
+      "01",
+      "SYRIA",
+      "930"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "02",
+      "SYRIA",
+      "930"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "12968",
+      "2024",
+      "03",
+      "SYRIA",
+      "930"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "930"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "9349",
+      "2024",
+      "05",
+      "SYRIA",
+      "930"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "18555",
+      "2024",
+      "06",
+      "SYRIA",
+      "930"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "11005",
+      "2024",
+      "07",
+      "SYRIA",
+      "930"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "798371",
+      "2024",
+      "08",
+      "SYRIA",
+      "930"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "22771",
+      "2024",
+      "09",
+      "SYRIA",
+      "930"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "1707067",
+      "2024",
+      "10",
+      "SYRIA",
+      "930"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "66156",
+      "2024",
+      "11",
+      "SYRIA",
+      "930"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5168",
+      "2024",
+      "12",
+      "SYRIA",
+      "930"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "1206392",
+      "2024",
+      "01",
+      "SYRIA",
+      "9300"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "02",
+      "SYRIA",
+      "9300"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "12968",
+      "2024",
+      "03",
+      "SYRIA",
+      "9300"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "9300"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "9349",
+      "2024",
+      "05",
+      "SYRIA",
+      "9300"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "18555",
+      "2024",
+      "06",
+      "SYRIA",
+      "9300"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "11005",
+      "2024",
+      "07",
+      "SYRIA",
+      "9300"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "798371",
+      "2024",
+      "08",
+      "SYRIA",
+      "9300"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "22771",
+      "2024",
+      "09",
+      "SYRIA",
+      "9300"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "1707067",
+      "2024",
+      "10",
+      "SYRIA",
+      "9300"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "66156",
+      "2024",
+      "11",
+      "SYRIA",
+      "9300"
+    ],
+    [
+      "5020",
+      "USED OR SECOND-HAND MERCHANDISE",
+      "5168",
+      "2024",
+      "12",
+      "SYRIA",
+      "9300"
+    ],
+    [
+      "5020",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "192764",
+      "2024",
+      "11",
+      "SYRIA",
+      "980"
+    ],
+    [
+      "5020",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "980"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "37478",
+      "2024",
+      "01",
+      "SYRIA",
+      "990"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "86310",
+      "2024",
+      "02",
+      "SYRIA",
+      "990"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "25226",
+      "2024",
+      "03",
+      "SYRIA",
+      "990"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "51877",
+      "2024",
+      "04",
+      "SYRIA",
+      "990"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "42595",
+      "2024",
+      "05",
+      "SYRIA",
+      "990"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "32943",
+      "2024",
+      "06",
+      "SYRIA",
+      "990"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "74188",
+      "2024",
+      "07",
+      "SYRIA",
+      "990"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41580",
+      "2024",
+      "08",
+      "SYRIA",
+      "990"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7598",
+      "2024",
+      "09",
+      "SYRIA",
+      "990"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "10402",
+      "2024",
+      "10",
+      "SYRIA",
+      "990"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "117671",
+      "2024",
+      "11",
+      "SYRIA",
+      "990"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "57645",
+      "2024",
+      "12",
+      "SYRIA",
+      "990"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "37478",
+      "2024",
+      "01",
+      "SYRIA",
+      "9900"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "86310",
+      "2024",
+      "02",
+      "SYRIA",
+      "9900"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "25226",
+      "2024",
+      "03",
+      "SYRIA",
+      "9900"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "51877",
+      "2024",
+      "04",
+      "SYRIA",
+      "9900"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "42595",
+      "2024",
+      "05",
+      "SYRIA",
+      "9900"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "32943",
+      "2024",
+      "06",
+      "SYRIA",
+      "9900"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "74188",
+      "2024",
+      "07",
+      "SYRIA",
+      "9900"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41580",
+      "2024",
+      "08",
+      "SYRIA",
+      "9900"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7598",
+      "2024",
+      "09",
+      "SYRIA",
+      "9900"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "10402",
+      "2024",
+      "10",
+      "SYRIA",
+      "9900"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "117671",
+      "2024",
+      "11",
+      "SYRIA",
+      "9900"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "57645",
+      "2024",
+      "12",
+      "SYRIA",
+      "9900"
+    ],
+    [
+      "5020",
+      "APPAREL",
+      "840",
+      "2024",
+      "02",
+      "SYRIA",
+      "3152"
+    ],
+    [
+      "5020",
+      "APPAREL",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "3152"
+    ],
+    [
+      "5020",
+      "APPAREL",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "3152"
+    ],
+    [
+      "5020",
+      "APPAREL",
+      "792",
+      "2024",
+      "05",
+      "SYRIA",
+      "3152"
+    ],
+    [
+      "5020",
+      "APPAREL",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3152"
+    ],
+    [
+      "5020",
+      "APPAREL",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "3152"
+    ],
+    [
+      "5020",
+      "APPAREL",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3152"
+    ],
+    [
+      "5020",
+      "APPAREL",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3152"
+    ],
+    [
+      "5020",
+      "APPAREL",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3152"
+    ],
+    [
+      "5020",
+      "APPAREL",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "3152"
+    ],
+    [
+      "5020",
+      "APPAREL",
+      "1330",
+      "2024",
+      "12",
+      "SYRIA",
+      "3152"
+    ],
+    [
+      "5020",
+      "WOOD PRODUCTS",
+      "5250",
+      "2024",
+      "02",
+      "SYRIA",
+      "321"
+    ],
+    [
+      "5020",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "321"
+    ],
+    [
+      "5020",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "321"
+    ],
+    [
+      "5020",
+      "WOOD PRODUCTS",
+      "2424",
+      "2024",
+      "05",
+      "SYRIA",
+      "321"
+    ],
+    [
+      "5020",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "321"
+    ],
+    [
+      "5020",
+      "WOOD PRODUCTS",
+      "4140",
+      "2024",
+      "07",
+      "SYRIA",
+      "321"
+    ],
+    [
+      "5020",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "321"
+    ],
+    [
+      "5020",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "321"
+    ],
+    [
+      "5020",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "321"
+    ],
+    [
+      "5020",
+      "WOOD PRODUCTS",
+      "10934",
+      "2024",
+      "11",
+      "SYRIA",
+      "321"
+    ],
+    [
+      "5020",
+      "WOOD PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "321"
+    ],
+    [
+      "5020",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "5250",
+      "2024",
+      "02",
+      "SYRIA",
+      "3212"
+    ],
+    [
+      "5020",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "3212"
+    ],
+    [
+      "5020",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "3212"
+    ],
+    [
+      "5020",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "SYRIA",
+      "3212"
+    ],
+    [
+      "5020",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3212"
+    ],
+    [
+      "5020",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "3212"
+    ],
+    [
+      "5020",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3212"
+    ],
+    [
+      "5020",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3212"
+    ],
+    [
+      "5020",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3212"
+    ],
+    [
+      "5020",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "3212"
+    ],
+    [
+      "5020",
+      "VENEER, PLYWOOD, AND ENGINEERED WOOD PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3212"
+    ],
+    [
+      "5020",
+      "COMMUNICATIONS EQUIPMENT",
+      "13080",
+      "2024",
+      "01",
+      "SYRIA",
+      "3342"
+    ],
+    [
+      "5020",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "SYRIA",
+      "3342"
+    ],
+    [
+      "5020",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "3342"
+    ],
+    [
+      "5020",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "3342"
+    ],
+    [
+      "5020",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "SYRIA",
+      "3342"
+    ],
+    [
+      "5020",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3342"
+    ],
+    [
+      "5020",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "3342"
+    ],
+    [
+      "5020",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3342"
+    ],
+    [
+      "5020",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3342"
+    ],
+    [
+      "5020",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3342"
+    ],
+    [
+      "5020",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "3342"
+    ],
+    [
+      "5020",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3342"
+    ],
+    [
+      "5020",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "5668",
+      "2024",
+      "01",
+      "SYRIA",
+      "335"
+    ],
+    [
+      "5020",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "02",
+      "SYRIA",
+      "335"
+    ],
+    [
+      "5020",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "335"
+    ],
+    [
+      "5020",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "2000",
+      "2024",
+      "04",
+      "SYRIA",
+      "335"
+    ],
+    [
+      "5020",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "05",
+      "SYRIA",
+      "335"
+    ],
+    [
+      "5020",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "335"
+    ],
+    [
+      "5020",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "335"
+    ],
+    [
+      "5020",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "335"
+    ],
+    [
+      "5020",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "335"
+    ],
+    [
+      "5020",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "335"
+    ],
+    [
+      "5020",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "335"
+    ],
+    [
+      "5020",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "335"
+    ],
+    [
+      "5020",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "192764",
+      "2024",
+      "11",
+      "SYRIA",
+      "98"
+    ],
+    [
+      "5020",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "98"
+    ],
+    [
+      "5020",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "192764",
+      "2024",
+      "11",
+      "SYRIA",
+      "9800"
+    ],
+    [
+      "5020",
+      "GOODS RETURNED TO CANADA (EXPORTS ONLY); U.S. GOODS RETURNED AND REIMPORTED ITEMS (IMPORTS ONLY)",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "9800"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "37478",
+      "2024",
+      "01",
+      "SYRIA",
+      "99"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "86310",
+      "2024",
+      "02",
+      "SYRIA",
+      "99"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "25226",
+      "2024",
+      "03",
+      "SYRIA",
+      "99"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "51877",
+      "2024",
+      "04",
+      "SYRIA",
+      "99"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "42595",
+      "2024",
+      "05",
+      "SYRIA",
+      "99"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "32943",
+      "2024",
+      "06",
+      "SYRIA",
+      "99"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "74188",
+      "2024",
+      "07",
+      "SYRIA",
+      "99"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "41580",
+      "2024",
+      "08",
+      "SYRIA",
+      "99"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "7598",
+      "2024",
+      "09",
+      "SYRIA",
+      "99"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "10402",
+      "2024",
+      "10",
+      "SYRIA",
+      "99"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "117671",
+      "2024",
+      "11",
+      "SYRIA",
+      "99"
+    ],
+    [
+      "5020",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "57645",
+      "2024",
+      "12",
+      "SYRIA",
+      "99"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "6102",
+      "2024",
+      "02",
+      "SYRIA",
+      "3371"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "555",
+      "2024",
+      "03",
+      "SYRIA",
+      "3371"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "9300",
+      "2024",
+      "04",
+      "SYRIA",
+      "3371"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "05",
+      "SYRIA",
+      "3371"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3371"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "13350",
+      "2024",
+      "07",
+      "SYRIA",
+      "3371"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3371"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3371"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3371"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "5366",
+      "2024",
+      "11",
+      "SYRIA",
+      "3371"
+    ],
+    [
+      "5020",
+      "HOUSEHOLD AND INSTITUTIONAL FURNITURE AND KITCHEN CABINETS",
+      "2300",
+      "2024",
+      "12",
+      "SYRIA",
+      "3371"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "11776",
+      "2024",
+      "01",
+      "SYRIA",
+      "339"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "02",
+      "SYRIA",
+      "339"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "339"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "339"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2160",
+      "2024",
+      "05",
+      "SYRIA",
+      "339"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "339"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "339"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "339"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "339"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "339"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "339"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "339"
+    ],
+    [
+      "5020",
+      "CUTLERY AND HANDTOOLS",
+      "15610",
+      "2024",
+      "02",
+      "SYRIA",
+      "3322"
+    ],
+    [
+      "5020",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "3322"
+    ],
+    [
+      "5020",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "3322"
+    ],
+    [
+      "5020",
+      "CUTLERY AND HANDTOOLS",
+      "4800",
+      "2024",
+      "05",
+      "SYRIA",
+      "3322"
+    ],
+    [
+      "5020",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3322"
+    ],
+    [
+      "5020",
+      "CUTLERY AND HANDTOOLS",
+      "4800",
+      "2024",
+      "07",
+      "SYRIA",
+      "3322"
+    ],
+    [
+      "5020",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3322"
+    ],
+    [
+      "5020",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3322"
+    ],
+    [
+      "5020",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3322"
+    ],
+    [
+      "5020",
+      "CUTLERY AND HANDTOOLS",
+      "20993",
+      "2024",
+      "11",
+      "SYRIA",
+      "3322"
+    ],
+    [
+      "5020",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3322"
+    ],
+    [
+      "5020",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "110716",
+      "2024",
+      "01",
+      "SYRIA",
+      "3279"
+    ],
+    [
+      "5020",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "124990",
+      "2024",
+      "02",
+      "SYRIA",
+      "3279"
+    ],
+    [
+      "5020",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "24916",
+      "2024",
+      "03",
+      "SYRIA",
+      "3279"
+    ],
+    [
+      "5020",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "133191",
+      "2024",
+      "04",
+      "SYRIA",
+      "3279"
+    ],
+    [
+      "5020",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "41320",
+      "2024",
+      "05",
+      "SYRIA",
+      "3279"
+    ],
+    [
+      "5020",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "22080",
+      "2024",
+      "06",
+      "SYRIA",
+      "3279"
+    ],
+    [
+      "5020",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "80388",
+      "2024",
+      "07",
+      "SYRIA",
+      "3279"
+    ],
+    [
+      "5020",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "167779",
+      "2024",
+      "08",
+      "SYRIA",
+      "3279"
+    ],
+    [
+      "5020",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "44485",
+      "2024",
+      "09",
+      "SYRIA",
+      "3279"
+    ],
+    [
+      "5020",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "91027",
+      "2024",
+      "10",
+      "SYRIA",
+      "3279"
+    ],
+    [
+      "5020",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "142942",
+      "2024",
+      "11",
+      "SYRIA",
+      "3279"
+    ],
+    [
+      "5020",
+      "OTHER NONMETALLIC MINERAL PRODUCTS",
+      "17167",
+      "2024",
+      "12",
+      "SYRIA",
+      "3279"
+    ],
+    [
+      "5020",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "25240",
+      "2024",
+      "03",
+      "SYRIA",
+      "3112"
+    ],
+    [
+      "5020",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "3112"
+    ],
+    [
+      "5020",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "05",
+      "SYRIA",
+      "3112"
+    ],
+    [
+      "5020",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3112"
+    ],
+    [
+      "5020",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "3112"
+    ],
+    [
+      "5020",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "33300",
+      "2024",
+      "08",
+      "SYRIA",
+      "3112"
+    ],
+    [
+      "5020",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3112"
+    ],
+    [
+      "5020",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3112"
+    ],
+    [
+      "5020",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "143981",
+      "2024",
+      "11",
+      "SYRIA",
+      "3112"
+    ],
+    [
+      "5020",
+      "GRAIN AND OILSEED MILLING PRODUCTS",
+      "27170",
+      "2024",
+      "12",
+      "SYRIA",
+      "3112"
+    ],
+    [
+      "5020",
+      "FURNITURE AND FIXTURES",
+      "6102",
+      "2024",
+      "02",
+      "SYRIA",
+      "337"
+    ],
+    [
+      "5020",
+      "FURNITURE AND FIXTURES",
+      "555",
+      "2024",
+      "03",
+      "SYRIA",
+      "337"
+    ],
+    [
+      "5020",
+      "FURNITURE AND FIXTURES",
+      "9800",
+      "2024",
+      "04",
+      "SYRIA",
+      "337"
+    ],
+    [
+      "5020",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "05",
+      "SYRIA",
+      "337"
+    ],
+    [
+      "5020",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "337"
+    ],
+    [
+      "5020",
+      "FURNITURE AND FIXTURES",
+      "13350",
+      "2024",
+      "07",
+      "SYRIA",
+      "337"
+    ],
+    [
+      "5020",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "337"
+    ],
+    [
+      "5020",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "337"
+    ],
+    [
+      "5020",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "337"
+    ],
+    [
+      "5020",
+      "FURNITURE AND FIXTURES",
+      "5366",
+      "2024",
+      "11",
+      "SYRIA",
+      "337"
+    ],
+    [
+      "5020",
+      "FURNITURE AND FIXTURES",
+      "2300",
+      "2024",
+      "12",
+      "SYRIA",
+      "337"
+    ],
+    [
+      "5020",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "500",
+      "2024",
+      "04",
+      "SYRIA",
+      "3372"
+    ],
+    [
+      "5020",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "05",
+      "SYRIA",
+      "3372"
+    ],
+    [
+      "5020",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3372"
+    ],
+    [
+      "5020",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "3372"
+    ],
+    [
+      "5020",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3372"
+    ],
+    [
+      "5020",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3372"
+    ],
+    [
+      "5020",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3372"
+    ],
+    [
+      "5020",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "3372"
+    ],
+    [
+      "5020",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3372"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "11776",
+      "2024",
+      "01",
+      "SYRIA",
+      "3399"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "02",
+      "SYRIA",
+      "3399"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "3399"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "3399"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "2160",
+      "2024",
+      "05",
+      "SYRIA",
+      "3399"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "3399"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "07",
+      "SYRIA",
+      "3399"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "3399"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "3399"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "3399"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "SYRIA",
+      "3399"
+    ],
+    [
+      "5020",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "3399"
+    ],
+    [
+      "5020",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "15610",
+      "2024",
+      "02",
+      "SYRIA",
+      "332"
+    ],
+    [
+      "5020",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "03",
+      "SYRIA",
+      "332"
+    ],
+    [
+      "5020",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "04",
+      "SYRIA",
+      "332"
+    ],
+    [
+      "5020",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "4800",
+      "2024",
+      "05",
+      "SYRIA",
+      "332"
+    ],
+    [
+      "5020",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "06",
+      "SYRIA",
+      "332"
+    ],
+    [
+      "5020",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "4800",
+      "2024",
+      "07",
+      "SYRIA",
+      "332"
+    ],
+    [
+      "5020",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "08",
+      "SYRIA",
+      "332"
+    ],
+    [
+      "5020",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "SYRIA",
+      "332"
+    ],
+    [
+      "5020",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "SYRIA",
+      "332"
+    ],
+    [
+      "5020",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "20993",
+      "2024",
+      "11",
+      "SYRIA",
+      "332"
+    ],
+    [
+      "5020",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "332"
+    ],
+    [
+      "5020",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "124200",
+      "2024",
+      "11",
+      "SYRIA",
+      "333"
+    ],
+    [
+      "5020",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "12",
+      "SYRIA",
+      "333"
+    ]
+  ]
+}

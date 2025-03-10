@@ -1,0 +1,2567 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 09:20:45 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4c62d0e85aaac2ba23e3f87412212dbec9ecce16e5c93fc9a9f5d4742052a272aca4fe54c52e6679ec1affc384899d0f5; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "7890",
+      "PAPER",
+      "24000",
+      "2024",
+      "07",
+      "COMOROS",
+      "322"
+    ],
+    [
+      "7890",
+      "PAPER",
+      "0",
+      "2024",
+      "08",
+      "COMOROS",
+      "322"
+    ],
+    [
+      "7890",
+      "PAPER",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "322"
+    ],
+    [
+      "7890",
+      "PAPER",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "322"
+    ],
+    [
+      "7890",
+      "PAPER",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "322"
+    ],
+    [
+      "7890",
+      "PAPER",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "322"
+    ],
+    [
+      "7890",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "24000",
+      "2024",
+      "07",
+      "COMOROS",
+      "3221"
+    ],
+    [
+      "7890",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "COMOROS",
+      "3221"
+    ],
+    [
+      "7890",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "3221"
+    ],
+    [
+      "7890",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "3221"
+    ],
+    [
+      "7890",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "3221"
+    ],
+    [
+      "7890",
+      "PULP, PAPER, AND PAPERBOARD MILL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "3221"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 3",
+      "58751",
+      "2024",
+      "01",
+      "COMOROS",
+      "33"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 3",
+      "20887",
+      "2024",
+      "02",
+      "COMOROS",
+      "33"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 3",
+      "4608",
+      "2024",
+      "03",
+      "COMOROS",
+      "33"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 3",
+      "215642",
+      "2024",
+      "04",
+      "COMOROS",
+      "33"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 3",
+      "7996",
+      "2024",
+      "05",
+      "COMOROS",
+      "33"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 3",
+      "3181318",
+      "2024",
+      "06",
+      "COMOROS",
+      "33"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 3",
+      "0",
+      "2024",
+      "07",
+      "COMOROS",
+      "33"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 3",
+      "327285",
+      "2024",
+      "08",
+      "COMOROS",
+      "33"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 3",
+      "52131",
+      "2024",
+      "09",
+      "COMOROS",
+      "33"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 3",
+      "222921",
+      "2024",
+      "10",
+      "COMOROS",
+      "33"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 3",
+      "5505",
+      "2024",
+      "11",
+      "COMOROS",
+      "33"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 3",
+      "53195",
+      "2024",
+      "12",
+      "COMOROS",
+      "33"
+    ],
+    [
+      "7890",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "84483",
+      "2024",
+      "01",
+      "COMOROS",
+      "-"
+    ],
+    [
+      "7890",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "21189",
+      "2024",
+      "02",
+      "COMOROS",
+      "-"
+    ],
+    [
+      "7890",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "4684",
+      "2024",
+      "03",
+      "COMOROS",
+      "-"
+    ],
+    [
+      "7890",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "298923",
+      "2024",
+      "04",
+      "COMOROS",
+      "-"
+    ],
+    [
+      "7890",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "74658",
+      "2024",
+      "05",
+      "COMOROS",
+      "-"
+    ],
+    [
+      "7890",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "3310768",
+      "2024",
+      "06",
+      "COMOROS",
+      "-"
+    ],
+    [
+      "7890",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "65062",
+      "2024",
+      "07",
+      "COMOROS",
+      "-"
+    ],
+    [
+      "7890",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "353050",
+      "2024",
+      "08",
+      "COMOROS",
+      "-"
+    ],
+    [
+      "7890",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "111089",
+      "2024",
+      "09",
+      "COMOROS",
+      "-"
+    ],
+    [
+      "7890",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "312387",
+      "2024",
+      "10",
+      "COMOROS",
+      "-"
+    ],
+    [
+      "7890",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "48610",
+      "2024",
+      "11",
+      "COMOROS",
+      "-"
+    ],
+    [
+      "7890",
+      "TOTAL FOR ALL NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM (NAICS) CODES",
+      "54025",
+      "2024",
+      "12",
+      "COMOROS",
+      "-"
+    ],
+    [
+      "7890",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "49940",
+      "2024",
+      "10",
+      "COMOROS",
+      "11"
+    ],
+    [
+      "7890",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "11"
+    ],
+    [
+      "7890",
+      "AGRICULTURE AND LIVESTOCK PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "11"
+    ],
+    [
+      "7890",
+      "AGRICULTURAL PRODUCTS",
+      "49940",
+      "2024",
+      "10",
+      "COMOROS",
+      "111"
+    ],
+    [
+      "7890",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "111"
+    ],
+    [
+      "7890",
+      "AGRICULTURAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "111"
+    ],
+    [
+      "7890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "49940",
+      "2024",
+      "10",
+      "COMOROS",
+      "1114"
+    ],
+    [
+      "7890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "1114"
+    ],
+    [
+      "7890",
+      "MUSHROOMS, NURSERY AND RELATED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "1114"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART1",
+      "24352",
+      "2024",
+      "01",
+      "COMOROS",
+      "31"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "02",
+      "COMOROS",
+      "31"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "03",
+      "COMOROS",
+      "31"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART1",
+      "78400",
+      "2024",
+      "04",
+      "COMOROS",
+      "31"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART1",
+      "65443",
+      "2024",
+      "05",
+      "COMOROS",
+      "31"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART1",
+      "78262",
+      "2024",
+      "06",
+      "COMOROS",
+      "31"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART1",
+      "40000",
+      "2024",
+      "07",
+      "COMOROS",
+      "31"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART1",
+      "20000",
+      "2024",
+      "08",
+      "COMOROS",
+      "31"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART1",
+      "57144",
+      "2024",
+      "09",
+      "COMOROS",
+      "31"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART1",
+      "34078",
+      "2024",
+      "10",
+      "COMOROS",
+      "31"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART1",
+      "42311",
+      "2024",
+      "11",
+      "COMOROS",
+      "31"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART1",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "31"
+    ],
+    [
+      "7890",
+      "MANUFACTURED GOODS",
+      "83103",
+      "2024",
+      "01",
+      "COMOROS",
+      "31-33"
+    ],
+    [
+      "7890",
+      "MANUFACTURED GOODS",
+      "20887",
+      "2024",
+      "02",
+      "COMOROS",
+      "31-33"
+    ],
+    [
+      "7890",
+      "MANUFACTURED GOODS",
+      "4608",
+      "2024",
+      "03",
+      "COMOROS",
+      "31-33"
+    ],
+    [
+      "7890",
+      "MANUFACTURED GOODS",
+      "294042",
+      "2024",
+      "04",
+      "COMOROS",
+      "31-33"
+    ],
+    [
+      "7890",
+      "MANUFACTURED GOODS",
+      "73439",
+      "2024",
+      "05",
+      "COMOROS",
+      "31-33"
+    ],
+    [
+      "7890",
+      "MANUFACTURED GOODS",
+      "3259580",
+      "2024",
+      "06",
+      "COMOROS",
+      "31-33"
+    ],
+    [
+      "7890",
+      "MANUFACTURED GOODS",
+      "64000",
+      "2024",
+      "07",
+      "COMOROS",
+      "31-33"
+    ],
+    [
+      "7890",
+      "MANUFACTURED GOODS",
+      "347285",
+      "2024",
+      "08",
+      "COMOROS",
+      "31-33"
+    ],
+    [
+      "7890",
+      "MANUFACTURED GOODS",
+      "109275",
+      "2024",
+      "09",
+      "COMOROS",
+      "31-33"
+    ],
+    [
+      "7890",
+      "MANUFACTURED GOODS",
+      "256999",
+      "2024",
+      "10",
+      "COMOROS",
+      "31-33"
+    ],
+    [
+      "7890",
+      "MANUFACTURED GOODS",
+      "47816",
+      "2024",
+      "11",
+      "COMOROS",
+      "31-33"
+    ],
+    [
+      "7890",
+      "MANUFACTURED GOODS",
+      "53195",
+      "2024",
+      "12",
+      "COMOROS",
+      "31-33"
+    ],
+    [
+      "7890",
+      "FOOD AND KINDRED PRODUCTS",
+      "24352",
+      "2024",
+      "01",
+      "COMOROS",
+      "311"
+    ],
+    [
+      "7890",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "COMOROS",
+      "311"
+    ],
+    [
+      "7890",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "COMOROS",
+      "311"
+    ],
+    [
+      "7890",
+      "FOOD AND KINDRED PRODUCTS",
+      "78400",
+      "2024",
+      "04",
+      "COMOROS",
+      "311"
+    ],
+    [
+      "7890",
+      "FOOD AND KINDRED PRODUCTS",
+      "65443",
+      "2024",
+      "05",
+      "COMOROS",
+      "311"
+    ],
+    [
+      "7890",
+      "FOOD AND KINDRED PRODUCTS",
+      "78262",
+      "2024",
+      "06",
+      "COMOROS",
+      "311"
+    ],
+    [
+      "7890",
+      "FOOD AND KINDRED PRODUCTS",
+      "40000",
+      "2024",
+      "07",
+      "COMOROS",
+      "311"
+    ],
+    [
+      "7890",
+      "FOOD AND KINDRED PRODUCTS",
+      "20000",
+      "2024",
+      "08",
+      "COMOROS",
+      "311"
+    ],
+    [
+      "7890",
+      "FOOD AND KINDRED PRODUCTS",
+      "57144",
+      "2024",
+      "09",
+      "COMOROS",
+      "311"
+    ],
+    [
+      "7890",
+      "FOOD AND KINDRED PRODUCTS",
+      "34078",
+      "2024",
+      "10",
+      "COMOROS",
+      "311"
+    ],
+    [
+      "7890",
+      "FOOD AND KINDRED PRODUCTS",
+      "42311",
+      "2024",
+      "11",
+      "COMOROS",
+      "311"
+    ],
+    [
+      "7890",
+      "FOOD AND KINDRED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "311"
+    ],
+    [
+      "7890",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "24352",
+      "2024",
+      "01",
+      "COMOROS",
+      "3116"
+    ],
+    [
+      "7890",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "0",
+      "2024",
+      "02",
+      "COMOROS",
+      "3116"
+    ],
+    [
+      "7890",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "COMOROS",
+      "3116"
+    ],
+    [
+      "7890",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "78400",
+      "2024",
+      "04",
+      "COMOROS",
+      "3116"
+    ],
+    [
+      "7890",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "65443",
+      "2024",
+      "05",
+      "COMOROS",
+      "3116"
+    ],
+    [
+      "7890",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "78262",
+      "2024",
+      "06",
+      "COMOROS",
+      "3116"
+    ],
+    [
+      "7890",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "40000",
+      "2024",
+      "07",
+      "COMOROS",
+      "3116"
+    ],
+    [
+      "7890",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "20000",
+      "2024",
+      "08",
+      "COMOROS",
+      "3116"
+    ],
+    [
+      "7890",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "57144",
+      "2024",
+      "09",
+      "COMOROS",
+      "3116"
+    ],
+    [
+      "7890",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "34078",
+      "2024",
+      "10",
+      "COMOROS",
+      "3116"
+    ],
+    [
+      "7890",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "42311",
+      "2024",
+      "11",
+      "COMOROS",
+      "3116"
+    ],
+    [
+      "7890",
+      "MEAT PRODUCTS AND MEAT PACKAGING PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "3116"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 2",
+      "24000",
+      "2024",
+      "07",
+      "COMOROS",
+      "32"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "08",
+      "COMOROS",
+      "32"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "32"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "32"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "32"
+    ],
+    [
+      "7890",
+      "MANUFACTURING, PART 2",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "32"
+    ],
+    [
+      "7890",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "1161750",
+      "2024",
+      "06",
+      "COMOROS",
+      "3333"
+    ],
+    [
+      "7890",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "07",
+      "COMOROS",
+      "3333"
+    ],
+    [
+      "7890",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "08",
+      "COMOROS",
+      "3333"
+    ],
+    [
+      "7890",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "3333"
+    ],
+    [
+      "7890",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "3333"
+    ],
+    [
+      "7890",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "3333"
+    ],
+    [
+      "7890",
+      "COMMERCIAL AND SERVICE INDUSTRY MACHINERY",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "3333"
+    ],
+    [
+      "7890",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "17179",
+      "2024",
+      "01",
+      "COMOROS",
+      "334"
+    ],
+    [
+      "7890",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "20887",
+      "2024",
+      "02",
+      "COMOROS",
+      "334"
+    ],
+    [
+      "7890",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "03",
+      "COMOROS",
+      "334"
+    ],
+    [
+      "7890",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "04",
+      "COMOROS",
+      "334"
+    ],
+    [
+      "7890",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "7996",
+      "2024",
+      "05",
+      "COMOROS",
+      "334"
+    ],
+    [
+      "7890",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "354432",
+      "2024",
+      "06",
+      "COMOROS",
+      "334"
+    ],
+    [
+      "7890",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "07",
+      "COMOROS",
+      "334"
+    ],
+    [
+      "7890",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "08",
+      "COMOROS",
+      "334"
+    ],
+    [
+      "7890",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "334"
+    ],
+    [
+      "7890",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "27848",
+      "2024",
+      "10",
+      "COMOROS",
+      "334"
+    ],
+    [
+      "7890",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "334"
+    ],
+    [
+      "7890",
+      "COMPUTER AND ELECTRONIC PRODUCTS",
+      "3195",
+      "2024",
+      "12",
+      "COMOROS",
+      "334"
+    ],
+    [
+      "7890",
+      "COMPUTER EQUIPMENT",
+      "12500",
+      "2024",
+      "10",
+      "COMOROS",
+      "3341"
+    ],
+    [
+      "7890",
+      "COMPUTER EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "3341"
+    ],
+    [
+      "7890",
+      "COMPUTER EQUIPMENT",
+      "3195",
+      "2024",
+      "12",
+      "COMOROS",
+      "3341"
+    ],
+    [
+      "7890",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "2682",
+      "2024",
+      "02",
+      "COMOROS",
+      "3344"
+    ],
+    [
+      "7890",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "03",
+      "COMOROS",
+      "3344"
+    ],
+    [
+      "7890",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "04",
+      "COMOROS",
+      "3344"
+    ],
+    [
+      "7890",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "05",
+      "COMOROS",
+      "3344"
+    ],
+    [
+      "7890",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "06",
+      "COMOROS",
+      "3344"
+    ],
+    [
+      "7890",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "07",
+      "COMOROS",
+      "3344"
+    ],
+    [
+      "7890",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "08",
+      "COMOROS",
+      "3344"
+    ],
+    [
+      "7890",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "3344"
+    ],
+    [
+      "7890",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "3344"
+    ],
+    [
+      "7890",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "3344"
+    ],
+    [
+      "7890",
+      "SEMICONDUCTORS AND OTHER ELECTRONIC COMPONENTS",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "3344"
+    ],
+    [
+      "7890",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "17179",
+      "2024",
+      "01",
+      "COMOROS",
+      "3345"
+    ],
+    [
+      "7890",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "12321",
+      "2024",
+      "02",
+      "COMOROS",
+      "3345"
+    ],
+    [
+      "7890",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "03",
+      "COMOROS",
+      "3345"
+    ],
+    [
+      "7890",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "04",
+      "COMOROS",
+      "3345"
+    ],
+    [
+      "7890",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "05",
+      "COMOROS",
+      "3345"
+    ],
+    [
+      "7890",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "46500",
+      "2024",
+      "06",
+      "COMOROS",
+      "3345"
+    ],
+    [
+      "7890",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "07",
+      "COMOROS",
+      "3345"
+    ],
+    [
+      "7890",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "08",
+      "COMOROS",
+      "3345"
+    ],
+    [
+      "7890",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "3345"
+    ],
+    [
+      "7890",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "3345"
+    ],
+    [
+      "7890",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "3345"
+    ],
+    [
+      "7890",
+      "NAVIGATIONAL, MEASURING, ELECTROMEDICAL, AND CONTROL INSTRUMENTS",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "3345"
+    ],
+    [
+      "7890",
+      "TRANSPORTATION EQUIPMENT",
+      "41572",
+      "2024",
+      "01",
+      "COMOROS",
+      "336"
+    ],
+    [
+      "7890",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "02",
+      "COMOROS",
+      "336"
+    ],
+    [
+      "7890",
+      "TRANSPORTATION EQUIPMENT",
+      "4608",
+      "2024",
+      "03",
+      "COMOROS",
+      "336"
+    ],
+    [
+      "7890",
+      "TRANSPORTATION EQUIPMENT",
+      "215642",
+      "2024",
+      "04",
+      "COMOROS",
+      "336"
+    ],
+    [
+      "7890",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "05",
+      "COMOROS",
+      "336"
+    ],
+    [
+      "7890",
+      "TRANSPORTATION EQUIPMENT",
+      "1665136",
+      "2024",
+      "06",
+      "COMOROS",
+      "336"
+    ],
+    [
+      "7890",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "COMOROS",
+      "336"
+    ],
+    [
+      "7890",
+      "TRANSPORTATION EQUIPMENT",
+      "194550",
+      "2024",
+      "08",
+      "COMOROS",
+      "336"
+    ],
+    [
+      "7890",
+      "TRANSPORTATION EQUIPMENT",
+      "52131",
+      "2024",
+      "09",
+      "COMOROS",
+      "336"
+    ],
+    [
+      "7890",
+      "TRANSPORTATION EQUIPMENT",
+      "195073",
+      "2024",
+      "10",
+      "COMOROS",
+      "336"
+    ],
+    [
+      "7890",
+      "TRANSPORTATION EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "336"
+    ],
+    [
+      "7890",
+      "TRANSPORTATION EQUIPMENT",
+      "50000",
+      "2024",
+      "12",
+      "COMOROS",
+      "336"
+    ],
+    [
+      "7890",
+      "MOTOR VEHICLES",
+      "41572",
+      "2024",
+      "01",
+      "COMOROS",
+      "3361"
+    ],
+    [
+      "7890",
+      "MOTOR VEHICLES",
+      "0",
+      "2024",
+      "02",
+      "COMOROS",
+      "3361"
+    ],
+    [
+      "7890",
+      "MOTOR VEHICLES",
+      "0",
+      "2024",
+      "03",
+      "COMOROS",
+      "3361"
+    ],
+    [
+      "7890",
+      "MOTOR VEHICLES",
+      "215642",
+      "2024",
+      "04",
+      "COMOROS",
+      "3361"
+    ],
+    [
+      "7890",
+      "MOTOR VEHICLES",
+      "0",
+      "2024",
+      "05",
+      "COMOROS",
+      "3361"
+    ],
+    [
+      "7890",
+      "MOTOR VEHICLES",
+      "100105",
+      "2024",
+      "06",
+      "COMOROS",
+      "3361"
+    ],
+    [
+      "7890",
+      "MOTOR VEHICLES",
+      "0",
+      "2024",
+      "07",
+      "COMOROS",
+      "3361"
+    ],
+    [
+      "7890",
+      "MOTOR VEHICLES",
+      "0",
+      "2024",
+      "08",
+      "COMOROS",
+      "3361"
+    ],
+    [
+      "7890",
+      "MOTOR VEHICLES",
+      "52131",
+      "2024",
+      "09",
+      "COMOROS",
+      "3361"
+    ],
+    [
+      "7890",
+      "MOTOR VEHICLES",
+      "41903",
+      "2024",
+      "10",
+      "COMOROS",
+      "3361"
+    ],
+    [
+      "7890",
+      "MOTOR VEHICLES",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "3361"
+    ],
+    [
+      "7890",
+      "MOTOR VEHICLES",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "3361"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1380",
+      "2024",
+      "01",
+      "COMOROS",
+      "990"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "302",
+      "2024",
+      "02",
+      "COMOROS",
+      "990"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "76",
+      "2024",
+      "03",
+      "COMOROS",
+      "990"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4881",
+      "2024",
+      "04",
+      "COMOROS",
+      "990"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1219",
+      "2024",
+      "05",
+      "COMOROS",
+      "990"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "51188",
+      "2024",
+      "06",
+      "COMOROS",
+      "990"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1062",
+      "2024",
+      "07",
+      "COMOROS",
+      "990"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5765",
+      "2024",
+      "08",
+      "COMOROS",
+      "990"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1814",
+      "2024",
+      "09",
+      "COMOROS",
+      "990"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5448",
+      "2024",
+      "10",
+      "COMOROS",
+      "990"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "794",
+      "2024",
+      "11",
+      "COMOROS",
+      "990"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "830",
+      "2024",
+      "12",
+      "COMOROS",
+      "990"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1380",
+      "2024",
+      "01",
+      "COMOROS",
+      "9900"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "302",
+      "2024",
+      "02",
+      "COMOROS",
+      "9900"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "76",
+      "2024",
+      "03",
+      "COMOROS",
+      "9900"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4881",
+      "2024",
+      "04",
+      "COMOROS",
+      "9900"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1219",
+      "2024",
+      "05",
+      "COMOROS",
+      "9900"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "51188",
+      "2024",
+      "06",
+      "COMOROS",
+      "9900"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1062",
+      "2024",
+      "07",
+      "COMOROS",
+      "9900"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5765",
+      "2024",
+      "08",
+      "COMOROS",
+      "9900"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1814",
+      "2024",
+      "09",
+      "COMOROS",
+      "9900"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5448",
+      "2024",
+      "10",
+      "COMOROS",
+      "9900"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "794",
+      "2024",
+      "11",
+      "COMOROS",
+      "9900"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "830",
+      "2024",
+      "12",
+      "COMOROS",
+      "9900"
+    ],
+    [
+      "7890",
+      "COMMUNICATIONS EQUIPMENT",
+      "5884",
+      "2024",
+      "02",
+      "COMOROS",
+      "3342"
+    ],
+    [
+      "7890",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "03",
+      "COMOROS",
+      "3342"
+    ],
+    [
+      "7890",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "04",
+      "COMOROS",
+      "3342"
+    ],
+    [
+      "7890",
+      "COMMUNICATIONS EQUIPMENT",
+      "7996",
+      "2024",
+      "05",
+      "COMOROS",
+      "3342"
+    ],
+    [
+      "7890",
+      "COMMUNICATIONS EQUIPMENT",
+      "307932",
+      "2024",
+      "06",
+      "COMOROS",
+      "3342"
+    ],
+    [
+      "7890",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "07",
+      "COMOROS",
+      "3342"
+    ],
+    [
+      "7890",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "08",
+      "COMOROS",
+      "3342"
+    ],
+    [
+      "7890",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "3342"
+    ],
+    [
+      "7890",
+      "COMMUNICATIONS EQUIPMENT",
+      "15348",
+      "2024",
+      "10",
+      "COMOROS",
+      "3342"
+    ],
+    [
+      "7890",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "3342"
+    ],
+    [
+      "7890",
+      "COMMUNICATIONS EQUIPMENT",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "3342"
+    ],
+    [
+      "7890",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "12433",
+      "2024",
+      "08",
+      "COMOROS",
+      "335"
+    ],
+    [
+      "7890",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "335"
+    ],
+    [
+      "7890",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "335"
+    ],
+    [
+      "7890",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "5505",
+      "2024",
+      "11",
+      "COMOROS",
+      "335"
+    ],
+    [
+      "7890",
+      "ELECTRICAL EQUIPMENT, APPLIANCES, AND COMPONENT",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "335"
+    ],
+    [
+      "7890",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "12433",
+      "2024",
+      "08",
+      "COMOROS",
+      "3359"
+    ],
+    [
+      "7890",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "3359"
+    ],
+    [
+      "7890",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "3359"
+    ],
+    [
+      "7890",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "5505",
+      "2024",
+      "11",
+      "COMOROS",
+      "3359"
+    ],
+    [
+      "7890",
+      "ELECTRICAL EQUIPMENT AND COMPONENTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "3359"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1380",
+      "2024",
+      "01",
+      "COMOROS",
+      "99"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "302",
+      "2024",
+      "02",
+      "COMOROS",
+      "99"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "76",
+      "2024",
+      "03",
+      "COMOROS",
+      "99"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "4881",
+      "2024",
+      "04",
+      "COMOROS",
+      "99"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1219",
+      "2024",
+      "05",
+      "COMOROS",
+      "99"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "51188",
+      "2024",
+      "06",
+      "COMOROS",
+      "99"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1062",
+      "2024",
+      "07",
+      "COMOROS",
+      "99"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5765",
+      "2024",
+      "08",
+      "COMOROS",
+      "99"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "1814",
+      "2024",
+      "09",
+      "COMOROS",
+      "99"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "5448",
+      "2024",
+      "10",
+      "COMOROS",
+      "99"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "794",
+      "2024",
+      "11",
+      "COMOROS",
+      "99"
+    ],
+    [
+      "7890",
+      "OTHER SPECIAL CLASSIFICATION PROVISIONS",
+      "830",
+      "2024",
+      "12",
+      "COMOROS",
+      "99"
+    ],
+    [
+      "7890",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "4608",
+      "2024",
+      "03",
+      "COMOROS",
+      "3364"
+    ],
+    [
+      "7890",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "04",
+      "COMOROS",
+      "3364"
+    ],
+    [
+      "7890",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "05",
+      "COMOROS",
+      "3364"
+    ],
+    [
+      "7890",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "1565031",
+      "2024",
+      "06",
+      "COMOROS",
+      "3364"
+    ],
+    [
+      "7890",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "07",
+      "COMOROS",
+      "3364"
+    ],
+    [
+      "7890",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "194550",
+      "2024",
+      "08",
+      "COMOROS",
+      "3364"
+    ],
+    [
+      "7890",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "3364"
+    ],
+    [
+      "7890",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "153170",
+      "2024",
+      "10",
+      "COMOROS",
+      "3364"
+    ],
+    [
+      "7890",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "3364"
+    ],
+    [
+      "7890",
+      "AEROSPACE PRODUCTS AND PARTS",
+      "50000",
+      "2024",
+      "12",
+      "COMOROS",
+      "3364"
+    ],
+    [
+      "7890",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "23330",
+      "2024",
+      "08",
+      "COMOROS",
+      "339"
+    ],
+    [
+      "7890",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "339"
+    ],
+    [
+      "7890",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "339"
+    ],
+    [
+      "7890",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "339"
+    ],
+    [
+      "7890",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "339"
+    ],
+    [
+      "7890",
+      "CUTLERY AND HANDTOOLS",
+      "10992",
+      "2024",
+      "08",
+      "COMOROS",
+      "3322"
+    ],
+    [
+      "7890",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "3322"
+    ],
+    [
+      "7890",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "3322"
+    ],
+    [
+      "7890",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "3322"
+    ],
+    [
+      "7890",
+      "CUTLERY AND HANDTOOLS",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "3322"
+    ],
+    [
+      "7890",
+      "FURNITURE AND FIXTURES",
+      "13674",
+      "2024",
+      "08",
+      "COMOROS",
+      "337"
+    ],
+    [
+      "7890",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "337"
+    ],
+    [
+      "7890",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "337"
+    ],
+    [
+      "7890",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "337"
+    ],
+    [
+      "7890",
+      "FURNITURE AND FIXTURES",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "337"
+    ],
+    [
+      "7890",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "13674",
+      "2024",
+      "08",
+      "COMOROS",
+      "3372"
+    ],
+    [
+      "7890",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "3372"
+    ],
+    [
+      "7890",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "3372"
+    ],
+    [
+      "7890",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "3372"
+    ],
+    [
+      "7890",
+      "OFFICE FURNITURE (INCLUDING FIXTURES)",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "3372"
+    ],
+    [
+      "7890",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "23330",
+      "2024",
+      "08",
+      "COMOROS",
+      "3399"
+    ],
+    [
+      "7890",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "3399"
+    ],
+    [
+      "7890",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "3399"
+    ],
+    [
+      "7890",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "3399"
+    ],
+    [
+      "7890",
+      "MISCELLANEOUS MANUFACTURED COMMODITIES",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "3399"
+    ],
+    [
+      "7890",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "83298",
+      "2024",
+      "08",
+      "COMOROS",
+      "332"
+    ],
+    [
+      "7890",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "332"
+    ],
+    [
+      "7890",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "332"
+    ],
+    [
+      "7890",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "332"
+    ],
+    [
+      "7890",
+      "FABRICATED METAL PRODUCTS, NESOI",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "332"
+    ],
+    [
+      "7890",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "24044",
+      "2024",
+      "08",
+      "COMOROS",
+      "3327"
+    ],
+    [
+      "7890",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "3327"
+    ],
+    [
+      "7890",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "3327"
+    ],
+    [
+      "7890",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "3327"
+    ],
+    [
+      "7890",
+      "BOLTS, NUTS, SCREWS, RIVETS, WASHERS AND OTHER TURNED PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "3327"
+    ],
+    [
+      "7890",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "48262",
+      "2024",
+      "08",
+      "COMOROS",
+      "3329"
+    ],
+    [
+      "7890",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "3329"
+    ],
+    [
+      "7890",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "3329"
+    ],
+    [
+      "7890",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "3329"
+    ],
+    [
+      "7890",
+      "OTHER FABRICATED METAL PRODUCTS",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "3329"
+    ],
+    [
+      "7890",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "1161750",
+      "2024",
+      "06",
+      "COMOROS",
+      "333"
+    ],
+    [
+      "7890",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "07",
+      "COMOROS",
+      "333"
+    ],
+    [
+      "7890",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "08",
+      "COMOROS",
+      "333"
+    ],
+    [
+      "7890",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "09",
+      "COMOROS",
+      "333"
+    ],
+    [
+      "7890",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "10",
+      "COMOROS",
+      "333"
+    ],
+    [
+      "7890",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "11",
+      "COMOROS",
+      "333"
+    ],
+    [
+      "7890",
+      "MACHINERY, EXCEPT ELECTRICAL",
+      "0",
+      "2024",
+      "12",
+      "COMOROS",
+      "333"
+    ]
+  ]
+}

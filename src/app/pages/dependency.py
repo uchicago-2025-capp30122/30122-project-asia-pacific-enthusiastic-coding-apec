@@ -19,8 +19,8 @@ from get_data_prod_agri import get_data_agri, url, params
 
 # 0. Register as Dash page
 dash.register_page(__name__, path="/dependency",
-                   title="Line graph of import dependency trend",
-                   name="Line graph of import dependency trend")
+                   title="Dependency",
+                   name="Dependency")
 
 # 1. App Layout
 layout = html.Div(

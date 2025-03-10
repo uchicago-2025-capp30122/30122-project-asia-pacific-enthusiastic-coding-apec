@@ -18,8 +18,8 @@ from get_data_prod_agri import get_data_agri, url, params
 
 # 0. Register as Dash page
 dash.register_page(__name__, path="/hhi",
-                   title="Dependence scatter plot",
-                   name="Dependence scatter plot")
+                   title="HHI",
+                   name="HHI")
 
 # 1. App Layout
 

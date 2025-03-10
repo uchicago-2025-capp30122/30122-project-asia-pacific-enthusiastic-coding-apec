@@ -115,7 +115,6 @@ def render(app: Dash) -> html.Div:
             )
         
         return fig
-        #return html.Div([dcc.Graph(figure=fig)], id=ids.HHINDEX_CHART)
 
 
 

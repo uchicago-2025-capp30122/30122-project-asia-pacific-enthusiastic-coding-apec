@@ -1,6 +1,6 @@
 import httpx
 import csv
-from src.get_trade_data import FetchException, combine_url_with_params, url_to_cache_key
+from get_trade_data import FetchException, combine_url_with_params, url_to_cache_key
 from pathlib import Path
 import json
 import time

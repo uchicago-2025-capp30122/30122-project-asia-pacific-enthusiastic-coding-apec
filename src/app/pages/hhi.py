@@ -14,11 +14,12 @@ PARENT_DIR = Path(__file__).parent.parent.parent
 sys.path.append(str(PARENT_DIR))
 import get_trade_data
 import import_production
+from get_data_prod_agri import get_data_agri, api_key, url, params
 
 # 0. Register as Dash page
-dash.register_page(__name__, path="/dependance",
-                   title="Dependance",
-                   name="Dependance")
+dash.register_page(__name__, path="/hhi",
+                   title="Dependence scatter plot",
+                   name="Dependence scatter plot")
 
 # 1. App Layout
 
@@ -28,7 +29,7 @@ month_list = [
 
 layout = html.Div(
     [
-        html.H4("US Trade dependance"),
+        html.H4("US Trade dependence"),
         html.P(
             "In this graph, we analyze the dependency of each item based "
             "on its NAICS code. The y-axis of this scatter plot "
@@ -54,8 +55,8 @@ layout = html.Div(
         dcc.Dropdown(
             id=ids.YEAR_DROPDOWN,
             options=[{"label": year, "value": str(year)} for year in range(
-                2010, current_year)],
-            value=str(current_year - 1),
+                2010, current_year + 1)],
+            value=str(2024),
             multi=False,
         ),
         html.Label("Month:"),
@@ -82,7 +83,7 @@ layout = html.Div(
                         html.Li(
                             "Import dependency = Import / "
                             "(Production + Import), "
-                            "Where Import represents the total "
+                            "where Import represents the total "
                             "amount of imports and Production represents the "
                             "total amount of domestic production in the U.S."
                         ),
@@ -131,19 +132,28 @@ def add_production_data(hhi_df: pd.DataFrame):
         Dataframe with added production data.
     """
 
-    print(f"csv exist{os.path.exists(PARENT_DIR / "four_digits_NAICS.csv")}")
     if not os.path.exists(PARENT_DIR / "four_digits_NAICS.csv"):
         import_production.get_data_census(
             "/2022/ecncomp?get=NAICS2017,RCPTOT&for=state:*")
+    
+    if not os.path.exists(PARENT_DIR / "data/agriculture_NAICS.csv"):
+        get_data_agri(url, params)
 
     # Create a dic of {NAICS: production} to find values efficiently
-    df = pd.read_csv(PARENT_DIR / "four_digits_NAICS.csv")
-    production_dic = pd.Series(df["Production"].values * 1000, index=df[
-        "NAIC 2017-4digits"].astype(str)).to_dict()
+    df_pro = pd.read_csv(PARENT_DIR / "data/four_digits_NAICS.csv")
+    df_agri = pd.read_csv(PARENT_DIR / "data/agriculture_NAICS.csv")
+    df_agri = df_agri.rename(columns = {"NAICS": "NAIC 2017-4digits"})
+    df_agri["Production"] = df_agri["Production"].str.replace(
+                                                        ",", "").astype(float)
+    df = pd.concat([df_pro, df_agri], ignore_index=True)
 
-    hhi_df["Production"] = hhi_df["NAICS"].apply(
-        lambda key: production_dic.get(key, 0))
-
+    # convert values per month in dollars
+    production_dic = pd.Series(df["Production"].values * 1000 / 12, 
+                        index = df["NAIC 2017-4digits"].astype(str)).to_dict()
+    
+    hhi_df["Production"] = hhi_df["NAICS"].apply(lambda key: 
+                                                    production_dic.get(key, 0))
+    
     return hhi_df
 
 # 3. Interactive controls

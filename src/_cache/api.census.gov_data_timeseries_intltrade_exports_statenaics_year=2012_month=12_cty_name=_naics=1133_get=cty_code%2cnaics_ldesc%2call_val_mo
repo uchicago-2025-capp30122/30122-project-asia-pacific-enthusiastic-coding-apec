@@ -1,0 +1,1262 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Sun, 09 Mar 2025 20:12:10 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a43096fcae4b98ea5930b4f6ca54a07439f02f999a5f54d1102e4870dc79cacb67da0aaedfab2b0ed71ee47b0f8c3efa29; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "-",
+      "TIMBER AND LOGS",
+      "181959455",
+      "2012",
+      "12",
+      "TOTAL FOR ALL COUNTRIES",
+      "1133"
+    ],
+    [
+      "0001",
+      "TIMBER AND LOGS",
+      "1197462",
+      "2012",
+      "12",
+      "OPEC",
+      "1133"
+    ],
+    [
+      "0003",
+      "TIMBER AND LOGS",
+      "11747774",
+      "2012",
+      "12",
+      "EUROPEAN UNION",
+      "1133"
+    ],
+    [
+      "0014",
+      "TIMBER AND LOGS",
+      "133748295",
+      "2012",
+      "12",
+      "PACIFIC RIM COUNTRIES",
+      "1133"
+    ],
+    [
+      "0017",
+      "TIMBER AND LOGS",
+      "933505",
+      "2012",
+      "12",
+      "CAFTA-DR",
+      "1133"
+    ],
+    [
+      "0020",
+      "TIMBER AND LOGS",
+      "23464375",
+      "2012",
+      "12",
+      "NAFTA",
+      "1133"
+    ],
+    [
+      "0021",
+      "TIMBER AND LOGS",
+      "1946753",
+      "2012",
+      "12",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "1133"
+    ],
+    [
+      "0022",
+      "TIMBER AND LOGS",
+      "85326478",
+      "2012",
+      "12",
+      "OECD",
+      "1133"
+    ],
+    [
+      "0023",
+      "TIMBER AND LOGS",
+      "35559489",
+      "2012",
+      "12",
+      "NATO",
+      "1133"
+    ],
+    [
+      "0024",
+      "TIMBER AND LOGS",
+      "1013248",
+      "2012",
+      "12",
+      "LAFTA",
+      "1133"
+    ],
+    [
+      "0025",
+      "TIMBER AND LOGS",
+      "9614410",
+      "2012",
+      "12",
+      "EURO AREA",
+      "1133"
+    ],
+    [
+      "0026",
+      "TIMBER AND LOGS",
+      "161465215",
+      "2012",
+      "12",
+      "APEC",
+      "1133"
+    ],
+    [
+      "0027",
+      "TIMBER AND LOGS",
+      "5256027",
+      "2012",
+      "12",
+      "ASEAN",
+      "1133"
+    ],
+    [
+      "0028",
+      "TIMBER AND LOGS",
+      "624376",
+      "2012",
+      "12",
+      "CACM",
+      "1133"
+    ],
+    [
+      "1220",
+      "TIMBER AND LOGS",
+      "22821947",
+      "2012",
+      "12",
+      "CANADA",
+      "1133"
+    ],
+    [
+      "1XXX",
+      "TIMBER AND LOGS",
+      "23464375",
+      "2012",
+      "12",
+      "NORTH AMERICA",
+      "1133"
+    ],
+    [
+      "2010",
+      "TIMBER AND LOGS",
+      "642428",
+      "2012",
+      "12",
+      "MEXICO",
+      "1133"
+    ],
+    [
+      "2050",
+      "TIMBER AND LOGS",
+      "190388",
+      "2012",
+      "12",
+      "GUATEMALA",
+      "1133"
+    ],
+    [
+      "2080",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "BELIZE",
+      "1133"
+    ],
+    [
+      "2110",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "EL SALVADOR",
+      "1133"
+    ],
+    [
+      "2150",
+      "TIMBER AND LOGS",
+      "39050",
+      "2012",
+      "12",
+      "HONDURAS",
+      "1133"
+    ],
+    [
+      "2190",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "NICARAGUA",
+      "1133"
+    ],
+    [
+      "2230",
+      "TIMBER AND LOGS",
+      "394938",
+      "2012",
+      "12",
+      "COSTA RICA",
+      "1133"
+    ],
+    [
+      "2250",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "PANAMA",
+      "1133"
+    ],
+    [
+      "2320",
+      "TIMBER AND LOGS",
+      "30200",
+      "2012",
+      "12",
+      "BERMUDA",
+      "1133"
+    ],
+    [
+      "2360",
+      "TIMBER AND LOGS",
+      "82535",
+      "2012",
+      "12",
+      "BAHAMAS",
+      "1133"
+    ],
+    [
+      "2410",
+      "TIMBER AND LOGS",
+      "445813",
+      "2012",
+      "12",
+      "JAMAICA",
+      "1133"
+    ],
+    [
+      "2430",
+      "TIMBER AND LOGS",
+      "11023",
+      "2012",
+      "12",
+      "TURKS AND CAICOS ISLANDS",
+      "1133"
+    ],
+    [
+      "2440",
+      "TIMBER AND LOGS",
+      "7860",
+      "2012",
+      "12",
+      "CAYMAN ISLANDS",
+      "1133"
+    ],
+    [
+      "2450",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "HAITI",
+      "1133"
+    ],
+    [
+      "2470",
+      "TIMBER AND LOGS",
+      "309129",
+      "2012",
+      "12",
+      "DOMINICAN REPUBLIC",
+      "1133"
+    ],
+    [
+      "2481",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "ANGUILLA",
+      "1133"
+    ],
+    [
+      "2482",
+      "TIMBER AND LOGS",
+      "172805",
+      "2012",
+      "12",
+      "BRITISH VIRGIN ISLANDS",
+      "1133"
+    ],
+    [
+      "2483",
+      "TIMBER AND LOGS",
+      "5512",
+      "2012",
+      "12",
+      "ST KITTS AND NEVIS",
+      "1133"
+    ],
+    [
+      "2484",
+      "TIMBER AND LOGS",
+      "42946",
+      "2012",
+      "12",
+      "ANTIGUA AND BARBUDA",
+      "1133"
+    ],
+    [
+      "2485",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "MONTSERRAT",
+      "1133"
+    ],
+    [
+      "2486",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "DOMINICA",
+      "1133"
+    ],
+    [
+      "2487",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "ST LUCIA",
+      "1133"
+    ],
+    [
+      "2488",
+      "TIMBER AND LOGS",
+      "10964",
+      "2012",
+      "12",
+      "ST VINCENT AND THE GRENADINES",
+      "1133"
+    ],
+    [
+      "2720",
+      "TIMBER AND LOGS",
+      "58090",
+      "2012",
+      "12",
+      "BARBADOS",
+      "1133"
+    ],
+    [
+      "2740",
+      "TIMBER AND LOGS",
+      "128205",
+      "2012",
+      "12",
+      "TRINIDAD AND TOBAGO",
+      "1133"
+    ],
+    [
+      "2774",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "SINT MAARTEN",
+      "1133"
+    ],
+    [
+      "2777",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "CURACAO",
+      "1133"
+    ],
+    [
+      "2779",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "ARUBA",
+      "1133"
+    ],
+    [
+      "2831",
+      "TIMBER AND LOGS",
+      "234906",
+      "2012",
+      "12",
+      "GUADELOUPE",
+      "1133"
+    ],
+    [
+      "2XXX",
+      "TIMBER AND LOGS",
+      "2164364",
+      "2012",
+      "12",
+      "CENTRAL AMERICA",
+      "1133"
+    ],
+    [
+      "3010",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "COLOMBIA",
+      "1133"
+    ],
+    [
+      "3070",
+      "TIMBER AND LOGS",
+      "160664",
+      "2012",
+      "12",
+      "VENEZUELA",
+      "1133"
+    ],
+    [
+      "3120",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "GUYANA",
+      "1133"
+    ],
+    [
+      "3150",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "SURINAME",
+      "1133"
+    ],
+    [
+      "3310",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "ECUADOR",
+      "1133"
+    ],
+    [
+      "3330",
+      "TIMBER AND LOGS",
+      "121523",
+      "2012",
+      "12",
+      "PERU",
+      "1133"
+    ],
+    [
+      "3370",
+      "TIMBER AND LOGS",
+      "79180",
+      "2012",
+      "12",
+      "CHILE",
+      "1133"
+    ],
+    [
+      "3510",
+      "TIMBER AND LOGS",
+      "9453",
+      "2012",
+      "12",
+      "BRAZIL",
+      "1133"
+    ],
+    [
+      "3550",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "URUGUAY",
+      "1133"
+    ],
+    [
+      "3570",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "ARGENTINA",
+      "1133"
+    ],
+    [
+      "3XXX",
+      "TIMBER AND LOGS",
+      "370820",
+      "2012",
+      "12",
+      "SOUTH AMERICA",
+      "1133"
+    ],
+    [
+      "4000",
+      "TIMBER AND LOGS",
+      "55076",
+      "2012",
+      "12",
+      "ICELAND",
+      "1133"
+    ],
+    [
+      "4010",
+      "TIMBER AND LOGS",
+      "114608",
+      "2012",
+      "12",
+      "SWEDEN",
+      "1133"
+    ],
+    [
+      "4039",
+      "TIMBER AND LOGS",
+      "61190",
+      "2012",
+      "12",
+      "NORWAY",
+      "1133"
+    ],
+    [
+      "4050",
+      "TIMBER AND LOGS",
+      "58057",
+      "2012",
+      "12",
+      "FINLAND",
+      "1133"
+    ],
+    [
+      "4099",
+      "TIMBER AND LOGS",
+      "128737",
+      "2012",
+      "12",
+      "DENMARK",
+      "1133"
+    ],
+    [
+      "4120",
+      "TIMBER AND LOGS",
+      "1869558",
+      "2012",
+      "12",
+      "UNITED KINGDOM",
+      "1133"
+    ],
+    [
+      "4190",
+      "TIMBER AND LOGS",
+      "105181",
+      "2012",
+      "12",
+      "IRELAND",
+      "1133"
+    ],
+    [
+      "4210",
+      "TIMBER AND LOGS",
+      "90041",
+      "2012",
+      "12",
+      "NETHERLANDS",
+      "1133"
+    ],
+    [
+      "4231",
+      "TIMBER AND LOGS",
+      "411068",
+      "2012",
+      "12",
+      "BELGIUM",
+      "1133"
+    ],
+    [
+      "4279",
+      "TIMBER AND LOGS",
+      "126232",
+      "2012",
+      "12",
+      "FRANCE",
+      "1133"
+    ],
+    [
+      "4280",
+      "TIMBER AND LOGS",
+      "2473750",
+      "2012",
+      "12",
+      "GERMANY",
+      "1133"
+    ],
+    [
+      "4330",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "AUSTRIA",
+      "1133"
+    ],
+    [
+      "4351",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "CZECH REPUBLIC",
+      "1133"
+    ],
+    [
+      "4359",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "SLOVAKIA",
+      "1133"
+    ],
+    [
+      "4419",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "SWITZERLAND",
+      "1133"
+    ],
+    [
+      "4470",
+      "TIMBER AND LOGS",
+      "54912",
+      "2012",
+      "12",
+      "ESTONIA",
+      "1133"
+    ],
+    [
+      "4510",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "LITHUANIA",
+      "1133"
+    ],
+    [
+      "4550",
+      "TIMBER AND LOGS",
+      "20461",
+      "2012",
+      "12",
+      "POLAND",
+      "1133"
+    ],
+    [
+      "4621",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "RUSSIA",
+      "1133"
+    ],
+    [
+      "4622",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "BELARUS",
+      "1133"
+    ],
+    [
+      "4631",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "ARMENIA",
+      "1133"
+    ],
+    [
+      "4633",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "GEORGIA",
+      "1133"
+    ],
+    [
+      "4700",
+      "TIMBER AND LOGS",
+      "441954",
+      "2012",
+      "12",
+      "SPAIN",
+      "1133"
+    ],
+    [
+      "4710",
+      "TIMBER AND LOGS",
+      "846376",
+      "2012",
+      "12",
+      "PORTUGAL",
+      "1133"
+    ],
+    [
+      "4730",
+      "TIMBER AND LOGS",
+      "15000",
+      "2012",
+      "12",
+      "MALTA",
+      "1133"
+    ],
+    [
+      "4759",
+      "TIMBER AND LOGS",
+      "4527534",
+      "2012",
+      "12",
+      "ITALY",
+      "1133"
+    ],
+    [
+      "4792",
+      "TIMBER AND LOGS",
+      "419624",
+      "2012",
+      "12",
+      "SLOVENIA",
+      "1133"
+    ],
+    [
+      "4810",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "ALBANIA",
+      "1133"
+    ],
+    [
+      "4840",
+      "TIMBER AND LOGS",
+      "12855",
+      "2012",
+      "12",
+      "GREECE",
+      "1133"
+    ],
+    [
+      "4890",
+      "TIMBER AND LOGS",
+      "1198174",
+      "2012",
+      "12",
+      "TURKEY",
+      "1133"
+    ],
+    [
+      "4910",
+      "TIMBER AND LOGS",
+      "31826",
+      "2012",
+      "12",
+      "CYPRUS",
+      "1133"
+    ],
+    [
+      "4XXX",
+      "TIMBER AND LOGS",
+      "13062214",
+      "2012",
+      "12",
+      "EUROPE",
+      "1133"
+    ],
+    [
+      "5040",
+      "TIMBER AND LOGS",
+      "711708",
+      "2012",
+      "12",
+      "LEBANON",
+      "1133"
+    ],
+    [
+      "5081",
+      "TIMBER AND LOGS",
+      "142769",
+      "2012",
+      "12",
+      "ISRAEL",
+      "1133"
+    ],
+    [
+      "5110",
+      "TIMBER AND LOGS",
+      "472449",
+      "2012",
+      "12",
+      "JORDAN",
+      "1133"
+    ],
+    [
+      "5130",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "KUWAIT",
+      "1133"
+    ],
+    [
+      "5170",
+      "TIMBER AND LOGS",
+      "270950",
+      "2012",
+      "12",
+      "SAUDI ARABIA",
+      "1133"
+    ],
+    [
+      "5180",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "QATAR",
+      "1133"
+    ],
+    [
+      "5200",
+      "TIMBER AND LOGS",
+      "333848",
+      "2012",
+      "12",
+      "UNITED ARAB EMIRATES",
+      "1133"
+    ],
+    [
+      "5230",
+      "TIMBER AND LOGS",
+      "104412",
+      "2012",
+      "12",
+      "OMAN",
+      "1133"
+    ],
+    [
+      "5250",
+      "TIMBER AND LOGS",
+      "286738",
+      "2012",
+      "12",
+      "BAHRAIN",
+      "1133"
+    ],
+    [
+      "5310",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "AFGHANISTAN",
+      "1133"
+    ],
+    [
+      "5330",
+      "TIMBER AND LOGS",
+      "932753",
+      "2012",
+      "12",
+      "INDIA",
+      "1133"
+    ],
+    [
+      "5350",
+      "TIMBER AND LOGS",
+      "169962",
+      "2012",
+      "12",
+      "PAKISTAN",
+      "1133"
+    ],
+    [
+      "5380",
+      "TIMBER AND LOGS",
+      "116739",
+      "2012",
+      "12",
+      "BANGLADESH",
+      "1133"
+    ],
+    [
+      "5490",
+      "TIMBER AND LOGS",
+      "576414",
+      "2012",
+      "12",
+      "THAILAND",
+      "1133"
+    ],
+    [
+      "5520",
+      "TIMBER AND LOGS",
+      "3475428",
+      "2012",
+      "12",
+      "VIETNAM",
+      "1133"
+    ],
+    [
+      "5570",
+      "TIMBER AND LOGS",
+      "563038",
+      "2012",
+      "12",
+      "MALAYSIA",
+      "1133"
+    ],
+    [
+      "5590",
+      "TIMBER AND LOGS",
+      "70446",
+      "2012",
+      "12",
+      "SINGAPORE",
+      "1133"
+    ],
+    [
+      "5600",
+      "TIMBER AND LOGS",
+      "539123",
+      "2012",
+      "12",
+      "INDONESIA",
+      "1133"
+    ],
+    [
+      "5650",
+      "TIMBER AND LOGS",
+      "31578",
+      "2012",
+      "12",
+      "PHILIPPINES",
+      "1133"
+    ],
+    [
+      "5660",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "MACAU",
+      "1133"
+    ],
+    [
+      "5700",
+      "TIMBER AND LOGS",
+      "81605158",
+      "2012",
+      "12",
+      "CHINA",
+      "1133"
+    ],
+    [
+      "5800",
+      "TIMBER AND LOGS",
+      "9580664",
+      "2012",
+      "12",
+      "KOREA, SOUTH",
+      "1133"
+    ],
+    [
+      "5820",
+      "TIMBER AND LOGS",
+      "1257883",
+      "2012",
+      "12",
+      "HONG KONG",
+      "1133"
+    ],
+    [
+      "5830",
+      "TIMBER AND LOGS",
+      "1056303",
+      "2012",
+      "12",
+      "TAIWAN",
+      "1133"
+    ],
+    [
+      "5880",
+      "TIMBER AND LOGS",
+      "38847529",
+      "2012",
+      "12",
+      "JAPAN",
+      "1133"
+    ],
+    [
+      "5XXX",
+      "TIMBER AND LOGS",
+      "141145892",
+      "2012",
+      "12",
+      "ASIA",
+      "1133"
+    ],
+    [
+      "6021",
+      "TIMBER AND LOGS",
+      "61782",
+      "2012",
+      "12",
+      "AUSTRALIA",
+      "1133"
+    ],
+    [
+      "6024",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "CHRISTMAS ISLAND",
+      "1133"
+    ],
+    [
+      "6141",
+      "TIMBER AND LOGS",
+      "134791",
+      "2012",
+      "12",
+      "NEW ZEALAND",
+      "1133"
+    ],
+    [
+      "6412",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "NEW CALEDONIA",
+      "1133"
+    ],
+    [
+      "6414",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "FRENCH POLYNESIA",
+      "1133"
+    ],
+    [
+      "6810",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "MARSHALL ISLANDS",
+      "1133"
+    ],
+    [
+      "6830",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "PALAU",
+      "1133"
+    ],
+    [
+      "6XXX",
+      "TIMBER AND LOGS",
+      "196573",
+      "2012",
+      "12",
+      "AUSTRALIA AND OCEANIA",
+      "1133"
+    ],
+    [
+      "7140",
+      "TIMBER AND LOGS",
+      "44686",
+      "2012",
+      "12",
+      "MOROCCO",
+      "1133"
+    ],
+    [
+      "7210",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "ALGERIA",
+      "1133"
+    ],
+    [
+      "7250",
+      "TIMBER AND LOGS",
+      "432000",
+      "2012",
+      "12",
+      "LIBYA",
+      "1133"
+    ],
+    [
+      "7290",
+      "TIMBER AND LOGS",
+      "960220",
+      "2012",
+      "12",
+      "EGYPT",
+      "1133"
+    ],
+    [
+      "7380",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "EQUATORIAL GUINEA",
+      "1133"
+    ],
+    [
+      "7490",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "GHANA",
+      "1133"
+    ],
+    [
+      "7500",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "GAMBIA",
+      "1133"
+    ],
+    [
+      "7530",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "NIGERIA",
+      "1133"
+    ],
+    [
+      "7560",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "CHAD",
+      "1133"
+    ],
+    [
+      "7800",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "SEYCHELLES",
+      "1133"
+    ],
+    [
+      "7850",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "MAURITIUS",
+      "1133"
+    ],
+    [
+      "7910",
+      "TIMBER AND LOGS",
+      "118311",
+      "2012",
+      "12",
+      "SOUTH AFRICA",
+      "1133"
+    ],
+    [
+      "7950",
+      "TIMBER AND LOGS",
+      "0",
+      "2012",
+      "12",
+      "ESWATINI",
+      "1133"
+    ],
+    [
+      "7XXX",
+      "TIMBER AND LOGS",
+      "1555217",
+      "2012",
+      "12",
+      "AFRICA",
+      "1133"
+    ]
+  ]
+}

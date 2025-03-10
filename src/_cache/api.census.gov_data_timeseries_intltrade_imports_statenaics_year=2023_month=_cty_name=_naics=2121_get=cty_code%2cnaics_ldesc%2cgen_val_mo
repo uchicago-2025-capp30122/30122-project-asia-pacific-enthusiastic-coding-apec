@@ -1,0 +1,2477 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Sun, 09 Mar 2025 23:22:23 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4f6f6282ef619cccc03cf5f4de074dbe566775d0addb53666ccb1fb00137b10566f71e7f89b620bf1bdb4bb7b1e738b9f; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "5132787",
+      "2023",
+      "01",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "2361186",
+      "2023",
+      "02",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "3670",
+      "2023",
+      "03",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "04",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "2328",
+      "2023",
+      "05",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "1494767",
+      "2023",
+      "06",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "1013271",
+      "2023",
+      "07",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "1481800",
+      "2023",
+      "08",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "1456200",
+      "2023",
+      "09",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "2128551",
+      "2023",
+      "10",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "1952800",
+      "2023",
+      "11",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5700",
+      "COAL AND PETROLEUM GASES",
+      "1010200",
+      "2023",
+      "12",
+      "CHINA",
+      "2121"
+    ],
+    [
+      "5880",
+      "COAL AND PETROLEUM GASES",
+      "106445",
+      "2023",
+      "12",
+      "JAPAN",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "34238339",
+      "2023",
+      "01",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "15195788",
+      "2023",
+      "02",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "29701715",
+      "2023",
+      "03",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "30054550",
+      "2023",
+      "04",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "22263495",
+      "2023",
+      "05",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "19388857",
+      "2023",
+      "06",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "19259188",
+      "2023",
+      "07",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "17810796",
+      "2023",
+      "08",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "24055121",
+      "2023",
+      "09",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "30357033",
+      "2023",
+      "10",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "24216312",
+      "2023",
+      "11",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3010",
+      "COAL AND PETROLEUM GASES",
+      "10892777",
+      "2023",
+      "12",
+      "COLOMBIA",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "8032791",
+      "2023",
+      "02",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "03",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "9089987",
+      "2023",
+      "04",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "05",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "06",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "7439861",
+      "2023",
+      "07",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "08",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "09",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "7363522",
+      "2023",
+      "10",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "11",
+      "PERU",
+      "2121"
+    ],
+    [
+      "3330",
+      "COAL AND PETROLEUM GASES",
+      "5370834",
+      "2023",
+      "12",
+      "PERU",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "3267",
+      "2023",
+      "03",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "04",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "05",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "06",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "07",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "08",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "09",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "10",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "11",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4120",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "12",
+      "UNITED KINGDOM",
+      "2121"
+    ],
+    [
+      "4190",
+      "COAL AND PETROLEUM GASES",
+      "6939219",
+      "2023",
+      "02",
+      "IRELAND",
+      "2121"
+    ],
+    [
+      "4190",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "03",
+      "IRELAND",
+      "2121"
+    ],
+    [
+      "4190",
+      "COAL AND PETROLEUM GASES",
+      "5374420",
+      "2023",
+      "04",
+      "IRELAND",
+      "2121"
+    ],
+    [
+      "4190",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "05",
+      "IRELAND",
+      "2121"
+    ],
+    [
+      "4190",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "06",
+      "IRELAND",
+      "2121"
+    ],
+    [
+      "4190",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "07",
+      "IRELAND",
+      "2121"
+    ],
+    [
+      "4190",
+      "COAL AND PETROLEUM GASES",
+      "5797295",
+      "2023",
+      "08",
+      "IRELAND",
+      "2121"
+    ],
+    [
+      "4190",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "09",
+      "IRELAND",
+      "2121"
+    ],
+    [
+      "4190",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "10",
+      "IRELAND",
+      "2121"
+    ],
+    [
+      "4190",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "11",
+      "IRELAND",
+      "2121"
+    ],
+    [
+      "4190",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "12",
+      "IRELAND",
+      "2121"
+    ],
+    [
+      "4280",
+      "COAL AND PETROLEUM GASES",
+      "5040",
+      "2023",
+      "11",
+      "GERMANY",
+      "2121"
+    ],
+    [
+      "4280",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "12",
+      "GERMANY",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "68528941",
+      "2023",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "43708648",
+      "2023",
+      "02",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "37790649",
+      "2023",
+      "03",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "56982890",
+      "2023",
+      "04",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "45770576",
+      "2023",
+      "05",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "50017678",
+      "2023",
+      "06",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "47144148",
+      "2023",
+      "07",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "57339489",
+      "2023",
+      "08",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "38056622",
+      "2023",
+      "09",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "56259563",
+      "2023",
+      "10",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "44194414",
+      "2023",
+      "11",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "-",
+      "COAL AND PETROLEUM GASES",
+      "34827151",
+      "2023",
+      "12",
+      "TOTAL FOR ALL COUNTRIES",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "6939219",
+      "2023",
+      "02",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "03",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "5374420",
+      "2023",
+      "04",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "05",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "06",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "07",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "5797295",
+      "2023",
+      "08",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "09",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "10",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "5040",
+      "2023",
+      "11",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "0003",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "12",
+      "EUROPEAN UNION",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "18867815",
+      "2023",
+      "01",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "11179664",
+      "2023",
+      "02",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "8081997",
+      "2023",
+      "03",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "12463933",
+      "2023",
+      "04",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "14537753",
+      "2023",
+      "05",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "29134054",
+      "2023",
+      "06",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "19431828",
+      "2023",
+      "07",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "23174598",
+      "2023",
+      "08",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "12545301",
+      "2023",
+      "09",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "16405003",
+      "2023",
+      "10",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "18020262",
+      "2023",
+      "11",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "1XXX",
+      "COAL AND PETROLEUM GASES",
+      "17446895",
+      "2023",
+      "12",
+      "NORTH AMERICA",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "6939219",
+      "2023",
+      "02",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "3267",
+      "2023",
+      "03",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "5374420",
+      "2023",
+      "04",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "05",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "06",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "07",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "5797295",
+      "2023",
+      "08",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "09",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "10",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "5040",
+      "2023",
+      "11",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "4XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "12",
+      "EUROPE",
+      "2121"
+    ],
+    [
+      "7XXX",
+      "COAL AND PETROLEUM GASES",
+      "10290000",
+      "2023",
+      "01",
+      "AFRICA",
+      "2121"
+    ],
+    [
+      "7XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "02",
+      "AFRICA",
+      "2121"
+    ],
+    [
+      "7XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "03",
+      "AFRICA",
+      "2121"
+    ],
+    [
+      "7XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "04",
+      "AFRICA",
+      "2121"
+    ],
+    [
+      "7XXX",
+      "COAL AND PETROLEUM GASES",
+      "8967000",
+      "2023",
+      "05",
+      "AFRICA",
+      "2121"
+    ],
+    [
+      "7XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "06",
+      "AFRICA",
+      "2121"
+    ],
+    [
+      "7XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "07",
+      "AFRICA",
+      "2121"
+    ],
+    [
+      "7XXX",
+      "COAL AND PETROLEUM GASES",
+      "9075000",
+      "2023",
+      "08",
+      "AFRICA",
+      "2121"
+    ],
+    [
+      "7XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "09",
+      "AFRICA",
+      "2121"
+    ],
+    [
+      "7XXX",
+      "COAL AND PETROLEUM GASES",
+      "5454",
+      "2023",
+      "10",
+      "AFRICA",
+      "2121"
+    ],
+    [
+      "7XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "11",
+      "AFRICA",
+      "2121"
+    ],
+    [
+      "7XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "12",
+      "AFRICA",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "5132787",
+      "2023",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "2361186",
+      "2023",
+      "02",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "3670",
+      "2023",
+      "03",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "04",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "2328",
+      "2023",
+      "05",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "1494767",
+      "2023",
+      "06",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "1013271",
+      "2023",
+      "07",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "1481800",
+      "2023",
+      "08",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "1456200",
+      "2023",
+      "09",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "2128551",
+      "2023",
+      "10",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "1952800",
+      "2023",
+      "11",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "0014",
+      "COAL AND PETROLEUM GASES",
+      "1116645",
+      "2023",
+      "12",
+      "PACIFIC RIM COUNTRIES",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "5132787",
+      "2023",
+      "01",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "2361186",
+      "2023",
+      "02",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "3670",
+      "2023",
+      "03",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "04",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "2328",
+      "2023",
+      "05",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "1494767",
+      "2023",
+      "06",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "1013271",
+      "2023",
+      "07",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "1481800",
+      "2023",
+      "08",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "1456200",
+      "2023",
+      "09",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "2128551",
+      "2023",
+      "10",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "1952800",
+      "2023",
+      "11",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "5XXX",
+      "COAL AND PETROLEUM GASES",
+      "1116645",
+      "2023",
+      "12",
+      "ASIA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "18867815",
+      "2023",
+      "01",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "11179664",
+      "2023",
+      "02",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "8081997",
+      "2023",
+      "03",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "12463933",
+      "2023",
+      "04",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "14537753",
+      "2023",
+      "05",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "29134054",
+      "2023",
+      "06",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "19431828",
+      "2023",
+      "07",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "23174598",
+      "2023",
+      "08",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "12545301",
+      "2023",
+      "09",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "16405003",
+      "2023",
+      "10",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "18020262",
+      "2023",
+      "11",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0020",
+      "COAL AND PETROLEUM GASES",
+      "17446895",
+      "2023",
+      "12",
+      "NAFTA",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "34373664",
+      "2023",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "23321693",
+      "2023",
+      "02",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "29790943",
+      "2023",
+      "03",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "39211430",
+      "2023",
+      "04",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "22325751",
+      "2023",
+      "05",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "19396639",
+      "2023",
+      "06",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "26699049",
+      "2023",
+      "07",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "17810796",
+      "2023",
+      "08",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "24072972",
+      "2023",
+      "09",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "37720555",
+      "2023",
+      "10",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "24216312",
+      "2023",
+      "11",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0021",
+      "COAL AND PETROLEUM GASES",
+      "16274981",
+      "2023",
+      "12",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "18867815",
+      "2023",
+      "01",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "18118883",
+      "2023",
+      "02",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "8085264",
+      "2023",
+      "03",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "17838353",
+      "2023",
+      "04",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "14537753",
+      "2023",
+      "05",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "29134054",
+      "2023",
+      "06",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "19431828",
+      "2023",
+      "07",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "28971893",
+      "2023",
+      "08",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "12545301",
+      "2023",
+      "09",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "16405003",
+      "2023",
+      "10",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "18025302",
+      "2023",
+      "11",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0022",
+      "COAL AND PETROLEUM GASES",
+      "17553340",
+      "2023",
+      "12",
+      "OECD",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "18732490",
+      "2023",
+      "01",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "11086550",
+      "2023",
+      "02",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "7996036",
+      "2023",
+      "03",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "12397040",
+      "2023",
+      "04",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "14475497",
+      "2023",
+      "05",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "29126272",
+      "2023",
+      "06",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "19431828",
+      "2023",
+      "07",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "23174598",
+      "2023",
+      "08",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "12527450",
+      "2023",
+      "09",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "16405003",
+      "2023",
+      "10",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "18025302",
+      "2023",
+      "11",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0023",
+      "COAL AND PETROLEUM GASES",
+      "17435525",
+      "2023",
+      "12",
+      "NATO",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "34373664",
+      "2023",
+      "01",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "23321693",
+      "2023",
+      "02",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "29790943",
+      "2023",
+      "03",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "39211430",
+      "2023",
+      "04",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "22325751",
+      "2023",
+      "05",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "19396639",
+      "2023",
+      "06",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "26699049",
+      "2023",
+      "07",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "17810796",
+      "2023",
+      "08",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "24072972",
+      "2023",
+      "09",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "37720555",
+      "2023",
+      "10",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "24216312",
+      "2023",
+      "11",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0024",
+      "COAL AND PETROLEUM GASES",
+      "16274981",
+      "2023",
+      "12",
+      "LAFTA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "6939219",
+      "2023",
+      "02",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "03",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "5374420",
+      "2023",
+      "04",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "05",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "06",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "07",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "5797295",
+      "2023",
+      "08",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "09",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "10",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "5040",
+      "2023",
+      "11",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0025",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "12",
+      "EURO AREA",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "24000602",
+      "2023",
+      "01",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "21573641",
+      "2023",
+      "02",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "8085667",
+      "2023",
+      "03",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "21553920",
+      "2023",
+      "04",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "14540081",
+      "2023",
+      "05",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "30628821",
+      "2023",
+      "06",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "27884960",
+      "2023",
+      "07",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "24656398",
+      "2023",
+      "08",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "14001501",
+      "2023",
+      "09",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "25897076",
+      "2023",
+      "10",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "19973062",
+      "2023",
+      "11",
+      "APEC",
+      "2121"
+    ],
+    [
+      "0026",
+      "COAL AND PETROLEUM GASES",
+      "23934374",
+      "2023",
+      "12",
+      "APEC",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "18732490",
+      "2023",
+      "01",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "11086550",
+      "2023",
+      "02",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "7992769",
+      "2023",
+      "03",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "12397040",
+      "2023",
+      "04",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "14475497",
+      "2023",
+      "05",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "29126272",
+      "2023",
+      "06",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "19431828",
+      "2023",
+      "07",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "23174598",
+      "2023",
+      "08",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "12527450",
+      "2023",
+      "09",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "16405003",
+      "2023",
+      "10",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "18020262",
+      "2023",
+      "11",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "1220",
+      "COAL AND PETROLEUM GASES",
+      "17435525",
+      "2023",
+      "12",
+      "CANADA",
+      "2121"
+    ],
+    [
+      "2010",
+      "COAL AND PETROLEUM GASES",
+      "135325",
+      "2023",
+      "01",
+      "MEXICO",
+      "2121"
+    ],
+    [
+      "2010",
+      "COAL AND PETROLEUM GASES",
+      "93114",
+      "2023",
+      "02",
+      "MEXICO",
+      "2121"
+    ],
+    [
+      "2010",
+      "COAL AND PETROLEUM GASES",
+      "89228",
+      "2023",
+      "03",
+      "MEXICO",
+      "2121"
+    ],
+    [
+      "2010",
+      "COAL AND PETROLEUM GASES",
+      "66893",
+      "2023",
+      "04",
+      "MEXICO",
+      "2121"
+    ],
+    [
+      "2010",
+      "COAL AND PETROLEUM GASES",
+      "62256",
+      "2023",
+      "05",
+      "MEXICO",
+      "2121"
+    ],
+    [
+      "2010",
+      "COAL AND PETROLEUM GASES",
+      "7782",
+      "2023",
+      "06",
+      "MEXICO",
+      "2121"
+    ],
+    [
+      "2010",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "07",
+      "MEXICO",
+      "2121"
+    ],
+    [
+      "2010",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "08",
+      "MEXICO",
+      "2121"
+    ],
+    [
+      "2010",
+      "COAL AND PETROLEUM GASES",
+      "17851",
+      "2023",
+      "09",
+      "MEXICO",
+      "2121"
+    ],
+    [
+      "2010",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "10",
+      "MEXICO",
+      "2121"
+    ],
+    [
+      "2010",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "11",
+      "MEXICO",
+      "2121"
+    ],
+    [
+      "2010",
+      "COAL AND PETROLEUM GASES",
+      "11370",
+      "2023",
+      "12",
+      "MEXICO",
+      "2121"
+    ],
+    [
+      "7910",
+      "COAL AND PETROLEUM GASES",
+      "10290000",
+      "2023",
+      "01",
+      "SOUTH AFRICA",
+      "2121"
+    ],
+    [
+      "7910",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "02",
+      "SOUTH AFRICA",
+      "2121"
+    ],
+    [
+      "7910",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "03",
+      "SOUTH AFRICA",
+      "2121"
+    ],
+    [
+      "7910",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "04",
+      "SOUTH AFRICA",
+      "2121"
+    ],
+    [
+      "7910",
+      "COAL AND PETROLEUM GASES",
+      "8967000",
+      "2023",
+      "05",
+      "SOUTH AFRICA",
+      "2121"
+    ],
+    [
+      "7910",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "06",
+      "SOUTH AFRICA",
+      "2121"
+    ],
+    [
+      "7910",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "07",
+      "SOUTH AFRICA",
+      "2121"
+    ],
+    [
+      "7910",
+      "COAL AND PETROLEUM GASES",
+      "9075000",
+      "2023",
+      "08",
+      "SOUTH AFRICA",
+      "2121"
+    ],
+    [
+      "7910",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "09",
+      "SOUTH AFRICA",
+      "2121"
+    ],
+    [
+      "7910",
+      "COAL AND PETROLEUM GASES",
+      "5454",
+      "2023",
+      "10",
+      "SOUTH AFRICA",
+      "2121"
+    ],
+    [
+      "7910",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "11",
+      "SOUTH AFRICA",
+      "2121"
+    ],
+    [
+      "7910",
+      "COAL AND PETROLEUM GASES",
+      "0",
+      "2023",
+      "12",
+      "SOUTH AFRICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "34238339",
+      "2023",
+      "01",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "23228579",
+      "2023",
+      "02",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "29701715",
+      "2023",
+      "03",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "39144537",
+      "2023",
+      "04",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "22263495",
+      "2023",
+      "05",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "19388857",
+      "2023",
+      "06",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "26699049",
+      "2023",
+      "07",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "17810796",
+      "2023",
+      "08",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "24055121",
+      "2023",
+      "09",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "37720555",
+      "2023",
+      "10",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "24216312",
+      "2023",
+      "11",
+      "SOUTH AMERICA",
+      "2121"
+    ],
+    [
+      "3XXX",
+      "COAL AND PETROLEUM GASES",
+      "16263611",
+      "2023",
+      "12",
+      "SOUTH AMERICA",
+      "2121"
+    ]
+  ]
+}

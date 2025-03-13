@@ -1,0 +1,146 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Wed, 12 Mar 2025 07:48:49 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4edb3345f69736755a1f2d8b7d36fced2a395f73dcac5ab7b8dd0f347ff03e934189802a18c29ad54190591c0bde763d1; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "4120",
+      "POULTRY AND EGGS",
+      "1243338",
+      "2024",
+      "01",
+      "UNITED KINGDOM",
+      "1123"
+    ],
+    [
+      "4210",
+      "POULTRY AND EGGS",
+      "468733",
+      "2024",
+      "01",
+      "NETHERLANDS",
+      "1123"
+    ],
+    [
+      "4330",
+      "POULTRY AND EGGS",
+      "23958",
+      "2024",
+      "01",
+      "AUSTRIA",
+      "1123"
+    ],
+    [
+      "-",
+      "POULTRY AND EGGS",
+      "8246531",
+      "2024",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "1123"
+    ],
+    [
+      "0003",
+      "POULTRY AND EGGS",
+      "492691",
+      "2024",
+      "01",
+      "EUROPEAN UNION",
+      "1123"
+    ],
+    [
+      "1XXX",
+      "POULTRY AND EGGS",
+      "6510502",
+      "2024",
+      "01",
+      "NORTH AMERICA",
+      "1123"
+    ],
+    [
+      "4XXX",
+      "POULTRY AND EGGS",
+      "1736029",
+      "2024",
+      "01",
+      "EUROPE",
+      "1123"
+    ],
+    [
+      "0020",
+      "POULTRY AND EGGS",
+      "6510502",
+      "2024",
+      "01",
+      "NAFTA",
+      "1123"
+    ],
+    [
+      "0022",
+      "POULTRY AND EGGS",
+      "8246531",
+      "2024",
+      "01",
+      "OECD",
+      "1123"
+    ],
+    [
+      "0023",
+      "POULTRY AND EGGS",
+      "8222573",
+      "2024",
+      "01",
+      "NATO",
+      "1123"
+    ],
+    [
+      "0025",
+      "POULTRY AND EGGS",
+      "492691",
+      "2024",
+      "01",
+      "EURO AREA",
+      "1123"
+    ],
+    [
+      "0026",
+      "POULTRY AND EGGS",
+      "6510502",
+      "2024",
+      "01",
+      "APEC",
+      "1123"
+    ],
+    [
+      "1220",
+      "POULTRY AND EGGS",
+      "6510502",
+      "2024",
+      "01",
+      "CANADA",
+      "1123"
+    ]
+  ]
+}

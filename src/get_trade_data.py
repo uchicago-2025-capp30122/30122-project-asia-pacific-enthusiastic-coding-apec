@@ -77,6 +77,7 @@ def get_data_census(year: str, month: str, export: bool = True,
     assert len(year) == 4, "year should be 4-digit number"
     if month is not None:
         assert len(month) == 2, "month should be 2-digit number"
+    assert type(export) == bool, "export dummy should be bool"
     
     CACHE_DIR.mkdir(exist_ok=True)
 
@@ -90,15 +91,15 @@ def get_data_census(year: str, month: str, export: bool = True,
         url = url+"/imports/statenaics"
         params["get"] = "CTY_CODE,NAICS_LDESC,GEN_VAL_MO"  # ,CTY_NAME,NAICS
 
-    url_fetch = combine_url_with_params(url, params)
 
+    url_fetch = combine_url_with_params(url, params)
     cache_key = url_to_cache_key(url_fetch)
     cache_file = CACHE_DIR/cache_key
 
     # If there is a cache, return it. Otherwise send a request.
     if cache_file.exists():
         with open (cache_file, "r") as f:
-            return json.dumps(json.load(f))
+            return f.read()
 
     time.sleep(0.5)
     response = httpx.get(url_fetch, timeout=30.0)
@@ -111,46 +112,3 @@ def get_data_census(year: str, month: str, export: bool = True,
 
         return json.dumps(response_data, indent=2)
     raise FetchException(response)
-
-
-"""
-def get_all_trade_data():
-    DATA_DIR.mkdir(exist_ok=True)
-    all_csv = DATA_DIR / "all_trade_data.csv"
-    if not all_csv.exists():
-        all_df = []
-        for year in range(2010, datetime.datetime.now().year + 1):
-            data = json.loads(get_data_census(str(year), None, False, None, None))
-            df = pd.DataFrame(data["body"][1:], columns = data["body"][0])
-            all_df.append(df)
-        
-        combined_df = pd.concat(all_df, ignore_index=True)
-
-        combined_df.to_csv(all_csv, index=False)
-"""
-
-"""
-def top_n_value(data: str, n: int, export: bool = True):
-    #Given the retrieved json data, return top N values.
-    
-    #Input:
-        #data (str): json data
-        #n (int): the number of top values we get
-        #export (bool): True-export, False-import
-    
-    #Return:
-        #pd.dataframe: DataFrame with top n values
-
-    json_data = json.loads(data)
-    df = pd.DataFrame(json_data["body"][1:], columns = json_data["body"][0])
-        
-    value = "ALL_VAL_MO" if export else "GEN_VAL_MO"  # export - import
-
-    df[value] =  df[value].replace("-", 0)
-    df[value] =  df[value].astype(int)
-    return df.nlargest(n, value)
-"""
-
-# ipython3 example
-# data = src.get_trade_data.get_data_census("2022", "09")  # export=True, CTY_NAME = None, NAICS = None
-# src.get_trade_data.top_n_value(data, 8, True)

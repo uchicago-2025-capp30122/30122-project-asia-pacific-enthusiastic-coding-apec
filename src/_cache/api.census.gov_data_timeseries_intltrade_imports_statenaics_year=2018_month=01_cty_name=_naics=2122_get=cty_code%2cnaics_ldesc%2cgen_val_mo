@@ -1,0 +1,488 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 18:13:45 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4b8ed51bfa910e9493c25055199a42c9592f04130abd7454dfc3c25c5ca3daa2c4595b29e0a9455f91fafb3b1ac4c70aa; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5490",
+      "METAL ORES",
+      "1032241",
+      "2018",
+      "01",
+      "THAILAND",
+      "2122"
+    ],
+    [
+      "5700",
+      "METAL ORES",
+      "155945",
+      "2018",
+      "01",
+      "CHINA",
+      "2122"
+    ],
+    [
+      "5740",
+      "METAL ORES",
+      "280460",
+      "2018",
+      "01",
+      "MONGOLIA",
+      "2122"
+    ],
+    [
+      "5830",
+      "METAL ORES",
+      "144663",
+      "2018",
+      "01",
+      "TAIWAN",
+      "2122"
+    ],
+    [
+      "6021",
+      "METAL ORES",
+      "28219353",
+      "2018",
+      "01",
+      "AUSTRALIA",
+      "2122"
+    ],
+    [
+      "3070",
+      "METAL ORES",
+      "80000",
+      "2018",
+      "01",
+      "VENEZUELA",
+      "2122"
+    ],
+    [
+      "3120",
+      "METAL ORES",
+      "1582910",
+      "2018",
+      "01",
+      "GUYANA",
+      "2122"
+    ],
+    [
+      "3330",
+      "METAL ORES",
+      "20527352",
+      "2018",
+      "01",
+      "PERU",
+      "2122"
+    ],
+    [
+      "3350",
+      "METAL ORES",
+      "2092680",
+      "2018",
+      "01",
+      "BOLIVIA",
+      "2122"
+    ],
+    [
+      "3370",
+      "METAL ORES",
+      "11782068",
+      "2018",
+      "01",
+      "CHILE",
+      "2122"
+    ],
+    [
+      "3510",
+      "METAL ORES",
+      "42871182",
+      "2018",
+      "01",
+      "BRAZIL",
+      "2122"
+    ],
+    [
+      "4010",
+      "METAL ORES",
+      "11213632",
+      "2018",
+      "01",
+      "SWEDEN",
+      "2122"
+    ],
+    [
+      "4039",
+      "METAL ORES",
+      "8088",
+      "2018",
+      "01",
+      "NORWAY",
+      "2122"
+    ],
+    [
+      "4120",
+      "METAL ORES",
+      "1986079",
+      "2018",
+      "01",
+      "UNITED KINGDOM",
+      "2122"
+    ],
+    [
+      "4210",
+      "METAL ORES",
+      "26809",
+      "2018",
+      "01",
+      "NETHERLANDS",
+      "2122"
+    ],
+    [
+      "7440",
+      "METAL ORES",
+      "833325",
+      "2018",
+      "01",
+      "SENEGAL",
+      "2122"
+    ],
+    [
+      "7550",
+      "METAL ORES",
+      "9550889",
+      "2018",
+      "01",
+      "GABON",
+      "2122"
+    ],
+    [
+      "7660",
+      "METAL ORES",
+      "900294",
+      "2018",
+      "01",
+      "CONGO (KINSHASA)",
+      "2122"
+    ],
+    [
+      "7670",
+      "METAL ORES",
+      "250782",
+      "2018",
+      "01",
+      "BURUNDI",
+      "2122"
+    ],
+    [
+      "7690",
+      "METAL ORES",
+      "2522887",
+      "2018",
+      "01",
+      "RWANDA",
+      "2122"
+    ],
+    [
+      "4621",
+      "METAL ORES",
+      "691439",
+      "2018",
+      "01",
+      "RUSSIA",
+      "2122"
+    ],
+    [
+      "4623",
+      "METAL ORES",
+      "116786",
+      "2018",
+      "01",
+      "UKRAINE",
+      "2122"
+    ],
+    [
+      "4700",
+      "METAL ORES",
+      "1252607",
+      "2018",
+      "01",
+      "SPAIN",
+      "2122"
+    ],
+    [
+      "4710",
+      "METAL ORES",
+      "1832229",
+      "2018",
+      "01",
+      "PORTUGAL",
+      "2122"
+    ],
+    [
+      "4759",
+      "METAL ORES",
+      "41775",
+      "2018",
+      "01",
+      "ITALY",
+      "2122"
+    ],
+    [
+      "4840",
+      "METAL ORES",
+      "1038782",
+      "2018",
+      "01",
+      "GREECE",
+      "2122"
+    ],
+    [
+      "-",
+      "METAL ORES",
+      "227090693",
+      "2018",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "2122"
+    ],
+    [
+      "0003",
+      "METAL ORES",
+      "15405834",
+      "2018",
+      "01",
+      "EUROPEAN UNION",
+      "2122"
+    ],
+    [
+      "1XXX",
+      "METAL ORES",
+      "45066642",
+      "2018",
+      "01",
+      "NORTH AMERICA",
+      "2122"
+    ],
+    [
+      "4XXX",
+      "METAL ORES",
+      "18208226",
+      "2018",
+      "01",
+      "EUROPE",
+      "2122"
+    ],
+    [
+      "7XXX",
+      "METAL ORES",
+      "48671721",
+      "2018",
+      "01",
+      "AFRICA",
+      "2122"
+    ],
+    [
+      "0014",
+      "METAL ORES",
+      "28519961",
+      "2018",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "2122"
+    ],
+    [
+      "5XXX",
+      "METAL ORES",
+      "1613309",
+      "2018",
+      "01",
+      "ASIA",
+      "2122"
+    ],
+    [
+      "6XXX",
+      "METAL ORES",
+      "28219353",
+      "2018",
+      "01",
+      "AUSTRALIA AND OCEANIA",
+      "2122"
+    ],
+    [
+      "0020",
+      "METAL ORES",
+      "45066642",
+      "2018",
+      "01",
+      "NAFTA",
+      "2122"
+    ],
+    [
+      "0021",
+      "METAL ORES",
+      "96706000",
+      "2018",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2122"
+    ],
+    [
+      "0022",
+      "METAL ORES",
+      "102468064",
+      "2018",
+      "01",
+      "OECD",
+      "2122"
+    ],
+    [
+      "0023",
+      "METAL ORES",
+      "31900293",
+      "2018",
+      "01",
+      "NATO",
+      "2122"
+    ],
+    [
+      "0024",
+      "METAL ORES",
+      "96706000",
+      "2018",
+      "01",
+      "LAFTA",
+      "2122"
+    ],
+    [
+      "0025",
+      "METAL ORES",
+      "4192202",
+      "2018",
+      "01",
+      "EURO AREA",
+      "2122"
+    ],
+    [
+      "0026",
+      "METAL ORES",
+      "107619703",
+      "2018",
+      "01",
+      "APEC",
+      "2122"
+    ],
+    [
+      "0027",
+      "METAL ORES",
+      "1032241",
+      "2018",
+      "01",
+      "ASEAN",
+      "2122"
+    ],
+    [
+      "1220",
+      "METAL ORES",
+      "25713924",
+      "2018",
+      "01",
+      "CANADA",
+      "2122"
+    ],
+    [
+      "2010",
+      "METAL ORES",
+      "19352718",
+      "2018",
+      "01",
+      "MEXICO",
+      "2122"
+    ],
+    [
+      "2410",
+      "METAL ORES",
+      "6375250",
+      "2018",
+      "01",
+      "JAMAICA",
+      "2122"
+    ],
+    [
+      "7870",
+      "METAL ORES",
+      "5889306",
+      "2018",
+      "01",
+      "MOZAMBIQUE",
+      "2122"
+    ],
+    [
+      "7880",
+      "METAL ORES",
+      "5696789",
+      "2018",
+      "01",
+      "MADAGASCAR",
+      "2122"
+    ],
+    [
+      "7910",
+      "METAL ORES",
+      "23027449",
+      "2018",
+      "01",
+      "SOUTH AFRICA",
+      "2122"
+    ],
+    [
+      "2XXX",
+      "METAL ORES",
+      "6375250",
+      "2018",
+      "01",
+      "CENTRAL AMERICA",
+      "2122"
+    ],
+    [
+      "3XXX",
+      "METAL ORES",
+      "78936192",
+      "2018",
+      "01",
+      "SOUTH AMERICA",
+      "2122"
+    ],
+    [
+      "0001",
+      "METAL ORES",
+      "9630889",
+      "2018",
+      "01",
+      "OPEC",
+      "2122"
+    ]
+  ]
+}

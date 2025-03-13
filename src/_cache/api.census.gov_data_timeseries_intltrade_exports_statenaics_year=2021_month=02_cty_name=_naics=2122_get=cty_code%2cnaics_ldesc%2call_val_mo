@@ -1,0 +1,578 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 18:14:03 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4e2df0375a31b98d10fadec6972c565b9e4a499c394cf955718e4fd5e56139d70459e14ddc589f40096bb53e471f3784a; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5200",
+      "METAL ORES",
+      "0",
+      "2021",
+      "02",
+      "UNITED ARAB EMIRATES",
+      "2122"
+    ],
+    [
+      "5330",
+      "METAL ORES",
+      "2283350",
+      "2021",
+      "02",
+      "INDIA",
+      "2122"
+    ],
+    [
+      "5520",
+      "METAL ORES",
+      "512524",
+      "2021",
+      "02",
+      "VIETNAM",
+      "2122"
+    ],
+    [
+      "5550",
+      "METAL ORES",
+      "0",
+      "2021",
+      "02",
+      "CAMBODIA",
+      "2122"
+    ],
+    [
+      "5570",
+      "METAL ORES",
+      "4876",
+      "2021",
+      "02",
+      "MALAYSIA",
+      "2122"
+    ],
+    [
+      "5590",
+      "METAL ORES",
+      "11853",
+      "2021",
+      "02",
+      "SINGAPORE",
+      "2122"
+    ],
+    [
+      "5600",
+      "METAL ORES",
+      "120270",
+      "2021",
+      "02",
+      "INDONESIA",
+      "2122"
+    ],
+    [
+      "5650",
+      "METAL ORES",
+      "3712",
+      "2021",
+      "02",
+      "PHILIPPINES",
+      "2122"
+    ],
+    [
+      "5700",
+      "METAL ORES",
+      "38656469",
+      "2021",
+      "02",
+      "CHINA",
+      "2122"
+    ],
+    [
+      "5800",
+      "METAL ORES",
+      "50448855",
+      "2021",
+      "02",
+      "KOREA, SOUTH",
+      "2122"
+    ],
+    [
+      "5820",
+      "METAL ORES",
+      "16920",
+      "2021",
+      "02",
+      "HONG KONG",
+      "2122"
+    ],
+    [
+      "5830",
+      "METAL ORES",
+      "11521906",
+      "2021",
+      "02",
+      "TAIWAN",
+      "2122"
+    ],
+    [
+      "5880",
+      "METAL ORES",
+      "15401338",
+      "2021",
+      "02",
+      "JAPAN",
+      "2122"
+    ],
+    [
+      "6021",
+      "METAL ORES",
+      "0",
+      "2021",
+      "02",
+      "AUSTRALIA",
+      "2122"
+    ],
+    [
+      "2740",
+      "METAL ORES",
+      "5000",
+      "2021",
+      "02",
+      "TRINIDAD AND TOBAGO",
+      "2122"
+    ],
+    [
+      "3310",
+      "METAL ORES",
+      "8237",
+      "2021",
+      "02",
+      "ECUADOR",
+      "2122"
+    ],
+    [
+      "3330",
+      "METAL ORES",
+      "4410",
+      "2021",
+      "02",
+      "PERU",
+      "2122"
+    ],
+    [
+      "3370",
+      "METAL ORES",
+      "967902",
+      "2021",
+      "02",
+      "CHILE",
+      "2122"
+    ],
+    [
+      "3510",
+      "METAL ORES",
+      "16180",
+      "2021",
+      "02",
+      "BRAZIL",
+      "2122"
+    ],
+    [
+      "4010",
+      "METAL ORES",
+      "0",
+      "2021",
+      "02",
+      "SWEDEN",
+      "2122"
+    ],
+    [
+      "4120",
+      "METAL ORES",
+      "6390201",
+      "2021",
+      "02",
+      "UNITED KINGDOM",
+      "2122"
+    ],
+    [
+      "4190",
+      "METAL ORES",
+      "2701",
+      "2021",
+      "02",
+      "IRELAND",
+      "2122"
+    ],
+    [
+      "4210",
+      "METAL ORES",
+      "19101155",
+      "2021",
+      "02",
+      "NETHERLANDS",
+      "2122"
+    ],
+    [
+      "4231",
+      "METAL ORES",
+      "26197283",
+      "2021",
+      "02",
+      "BELGIUM",
+      "2122"
+    ],
+    [
+      "4279",
+      "METAL ORES",
+      "252196",
+      "2021",
+      "02",
+      "FRANCE",
+      "2122"
+    ],
+    [
+      "4280",
+      "METAL ORES",
+      "5840061",
+      "2021",
+      "02",
+      "GERMANY",
+      "2122"
+    ],
+    [
+      "4330",
+      "METAL ORES",
+      "5327674",
+      "2021",
+      "02",
+      "AUSTRIA",
+      "2122"
+    ],
+    [
+      "4351",
+      "METAL ORES",
+      "0",
+      "2021",
+      "02",
+      "CZECH REPUBLIC",
+      "2122"
+    ],
+    [
+      "4359",
+      "METAL ORES",
+      "3758880",
+      "2021",
+      "02",
+      "SLOVAKIA",
+      "2122"
+    ],
+    [
+      "4419",
+      "METAL ORES",
+      "5937",
+      "2021",
+      "02",
+      "SWITZERLAND",
+      "2122"
+    ],
+    [
+      "4550",
+      "METAL ORES",
+      "0",
+      "2021",
+      "02",
+      "POLAND",
+      "2122"
+    ],
+    [
+      "4621",
+      "METAL ORES",
+      "14880",
+      "2021",
+      "02",
+      "RUSSIA",
+      "2122"
+    ],
+    [
+      "4700",
+      "METAL ORES",
+      "36098787",
+      "2021",
+      "02",
+      "SPAIN",
+      "2122"
+    ],
+    [
+      "4759",
+      "METAL ORES",
+      "0",
+      "2021",
+      "02",
+      "ITALY",
+      "2122"
+    ],
+    [
+      "4890",
+      "METAL ORES",
+      "6796",
+      "2021",
+      "02",
+      "TURKEY",
+      "2122"
+    ],
+    [
+      "-",
+      "METAL ORES",
+      "398505100",
+      "2021",
+      "02",
+      "TOTAL FOR ALL COUNTRIES",
+      "2122"
+    ],
+    [
+      "0003",
+      "METAL ORES",
+      "96578737",
+      "2021",
+      "02",
+      "EUROPEAN UNION",
+      "2122"
+    ],
+    [
+      "1XXX",
+      "METAL ORES",
+      "173811077",
+      "2021",
+      "02",
+      "NORTH AMERICA",
+      "2122"
+    ],
+    [
+      "4XXX",
+      "METAL ORES",
+      "102996551",
+      "2021",
+      "02",
+      "EUROPE",
+      "2122"
+    ],
+    [
+      "7XXX",
+      "METAL ORES",
+      "1478280",
+      "2021",
+      "02",
+      "AFRICA",
+      "2122"
+    ],
+    [
+      "0014",
+      "METAL ORES",
+      "116186199",
+      "2021",
+      "02",
+      "PACIFIC RIM COUNTRIES",
+      "2122"
+    ],
+    [
+      "5XXX",
+      "METAL ORES",
+      "118982073",
+      "2021",
+      "02",
+      "ASIA",
+      "2122"
+    ],
+    [
+      "0017",
+      "METAL ORES",
+      "235390",
+      "2021",
+      "02",
+      "CAFTA-DR",
+      "2122"
+    ],
+    [
+      "6XXX",
+      "METAL ORES",
+      "0",
+      "2021",
+      "02",
+      "AUSTRALIA AND OCEANIA",
+      "2122"
+    ],
+    [
+      "0020",
+      "METAL ORES",
+      "173811077",
+      "2021",
+      "02",
+      "NAFTA",
+      "2122"
+    ],
+    [
+      "0021",
+      "METAL ORES",
+      "104662943",
+      "2021",
+      "02",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2122"
+    ],
+    [
+      "0022",
+      "METAL ORES",
+      "343610843",
+      "2021",
+      "02",
+      "OECD",
+      "2122"
+    ],
+    [
+      "0023",
+      "METAL ORES",
+      "168025612",
+      "2021",
+      "02",
+      "NATO",
+      "2122"
+    ],
+    [
+      "0024",
+      "METAL ORES",
+      "104427553",
+      "2021",
+      "02",
+      "LAFTA",
+      "2122"
+    ],
+    [
+      "0025",
+      "METAL ORES",
+      "96578737",
+      "2021",
+      "02",
+      "EURO AREA",
+      "2122"
+    ],
+    [
+      "0026",
+      "METAL ORES",
+      "291496992",
+      "2021",
+      "02",
+      "APEC",
+      "2122"
+    ],
+    [
+      "0027",
+      "METAL ORES",
+      "653235",
+      "2021",
+      "02",
+      "ASEAN",
+      "2122"
+    ],
+    [
+      "0028",
+      "METAL ORES",
+      "15173",
+      "2021",
+      "02",
+      "CACM",
+      "2122"
+    ],
+    [
+      "1220",
+      "METAL ORES",
+      "70380253",
+      "2021",
+      "02",
+      "CANADA",
+      "2122"
+    ],
+    [
+      "2010",
+      "METAL ORES",
+      "103430824",
+      "2021",
+      "02",
+      "MEXICO",
+      "2122"
+    ],
+    [
+      "2050",
+      "METAL ORES",
+      "0",
+      "2021",
+      "02",
+      "GUATEMALA",
+      "2122"
+    ],
+    [
+      "2110",
+      "METAL ORES",
+      "15173",
+      "2021",
+      "02",
+      "EL SALVADOR",
+      "2122"
+    ],
+    [
+      "2470",
+      "METAL ORES",
+      "220217",
+      "2021",
+      "02",
+      "DOMINICAN REPUBLIC",
+      "2122"
+    ],
+    [
+      "7910",
+      "METAL ORES",
+      "1478280",
+      "2021",
+      "02",
+      "SOUTH AFRICA",
+      "2122"
+    ],
+    [
+      "2XXX",
+      "METAL ORES",
+      "240390",
+      "2021",
+      "02",
+      "CENTRAL AMERICA",
+      "2122"
+    ],
+    [
+      "3XXX",
+      "METAL ORES",
+      "996729",
+      "2021",
+      "02",
+      "SOUTH AMERICA",
+      "2122"
+    ]
+  ]
+}

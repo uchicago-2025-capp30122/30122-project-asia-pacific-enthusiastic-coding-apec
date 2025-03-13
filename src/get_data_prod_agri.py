@@ -4,20 +4,31 @@ from get_trade_data import FetchException, combine_url_with_params, url_to_cache
 from pathlib import Path
 import json
 import time
+import os
 
 
 CACHE_DIR = Path(__file__).parent / "_cache"
 DATA_DIR = Path(__file__).parent / "data"
 
 # Tu API key de NASS
-api_key = "42C4EE11-6E45-31EC-8B5E-ACFFEA269143"
+#API_KEY = "42C4EE11-6E45-31EC-8B5E-ACFFEA269143"
+
+
+try:
+    API_KEY = os.environ["API_KEY"]
+except KeyError:
+       raise Exception(
+       "Please provide an API_KEY you can request one from https://quickstats.nass.usda.gov"
+    
+    )
+    
 
 # Base URL for the API
 #base_url = "https://quickstats.nass.usda.gov/api/api_GET/"
 
 # Parameters for the query
 params = {
-    "key": api_key,
+    "key": API_KEY,
     "source_desc": "CENSUS",
     "statisticcat_desc":"sales",
     "unit_desc": "$",
@@ -30,17 +41,6 @@ url="https://quickstats.nass.usda.gov/api/api_GET/"
 
 def get_data_agri(url, params):
     
-    #CACHE_DIR.mkdir(exist_ok=True)
-    #url_fetch = combine_url_with_params(url, params)
-    #cache_key = url_to_cache_key(url_fetch)
-    ##print(CACHE_DIR)
-    #cache_file = CACHE_DIR/cache_key
-    #print(cache_file)
-    ## If there is a cache, return it. Otherwise send a request.
-    #if cache_file.exists():
-    #    with open (cache_file, "r") as f:
-    #        return json.dumps(json.load(f))
-
     time.sleep(0.5)
 
     #response = httpx.get(url_fetch, timeout=30.0)
@@ -78,5 +78,4 @@ def get_data_agri(url, params):
             for key, value in dict_final.items():
                 writer.writerow([key, value])
 
-    #raise FetchException(response)
     

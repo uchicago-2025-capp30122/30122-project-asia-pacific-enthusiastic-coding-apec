@@ -1,7 +1,7 @@
 import dash
 from dash import dcc, html, callback
 from dash.dependencies import Input, Output
-import plotly.express as px
+import plotly.express as pxc
 import pandas as pd
 import json
 from . import ids
@@ -35,7 +35,7 @@ COUNTRIES=['AFGHANISTAN', 'ALBANIA', 'ALGERIA', 'ANDORRA', 'ANGOLA',  'ARGENTINA
 
 PARENT_DIR = Path(__file__).parent.parent.parent
 sys.path.append(str(PARENT_DIR))
-import get_trade_data
+#import get_trade_data
 #import extract_trade_simulation
 
 # 0. Register as Dash page
@@ -172,20 +172,8 @@ for country in COUNTRIES:
     trade_dict[country]=trade_country
 
 
-#print(dict_final_countries)
-#EXPORTS_JSON = Path(__file__).parent / "data/exports.json"  
 
-#with open(EXPORTS_JSON, "w", encoding="utf-8") as file:
-#    json.dump(dict_final_countries, file, indent=4, ensure_ascii=False)
-
-
-#trade_data = PARENT_DIR / "data/exports.json"
-
-#with open(trade_data, "r", encoding="utf-8") as file:
- #   trade_dict = json.load(file)  # Diccionario con datos de comercio
-
-
-  # 📌 Definir opciones para los dropdowns
+# Definir opciones para los dropdowns
 COUNTRIES = list(trade_dict.keys())
 NAICS_CATEGORIES = [
     {"label": "11 - Agriculture and Livestock products", "value": "11"},

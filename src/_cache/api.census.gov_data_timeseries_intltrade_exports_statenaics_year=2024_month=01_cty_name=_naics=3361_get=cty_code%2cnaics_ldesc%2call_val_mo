@@ -1,0 +1,1505 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 18:38:59 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a408215a0be931f616f13fb08fbe949eb7e2f66dbd64a6b4c1c76d602f56e76aff6e2114f3af77c3c252bec26dd9d589c6; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "ALL_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "4946550223",
+      "2024",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "840174837",
+      "2024",
+      "01",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "1045193570",
+      "2024",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0017",
+      "MOTOR VEHICLES",
+      "47209087",
+      "2024",
+      "01",
+      "CAFTA-DR",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "2348386351",
+      "2024",
+      "01",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "457662210",
+      "2024",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "3784050818",
+      "2024",
+      "01",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "2920850279",
+      "2024",
+      "01",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "394635788",
+      "2024",
+      "01",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "797713658",
+      "2024",
+      "01",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "3438306404",
+      "2024",
+      "01",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "17012464",
+      "2024",
+      "01",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "0028",
+      "MOTOR VEHICLES",
+      "21350434",
+      "2024",
+      "01",
+      "CACM",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "2043215698",
+      "2024",
+      "01",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "2348386351",
+      "2024",
+      "01",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "305170653",
+      "2024",
+      "01",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "2050",
+      "MOTOR VEHICLES",
+      "7336009",
+      "2024",
+      "01",
+      "GUATEMALA",
+      "3361"
+    ],
+    [
+      "2080",
+      "MOTOR VEHICLES",
+      "765597",
+      "2024",
+      "01",
+      "BELIZE",
+      "3361"
+    ],
+    [
+      "2110",
+      "MOTOR VEHICLES",
+      "1381173",
+      "2024",
+      "01",
+      "EL SALVADOR",
+      "3361"
+    ],
+    [
+      "2150",
+      "MOTOR VEHICLES",
+      "3131054",
+      "2024",
+      "01",
+      "HONDURAS",
+      "3361"
+    ],
+    [
+      "2190",
+      "MOTOR VEHICLES",
+      "1266819",
+      "2024",
+      "01",
+      "NICARAGUA",
+      "3361"
+    ],
+    [
+      "2230",
+      "MOTOR VEHICLES",
+      "8235379",
+      "2024",
+      "01",
+      "COSTA RICA",
+      "3361"
+    ],
+    [
+      "2250",
+      "MOTOR VEHICLES",
+      "14240885",
+      "2024",
+      "01",
+      "PANAMA",
+      "3361"
+    ],
+    [
+      "2320",
+      "MOTOR VEHICLES",
+      "73975",
+      "2024",
+      "01",
+      "BERMUDA",
+      "3361"
+    ],
+    [
+      "2360",
+      "MOTOR VEHICLES",
+      "3591173",
+      "2024",
+      "01",
+      "BAHAMAS",
+      "3361"
+    ],
+    [
+      "2390",
+      "MOTOR VEHICLES",
+      "125992",
+      "2024",
+      "01",
+      "CUBA",
+      "3361"
+    ],
+    [
+      "2410",
+      "MOTOR VEHICLES",
+      "4643854",
+      "2024",
+      "01",
+      "JAMAICA",
+      "3361"
+    ],
+    [
+      "2430",
+      "MOTOR VEHICLES",
+      "728821",
+      "2024",
+      "01",
+      "TURKS AND CAICOS ISLANDS",
+      "3361"
+    ],
+    [
+      "2440",
+      "MOTOR VEHICLES",
+      "3217321",
+      "2024",
+      "01",
+      "CAYMAN ISLANDS",
+      "3361"
+    ],
+    [
+      "2450",
+      "MOTOR VEHICLES",
+      "1450458",
+      "2024",
+      "01",
+      "HAITI",
+      "3361"
+    ],
+    [
+      "2470",
+      "MOTOR VEHICLES",
+      "25858653",
+      "2024",
+      "01",
+      "DOMINICAN REPUBLIC",
+      "3361"
+    ],
+    [
+      "2481",
+      "MOTOR VEHICLES",
+      "102653",
+      "2024",
+      "01",
+      "ANGUILLA",
+      "3361"
+    ],
+    [
+      "2482",
+      "MOTOR VEHICLES",
+      "513387",
+      "2024",
+      "01",
+      "BRITISH VIRGIN ISLANDS",
+      "3361"
+    ],
+    [
+      "2483",
+      "MOTOR VEHICLES",
+      "27467",
+      "2024",
+      "01",
+      "ST KITTS AND NEVIS",
+      "3361"
+    ],
+    [
+      "2484",
+      "MOTOR VEHICLES",
+      "892223",
+      "2024",
+      "01",
+      "ANTIGUA AND BARBUDA",
+      "3361"
+    ],
+    [
+      "2487",
+      "MOTOR VEHICLES",
+      "166220",
+      "2024",
+      "01",
+      "ST LUCIA",
+      "3361"
+    ],
+    [
+      "2488",
+      "MOTOR VEHICLES",
+      "27179",
+      "2024",
+      "01",
+      "ST VINCENT AND THE GRENADINES",
+      "3361"
+    ],
+    [
+      "2720",
+      "MOTOR VEHICLES",
+      "601051",
+      "2024",
+      "01",
+      "BARBADOS",
+      "3361"
+    ],
+    [
+      "2740",
+      "MOTOR VEHICLES",
+      "516750",
+      "2024",
+      "01",
+      "TRINIDAD AND TOBAGO",
+      "3361"
+    ],
+    [
+      "2774",
+      "MOTOR VEHICLES",
+      "1041029",
+      "2024",
+      "01",
+      "SINT MAARTEN",
+      "3361"
+    ],
+    [
+      "2777",
+      "MOTOR VEHICLES",
+      "418660",
+      "2024",
+      "01",
+      "CURACAO",
+      "3361"
+    ],
+    [
+      "2779",
+      "MOTOR VEHICLES",
+      "1240912",
+      "2024",
+      "01",
+      "ARUBA",
+      "3361"
+    ],
+    [
+      "2XXX",
+      "MOTOR VEHICLES",
+      "81594694",
+      "2024",
+      "01",
+      "CENTRAL AMERICA",
+      "3361"
+    ],
+    [
+      "3010",
+      "MOTOR VEHICLES",
+      "14703198",
+      "2024",
+      "01",
+      "COLOMBIA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "1772377",
+      "2024",
+      "01",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3120",
+      "MOTOR VEHICLES",
+      "985717",
+      "2024",
+      "01",
+      "GUYANA",
+      "3361"
+    ],
+    [
+      "3150",
+      "MOTOR VEHICLES",
+      "86320",
+      "2024",
+      "01",
+      "SURINAME",
+      "3361"
+    ],
+    [
+      "3310",
+      "MOTOR VEHICLES",
+      "1340204",
+      "2024",
+      "01",
+      "ECUADOR",
+      "3361"
+    ],
+    [
+      "3330",
+      "MOTOR VEHICLES",
+      "8386095",
+      "2024",
+      "01",
+      "PERU",
+      "3361"
+    ],
+    [
+      "3350",
+      "MOTOR VEHICLES",
+      "373172",
+      "2024",
+      "01",
+      "BOLIVIA",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "31358116",
+      "2024",
+      "01",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "24971528",
+      "2024",
+      "01",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3530",
+      "MOTOR VEHICLES",
+      "3658283",
+      "2024",
+      "01",
+      "PARAGUAY",
+      "3361"
+    ],
+    [
+      "3550",
+      "MOTOR VEHICLES",
+      "2432690",
+      "2024",
+      "01",
+      "URUGUAY",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "469472",
+      "2024",
+      "01",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "90537172",
+      "2024",
+      "01",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "4000",
+      "MOTOR VEHICLES",
+      "457649",
+      "2024",
+      "01",
+      "ICELAND",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "11348860",
+      "2024",
+      "01",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "6518887",
+      "2024",
+      "01",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "1540504",
+      "2024",
+      "01",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "2045139",
+      "2024",
+      "01",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "43482951",
+      "2024",
+      "01",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "4103266",
+      "2024",
+      "01",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "7541163",
+      "2024",
+      "01",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "89397405",
+      "2024",
+      "01",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "5874397",
+      "2024",
+      "01",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "661238503",
+      "2024",
+      "01",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "1172745",
+      "2024",
+      "01",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "1453597",
+      "2024",
+      "01",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "853642",
+      "2024",
+      "01",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "423782",
+      "2024",
+      "01",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "6044068",
+      "2024",
+      "01",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4470",
+      "MOTOR VEHICLES",
+      "215055",
+      "2024",
+      "01",
+      "ESTONIA",
+      "3361"
+    ],
+    [
+      "4490",
+      "MOTOR VEHICLES",
+      "166260",
+      "2024",
+      "01",
+      "LATVIA",
+      "3361"
+    ],
+    [
+      "4510",
+      "MOTOR VEHICLES",
+      "17558652",
+      "2024",
+      "01",
+      "LITHUANIA",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "22792604",
+      "2024",
+      "01",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4623",
+      "MOTOR VEHICLES",
+      "9703989",
+      "2024",
+      "01",
+      "UKRAINE",
+      "3361"
+    ],
+    [
+      "4631",
+      "MOTOR VEHICLES",
+      "1704004",
+      "2024",
+      "01",
+      "ARMENIA",
+      "3361"
+    ],
+    [
+      "4632",
+      "MOTOR VEHICLES",
+      "338329",
+      "2024",
+      "01",
+      "AZERBAIJAN",
+      "3361"
+    ],
+    [
+      "4633",
+      "MOTOR VEHICLES",
+      "6437016",
+      "2024",
+      "01",
+      "GEORGIA",
+      "3361"
+    ],
+    [
+      "4634",
+      "MOTOR VEHICLES",
+      "500408",
+      "2024",
+      "01",
+      "KAZAKHSTAN",
+      "3361"
+    ],
+    [
+      "4635",
+      "MOTOR VEHICLES",
+      "701093",
+      "2024",
+      "01",
+      "KYRGYZSTAN",
+      "3361"
+    ],
+    [
+      "4641",
+      "MOTOR VEHICLES",
+      "414835",
+      "2024",
+      "01",
+      "MOLDOVA",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "140056",
+      "2024",
+      "01",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4643",
+      "MOTOR VEHICLES",
+      "25005",
+      "2024",
+      "01",
+      "TURKMENISTAN",
+      "3361"
+    ],
+    [
+      "4644",
+      "MOTOR VEHICLES",
+      "211984",
+      "2024",
+      "01",
+      "UZBEKISTAN",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "2670244",
+      "2024",
+      "01",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "4219284",
+      "2024",
+      "01",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4791",
+      "MOTOR VEHICLES",
+      "8657",
+      "2024",
+      "01",
+      "CROATIA",
+      "3361"
+    ],
+    [
+      "4792",
+      "MOTOR VEHICLES",
+      "76446",
+      "2024",
+      "01",
+      "SLOVENIA",
+      "3361"
+    ],
+    [
+      "4804",
+      "MOTOR VEHICLES",
+      "90000",
+      "2024",
+      "01",
+      "MONTENEGRO",
+      "3361"
+    ],
+    [
+      "4810",
+      "MOTOR VEHICLES",
+      "245066",
+      "2024",
+      "01",
+      "ALBANIA",
+      "3361"
+    ],
+    [
+      "4840",
+      "MOTOR VEHICLES",
+      "610879",
+      "2024",
+      "01",
+      "GREECE",
+      "3361"
+    ],
+    [
+      "4850",
+      "MOTOR VEHICLES",
+      "2695108",
+      "2024",
+      "01",
+      "ROMANIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "1702089",
+      "2024",
+      "01",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "3960285",
+      "2024",
+      "01",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4910",
+      "MOTOR VEHICLES",
+      "326500",
+      "2024",
+      "01",
+      "CYPRUS",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "921010406",
+      "2024",
+      "01",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "5040",
+      "MOTOR VEHICLES",
+      "1404260",
+      "2024",
+      "01",
+      "LEBANON",
+      "3361"
+    ],
+    [
+      "5050",
+      "MOTOR VEHICLES",
+      "24496772",
+      "2024",
+      "01",
+      "IRAQ",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "20992121",
+      "2024",
+      "01",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5110",
+      "MOTOR VEHICLES",
+      "13367365",
+      "2024",
+      "01",
+      "JORDAN",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "27783057",
+      "2024",
+      "01",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5170",
+      "MOTOR VEHICLES",
+      "174169434",
+      "2024",
+      "01",
+      "SAUDI ARABIA",
+      "3361"
+    ],
+    [
+      "5180",
+      "MOTOR VEHICLES",
+      "17513777",
+      "2024",
+      "01",
+      "QATAR",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "105054403",
+      "2024",
+      "01",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5210",
+      "MOTOR VEHICLES",
+      "271344",
+      "2024",
+      "01",
+      "YEMEN",
+      "3361"
+    ],
+    [
+      "5230",
+      "MOTOR VEHICLES",
+      "13768492",
+      "2024",
+      "01",
+      "OMAN",
+      "3361"
+    ],
+    [
+      "5250",
+      "MOTOR VEHICLES",
+      "2552167",
+      "2024",
+      "01",
+      "BAHRAIN",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "5755619",
+      "2024",
+      "01",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5380",
+      "MOTOR VEHICLES",
+      "494845",
+      "2024",
+      "01",
+      "BANGLADESH",
+      "3361"
+    ],
+    [
+      "5420",
+      "MOTOR VEHICLES",
+      "324000",
+      "2024",
+      "01",
+      "SRI LANKA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "3399047",
+      "2024",
+      "01",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5520",
+      "MOTOR VEHICLES",
+      "1583225",
+      "2024",
+      "01",
+      "VIETNAM",
+      "3361"
+    ],
+    [
+      "5530",
+      "MOTOR VEHICLES",
+      "112205",
+      "2024",
+      "01",
+      "LAOS",
+      "3361"
+    ],
+    [
+      "5550",
+      "MOTOR VEHICLES",
+      "481337",
+      "2024",
+      "01",
+      "CAMBODIA",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "1438273",
+      "2024",
+      "01",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5590",
+      "MOTOR VEHICLES",
+      "1587837",
+      "2024",
+      "01",
+      "SINGAPORE",
+      "3361"
+    ],
+    [
+      "5600",
+      "MOTOR VEHICLES",
+      "1214470",
+      "2024",
+      "01",
+      "INDONESIA",
+      "3361"
+    ],
+    [
+      "5650",
+      "MOTOR VEHICLES",
+      "7196070",
+      "2024",
+      "01",
+      "PHILIPPINES",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "426756148",
+      "2024",
+      "01",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5740",
+      "MOTOR VEHICLES",
+      "271419",
+      "2024",
+      "01",
+      "MONGOLIA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "213288115",
+      "2024",
+      "01",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5820",
+      "MOTOR VEHICLES",
+      "3131739",
+      "2024",
+      "01",
+      "HONG KONG",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "98736214",
+      "2024",
+      "01",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "81449374",
+      "2024",
+      "01",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "1248593129",
+      "2024",
+      "01",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "202232913",
+      "2024",
+      "01",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "8162417",
+      "2024",
+      "01",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6810",
+      "MOTOR VEHICLES",
+      "40000",
+      "2024",
+      "01",
+      "MARSHALL ISLANDS",
+      "3361"
+    ],
+    [
+      "6863",
+      "MOTOR VEHICLES",
+      "42586",
+      "2024",
+      "01",
+      "FIJI",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "210477916",
+      "2024",
+      "01",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "7140",
+      "MOTOR VEHICLES",
+      "930206",
+      "2024",
+      "01",
+      "MOROCCO",
+      "3361"
+    ],
+    [
+      "7210",
+      "MOTOR VEHICLES",
+      "108377",
+      "2024",
+      "01",
+      "ALGERIA",
+      "3361"
+    ],
+    [
+      "7230",
+      "MOTOR VEHICLES",
+      "50000",
+      "2024",
+      "01",
+      "TUNISIA",
+      "3361"
+    ],
+    [
+      "7250",
+      "MOTOR VEHICLES",
+      "2525929",
+      "2024",
+      "01",
+      "LIBYA",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "722473",
+      "2024",
+      "01",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7380",
+      "MOTOR VEHICLES",
+      "74890",
+      "2024",
+      "01",
+      "EQUATORIAL GUINEA",
+      "3361"
+    ],
+    [
+      "7410",
+      "MOTOR VEHICLES",
+      "46286",
+      "2024",
+      "01",
+      "MAURITANIA",
+      "3361"
+    ],
+    [
+      "7420",
+      "MOTOR VEHICLES",
+      "106132",
+      "2024",
+      "01",
+      "CAMEROON",
+      "3361"
+    ],
+    [
+      "7440",
+      "MOTOR VEHICLES",
+      "1872182",
+      "2024",
+      "01",
+      "SENEGAL",
+      "3361"
+    ],
+    [
+      "7450",
+      "MOTOR VEHICLES",
+      "256800",
+      "2024",
+      "01",
+      "MALI",
+      "3361"
+    ],
+    [
+      "7460",
+      "MOTOR VEHICLES",
+      "268550",
+      "2024",
+      "01",
+      "GUINEA",
+      "3361"
+    ],
+    [
+      "7470",
+      "MOTOR VEHICLES",
+      "431755",
+      "2024",
+      "01",
+      "SIERRA LEONE",
+      "3361"
+    ],
+    [
+      "7480",
+      "MOTOR VEHICLES",
+      "250545",
+      "2024",
+      "01",
+      "COTE D'IVOIRE",
+      "3361"
+    ],
+    [
+      "7490",
+      "MOTOR VEHICLES",
+      "2990999",
+      "2024",
+      "01",
+      "GHANA",
+      "3361"
+    ],
+    [
+      "7500",
+      "MOTOR VEHICLES",
+      "185507",
+      "2024",
+      "01",
+      "GAMBIA",
+      "3361"
+    ],
+    [
+      "7520",
+      "MOTOR VEHICLES",
+      "437089",
+      "2024",
+      "01",
+      "TOGO",
+      "3361"
+    ],
+    [
+      "7530",
+      "MOTOR VEHICLES",
+      "8381930",
+      "2024",
+      "01",
+      "NIGERIA",
+      "3361"
+    ],
+    [
+      "7550",
+      "MOTOR VEHICLES",
+      "435105",
+      "2024",
+      "01",
+      "GABON",
+      "3361"
+    ],
+    [
+      "7600",
+      "MOTOR VEHICLES",
+      "69993",
+      "2024",
+      "01",
+      "BURKINA FASO",
+      "3361"
+    ],
+    [
+      "7610",
+      "MOTOR VEHICLES",
+      "1420719",
+      "2024",
+      "01",
+      "BENIN",
+      "3361"
+    ],
+    [
+      "7643",
+      "MOTOR VEHICLES",
+      "20500",
+      "2024",
+      "01",
+      "CABO VERDE",
+      "3361"
+    ],
+    [
+      "7650",
+      "MOTOR VEHICLES",
+      "282940",
+      "2024",
+      "01",
+      "LIBERIA",
+      "3361"
+    ],
+    [
+      "7660",
+      "MOTOR VEHICLES",
+      "4800",
+      "2024",
+      "01",
+      "CONGO (KINSHASA)",
+      "3361"
+    ],
+    [
+      "7880",
+      "MOTOR VEHICLES",
+      "325065",
+      "2024",
+      "01",
+      "MADAGASCAR",
+      "3361"
+    ],
+    [
+      "7690",
+      "MOTOR VEHICLES",
+      "414565",
+      "2024",
+      "01",
+      "RWANDA",
+      "3361"
+    ],
+    [
+      "7749",
+      "MOTOR VEHICLES",
+      "11532",
+      "2024",
+      "01",
+      "ETHIOPIA",
+      "3361"
+    ],
+    [
+      "7830",
+      "MOTOR VEHICLES",
+      "524342",
+      "2024",
+      "01",
+      "TANZANIA",
+      "3361"
+    ],
+    [
+      "7890",
+      "MOTOR VEHICLES",
+      "41572",
+      "2024",
+      "01",
+      "COMOROS",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "22533862",
+      "2024",
+      "01",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7940",
+      "MOTOR VEHICLES",
+      "107300",
+      "2024",
+      "01",
+      "ZAMBIA",
+      "3361"
+    ],
+    [
+      "7960",
+      "MOTOR VEHICLES",
+      "118610",
+      "2024",
+      "01",
+      "ZIMBABWE",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "45950555",
+      "2024",
+      "01",
+      "AFRICA",
+      "3361"
+    ]
+  ]
+}

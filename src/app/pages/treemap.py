@@ -181,7 +181,7 @@ def get_data_import(naics, date_index):
     )
 def get_data_export(naics, date_index):
     """
-    Create a map graph of Export from USA.
+    Create a map graph of Export to USA.
 
     Input:
         naics: North American Industry Classification System

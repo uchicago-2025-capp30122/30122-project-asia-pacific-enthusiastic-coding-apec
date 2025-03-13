@@ -1,0 +1,8966 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 20:43:53 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a45ff20a22114eca82cdf6939499402d307ef1b0615a03631e039ffa965cbcf6984bba0ea886a878b6ce2e7dc847fecd24; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "126093557",
+      "2016",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "25867632",
+      "2016",
+      "01",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53843510",
+      "2016",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "56777",
+      "2016",
+      "01",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "39801915",
+      "2016",
+      "01",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13909233",
+      "2016",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "67915619",
+      "2016",
+      "01",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "51439683",
+      "2016",
+      "01",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13837122",
+      "2016",
+      "01",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "18557345",
+      "2016",
+      "01",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "97169631",
+      "2016",
+      "01",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5093252",
+      "2016",
+      "01",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "48499",
+      "2016",
+      "01",
+      "CACM",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "26175613",
+      "2016",
+      "01",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "39801915",
+      "2016",
+      "01",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13626302",
+      "2016",
+      "01",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "48499",
+      "2016",
+      "01",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15334",
+      "2016",
+      "01",
+      "PANAMA",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8278",
+      "2016",
+      "01",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "72111",
+      "2016",
+      "01",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6929",
+      "2016",
+      "01",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "203891",
+      "2016",
+      "01",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "210820",
+      "2016",
+      "01",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1865551",
+      "2016",
+      "01",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3137896",
+      "2016",
+      "01",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "329504",
+      "2016",
+      "01",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "317976",
+      "2016",
+      "01",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "141375",
+      "2016",
+      "01",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3361925",
+      "2016",
+      "01",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "822622",
+      "2016",
+      "01",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "65553",
+      "2016",
+      "01",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4359",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "500754",
+      "2016",
+      "01",
+      "SLOVAKIA",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10452",
+      "2016",
+      "01",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "34393",
+      "2016",
+      "01",
+      "LITHUANIA",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "246300",
+      "2016",
+      "01",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4621",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8984",
+      "2016",
+      "01",
+      "RUSSIA",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4389727",
+      "2016",
+      "01",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "98899",
+      "2016",
+      "01",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2212567",
+      "2016",
+      "01",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6677107",
+      "2016",
+      "01",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1665483",
+      "2016",
+      "01",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1261989",
+      "2016",
+      "01",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "27149057",
+      "2016",
+      "01",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "300620",
+      "2016",
+      "01",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "484807",
+      "2016",
+      "01",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "25957",
+      "2016",
+      "01",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5420",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "26542",
+      "2016",
+      "01",
+      "SRI LANKA",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "254548",
+      "2016",
+      "01",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3253745",
+      "2016",
+      "01",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "327864",
+      "2016",
+      "01",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "219775",
+      "2016",
+      "01",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1037320",
+      "2016",
+      "01",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "47535421",
+      "2016",
+      "01",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2271471",
+      "2016",
+      "01",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "106554",
+      "2016",
+      "01",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2243689",
+      "2016",
+      "01",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "101416",
+      "2016",
+      "01",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "58189729",
+      "2016",
+      "01",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "352899",
+      "2016",
+      "01",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "317026",
+      "2016",
+      "01",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "669925",
+      "2016",
+      "01",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "127018662",
+      "2016",
+      "02",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "20027186",
+      "2016",
+      "02",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "65353101",
+      "2016",
+      "02",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "85893",
+      "2016",
+      "02",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "35870934",
+      "2016",
+      "02",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13315199",
+      "2016",
+      "02",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "63814295",
+      "2016",
+      "02",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "39972387",
+      "2016",
+      "02",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13229306",
+      "2016",
+      "02",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15760039",
+      "2016",
+      "02",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "104234988",
+      "2016",
+      "02",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4868202",
+      "2016",
+      "02",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53711",
+      "2016",
+      "02",
+      "CACM",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "22797277",
+      "2016",
+      "02",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "35870934",
+      "2016",
+      "02",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13073657",
+      "2016",
+      "02",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53711",
+      "2016",
+      "02",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "02",
+      "PANAMA",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "32182",
+      "2016",
+      "02",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "85893",
+      "2016",
+      "02",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4426",
+      "2016",
+      "02",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "151223",
+      "2016",
+      "02",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "155649",
+      "2016",
+      "02",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1842985",
+      "2016",
+      "02",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "30000",
+      "2016",
+      "02",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "02",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "319316",
+      "2016",
+      "02",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "40267",
+      "2016",
+      "02",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "249218",
+      "2016",
+      "02",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "173416",
+      "2016",
+      "02",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4736648",
+      "2016",
+      "02",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1006031",
+      "2016",
+      "02",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15347",
+      "2016",
+      "02",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "67774",
+      "2016",
+      "02",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4359",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "414181",
+      "2016",
+      "02",
+      "SLOVAKIA",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6585",
+      "2016",
+      "02",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "19629",
+      "2016",
+      "02",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "02",
+      "LITHUANIA",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "89041",
+      "2016",
+      "02",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4621",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "02",
+      "RUSSIA",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2486051",
+      "2016",
+      "02",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "151345",
+      "2016",
+      "02",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "380050",
+      "2016",
+      "02",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1915531",
+      "2016",
+      "02",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6077485",
+      "2016",
+      "02",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "25915",
+      "2016",
+      "02",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "992054",
+      "2016",
+      "02",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "21038869",
+      "2016",
+      "02",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "98095",
+      "2016",
+      "02",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5230",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5531",
+      "2016",
+      "02",
+      "OMAN",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "457765",
+      "2016",
+      "02",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "02",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5420",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8849",
+      "2016",
+      "02",
+      "SRI LANKA",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "262616",
+      "2016",
+      "02",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2743911",
+      "2016",
+      "02",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "128053",
+      "2016",
+      "02",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "86350",
+      "2016",
+      "02",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "213873",
+      "2016",
+      "02",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1433399",
+      "2016",
+      "02",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "54479196",
+      "2016",
+      "02",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8727033",
+      "2016",
+      "02",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "125554",
+      "2016",
+      "02",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "138833",
+      "2016",
+      "02",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "20810",
+      "2016",
+      "02",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "68929868",
+      "2016",
+      "02",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "6863",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13840",
+      "2016",
+      "02",
+      "FIJI",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13840",
+      "2016",
+      "02",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "78778",
+      "2016",
+      "02",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "840711",
+      "2016",
+      "02",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7920",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4120",
+      "2016",
+      "02",
+      "NAMIBIA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "923609",
+      "2016",
+      "02",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "128455519",
+      "2016",
+      "03",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "26174381",
+      "2016",
+      "03",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36275171",
+      "2016",
+      "03",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "104657",
+      "2016",
+      "03",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "55105769",
+      "2016",
+      "03",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16843155",
+      "2016",
+      "03",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "91178822",
+      "2016",
+      "03",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "70497711",
+      "2016",
+      "03",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16733267",
+      "2016",
+      "03",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "21901438",
+      "2016",
+      "03",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "94199100",
+      "2016",
+      "03",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5725603",
+      "2016",
+      "03",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "63914",
+      "2016",
+      "03",
+      "CACM",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "38521336",
+      "2016",
+      "03",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "55105769",
+      "2016",
+      "03",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16584433",
+      "2016",
+      "03",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "63914",
+      "2016",
+      "03",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "03",
+      "PANAMA",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5231",
+      "2016",
+      "03",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "40743",
+      "2016",
+      "03",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "109888",
+      "2016",
+      "03",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4510",
+      "2016",
+      "03",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "142234",
+      "2016",
+      "03",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2090",
+      "2016",
+      "03",
+      "ARGENTINA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "148834",
+      "2016",
+      "03",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "64230",
+      "2016",
+      "03",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "395469",
+      "2016",
+      "03",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "03",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3530601",
+      "2016",
+      "03",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "293427",
+      "2016",
+      "03",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "03",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "397951",
+      "2016",
+      "03",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "79108",
+      "2016",
+      "03",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3869624",
+      "2016",
+      "03",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1684428",
+      "2016",
+      "03",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "21946",
+      "2016",
+      "03",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "38419",
+      "2016",
+      "03",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4359",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "590081",
+      "2016",
+      "03",
+      "SLOVAKIA",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "03",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "91045",
+      "2016",
+      "03",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "35796",
+      "2016",
+      "03",
+      "LITHUANIA",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "316026",
+      "2016",
+      "03",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4621",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "03",
+      "RUSSIA",
+      "3273"
+    ],
+    [
+      "4633",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10940",
+      "2016",
+      "03",
+      "GEORGIA",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3566199",
+      "2016",
+      "03",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "66452",
+      "2016",
+      "03",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "498987",
+      "2016",
+      "03",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "30240",
+      "2016",
+      "03",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4801",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8277",
+      "2016",
+      "03",
+      "SERBIA",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "11090866",
+      "2016",
+      "03",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "03",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5522941",
+      "2016",
+      "03",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "32203053",
+      "2016",
+      "03",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "267816",
+      "2016",
+      "03",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5230",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "03",
+      "OMAN",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "489326",
+      "2016",
+      "03",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "03",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5420",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "03",
+      "SRI LANKA",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "103340",
+      "2016",
+      "03",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2710310",
+      "2016",
+      "03",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "493489",
+      "2016",
+      "03",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "03",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "242296",
+      "2016",
+      "03",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2176168",
+      "2016",
+      "03",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "27434390",
+      "2016",
+      "03",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3582026",
+      "2016",
+      "03",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "110934",
+      "2016",
+      "03",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2130457",
+      "2016",
+      "03",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "105411",
+      "2016",
+      "03",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "39845963",
+      "2016",
+      "03",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "6863",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "49757",
+      "2016",
+      "03",
+      "FIJI",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "49757",
+      "2016",
+      "03",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "207538",
+      "2016",
+      "03",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "771800",
+      "2016",
+      "03",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12917",
+      "2016",
+      "03",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7920",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "03",
+      "NAMIBIA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "992255",
+      "2016",
+      "03",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "161791276",
+      "2016",
+      "04",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "199489",
+      "2016",
+      "04",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "32988162",
+      "2016",
+      "04",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "46634124",
+      "2016",
+      "04",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "96722",
+      "2016",
+      "04",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "68558645",
+      "2016",
+      "04",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "17376994",
+      "2016",
+      "04",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "113838699",
+      "2016",
+      "04",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "89168743",
+      "2016",
+      "04",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "17280272",
+      "2016",
+      "04",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "24449624",
+      "2016",
+      "04",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "117910866",
+      "2016",
+      "04",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4868420",
+      "2016",
+      "04",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "49553",
+      "2016",
+      "04",
+      "CACM",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "51321189",
+      "2016",
+      "04",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "68558645",
+      "2016",
+      "04",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "17237456",
+      "2016",
+      "04",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "49553",
+      "2016",
+      "04",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "PANAMA",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "47169",
+      "2016",
+      "04",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "96722",
+      "2016",
+      "04",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4614",
+      "2016",
+      "04",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4814",
+      "2016",
+      "04",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "33388",
+      "2016",
+      "04",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "ARGENTINA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "42816",
+      "2016",
+      "04",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3239753",
+      "2016",
+      "04",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2930608",
+      "2016",
+      "04",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "345299",
+      "2016",
+      "04",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "299455",
+      "2016",
+      "04",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "96962",
+      "2016",
+      "04",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "202481",
+      "2016",
+      "04",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1613886",
+      "2016",
+      "04",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "26489",
+      "2016",
+      "04",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "19210",
+      "2016",
+      "04",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4359",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "137263",
+      "2016",
+      "04",
+      "SLOVAKIA",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13520",
+      "2016",
+      "04",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "LITHUANIA",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "204548",
+      "2016",
+      "04",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4621",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "RUSSIA",
+      "3273"
+    ],
+    [
+      "4633",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "GEORGIA",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7163247",
+      "2016",
+      "04",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3908034",
+      "2016",
+      "04",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4730",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "506250",
+      "2016",
+      "04",
+      "MALTA",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "991059",
+      "2016",
+      "04",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "137772",
+      "2016",
+      "04",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4801",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "SERBIA",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9504498",
+      "2016",
+      "04",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1661348",
+      "2016",
+      "04",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8769656",
+      "2016",
+      "04",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "41771338",
+      "2016",
+      "04",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "240752",
+      "2016",
+      "04",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "194875",
+      "2016",
+      "04",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5230",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "OMAN",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "549565",
+      "2016",
+      "04",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5420",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "28356",
+      "2016",
+      "04",
+      "SRI LANKA",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "153861",
+      "2016",
+      "04",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2559422",
+      "2016",
+      "04",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2250",
+      "2016",
+      "04",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "176398",
+      "2016",
+      "04",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "84628",
+      "2016",
+      "04",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1891861",
+      "2016",
+      "04",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36683495",
+      "2016",
+      "04",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5534171",
+      "2016",
+      "04",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "58120",
+      "2016",
+      "04",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2166288",
+      "2016",
+      "04",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36892",
+      "2016",
+      "04",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "50360934",
+      "2016",
+      "04",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2271",
+      "2016",
+      "04",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6863",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53751",
+      "2016",
+      "04",
+      "FIJI",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "56022",
+      "2016",
+      "04",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "63117",
+      "2016",
+      "04",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "841682",
+      "2016",
+      "04",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7920",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "04",
+      "NAMIBIA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "904799",
+      "2016",
+      "04",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "163585697",
+      "2016",
+      "05",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "381629",
+      "2016",
+      "05",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "33119847",
+      "2016",
+      "05",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "52197421",
+      "2016",
+      "05",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "73165",
+      "2016",
+      "05",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "67983338",
+      "2016",
+      "05",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15008521",
+      "2016",
+      "05",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "109114242",
+      "2016",
+      "05",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "88107534",
+      "2016",
+      "05",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14935356",
+      "2016",
+      "05",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "27058727",
+      "2016",
+      "05",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "122360825",
+      "2016",
+      "05",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2986251",
+      "2016",
+      "05",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "33781",
+      "2016",
+      "05",
+      "CACM",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53195546",
+      "2016",
+      "05",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "67983338",
+      "2016",
+      "05",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14787792",
+      "2016",
+      "05",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "33781",
+      "2016",
+      "05",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "PANAMA",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "39384",
+      "2016",
+      "05",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "73165",
+      "2016",
+      "05",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5029",
+      "2016",
+      "05",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5978",
+      "2016",
+      "05",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "136557",
+      "2016",
+      "05",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "ARGENTINA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "147564",
+      "2016",
+      "05",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1552162",
+      "2016",
+      "05",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "468622",
+      "2016",
+      "05",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "294303",
+      "2016",
+      "05",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "190159",
+      "2016",
+      "05",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7098848",
+      "2016",
+      "05",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1491043",
+      "2016",
+      "05",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "73575",
+      "2016",
+      "05",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "23435",
+      "2016",
+      "05",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4359",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "272664",
+      "2016",
+      "05",
+      "SLOVAKIA",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10328",
+      "2016",
+      "05",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "32001",
+      "2016",
+      "05",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "LITHUANIA",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "342714",
+      "2016",
+      "05",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4621",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "RUSSIA",
+      "3273"
+    ],
+    [
+      "4633",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "GEORGIA",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1975810",
+      "2016",
+      "05",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "76108",
+      "2016",
+      "05",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4730",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "MALTA",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1595897",
+      "2016",
+      "05",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2028335",
+      "2016",
+      "05",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4801",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "SERBIA",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13990320",
+      "2016",
+      "05",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1635524",
+      "2016",
+      "05",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5446213",
+      "2016",
+      "05",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "38598061",
+      "2016",
+      "05",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "473835",
+      "2016",
+      "05",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "381629",
+      "2016",
+      "05",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5230",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "OMAN",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "670551",
+      "2016",
+      "05",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5420",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "SRI LANKA",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "227780",
+      "2016",
+      "05",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1946308",
+      "2016",
+      "05",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "113101",
+      "2016",
+      "05",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13652",
+      "2016",
+      "05",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "114537",
+      "2016",
+      "05",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "570873",
+      "2016",
+      "05",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "43468016",
+      "2016",
+      "05",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5710016",
+      "2016",
+      "05",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "38767",
+      "2016",
+      "05",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2155608",
+      "2016",
+      "05",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12851",
+      "2016",
+      "05",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "55897524",
+      "2016",
+      "05",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6863",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "FIJI",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "240242",
+      "2016",
+      "05",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "645803",
+      "2016",
+      "05",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7920",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "05",
+      "NAMIBIA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "886045",
+      "2016",
+      "05",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "161450509",
+      "2016",
+      "06",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "364626",
+      "2016",
+      "06",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "22913318",
+      "2016",
+      "06",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "54998663",
+      "2016",
+      "06",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "135381",
+      "2016",
+      "06",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "72725972",
+      "2016",
+      "06",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16923752",
+      "2016",
+      "06",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "108183431",
+      "2016",
+      "06",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "83367017",
+      "2016",
+      "06",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16788371",
+      "2016",
+      "06",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "20203664",
+      "2016",
+      "06",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "129289008",
+      "2016",
+      "06",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2408441",
+      "2016",
+      "06",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "100830",
+      "2016",
+      "06",
+      "CACM",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "56258969",
+      "2016",
+      "06",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "72725972",
+      "2016",
+      "06",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16467003",
+      "2016",
+      "06",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "100830",
+      "2016",
+      "06",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "PANAMA",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "34551",
+      "2016",
+      "06",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "135381",
+      "2016",
+      "06",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6886",
+      "2016",
+      "06",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "314482",
+      "2016",
+      "06",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "ARGENTINA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "321368",
+      "2016",
+      "06",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1466854",
+      "2016",
+      "06",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "451435",
+      "2016",
+      "06",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "191856",
+      "2016",
+      "06",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36668",
+      "2016",
+      "06",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "732242",
+      "2016",
+      "06",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2419733",
+      "2016",
+      "06",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "61832",
+      "2016",
+      "06",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "147830",
+      "2016",
+      "06",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4359",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "SLOVAKIA",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "91592",
+      "2016",
+      "06",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "142707",
+      "2016",
+      "06",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "40114",
+      "2016",
+      "06",
+      "LITHUANIA",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "396472",
+      "2016",
+      "06",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4621",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "RUSSIA",
+      "3273"
+    ],
+    [
+      "4633",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7358",
+      "2016",
+      "06",
+      "GEORGIA",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6342252",
+      "2016",
+      "06",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "50842",
+      "2016",
+      "06",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4730",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "746166",
+      "2016",
+      "06",
+      "MALTA",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "646867",
+      "2016",
+      "06",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "138987",
+      "2016",
+      "06",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4801",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "SERBIA",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8935092",
+      "2016",
+      "06",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4850",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6156",
+      "2016",
+      "06",
+      "ROMANIA",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10328",
+      "2016",
+      "06",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6608569",
+      "2016",
+      "06",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "29671952",
+      "2016",
+      "06",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "454571",
+      "2016",
+      "06",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "364626",
+      "2016",
+      "06",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5230",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "OMAN",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "462971",
+      "2016",
+      "06",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5420",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "SRI LANKA",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "218049",
+      "2016",
+      "06",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1339438",
+      "2016",
+      "06",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "50182",
+      "2016",
+      "06",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "39514",
+      "2016",
+      "06",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "104373",
+      "2016",
+      "06",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "656885",
+      "2016",
+      "06",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "45597148",
+      "2016",
+      "06",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6204276",
+      "2016",
+      "06",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "140973",
+      "2016",
+      "06",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2129543",
+      "2016",
+      "06",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "59893",
+      "2016",
+      "06",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "57822442",
+      "2016",
+      "06",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15876",
+      "2016",
+      "06",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6863",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "FIJI",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15876",
+      "2016",
+      "06",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "92184",
+      "2016",
+      "06",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "665334",
+      "2016",
+      "06",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7920",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "06",
+      "NAMIBIA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "757518",
+      "2016",
+      "06",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "174640202",
+      "2016",
+      "07",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "337933",
+      "2016",
+      "07",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36673234",
+      "2016",
+      "07",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "56989888",
+      "2016",
+      "07",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "95880",
+      "2016",
+      "07",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "67279870",
+      "2016",
+      "07",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16087406",
+      "2016",
+      "07",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "115851562",
+      "2016",
+      "07",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "92474655",
+      "2016",
+      "07",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15991526",
+      "2016",
+      "07",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "25755456",
+      "2016",
+      "07",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "126358866",
+      "2016",
+      "07",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2925035",
+      "2016",
+      "07",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36764",
+      "2016",
+      "07",
+      "CACM",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "51331570",
+      "2016",
+      "07",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "67279870",
+      "2016",
+      "07",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15948300",
+      "2016",
+      "07",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36764",
+      "2016",
+      "07",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "PANAMA",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "59116",
+      "2016",
+      "07",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "95880",
+      "2016",
+      "07",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5315",
+      "2016",
+      "07",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "37911",
+      "2016",
+      "07",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "ARGENTINA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "43226",
+      "2016",
+      "07",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2883665",
+      "2016",
+      "07",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3354334",
+      "2016",
+      "07",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "793709",
+      "2016",
+      "07",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "374118",
+      "2016",
+      "07",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "181028",
+      "2016",
+      "07",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5935406",
+      "2016",
+      "07",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1517836",
+      "2016",
+      "07",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "89299",
+      "2016",
+      "07",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "38659",
+      "2016",
+      "07",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4359",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "SLOVAKIA",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "34660",
+      "2016",
+      "07",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "37559",
+      "2016",
+      "07",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36563",
+      "2016",
+      "07",
+      "LITHUANIA",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "312505",
+      "2016",
+      "07",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4621",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "RUSSIA",
+      "3273"
+    ],
+    [
+      "4633",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "GEORGIA",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3606621",
+      "2016",
+      "07",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "35712",
+      "2016",
+      "07",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4730",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "MALTA",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "495174",
+      "2016",
+      "07",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2003554",
+      "2016",
+      "07",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4801",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "SERBIA",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13483699",
+      "2016",
+      "07",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4850",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9232",
+      "2016",
+      "07",
+      "ROMANIA",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1487460",
+      "2016",
+      "07",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9446369",
+      "2016",
+      "07",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "46157162",
+      "2016",
+      "07",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "473166",
+      "2016",
+      "07",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "337933",
+      "2016",
+      "07",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5230",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "OMAN",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "203203",
+      "2016",
+      "07",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3100",
+      "2016",
+      "07",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5420",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "SRI LANKA",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "454964",
+      "2016",
+      "07",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1628829",
+      "2016",
+      "07",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "33858",
+      "2016",
+      "07",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9344",
+      "2016",
+      "07",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "176696",
+      "2016",
+      "07",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "621344",
+      "2016",
+      "07",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "48341879",
+      "2016",
+      "07",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5246791",
+      "2016",
+      "07",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "128185",
+      "2016",
+      "07",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2200409",
+      "2016",
+      "07",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "187851",
+      "2016",
+      "07",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "60047552",
+      "2016",
+      "07",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "43531",
+      "2016",
+      "07",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6863",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "51022",
+      "2016",
+      "07",
+      "FIJI",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "94553",
+      "2016",
+      "07",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "185798",
+      "2016",
+      "07",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "716099",
+      "2016",
+      "07",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7299",
+      "2016",
+      "07",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7920",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "07",
+      "NAMIBIA",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12763",
+      "2016",
+      "07",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "921959",
+      "2016",
+      "07",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "175352474",
+      "2016",
+      "08",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "291425",
+      "2016",
+      "08",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "28771457",
+      "2016",
+      "08",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "60000344",
+      "2016",
+      "08",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "120811",
+      "2016",
+      "08",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "74608300",
+      "2016",
+      "08",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16081890",
+      "2016",
+      "08",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "115582801",
+      "2016",
+      "08",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "95250723",
+      "2016",
+      "08",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15956790",
+      "2016",
+      "08",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "26219238",
+      "2016",
+      "08",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "136659033",
+      "2016",
+      "08",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3146951",
+      "2016",
+      "08",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "84556",
+      "2016",
+      "08",
+      "CACM",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "58690311",
+      "2016",
+      "08",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "74608300",
+      "2016",
+      "08",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15917989",
+      "2016",
+      "08",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "84556",
+      "2016",
+      "08",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "PANAMA",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4289",
+      "2016",
+      "08",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36255",
+      "2016",
+      "08",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "125100",
+      "2016",
+      "08",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "25081",
+      "2016",
+      "08",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5514",
+      "2016",
+      "08",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8206",
+      "2016",
+      "08",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "ARGENTINA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "38801",
+      "2016",
+      "08",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "66753",
+      "2016",
+      "08",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5410",
+      "2016",
+      "08",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "677109",
+      "2016",
+      "08",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "252039",
+      "2016",
+      "08",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "247898",
+      "2016",
+      "08",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4339535",
+      "2016",
+      "08",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1325776",
+      "2016",
+      "08",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "45635",
+      "2016",
+      "08",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "46693",
+      "2016",
+      "08",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4359",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "SLOVAKIA",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "76674",
+      "2016",
+      "08",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "117633",
+      "2016",
+      "08",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "LITHUANIA",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "197574",
+      "2016",
+      "08",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4621",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "RUSSIA",
+      "3273"
+    ],
+    [
+      "4633",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12617",
+      "2016",
+      "08",
+      "GEORGIA",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3757479",
+      "2016",
+      "08",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "75106",
+      "2016",
+      "08",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4730",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "MALTA",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "735848",
+      "2016",
+      "08",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4801",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "SERBIA",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15439922",
+      "2016",
+      "08",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4850",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "ROMANIA",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1487416",
+      "2016",
+      "08",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7895933",
+      "2016",
+      "08",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36803050",
+      "2016",
+      "08",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14022",
+      "2016",
+      "08",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "246006",
+      "2016",
+      "08",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "291425",
+      "2016",
+      "08",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5230",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "OMAN",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "387625",
+      "2016",
+      "08",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5420",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "SRI LANKA",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "463123",
+      "2016",
+      "08",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1581752",
+      "2016",
+      "08",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3874",
+      "2016",
+      "08",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "132954",
+      "2016",
+      "08",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "291668",
+      "2016",
+      "08",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "673580",
+      "2016",
+      "08",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53223936",
+      "2016",
+      "08",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5321084",
+      "2016",
+      "08",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "127094",
+      "2016",
+      "08",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "125634",
+      "2016",
+      "08",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "41683",
+      "2016",
+      "08",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "62925460",
+      "2016",
+      "08",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "62711",
+      "2016",
+      "08",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6863",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "30843",
+      "2016",
+      "08",
+      "FIJI",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "93554",
+      "2016",
+      "08",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "167192",
+      "2016",
+      "08",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "591017",
+      "2016",
+      "08",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7920",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "NAMIBIA",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "08",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "758209",
+      "2016",
+      "08",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "153843605",
+      "2016",
+      "09",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "494692",
+      "2016",
+      "09",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "18820776",
+      "2016",
+      "09",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "54636116",
+      "2016",
+      "09",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "116595",
+      "2016",
+      "09",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "68233698",
+      "2016",
+      "09",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15841127",
+      "2016",
+      "09",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "99027343",
+      "2016",
+      "09",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "77044408",
+      "2016",
+      "09",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15719532",
+      "2016",
+      "09",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12854086",
+      "2016",
+      "09",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "125108213",
+      "2016",
+      "09",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3255745",
+      "2016",
+      "09",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "68615",
+      "2016",
+      "09",
+      "CACM",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "52537064",
+      "2016",
+      "09",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "68233698",
+      "2016",
+      "09",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15696634",
+      "2016",
+      "09",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "68615",
+      "2016",
+      "09",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5000",
+      "2016",
+      "09",
+      "PANAMA",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "47980",
+      "2016",
+      "09",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2740",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "315900",
+      "2016",
+      "09",
+      "TRINIDAD AND TOBAGO",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "437495",
+      "2016",
+      "09",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3344",
+      "2016",
+      "09",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16014",
+      "2016",
+      "09",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3540",
+      "2016",
+      "09",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "ARGENTINA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "22898",
+      "2016",
+      "09",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1593546",
+      "2016",
+      "09",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3424560",
+      "2016",
+      "09",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "417089",
+      "2016",
+      "09",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "218034",
+      "2016",
+      "09",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "43532",
+      "2016",
+      "09",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "486489",
+      "2016",
+      "09",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1209798",
+      "2016",
+      "09",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "26791",
+      "2016",
+      "09",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "46641",
+      "2016",
+      "09",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4359",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "SLOVAKIA",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "228733",
+      "2016",
+      "09",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36240",
+      "2016",
+      "09",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "42635",
+      "2016",
+      "09",
+      "LITHUANIA",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "241449",
+      "2016",
+      "09",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4621",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "RUSSIA",
+      "3273"
+    ],
+    [
+      "4633",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "GEORGIA",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2028635",
+      "2016",
+      "09",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "44743",
+      "2016",
+      "09",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4730",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "MALTA",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "581406",
+      "2016",
+      "09",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6972",
+      "2016",
+      "09",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4801",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "SERBIA",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8172023",
+      "2016",
+      "09",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4850",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7700",
+      "2016",
+      "09",
+      "ROMANIA",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7313877",
+      "2016",
+      "09",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "26170893",
+      "2016",
+      "09",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "197446",
+      "2016",
+      "09",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "494692",
+      "2016",
+      "09",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5230",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "OMAN",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "144225",
+      "2016",
+      "09",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3591",
+      "2016",
+      "09",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5420",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "SRI LANKA",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "400076",
+      "2016",
+      "09",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1822309",
+      "2016",
+      "09",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "280674",
+      "2016",
+      "09",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "228860",
+      "2016",
+      "09",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "523826",
+      "2016",
+      "09",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "46799493",
+      "2016",
+      "09",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4439648",
+      "2016",
+      "09",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "283725",
+      "2016",
+      "09",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2036925",
+      "2016",
+      "09",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "28195",
+      "2016",
+      "09",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "57683685",
+      "2016",
+      "09",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14770",
+      "2016",
+      "09",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6863",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6500",
+      "2016",
+      "09",
+      "FIJI",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "21270",
+      "2016",
+      "09",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "178260",
+      "2016",
+      "09",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1095406",
+      "2016",
+      "09",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7920",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "NAMIBIA",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "09",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1273666",
+      "2016",
+      "09",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "153411243",
+      "2016",
+      "10",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "413554",
+      "2016",
+      "10",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "21580109",
+      "2016",
+      "10",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "51808479",
+      "2016",
+      "10",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "136727",
+      "2016",
+      "10",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "65823263",
+      "2016",
+      "10",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14202475",
+      "2016",
+      "10",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "99405497",
+      "2016",
+      "10",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "79837296",
+      "2016",
+      "10",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14065748",
+      "2016",
+      "10",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "17156616",
+      "2016",
+      "10",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "119852200",
+      "2016",
+      "10",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2955281",
+      "2016",
+      "10",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "97794",
+      "2016",
+      "10",
+      "CACM",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "51846277",
+      "2016",
+      "10",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "65823263",
+      "2016",
+      "10",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13976986",
+      "2016",
+      "10",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "97794",
+      "2016",
+      "10",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "PANAMA",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "38933",
+      "2016",
+      "10",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2740",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "TRINIDAD AND TOBAGO",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "136727",
+      "2016",
+      "10",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4713",
+      "2016",
+      "10",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "84049",
+      "2016",
+      "10",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "ARGENTINA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "88762",
+      "2016",
+      "10",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1434258",
+      "2016",
+      "10",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "746498",
+      "2016",
+      "10",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "266239",
+      "2016",
+      "10",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "194633",
+      "2016",
+      "10",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "119346",
+      "2016",
+      "10",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "184388",
+      "2016",
+      "10",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "882515",
+      "2016",
+      "10",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "65548",
+      "2016",
+      "10",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "24125",
+      "2016",
+      "10",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4359",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "451635",
+      "2016",
+      "10",
+      "SLOVAKIA",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "49418",
+      "2016",
+      "10",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "26019",
+      "2016",
+      "10",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "LITHUANIA",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "134559",
+      "2016",
+      "10",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4621",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "RUSSIA",
+      "3273"
+    ],
+    [
+      "4633",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "GEORGIA",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3280386",
+      "2016",
+      "10",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2408",
+      "2016",
+      "10",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4730",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "MALTA",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "374854",
+      "2016",
+      "10",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1768396",
+      "2016",
+      "10",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4801",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "SERBIA",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "11600903",
+      "2016",
+      "10",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4850",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "ROMANIA",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9679112",
+      "2016",
+      "10",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "31285240",
+      "2016",
+      "10",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "361028",
+      "2016",
+      "10",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "413554",
+      "2016",
+      "10",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5230",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "OMAN",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "414355",
+      "2016",
+      "10",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10017",
+      "2016",
+      "10",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5360",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4234",
+      "2016",
+      "10",
+      "NEPAL",
+      "3273"
+    ],
+    [
+      "5420",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "SRI LANKA",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "209926",
+      "2016",
+      "10",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2005819",
+      "2016",
+      "10",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "132983",
+      "2016",
+      "10",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "194265",
+      "2016",
+      "10",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "412288",
+      "2016",
+      "10",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "44787307",
+      "2016",
+      "10",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3589370",
+      "2016",
+      "10",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "479081",
+      "2016",
+      "10",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2089193",
+      "2016",
+      "10",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "89067",
+      "2016",
+      "10",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "55192487",
+      "2016",
+      "10",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "25925",
+      "2016",
+      "10",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9000",
+      "2016",
+      "10",
+      "PAPUA NEW GUINEA",
+      "3273"
+    ],
+    [
+      "6863",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "FIJI",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "34925",
+      "2016",
+      "10",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "185614",
+      "2016",
+      "10",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "659953",
+      "2016",
+      "10",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2108",
+      "2016",
+      "10",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7920",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "10",
+      "NAMIBIA",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2164",
+      "2016",
+      "10",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "849839",
+      "2016",
+      "10",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "164097826",
+      "2016",
+      "11",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "507419",
+      "2016",
+      "11",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "25466754",
+      "2016",
+      "11",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "67651978",
+      "2016",
+      "11",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "135479",
+      "2016",
+      "11",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "59650115",
+      "2016",
+      "11",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14540258",
+      "2016",
+      "11",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "94867667",
+      "2016",
+      "11",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "75542921",
+      "2016",
+      "11",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14404779",
+      "2016",
+      "11",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "18424392",
+      "2016",
+      "11",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "129422018",
+      "2016",
+      "11",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3749096",
+      "2016",
+      "11",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "32350",
+      "2016",
+      "11",
+      "CACM",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "45354086",
+      "2016",
+      "11",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "59650115",
+      "2016",
+      "11",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14296029",
+      "2016",
+      "11",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "32350",
+      "2016",
+      "11",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "PANAMA",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "103129",
+      "2016",
+      "11",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2740",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "TRINIDAD AND TOBAGO",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "135479",
+      "2016",
+      "11",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3828",
+      "2016",
+      "11",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9518",
+      "2016",
+      "11",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "95404",
+      "2016",
+      "11",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "ARGENTINA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "108750",
+      "2016",
+      "11",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1469264",
+      "2016",
+      "11",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2986241",
+      "2016",
+      "11",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "345436",
+      "2016",
+      "11",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "255085",
+      "2016",
+      "11",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "84566",
+      "2016",
+      "11",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5181156",
+      "2016",
+      "11",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1920527",
+      "2016",
+      "11",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "330045",
+      "2016",
+      "11",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4359",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "261738",
+      "2016",
+      "11",
+      "SLOVAKIA",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "59594",
+      "2016",
+      "11",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "34292",
+      "2016",
+      "11",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36407",
+      "2016",
+      "11",
+      "LITHUANIA",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "299926",
+      "2016",
+      "11",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4621",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "RUSSIA",
+      "3273"
+    ],
+    [
+      "4633",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8285",
+      "2016",
+      "11",
+      "GEORGIA",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "473688",
+      "2016",
+      "11",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "433923",
+      "2016",
+      "11",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4730",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "MALTA",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1215261",
+      "2016",
+      "11",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "60480",
+      "2016",
+      "11",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4801",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "SERBIA",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8562041",
+      "2016",
+      "11",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4850",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "ROMANIA",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1491376",
+      "2016",
+      "11",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6251825",
+      "2016",
+      "11",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "31761156",
+      "2016",
+      "11",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "351827",
+      "2016",
+      "11",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "507419",
+      "2016",
+      "11",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5230",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "OMAN",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "133512",
+      "2016",
+      "11",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5360",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "NEPAL",
+      "3273"
+    ],
+    [
+      "5420",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "SRI LANKA",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "74891",
+      "2016",
+      "11",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2035516",
+      "2016",
+      "11",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "204546",
+      "2016",
+      "11",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "208132",
+      "2016",
+      "11",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1226011",
+      "2016",
+      "11",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "60875375",
+      "2016",
+      "11",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4635301",
+      "2016",
+      "11",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "270912",
+      "2016",
+      "11",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "165885",
+      "2016",
+      "11",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "48645",
+      "2016",
+      "11",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "70737972",
+      "2016",
+      "11",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "17171",
+      "2016",
+      "11",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "PAPUA NEW GUINEA",
+      "3273"
+    ],
+    [
+      "6863",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "45644",
+      "2016",
+      "11",
+      "FIJI",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "62815",
+      "2016",
+      "11",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "161923",
+      "2016",
+      "11",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1479616",
+      "2016",
+      "11",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7920",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "NAMIBIA",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "11",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1641539",
+      "2016",
+      "11",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "144714770",
+      "2016",
+      "12",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "449416",
+      "2016",
+      "12",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "20954702",
+      "2016",
+      "12",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "66766772",
+      "2016",
+      "12",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "72520",
+      "2016",
+      "12",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "46221843",
+      "2016",
+      "12",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13622333",
+      "2016",
+      "12",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "75394788",
+      "2016",
+      "12",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "58947386",
+      "2016",
+      "12",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13549813",
+      "2016",
+      "12",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "20253205",
+      "2016",
+      "12",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "115852680",
+      "2016",
+      "12",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6175773",
+      "2016",
+      "12",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "17627",
+      "2016",
+      "12",
+      "CACM",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "32872290",
+      "2016",
+      "12",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "46221843",
+      "2016",
+      "12",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13349553",
+      "2016",
+      "12",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "17627",
+      "2016",
+      "12",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "PANAMA",
+      "3273"
+    ],
+    [
+      "2430",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "69206",
+      "2016",
+      "12",
+      "TURKS AND CAICOS ISLANDS",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "54893",
+      "2016",
+      "12",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2740",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "TRINIDAD AND TOBAGO",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "141726",
+      "2016",
+      "12",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12022",
+      "2016",
+      "12",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4301",
+      "2016",
+      "12",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7273",
+      "2016",
+      "12",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "176664",
+      "2016",
+      "12",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "ARGENTINA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "200260",
+      "2016",
+      "12",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12663",
+      "2016",
+      "12",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "56684",
+      "2016",
+      "12",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "208249",
+      "2016",
+      "12",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "196682",
+      "2016",
+      "12",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "42254",
+      "2016",
+      "12",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4352936",
+      "2016",
+      "12",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1374447",
+      "2016",
+      "12",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12904",
+      "2016",
+      "12",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "103430",
+      "2016",
+      "12",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4359",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "263740",
+      "2016",
+      "12",
+      "SLOVAKIA",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "11604",
+      "2016",
+      "12",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16995",
+      "2016",
+      "12",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "LITHUANIA",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "185913",
+      "2016",
+      "12",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4621",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "RUSSIA",
+      "3273"
+    ],
+    [
+      "4633",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "GEORGIA",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4816790",
+      "2016",
+      "12",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "32828",
+      "2016",
+      "12",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4730",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "MALTA",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "592228",
+      "2016",
+      "12",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "122954",
+      "2016",
+      "12",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4801",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "SERBIA",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8568396",
+      "2016",
+      "12",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4850",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "ROMANIA",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5268915",
+      "2016",
+      "12",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "26240612",
+      "2016",
+      "12",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "537204",
+      "2016",
+      "12",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "445115",
+      "2016",
+      "12",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5230",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "OMAN",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "372706",
+      "2016",
+      "12",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5360",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "NEPAL",
+      "3273"
+    ],
+    [
+      "5420",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "SRI LANKA",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "358184",
+      "2016",
+      "12",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2498608",
+      "2016",
+      "12",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7755",
+      "2016",
+      "12",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "133879",
+      "2016",
+      "12",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "383012",
+      "2016",
+      "12",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2794335",
+      "2016",
+      "12",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "58300647",
+      "2016",
+      "12",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2305379",
+      "2016",
+      "12",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "482179",
+      "2016",
+      "12",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2154637",
+      "2016",
+      "12",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "145112",
+      "2016",
+      "12",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "70918752",
+      "2016",
+      "12",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "67592",
+      "2016",
+      "12",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "PAPUA NEW GUINEA",
+      "3273"
+    ],
+    [
+      "6863",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "FIJI",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "67592",
+      "2016",
+      "12",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "102953",
+      "2016",
+      "12",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "815032",
+      "2016",
+      "12",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7920",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2016",
+      "12",
+      "NAMIBIA",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6000",
+      "2016",
+      "12",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "923985",
+      "2016",
+      "12",
+      "AFRICA",
+      "3273"
+    ]
+  ]
+}

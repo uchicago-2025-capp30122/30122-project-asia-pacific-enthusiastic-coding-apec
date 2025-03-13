@@ -1,7 +1,4 @@
-import unittest
-import pandas as pd
-import numpy as np
-from unittest.mock import patch
+import pytest
 from src.app.pages.treemap import get_iso_alpha3, get_continent
 
 
@@ -15,7 +12,10 @@ def test_get_continent():
     assert get_continent(400) == "EUROPE"
     assert get_continent(999) == "UNKNOWN"
 
+
 if __name__ == "__main__":
+    pytest.main()
     test_get_iso_alpha3()
     test_get_continent()
     print("All tests passed!")
+

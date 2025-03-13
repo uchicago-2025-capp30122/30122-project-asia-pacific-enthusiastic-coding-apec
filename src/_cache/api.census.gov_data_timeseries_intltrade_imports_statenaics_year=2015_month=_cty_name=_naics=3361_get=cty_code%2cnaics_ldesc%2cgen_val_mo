@@ -1,0 +1,7049 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 20:43:59 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4d0089a06f44324514a134c813011bffece238b09883930820d14c2163ad08f1abdf21e005c7ae2ef9ef4daa1e4bb86ac; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "13642968371",
+      "2015",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "2293030586",
+      "2015",
+      "01",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "4525488417",
+      "2015",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "6666002069",
+      "2015",
+      "01",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "3301264563",
+      "2015",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "13486871901",
+      "2015",
+      "01",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "5610706202",
+      "2015",
+      "01",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "3301264563",
+      "2015",
+      "01",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "1693273887",
+      "2015",
+      "01",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "11210420602",
+      "2015",
+      "01",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "18939916",
+      "2015",
+      "01",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3365912772",
+      "2015",
+      "01",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "6666002069",
+      "2015",
+      "01",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "3300089297",
+      "2015",
+      "01",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "3350",
+      "MOTOR VEHICLES",
+      "4016",
+      "2015",
+      "01",
+      "BOLIVIA",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "1171250",
+      "2015",
+      "01",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "1175266",
+      "2015",
+      "01",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "30632970",
+      "2015",
+      "01",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "210000",
+      "2015",
+      "01",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "2980726",
+      "2015",
+      "01",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "407562242",
+      "2015",
+      "01",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "175545",
+      "2015",
+      "01",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "10589098",
+      "2015",
+      "01",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "53221397",
+      "2015",
+      "01",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "29107956",
+      "2015",
+      "01",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "1335983909",
+      "2015",
+      "01",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "27714768",
+      "2015",
+      "01",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "316592",
+      "2015",
+      "01",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "36670598",
+      "2015",
+      "01",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "158163319",
+      "2015",
+      "01",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4510",
+      "MOTOR VEHICLES",
+      "37500",
+      "2015",
+      "01",
+      "LITHUANIA",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "100850",
+      "2015",
+      "01",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "94810213",
+      "2015",
+      "01",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "1386033",
+      "2015",
+      "01",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "103366870",
+      "2015",
+      "01",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4794",
+      "MOTOR VEHICLES",
+      "7191171",
+      "2015",
+      "01",
+      "MACEDONIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "24645509",
+      "2015",
+      "01",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "10496127",
+      "2015",
+      "01",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "2335363393",
+      "2015",
+      "01",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "32000",
+      "2015",
+      "01",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "16182",
+      "2015",
+      "01",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "18930116",
+      "2015",
+      "01",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "9800",
+      "2015",
+      "01",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "7982631",
+      "2015",
+      "01",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "1483354144",
+      "2015",
+      "01",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "147367",
+      "2015",
+      "01",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "3027402587",
+      "2015",
+      "01",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "4537874827",
+      "2015",
+      "01",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "6587608",
+      "2015",
+      "01",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "4280",
+      "2015",
+      "01",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "6591888",
+      "2015",
+      "01",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "95960928",
+      "2015",
+      "01",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "95960928",
+      "2015",
+      "01",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "13747868627",
+      "2015",
+      "02",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "3097762763",
+      "2015",
+      "02",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "4018549859",
+      "2015",
+      "02",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "6522404535",
+      "2015",
+      "02",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "3810881674",
+      "2015",
+      "02",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "13655965954",
+      "2015",
+      "02",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "5726776520",
+      "2015",
+      "02",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "3810881674",
+      "2015",
+      "02",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "2273109185",
+      "2015",
+      "02",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "10577375508",
+      "2015",
+      "02",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "36439234",
+      "2015",
+      "02",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "2712176903",
+      "2015",
+      "02",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "6522404535",
+      "2015",
+      "02",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "3810227632",
+      "2015",
+      "02",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "3350",
+      "MOTOR VEHICLES",
+      "3475",
+      "2015",
+      "02",
+      "BOLIVIA",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "650567",
+      "2015",
+      "02",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "654042",
+      "2015",
+      "02",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "49927099",
+      "2015",
+      "02",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "02",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "122295",
+      "2015",
+      "02",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "559195227",
+      "2015",
+      "02",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "02",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "10893719",
+      "2015",
+      "02",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "108591101",
+      "2015",
+      "02",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "38436199",
+      "2015",
+      "02",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "1622178515",
+      "2015",
+      "02",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "55643777",
+      "2015",
+      "02",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "228250",
+      "2015",
+      "02",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "82012892",
+      "2015",
+      "02",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "215180707",
+      "2015",
+      "02",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "44391",
+      "2015",
+      "02",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4510",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "02",
+      "LITHUANIA",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "02",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "15996",
+      "2015",
+      "02",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "114488251",
+      "2015",
+      "02",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "1590016",
+      "2015",
+      "02",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "239274715",
+      "2015",
+      "02",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4794",
+      "MOTOR VEHICLES",
+      "21206711",
+      "2015",
+      "02",
+      "MACEDONIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "7262122",
+      "2015",
+      "02",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4850",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "02",
+      "ROMANIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "22407730",
+      "2015",
+      "02",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "3148699713",
+      "2015",
+      "02",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "02",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "02",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "36405118",
+      "2015",
+      "02",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "34116",
+      "2015",
+      "02",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "4400989",
+      "2015",
+      "02",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "1269363172",
+      "2015",
+      "02",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "768219",
+      "2015",
+      "02",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2721890303",
+      "2015",
+      "02",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "4032861917",
+      "2015",
+      "02",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "22075878",
+      "2015",
+      "02",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "17182",
+      "2015",
+      "02",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "22093060",
+      "2015",
+      "02",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "81000",
+      "2015",
+      "02",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "21074360",
+      "2015",
+      "02",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "21155360",
+      "2015",
+      "02",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "16833694411",
+      "2015",
+      "03",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "4169867291",
+      "2015",
+      "03",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "4408360329",
+      "2015",
+      "03",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "8120936898",
+      "2015",
+      "03",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "4565046038",
+      "2015",
+      "03",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "16692616768",
+      "2015",
+      "03",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "7580467012",
+      "2015",
+      "03",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "4565046038",
+      "2015",
+      "03",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "3258050262",
+      "2015",
+      "03",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "12557725476",
+      "2015",
+      "03",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "28408648",
+      "2015",
+      "03",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3556564400",
+      "2015",
+      "03",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "8120936898",
+      "2015",
+      "03",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "4564372498",
+      "2015",
+      "03",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "3350",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "03",
+      "BOLIVIA",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "65000",
+      "2015",
+      "03",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "586940",
+      "2015",
+      "03",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "21600",
+      "2015",
+      "03",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "673540",
+      "2015",
+      "03",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "81183624",
+      "2015",
+      "03",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "5000",
+      "2015",
+      "03",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "231502",
+      "2015",
+      "03",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "637346665",
+      "2015",
+      "03",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "03",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "9534690",
+      "2015",
+      "03",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "117713062",
+      "2015",
+      "03",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "37036169",
+      "2015",
+      "03",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "2366804856",
+      "2015",
+      "03",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "75691833",
+      "2015",
+      "03",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "203730",
+      "2015",
+      "03",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "150394195",
+      "2015",
+      "03",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "192702467",
+      "2015",
+      "03",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "151524",
+      "2015",
+      "03",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4510",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "03",
+      "LITHUANIA",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "149041",
+      "2015",
+      "03",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "3950",
+      "2015",
+      "03",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "121741676",
+      "2015",
+      "03",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "11564671",
+      "2015",
+      "03",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "367564110",
+      "2015",
+      "03",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4794",
+      "MOTOR VEHICLES",
+      "8773155",
+      "2015",
+      "03",
+      "MACEDONIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "12420317",
+      "2015",
+      "03",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4850",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "03",
+      "ROMANIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "10915778",
+      "2015",
+      "03",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "4202132015",
+      "2015",
+      "03",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "03",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "43139",
+      "2015",
+      "03",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "28359299",
+      "2015",
+      "03",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "49349",
+      "2015",
+      "03",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "15868674",
+      "2015",
+      "03",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "1293626965",
+      "2015",
+      "03",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "1762029",
+      "2015",
+      "03",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "3072989366",
+      "2015",
+      "03",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "4412698821",
+      "2015",
+      "03",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "24052645",
+      "2015",
+      "03",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "11301",
+      "2015",
+      "03",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "24063946",
+      "2015",
+      "03",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "03",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "73189191",
+      "2015",
+      "03",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "73189191",
+      "2015",
+      "03",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "16005057177",
+      "2015",
+      "04",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "3869066228",
+      "2015",
+      "04",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "4321073559",
+      "2015",
+      "04",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "7624548376",
+      "2015",
+      "04",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "4145146828",
+      "2015",
+      "04",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "15836302283",
+      "2015",
+      "04",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "7247279712",
+      "2015",
+      "04",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "4145146828",
+      "2015",
+      "04",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "3075367786",
+      "2015",
+      "04",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "11967764347",
+      "2015",
+      "04",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "22147912",
+      "2015",
+      "04",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3479716962",
+      "2015",
+      "04",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "7624548376",
+      "2015",
+      "04",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "4144831414",
+      "2015",
+      "04",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "3350",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "04",
+      "BOLIVIA",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "04",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "315414",
+      "2015",
+      "04",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "04",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "315414",
+      "2015",
+      "04",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "66161944",
+      "2015",
+      "04",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "259081",
+      "2015",
+      "04",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "91300",
+      "2015",
+      "04",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "562583861",
+      "2015",
+      "04",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "04",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "5134028",
+      "2015",
+      "04",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "69654748",
+      "2015",
+      "04",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "41355008",
+      "2015",
+      "04",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "2279699132",
+      "2015",
+      "04",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "69477907",
+      "2015",
+      "04",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "249469",
+      "2015",
+      "04",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "118506889",
+      "2015",
+      "04",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "164572872",
+      "2015",
+      "04",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "7283",
+      "2015",
+      "04",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4510",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "04",
+      "LITHUANIA",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "34496",
+      "2015",
+      "04",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "2800",
+      "2015",
+      "04",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "108801588",
+      "2015",
+      "04",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "9260301",
+      "2015",
+      "04",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "373219104",
+      "2015",
+      "04",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4794",
+      "MOTOR VEHICLES",
+      "11900582",
+      "2015",
+      "04",
+      "MACEDONIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "5960642",
+      "2015",
+      "04",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4850",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "04",
+      "ROMANIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "4500",
+      "2015",
+      "04",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "34395454",
+      "2015",
+      "04",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "3921332989",
+      "2015",
+      "04",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "04",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "37645",
+      "2015",
+      "04",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "22139612",
+      "2015",
+      "04",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "8300",
+      "2015",
+      "04",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "11781259",
+      "2015",
+      "04",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "1617468661",
+      "2015",
+      "04",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "994558",
+      "2015",
+      "04",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2683148070",
+      "2015",
+      "04",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "4335578105",
+      "2015",
+      "04",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "7331771",
+      "2015",
+      "04",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "340940",
+      "2015",
+      "04",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "7672711",
+      "2015",
+      "04",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "04",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "115609582",
+      "2015",
+      "04",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "115609582",
+      "2015",
+      "04",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "15941533738",
+      "2015",
+      "05",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "93107",
+      "2015",
+      "05",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "3786420221",
+      "2015",
+      "05",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "4451243036",
+      "2015",
+      "05",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "7564755756",
+      "2015",
+      "05",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "3997259159",
+      "2015",
+      "05",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "15810594615",
+      "2015",
+      "05",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "7222666707",
+      "2015",
+      "05",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "3997259159",
+      "2015",
+      "05",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "3082343576",
+      "2015",
+      "05",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "12035916789",
+      "2015",
+      "05",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "19922125",
+      "2015",
+      "05",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3571479067",
+      "2015",
+      "05",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "7564755756",
+      "2015",
+      "05",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "3993276689",
+      "2015",
+      "05",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "3350",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "05",
+      "BOLIVIA",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "05",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "3982470",
+      "2015",
+      "05",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "05",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "3982470",
+      "2015",
+      "05",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "85825618",
+      "2015",
+      "05",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "2936",
+      "2015",
+      "05",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "571148",
+      "2015",
+      "05",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "517163",
+      "2015",
+      "05",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "463967512",
+      "2015",
+      "05",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "05",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "7653884",
+      "2015",
+      "05",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "103896735",
+      "2015",
+      "05",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "46537845",
+      "2015",
+      "05",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "2308350878",
+      "2015",
+      "05",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "74086132",
+      "2015",
+      "05",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "541936",
+      "2015",
+      "05",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "149981959",
+      "2015",
+      "05",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "153215409",
+      "2015",
+      "05",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "52555",
+      "2015",
+      "05",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4510",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "05",
+      "LITHUANIA",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "9007",
+      "2015",
+      "05",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "23999",
+      "2015",
+      "05",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "98682364",
+      "2015",
+      "05",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "5120610",
+      "2015",
+      "05",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "287462021",
+      "2015",
+      "05",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4794",
+      "MOTOR VEHICLES",
+      "8049444",
+      "2015",
+      "05",
+      "MACEDONIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "3548117",
+      "2015",
+      "05",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4850",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "05",
+      "ROMANIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "05",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "25247381",
+      "2015",
+      "05",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "3823344653",
+      "2015",
+      "05",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "05",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "93107",
+      "2015",
+      "05",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "163847",
+      "2015",
+      "05",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "19893998",
+      "2015",
+      "05",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "28127",
+      "2015",
+      "05",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "16482066",
+      "2015",
+      "05",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "1639001699",
+      "2015",
+      "05",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "617077",
+      "2015",
+      "05",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2766246113",
+      "2015",
+      "05",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "4442526034",
+      "2015",
+      "05",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "28838279",
+      "2015",
+      "05",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "29675",
+      "2015",
+      "05",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "28867954",
+      "2015",
+      "05",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "05",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "78056871",
+      "2015",
+      "05",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "78056871",
+      "2015",
+      "05",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "16601802957",
+      "2015",
+      "06",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "30000",
+      "2015",
+      "06",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "3651063639",
+      "2015",
+      "06",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "4297279061",
+      "2015",
+      "06",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "8522615597",
+      "2015",
+      "06",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "4807111981",
+      "2015",
+      "06",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "16471383425",
+      "2015",
+      "06",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "7259347319",
+      "2015",
+      "06",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "4807111981",
+      "2015",
+      "06",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "2991986504",
+      "2015",
+      "06",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "12830119174",
+      "2015",
+      "06",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "10225216",
+      "2015",
+      "06",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3716383175",
+      "2015",
+      "06",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "8522615597",
+      "2015",
+      "06",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "4806232422",
+      "2015",
+      "06",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "3010",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "06",
+      "COLOMBIA",
+      "3361"
+    ],
+    [
+      "3350",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "06",
+      "BOLIVIA",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "06",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "825247",
+      "2015",
+      "06",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "54312",
+      "2015",
+      "06",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "879559",
+      "2015",
+      "06",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "62643579",
+      "2015",
+      "06",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "06",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "368434",
+      "2015",
+      "06",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "228797",
+      "2015",
+      "06",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "433312225",
+      "2015",
+      "06",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "19495",
+      "2015",
+      "06",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "8834904",
+      "2015",
+      "06",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "172533249",
+      "2015",
+      "06",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "22384204",
+      "2015",
+      "06",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "1999413881",
+      "2015",
+      "06",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "60259259",
+      "2015",
+      "06",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "174894",
+      "2015",
+      "06",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "185822013",
+      "2015",
+      "06",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "162685640",
+      "2015",
+      "06",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "117267",
+      "2015",
+      "06",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4490",
+      "MOTOR VEHICLES",
+      "40000",
+      "2015",
+      "06",
+      "LATVIA",
+      "3361"
+    ],
+    [
+      "4510",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "06",
+      "LITHUANIA",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "32000",
+      "2015",
+      "06",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "6600",
+      "2015",
+      "06",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "93009764",
+      "2015",
+      "06",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "14121031",
+      "2015",
+      "06",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "435180270",
+      "2015",
+      "06",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4794",
+      "MOTOR VEHICLES",
+      "11992604",
+      "2015",
+      "06",
+      "MACEDONIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "4613385",
+      "2015",
+      "06",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4850",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "06",
+      "ROMANIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "06",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "15191272",
+      "2015",
+      "06",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "3682984767",
+      "2015",
+      "06",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "06",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "30000",
+      "2015",
+      "06",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "06",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "49063",
+      "2015",
+      "06",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "10217916",
+      "2015",
+      "06",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "7300",
+      "2015",
+      "06",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "12711685",
+      "2015",
+      "06",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "1475524377",
+      "2015",
+      "06",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "2124426",
+      "2015",
+      "06",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2779856473",
+      "2015",
+      "06",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "4280521240",
+      "2015",
+      "06",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "27036029",
+      "2015",
+      "06",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "18771",
+      "2015",
+      "06",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "27054800",
+      "2015",
+      "06",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "06",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "87746994",
+      "2015",
+      "06",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "87746994",
+      "2015",
+      "06",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "16208897850",
+      "2015",
+      "07",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "4000",
+      "2015",
+      "07",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "4052395378",
+      "2015",
+      "07",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "5230897465",
+      "2015",
+      "07",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "6703979664",
+      "2015",
+      "07",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "4016521213",
+      "2015",
+      "07",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "16007896871",
+      "2015",
+      "07",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "6619276405",
+      "2015",
+      "07",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "4016521213",
+      "2015",
+      "07",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "3236619375",
+      "2015",
+      "07",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "11944131436",
+      "2015",
+      "07",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "9130152",
+      "2015",
+      "07",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "2688238108",
+      "2015",
+      "07",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "6703979664",
+      "2015",
+      "07",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "4015741556",
+      "2015",
+      "07",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "3010",
+      "MOTOR VEHICLES",
+      "30480",
+      "2015",
+      "07",
+      "COLOMBIA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "4000",
+      "2015",
+      "07",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3350",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "07",
+      "BOLIVIA",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "61408",
+      "2015",
+      "07",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "614751",
+      "2015",
+      "07",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "69018",
+      "2015",
+      "07",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "779657",
+      "2015",
+      "07",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "103219373",
+      "2015",
+      "07",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "07",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "07",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "230614",
+      "2015",
+      "07",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "549974145",
+      "2015",
+      "07",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "18390",
+      "2015",
+      "07",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "7809189",
+      "2015",
+      "07",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "123816789",
+      "2015",
+      "07",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "14954133",
+      "2015",
+      "07",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "2294107753",
+      "2015",
+      "07",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "69315894",
+      "2015",
+      "07",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "210064",
+      "2015",
+      "07",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "225410406",
+      "2015",
+      "07",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "161972909",
+      "2015",
+      "07",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "3125",
+      "2015",
+      "07",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4490",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "07",
+      "LATVIA",
+      "3361"
+    ],
+    [
+      "4510",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "07",
+      "LITHUANIA",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "151286",
+      "2015",
+      "07",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "62747",
+      "2015",
+      "07",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "83372713",
+      "2015",
+      "07",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "24130309",
+      "2015",
+      "07",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "393683799",
+      "2015",
+      "07",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4794",
+      "MOTOR VEHICLES",
+      "11585431",
+      "2015",
+      "07",
+      "MACEDONIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "7285095",
+      "2015",
+      "07",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4850",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "07",
+      "ROMANIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "17612",
+      "2015",
+      "07",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "51196576",
+      "2015",
+      "07",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "4122528352",
+      "2015",
+      "07",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "196922",
+      "2015",
+      "07",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "07",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "07",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5230",
+      "MOTOR VEHICLES",
+      "523326",
+      "2015",
+      "07",
+      "OMAN",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "69587",
+      "2015",
+      "07",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "9130152",
+      "2015",
+      "07",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "07",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "29862743",
+      "2015",
+      "07",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "1737733837",
+      "2015",
+      "07",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "953312",
+      "2015",
+      "07",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "3452441872",
+      "2015",
+      "07",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "5230911751",
+      "2015",
+      "07",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "9880036",
+      "2015",
+      "07",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "25665",
+      "2015",
+      "07",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "9905701",
+      "2015",
+      "07",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "07",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "140792725",
+      "2015",
+      "07",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "140792725",
+      "2015",
+      "07",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "16920023891",
+      "2015",
+      "08",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "38860",
+      "2015",
+      "08",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "3953994531",
+      "2015",
+      "08",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "4519877447",
+      "2015",
+      "08",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "8238136355",
+      "2015",
+      "08",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "4333508247",
+      "2015",
+      "08",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "16720773014",
+      "2015",
+      "08",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "7805897283",
+      "2015",
+      "08",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "4333508247",
+      "2015",
+      "08",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "3239530538",
+      "2015",
+      "08",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "12765463517",
+      "2015",
+      "08",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "7468225",
+      "2015",
+      "08",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3906698979",
+      "2015",
+      "08",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "8238136355",
+      "2015",
+      "08",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "4331437376",
+      "2015",
+      "08",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "3010",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "COLOMBIA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "38860",
+      "2015",
+      "08",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3350",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "BOLIVIA",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "1967982",
+      "2015",
+      "08",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "64029",
+      "2015",
+      "08",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "2070871",
+      "2015",
+      "08",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "54250415",
+      "2015",
+      "08",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "1686130",
+      "2015",
+      "08",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "503819363",
+      "2015",
+      "08",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "11115227",
+      "2015",
+      "08",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "34577555",
+      "2015",
+      "08",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "25838852",
+      "2015",
+      "08",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "2658770722",
+      "2015",
+      "08",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "42781138",
+      "2015",
+      "08",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "85711",
+      "2015",
+      "08",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "74548236",
+      "2015",
+      "08",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "154554974",
+      "2015",
+      "08",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4470",
+      "MOTOR VEHICLES",
+      "14372",
+      "2015",
+      "08",
+      "ESTONIA",
+      "3361"
+    ],
+    [
+      "4490",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "LATVIA",
+      "3361"
+    ],
+    [
+      "4510",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "LITHUANIA",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "67400",
+      "2015",
+      "08",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "65817769",
+      "2015",
+      "08",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "3603536",
+      "2015",
+      "08",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "322463131",
+      "2015",
+      "08",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4794",
+      "MOTOR VEHICLES",
+      "3901328",
+      "2015",
+      "08",
+      "MACEDONIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "2350799",
+      "2015",
+      "08",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4850",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "ROMANIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "42235326",
+      "2015",
+      "08",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "4002481984",
+      "2015",
+      "08",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "322588",
+      "2015",
+      "08",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5230",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "OMAN",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "428607",
+      "2015",
+      "08",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "7449715",
+      "2015",
+      "08",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "18510",
+      "2015",
+      "08",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "31617414",
+      "2015",
+      "08",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "1400046862",
+      "2015",
+      "08",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "2157309",
+      "2015",
+      "08",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "3078129230",
+      "2015",
+      "08",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "4520170235",
+      "2015",
+      "08",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "7908122",
+      "2015",
+      "08",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "7908122",
+      "2015",
+      "08",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "08",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "149256324",
+      "2015",
+      "08",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "149256324",
+      "2015",
+      "08",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "15639118966",
+      "2015",
+      "09",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "3508082017",
+      "2015",
+      "09",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "3847719626",
+      "2015",
+      "09",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "8152469497",
+      "2015",
+      "09",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "4256938496",
+      "2015",
+      "09",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "15496292427",
+      "2015",
+      "09",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "7265733486",
+      "2015",
+      "09",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "4256938496",
+      "2015",
+      "09",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "2643194197",
+      "2015",
+      "09",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "12010074038",
+      "2015",
+      "09",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "9881915",
+      "2015",
+      "09",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3895936862",
+      "2015",
+      "09",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "8152469497",
+      "2015",
+      "09",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "4256532635",
+      "2015",
+      "09",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "3010",
+      "MOTOR VEHICLES",
+      "16000",
+      "2015",
+      "09",
+      "COLOMBIA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3350",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "BOLIVIA",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "389861",
+      "2015",
+      "09",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "405861",
+      "2015",
+      "09",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "129644158",
+      "2015",
+      "09",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "65000",
+      "2015",
+      "09",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "235906",
+      "2015",
+      "09",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "590296555",
+      "2015",
+      "09",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "1898090",
+      "2015",
+      "09",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "114562238",
+      "2015",
+      "09",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "11408532",
+      "2015",
+      "09",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "2055366067",
+      "2015",
+      "09",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "22771838",
+      "2015",
+      "09",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "353420",
+      "2015",
+      "09",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "26515841",
+      "2015",
+      "09",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "144313941",
+      "2015",
+      "09",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "43818",
+      "2015",
+      "09",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4470",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "ESTONIA",
+      "3361"
+    ],
+    [
+      "4490",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "LATVIA",
+      "3361"
+    ],
+    [
+      "4510",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "LITHUANIA",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "43840",
+      "2015",
+      "09",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "3000",
+      "2015",
+      "09",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "107799166",
+      "2015",
+      "09",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "329627",
+      "2015",
+      "09",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "302477798",
+      "2015",
+      "09",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4794",
+      "MOTOR VEHICLES",
+      "10858137",
+      "2015",
+      "09",
+      "MACEDONIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "2214894",
+      "2015",
+      "09",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4850",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "ROMANIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "14195603",
+      "2015",
+      "09",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "3535397469",
+      "2015",
+      "09",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5230",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "OMAN",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "47954",
+      "2015",
+      "09",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "9881915",
+      "2015",
+      "09",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "24148121",
+      "2015",
+      "09",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "1202565972",
+      "2015",
+      "09",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "2070013",
+      "2015",
+      "09",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2616250682",
+      "2015",
+      "09",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "3854964657",
+      "2015",
+      "09",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "2684838",
+      "2015",
+      "09",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "2684838",
+      "2015",
+      "09",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "09",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "93196644",
+      "2015",
+      "09",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "93196644",
+      "2015",
+      "09",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "17475942252",
+      "2015",
+      "10",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "102330",
+      "2015",
+      "10",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "4350825843",
+      "2015",
+      "10",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "4307538210",
+      "2015",
+      "10",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "8604430932",
+      "2015",
+      "10",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "4599893626",
+      "2015",
+      "10",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "17287187657",
+      "2015",
+      "10",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "8105390405",
+      "2015",
+      "10",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "4599893626",
+      "2015",
+      "10",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "3223513952",
+      "2015",
+      "10",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "12920731216",
+      "2015",
+      "10",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "7546374",
+      "2015",
+      "10",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "4005964686",
+      "2015",
+      "10",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "8604430932",
+      "2015",
+      "10",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "4598466246",
+      "2015",
+      "10",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "3010",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "COLOMBIA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3350",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "BOLIVIA",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "1248000",
+      "2015",
+      "10",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "139272",
+      "2015",
+      "10",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "40108",
+      "2015",
+      "10",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "1427380",
+      "2015",
+      "10",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "224042170",
+      "2015",
+      "10",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "1744600",
+      "2015",
+      "10",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "718094061",
+      "2015",
+      "10",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "3846",
+      "2015",
+      "10",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "8603238",
+      "2015",
+      "10",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "76717444",
+      "2015",
+      "10",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "22390569",
+      "2015",
+      "10",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "2595479606",
+      "2015",
+      "10",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "80527880",
+      "2015",
+      "10",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "228962",
+      "2015",
+      "10",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "70457566",
+      "2015",
+      "10",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "183202098",
+      "2015",
+      "10",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4470",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "ESTONIA",
+      "3361"
+    ],
+    [
+      "4490",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "LATVIA",
+      "3361"
+    ],
+    [
+      "4510",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "LITHUANIA",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "99440959",
+      "2015",
+      "10",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "28000",
+      "2015",
+      "10",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "269864844",
+      "2015",
+      "10",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4794",
+      "MOTOR VEHICLES",
+      "10621929",
+      "2015",
+      "10",
+      "MACEDONIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "1178295",
+      "2015",
+      "10",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4850",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "ROMANIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "53173772",
+      "2015",
+      "10",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "4415799839",
+      "2015",
+      "10",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "203262",
+      "2015",
+      "10",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5170",
+      "MOTOR VEHICLES",
+      "102330",
+      "2015",
+      "10",
+      "SAUDI ARABIA",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5230",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "OMAN",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "30871",
+      "2015",
+      "10",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "7514074",
+      "2015",
+      "10",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "22700",
+      "2015",
+      "10",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5600",
+      "MOTOR VEHICLES",
+      "9600",
+      "2015",
+      "10",
+      "INDONESIA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "26383691",
+      "2015",
+      "10",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "1301482109",
+      "2015",
+      "10",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "3816371",
+      "2015",
+      "10",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2975435216",
+      "2015",
+      "10",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "4315000224",
+      "2015",
+      "10",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "388523",
+      "2015",
+      "10",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "388523",
+      "2015",
+      "10",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "10",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "138895354",
+      "2015",
+      "10",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "138895354",
+      "2015",
+      "10",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "17852644980",
+      "2015",
+      "11",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "4478552120",
+      "2015",
+      "11",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "4807455714",
+      "2015",
+      "11",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "8324039940",
+      "2015",
+      "11",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "4012870111",
+      "2015",
+      "11",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "17621273592",
+      "2015",
+      "11",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "8511648236",
+      "2015",
+      "11",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "4012870111",
+      "2015",
+      "11",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "3426725033",
+      "2015",
+      "11",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "13145907489",
+      "2015",
+      "11",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "14411835",
+      "2015",
+      "11",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "4311557383",
+      "2015",
+      "11",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "8324039940",
+      "2015",
+      "11",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "4012482557",
+      "2015",
+      "11",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "3010",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "COLOMBIA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3350",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "BOLIVIA",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "346296",
+      "2015",
+      "11",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "41258",
+      "2015",
+      "11",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "387554",
+      "2015",
+      "11",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "218977857",
+      "2015",
+      "11",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "99053",
+      "2015",
+      "11",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "5645490",
+      "2015",
+      "11",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "675275135",
+      "2015",
+      "11",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "15000",
+      "2015",
+      "11",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "12630380",
+      "2015",
+      "11",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "92809526",
+      "2015",
+      "11",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "20629227",
+      "2015",
+      "11",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "2628149265",
+      "2015",
+      "11",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "88669174",
+      "2015",
+      "11",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "135616",
+      "2015",
+      "11",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "90524877",
+      "2015",
+      "11",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "150864111",
+      "2015",
+      "11",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4470",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "ESTONIA",
+      "3361"
+    ],
+    [
+      "4490",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "LATVIA",
+      "3361"
+    ],
+    [
+      "4510",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "LITHUANIA",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "928878",
+      "2015",
+      "11",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "152151938",
+      "2015",
+      "11",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "341046593",
+      "2015",
+      "11",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4793",
+      "MOTOR VEHICLES",
+      "7500",
+      "2015",
+      "11",
+      "BOSNIA AND HERZEGOVINA",
+      "3361"
+    ],
+    [
+      "4794",
+      "MOTOR VEHICLES",
+      "15623052",
+      "2015",
+      "11",
+      "MACEDONIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "1088728",
+      "2015",
+      "11",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4850",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "ROMANIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "29299817",
+      "2015",
+      "11",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "4524571217",
+      "2015",
+      "11",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "13880",
+      "2015",
+      "11",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5170",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "SAUDI ARABIA",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5230",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "OMAN",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "14411835",
+      "2015",
+      "11",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5600",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "INDONESIA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "16303392",
+      "2015",
+      "11",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "1360217515",
+      "2015",
+      "11",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "1784487",
+      "2015",
+      "11",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "3429150320",
+      "2015",
+      "11",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "4821881429",
+      "2015",
+      "11",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "11",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "181764840",
+      "2015",
+      "11",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "181764840",
+      "2015",
+      "11",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "18208992532",
+      "2015",
+      "12",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "4361653506",
+      "2015",
+      "12",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "5184394778",
+      "2015",
+      "12",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "8401428487",
+      "2015",
+      "12",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "4203104752",
+      "2015",
+      "12",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "17961685744",
+      "2015",
+      "12",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "8304472799",
+      "2015",
+      "12",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "4203104752",
+      "2015",
+      "12",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "3301153892",
+      "2015",
+      "12",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "13598259497",
+      "2015",
+      "12",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "12432432",
+      "2015",
+      "12",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "4200556620",
+      "2015",
+      "12",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "8401428487",
+      "2015",
+      "12",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "4200871867",
+      "2015",
+      "12",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "3010",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "COLOMBIA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3350",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "BOLIVIA",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "2189248",
+      "2015",
+      "12",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "43637",
+      "2015",
+      "12",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "2232885",
+      "2015",
+      "12",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "217617397",
+      "2015",
+      "12",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "314234",
+      "2015",
+      "12",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "370779",
+      "2015",
+      "12",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "2170058",
+      "2015",
+      "12",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "610572563",
+      "2015",
+      "12",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "69488",
+      "2015",
+      "12",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "8308166",
+      "2015",
+      "12",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "112749630",
+      "2015",
+      "12",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "15174940",
+      "2015",
+      "12",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "2469144217",
+      "2015",
+      "12",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "83298797",
+      "2015",
+      "12",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "80000",
+      "2015",
+      "12",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "82951579",
+      "2015",
+      "12",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "228767672",
+      "2015",
+      "12",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4470",
+      "MOTOR VEHICLES",
+      "38374",
+      "2015",
+      "12",
+      "ESTONIA",
+      "3361"
+    ],
+    [
+      "4490",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "LATVIA",
+      "3361"
+    ],
+    [
+      "4510",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "LITHUANIA",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "1291924",
+      "2015",
+      "12",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "3800",
+      "2015",
+      "12",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "129647823",
+      "2015",
+      "12",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "399384256",
+      "2015",
+      "12",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4793",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "BOSNIA AND HERZEGOVINA",
+      "3361"
+    ],
+    [
+      "4794",
+      "MOTOR VEHICLES",
+      "9616677",
+      "2015",
+      "12",
+      "MACEDONIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "3216014",
+      "2015",
+      "12",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4840",
+      "MOTOR VEHICLES",
+      "15843",
+      "2015",
+      "12",
+      "GREECE",
+      "3361"
+    ],
+    [
+      "4850",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "ROMANIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "43304900",
+      "2015",
+      "12",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "4418109131",
+      "2015",
+      "12",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5170",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "SAUDI ARABIA",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5230",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "OMAN",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "150317",
+      "2015",
+      "12",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "12432432",
+      "2015",
+      "12",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5600",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "INDONESIA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "28988432",
+      "2015",
+      "12",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "1498637646",
+      "2015",
+      "12",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "421729",
+      "2015",
+      "12",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "3649542720",
+      "2015",
+      "12",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "5190173276",
+      "2015",
+      "12",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "6796121",
+      "2015",
+      "12",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "8130",
+      "2015",
+      "12",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "6804251",
+      "2015",
+      "12",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2015",
+      "12",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "190244502",
+      "2015",
+      "12",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "190244502",
+      "2015",
+      "12",
+      "AFRICA",
+      "3361"
+    ]
+  ]
+}

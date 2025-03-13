@@ -1,0 +1,8480 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 20:43:51 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4b91a57eb287c5be2621bbb140f9d2fc0d6856e20f0faf37c81903dc9d4cf6bfd8fcfb5a45cd33d7c6602340c4ab85773; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16772",
+      "2013",
+      "04",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6695",
+      "2013",
+      "08",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13600",
+      "2013",
+      "10",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5200",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "UNITED ARAB EMIRATES",
+      "3273"
+    ],
+    [
+      "5250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "88052",
+      "2013",
+      "11",
+      "BAHRAIN",
+      "3273"
+    ],
+    [
+      "5250",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "BAHRAIN",
+      "3273"
+    ],
+    [
+      "5310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "29000",
+      "2013",
+      "08",
+      "AFGHANISTAN",
+      "3273"
+    ],
+    [
+      "5310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "AFGHANISTAN",
+      "3273"
+    ],
+    [
+      "5310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "AFGHANISTAN",
+      "3273"
+    ],
+    [
+      "5310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "AFGHANISTAN",
+      "3273"
+    ],
+    [
+      "5310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "AFGHANISTAN",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "456050",
+      "2013",
+      "01",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "127911",
+      "2013",
+      "02",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "255888",
+      "2013",
+      "03",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "313354",
+      "2013",
+      "04",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "438481",
+      "2013",
+      "05",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "225526",
+      "2013",
+      "06",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "648800",
+      "2013",
+      "07",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "371121",
+      "2013",
+      "08",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "375928",
+      "2013",
+      "09",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "363428",
+      "2013",
+      "10",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "230684",
+      "2013",
+      "11",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "340834",
+      "2013",
+      "12",
+      "INDIA",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2005",
+      "2013",
+      "07",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5350",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "PAKISTAN",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "424528",
+      "2013",
+      "01",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "254411",
+      "2013",
+      "02",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "240559",
+      "2013",
+      "03",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "199827",
+      "2013",
+      "04",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "245481",
+      "2013",
+      "05",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "629225",
+      "2013",
+      "06",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "379068",
+      "2013",
+      "07",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "332401",
+      "2013",
+      "08",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "140967",
+      "2013",
+      "09",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "335531",
+      "2013",
+      "10",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "295360",
+      "2013",
+      "11",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "206455",
+      "2013",
+      "12",
+      "THAILAND",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "954188",
+      "2013",
+      "01",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1312376",
+      "2013",
+      "02",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1494480",
+      "2013",
+      "03",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2119296",
+      "2013",
+      "04",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2006404",
+      "2013",
+      "05",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2165915",
+      "2013",
+      "06",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2470712",
+      "2013",
+      "07",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3208861",
+      "2013",
+      "08",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2772452",
+      "2013",
+      "09",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2830003",
+      "2013",
+      "10",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1783596",
+      "2013",
+      "11",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5520",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "690541",
+      "2013",
+      "12",
+      "VIETNAM",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2249",
+      "2013",
+      "05",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12269",
+      "2013",
+      "10",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8069",
+      "2013",
+      "11",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "CAMBODIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "233134",
+      "2013",
+      "01",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "193143",
+      "2013",
+      "02",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "384035",
+      "2013",
+      "03",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "370159",
+      "2013",
+      "04",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "275792",
+      "2013",
+      "05",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "213558",
+      "2013",
+      "06",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "180096",
+      "2013",
+      "07",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "137613",
+      "2013",
+      "08",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "57261",
+      "2013",
+      "09",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "355206",
+      "2013",
+      "10",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "67073",
+      "2013",
+      "11",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5570",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "159284",
+      "2013",
+      "12",
+      "MALAYSIA",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "40947",
+      "2013",
+      "01",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16385",
+      "2013",
+      "03",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "82005",
+      "2013",
+      "04",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "22623",
+      "2013",
+      "05",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "115535",
+      "2013",
+      "06",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "146006",
+      "2013",
+      "07",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "123088",
+      "2013",
+      "08",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "149725",
+      "2013",
+      "09",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "89220",
+      "2013",
+      "10",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "105507",
+      "2013",
+      "11",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5590",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "92075",
+      "2013",
+      "12",
+      "SINGAPORE",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "177927",
+      "2013",
+      "01",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "163908",
+      "2013",
+      "02",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "192904",
+      "2013",
+      "03",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "132849",
+      "2013",
+      "04",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "135878",
+      "2013",
+      "05",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "154552",
+      "2013",
+      "06",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "104675",
+      "2013",
+      "07",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "177270",
+      "2013",
+      "08",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "113689",
+      "2013",
+      "09",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "144841",
+      "2013",
+      "10",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "185481",
+      "2013",
+      "11",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5600",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "239752",
+      "2013",
+      "12",
+      "INDONESIA",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3113679",
+      "2013",
+      "01",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5504461",
+      "2013",
+      "02",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4932684",
+      "2013",
+      "03",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5444509",
+      "2013",
+      "04",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1470914",
+      "2013",
+      "05",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2190219",
+      "2013",
+      "06",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1109093",
+      "2013",
+      "07",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "648315",
+      "2013",
+      "08",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "520480",
+      "2013",
+      "09",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "320693",
+      "2013",
+      "10",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1370925",
+      "2013",
+      "11",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5650",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1997462",
+      "2013",
+      "12",
+      "PHILIPPINES",
+      "3273"
+    ],
+    [
+      "5660",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "41272",
+      "2013",
+      "12",
+      "MACAU",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "45795950",
+      "2013",
+      "01",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "42169940",
+      "2013",
+      "02",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "22367396",
+      "2013",
+      "03",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "27875405",
+      "2013",
+      "04",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "32304658",
+      "2013",
+      "05",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "34257543",
+      "2013",
+      "06",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "38286873",
+      "2013",
+      "07",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36440429",
+      "2013",
+      "08",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "33139804",
+      "2013",
+      "09",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "33861349",
+      "2013",
+      "10",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "38612588",
+      "2013",
+      "11",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "44876142",
+      "2013",
+      "12",
+      "CHINA",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8506240",
+      "2013",
+      "01",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4717328",
+      "2013",
+      "02",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7527582",
+      "2013",
+      "03",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7468690",
+      "2013",
+      "04",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6416360",
+      "2013",
+      "05",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8906204",
+      "2013",
+      "06",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9244293",
+      "2013",
+      "07",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8457794",
+      "2013",
+      "08",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3858189",
+      "2013",
+      "09",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7636026",
+      "2013",
+      "10",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7591367",
+      "2013",
+      "11",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5800",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6505963",
+      "2013",
+      "12",
+      "KOREA, SOUTH",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "165010",
+      "2013",
+      "01",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "104137",
+      "2013",
+      "02",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "148594",
+      "2013",
+      "03",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "178266",
+      "2013",
+      "04",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "244482",
+      "2013",
+      "05",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "458551",
+      "2013",
+      "06",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "271441",
+      "2013",
+      "07",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "376790",
+      "2013",
+      "08",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "193412",
+      "2013",
+      "09",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "213923",
+      "2013",
+      "10",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "196694",
+      "2013",
+      "11",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5820",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "86320",
+      "2013",
+      "12",
+      "HONG KONG",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "76674",
+      "2013",
+      "01",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2109243",
+      "2013",
+      "02",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "89400",
+      "2013",
+      "03",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2018850",
+      "2013",
+      "04",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "72880",
+      "2013",
+      "05",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1999961",
+      "2013",
+      "06",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "29780",
+      "2013",
+      "07",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1959779",
+      "2013",
+      "08",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2039985",
+      "2013",
+      "09",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "97575",
+      "2013",
+      "10",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1959902",
+      "2013",
+      "11",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5830",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2198849",
+      "2013",
+      "12",
+      "TAIWAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "165798",
+      "2013",
+      "01",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "79771",
+      "2013",
+      "02",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "98371",
+      "2013",
+      "03",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "116188",
+      "2013",
+      "04",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "21010",
+      "2013",
+      "05",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "40400",
+      "2013",
+      "06",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "334490",
+      "2013",
+      "07",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "131302",
+      "2013",
+      "08",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "139065",
+      "2013",
+      "09",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "102067",
+      "2013",
+      "10",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "75402",
+      "2013",
+      "11",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "5880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "28231",
+      "2013",
+      "12",
+      "JAPAN",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3532",
+      "2013",
+      "06",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8624",
+      "2013",
+      "11",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "AUSTRALIA",
+      "3273"
+    ],
+    [
+      "6141",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4387",
+      "2013",
+      "04",
+      "NEW ZEALAND",
+      "3273"
+    ],
+    [
+      "6141",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "NEW ZEALAND",
+      "3273"
+    ],
+    [
+      "6141",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "NEW ZEALAND",
+      "3273"
+    ],
+    [
+      "6141",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "NEW ZEALAND",
+      "3273"
+    ],
+    [
+      "6141",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "NEW ZEALAND",
+      "3273"
+    ],
+    [
+      "6141",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "NEW ZEALAND",
+      "3273"
+    ],
+    [
+      "6141",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "NEW ZEALAND",
+      "3273"
+    ],
+    [
+      "6141",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "NEW ZEALAND",
+      "3273"
+    ],
+    [
+      "6141",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "NEW ZEALAND",
+      "3273"
+    ],
+    [
+      "2777",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "300939",
+      "2013",
+      "01",
+      "CURACAO",
+      "3273"
+    ],
+    [
+      "2777",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "CURACAO",
+      "3273"
+    ],
+    [
+      "2777",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "CURACAO",
+      "3273"
+    ],
+    [
+      "2777",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "CURACAO",
+      "3273"
+    ],
+    [
+      "2777",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "CURACAO",
+      "3273"
+    ],
+    [
+      "2777",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "CURACAO",
+      "3273"
+    ],
+    [
+      "2777",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "CURACAO",
+      "3273"
+    ],
+    [
+      "2777",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "CURACAO",
+      "3273"
+    ],
+    [
+      "2777",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "CURACAO",
+      "3273"
+    ],
+    [
+      "2777",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "CURACAO",
+      "3273"
+    ],
+    [
+      "2777",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "CURACAO",
+      "3273"
+    ],
+    [
+      "2777",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "CURACAO",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "98362",
+      "2013",
+      "01",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9544",
+      "2013",
+      "04",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "17208",
+      "2013",
+      "06",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "23596",
+      "2013",
+      "07",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6712",
+      "2013",
+      "08",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "128101",
+      "2013",
+      "09",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3355",
+      "2013",
+      "10",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "COLOMBIA",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6885",
+      "2013",
+      "08",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "25947",
+      "2013",
+      "09",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3310",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "ECUADOR",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "18589",
+      "2013",
+      "06",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9555",
+      "2013",
+      "12",
+      "PERU",
+      "3273"
+    ],
+    [
+      "3370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "39594",
+      "2013",
+      "08",
+      "CHILE",
+      "3273"
+    ],
+    [
+      "3370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "CHILE",
+      "3273"
+    ],
+    [
+      "3370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "CHILE",
+      "3273"
+    ],
+    [
+      "3370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "CHILE",
+      "3273"
+    ],
+    [
+      "3370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "CHILE",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "40386",
+      "2013",
+      "01",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "28111",
+      "2013",
+      "02",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36537",
+      "2013",
+      "03",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "24543",
+      "2013",
+      "04",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9840",
+      "2013",
+      "05",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13641",
+      "2013",
+      "06",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16414",
+      "2013",
+      "07",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "56373",
+      "2013",
+      "08",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "27606",
+      "2013",
+      "09",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "20930",
+      "2013",
+      "10",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "60343",
+      "2013",
+      "11",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "3510",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "BRAZIL",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "109281",
+      "2013",
+      "01",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "72367",
+      "2013",
+      "02",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "252361",
+      "2013",
+      "03",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "47436",
+      "2013",
+      "04",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "25337",
+      "2013",
+      "05",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "17781",
+      "2013",
+      "06",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "127576",
+      "2013",
+      "07",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "76993",
+      "2013",
+      "08",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "76025",
+      "2013",
+      "09",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1924913",
+      "2013",
+      "10",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "277662",
+      "2013",
+      "11",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "154160",
+      "2013",
+      "12",
+      "SWEDEN",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "56755",
+      "2013",
+      "01",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4039",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "NORWAY",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "33420",
+      "2013",
+      "03",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "FINLAND",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "733674",
+      "2013",
+      "03",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3516798",
+      "2013",
+      "05",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7295",
+      "2013",
+      "06",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3544863",
+      "2013",
+      "08",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "744326",
+      "2013",
+      "11",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4099",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3059527",
+      "2013",
+      "12",
+      "DENMARK",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "750754",
+      "2013",
+      "01",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "674076",
+      "2013",
+      "02",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "952941",
+      "2013",
+      "03",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "695256",
+      "2013",
+      "04",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1112597",
+      "2013",
+      "05",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "870727",
+      "2013",
+      "06",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1154348",
+      "2013",
+      "07",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "970892",
+      "2013",
+      "08",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "855239",
+      "2013",
+      "09",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "849136",
+      "2013",
+      "10",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "686133",
+      "2013",
+      "11",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4120",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "755730",
+      "2013",
+      "12",
+      "UNITED KINGDOM",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "54552",
+      "2013",
+      "02",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6030",
+      "2013",
+      "05",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14383",
+      "2013",
+      "09",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9000",
+      "2013",
+      "10",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "IRELAND",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "194473",
+      "2013",
+      "01",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "304157",
+      "2013",
+      "02",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "350937",
+      "2013",
+      "03",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "278501",
+      "2013",
+      "04",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "179916",
+      "2013",
+      "05",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "153294",
+      "2013",
+      "06",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "206548",
+      "2013",
+      "07",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "458730",
+      "2013",
+      "08",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "870449",
+      "2013",
+      "09",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "717474",
+      "2013",
+      "10",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "884195",
+      "2013",
+      "11",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4210",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "869455",
+      "2013",
+      "12",
+      "NETHERLANDS",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7489",
+      "2013",
+      "02",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13537",
+      "2013",
+      "03",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4736",
+      "2013",
+      "04",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "86787",
+      "2013",
+      "05",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2004",
+      "2013",
+      "06",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7764",
+      "2013",
+      "07",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2726",
+      "2013",
+      "09",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14837",
+      "2013",
+      "11",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4231",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "374949",
+      "2013",
+      "12",
+      "BELGIUM",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4230910",
+      "2013",
+      "01",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5151001",
+      "2013",
+      "02",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "116484",
+      "2013",
+      "03",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2086715",
+      "2013",
+      "04",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5926227",
+      "2013",
+      "05",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "260750",
+      "2013",
+      "06",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5390104",
+      "2013",
+      "07",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2174177",
+      "2013",
+      "08",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2013917",
+      "2013",
+      "09",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3895685",
+      "2013",
+      "10",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1874315",
+      "2013",
+      "11",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4279",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2297546",
+      "2013",
+      "12",
+      "FRANCE",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "513672",
+      "2013",
+      "01",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "476651",
+      "2013",
+      "02",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "799461",
+      "2013",
+      "03",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "608388",
+      "2013",
+      "04",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "941637",
+      "2013",
+      "05",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "987983",
+      "2013",
+      "06",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "795906",
+      "2013",
+      "07",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "944631",
+      "2013",
+      "08",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "741514",
+      "2013",
+      "09",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "774215",
+      "2013",
+      "10",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "999797",
+      "2013",
+      "11",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4280",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "909472",
+      "2013",
+      "12",
+      "GERMANY",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9153",
+      "2013",
+      "04",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6723",
+      "2013",
+      "10",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "29035",
+      "2013",
+      "11",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4330",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "AUSTRIA",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "56351",
+      "2013",
+      "03",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "23904",
+      "2013",
+      "04",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5220",
+      "2013",
+      "05",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "4351",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "CZECH REPUBLIC",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "190550",
+      "2013",
+      "01",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "140769",
+      "2013",
+      "02",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "34714",
+      "2013",
+      "03",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "46799",
+      "2013",
+      "04",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "94806",
+      "2013",
+      "05",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "106844",
+      "2013",
+      "06",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "85382",
+      "2013",
+      "07",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "59003",
+      "2013",
+      "08",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "41676",
+      "2013",
+      "09",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "90369",
+      "2013",
+      "10",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "57142",
+      "2013",
+      "11",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7140",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "97231",
+      "2013",
+      "12",
+      "MOROCCO",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1178145",
+      "2013",
+      "01",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "171360",
+      "2013",
+      "02",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "115965",
+      "2013",
+      "03",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "730350",
+      "2013",
+      "04",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "946707",
+      "2013",
+      "05",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1504014",
+      "2013",
+      "06",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "810285",
+      "2013",
+      "07",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "835890",
+      "2013",
+      "08",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "225742",
+      "2013",
+      "09",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "748363",
+      "2013",
+      "10",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1116010",
+      "2013",
+      "11",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7290",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1844920",
+      "2013",
+      "12",
+      "EGYPT",
+      "3273"
+    ],
+    [
+      "7790",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5843",
+      "2013",
+      "03",
+      "KENYA",
+      "3273"
+    ],
+    [
+      "7790",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "KENYA",
+      "3273"
+    ],
+    [
+      "7790",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "KENYA",
+      "3273"
+    ],
+    [
+      "7790",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "KENYA",
+      "3273"
+    ],
+    [
+      "7790",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "KENYA",
+      "3273"
+    ],
+    [
+      "7790",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "KENYA",
+      "3273"
+    ],
+    [
+      "7790",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "KENYA",
+      "3273"
+    ],
+    [
+      "7790",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "KENYA",
+      "3273"
+    ],
+    [
+      "7790",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "KENYA",
+      "3273"
+    ],
+    [
+      "7790",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "KENYA",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3860",
+      "2013",
+      "08",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7760",
+      "2013",
+      "11",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4370",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "22375",
+      "2013",
+      "12",
+      "HUNGARY",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "72384",
+      "2013",
+      "01",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "101375",
+      "2013",
+      "02",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "124981",
+      "2013",
+      "03",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "183438",
+      "2013",
+      "04",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "32904",
+      "2013",
+      "05",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "194469",
+      "2013",
+      "06",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "356377",
+      "2013",
+      "07",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "27783",
+      "2013",
+      "08",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12174",
+      "2013",
+      "09",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "47191",
+      "2013",
+      "10",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4419",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "555383",
+      "2013",
+      "12",
+      "SWITZERLAND",
+      "3273"
+    ],
+    [
+      "4470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6096",
+      "2013",
+      "01",
+      "ESTONIA",
+      "3273"
+    ],
+    [
+      "4470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6179",
+      "2013",
+      "02",
+      "ESTONIA",
+      "3273"
+    ],
+    [
+      "4470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "ESTONIA",
+      "3273"
+    ],
+    [
+      "4470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13163",
+      "2013",
+      "04",
+      "ESTONIA",
+      "3273"
+    ],
+    [
+      "4470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "ESTONIA",
+      "3273"
+    ],
+    [
+      "4470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "ESTONIA",
+      "3273"
+    ],
+    [
+      "4470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12114",
+      "2013",
+      "07",
+      "ESTONIA",
+      "3273"
+    ],
+    [
+      "4470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "ESTONIA",
+      "3273"
+    ],
+    [
+      "4470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "ESTONIA",
+      "3273"
+    ],
+    [
+      "4470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "ESTONIA",
+      "3273"
+    ],
+    [
+      "4470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "ESTONIA",
+      "3273"
+    ],
+    [
+      "4470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "ESTONIA",
+      "3273"
+    ],
+    [
+      "4490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "28530",
+      "2013",
+      "11",
+      "LATVIA",
+      "3273"
+    ],
+    [
+      "4490",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "LATVIA",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "406990",
+      "2013",
+      "01",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "168924",
+      "2013",
+      "02",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "186383",
+      "2013",
+      "03",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "217773",
+      "2013",
+      "04",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "323288",
+      "2013",
+      "05",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "298337",
+      "2013",
+      "06",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "360009",
+      "2013",
+      "07",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "297160",
+      "2013",
+      "08",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "274404",
+      "2013",
+      "09",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "300094",
+      "2013",
+      "10",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "515183",
+      "2013",
+      "11",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4550",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "414213",
+      "2013",
+      "12",
+      "POLAND",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1964269",
+      "2013",
+      "01",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "751100",
+      "2013",
+      "02",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2292372",
+      "2013",
+      "03",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "506076",
+      "2013",
+      "04",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2549941",
+      "2013",
+      "05",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1248873",
+      "2013",
+      "06",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1368000",
+      "2013",
+      "07",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3147647",
+      "2013",
+      "08",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "962664",
+      "2013",
+      "09",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "905316",
+      "2013",
+      "10",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "708742",
+      "2013",
+      "11",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4700",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2866273",
+      "2013",
+      "12",
+      "SPAIN",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "32884",
+      "2013",
+      "01",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "112034",
+      "2013",
+      "02",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "229612",
+      "2013",
+      "03",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "247610",
+      "2013",
+      "04",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "164704",
+      "2013",
+      "05",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "301945",
+      "2013",
+      "06",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "295203",
+      "2013",
+      "07",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "160352",
+      "2013",
+      "08",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "158490",
+      "2013",
+      "09",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5790",
+      "2013",
+      "10",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "109418",
+      "2013",
+      "11",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4710",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "73997",
+      "2013",
+      "12",
+      "PORTUGAL",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "380532",
+      "2013",
+      "01",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "390234",
+      "2013",
+      "02",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1168112",
+      "2013",
+      "03",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "915188",
+      "2013",
+      "04",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3034609",
+      "2013",
+      "05",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "505021",
+      "2013",
+      "06",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "549808",
+      "2013",
+      "07",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2488556",
+      "2013",
+      "08",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2506024",
+      "2013",
+      "09",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "802639",
+      "2013",
+      "10",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "557540",
+      "2013",
+      "11",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4759",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "784817",
+      "2013",
+      "12",
+      "ITALY",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "28149",
+      "2013",
+      "01",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1959914",
+      "2013",
+      "02",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "35186",
+      "2013",
+      "04",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1704227",
+      "2013",
+      "05",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53324",
+      "2013",
+      "06",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1592866",
+      "2013",
+      "07",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1664494",
+      "2013",
+      "09",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7975",
+      "2013",
+      "10",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4791",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1734369",
+      "2013",
+      "12",
+      "CROATIA",
+      "3273"
+    ],
+    [
+      "4792",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3917",
+      "2013",
+      "03",
+      "SLOVENIA",
+      "3273"
+    ],
+    [
+      "4792",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "SLOVENIA",
+      "3273"
+    ],
+    [
+      "4792",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "SLOVENIA",
+      "3273"
+    ],
+    [
+      "4792",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "SLOVENIA",
+      "3273"
+    ],
+    [
+      "4792",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "SLOVENIA",
+      "3273"
+    ],
+    [
+      "4792",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "SLOVENIA",
+      "3273"
+    ],
+    [
+      "4792",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "SLOVENIA",
+      "3273"
+    ],
+    [
+      "4792",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9257",
+      "2013",
+      "10",
+      "SLOVENIA",
+      "3273"
+    ],
+    [
+      "4792",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6548",
+      "2013",
+      "11",
+      "SLOVENIA",
+      "3273"
+    ],
+    [
+      "4792",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "SLOVENIA",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3530573",
+      "2013",
+      "01",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1867309",
+      "2013",
+      "02",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1723800",
+      "2013",
+      "03",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3540261",
+      "2013",
+      "04",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1814644",
+      "2013",
+      "05",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5319863",
+      "2013",
+      "06",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1957911",
+      "2013",
+      "07",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1724242",
+      "2013",
+      "08",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1903710",
+      "2013",
+      "09",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3630866",
+      "2013",
+      "10",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1648572",
+      "2013",
+      "11",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4840",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1740000",
+      "2013",
+      "12",
+      "GREECE",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4744",
+      "2013",
+      "11",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4870",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "BULGARIA",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "288916",
+      "2013",
+      "01",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "313823",
+      "2013",
+      "02",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "384974",
+      "2013",
+      "03",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "392428",
+      "2013",
+      "04",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "781959",
+      "2013",
+      "05",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1101875",
+      "2013",
+      "06",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "538343",
+      "2013",
+      "07",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "786919",
+      "2013",
+      "08",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "546275",
+      "2013",
+      "09",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "412648",
+      "2013",
+      "10",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "372356",
+      "2013",
+      "11",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "4890",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "115692",
+      "2013",
+      "12",
+      "TURKEY",
+      "3273"
+    ],
+    [
+      "5020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4000",
+      "2013",
+      "01",
+      "SYRIA",
+      "3273"
+    ],
+    [
+      "5020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "SYRIA",
+      "3273"
+    ],
+    [
+      "5020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "SYRIA",
+      "3273"
+    ],
+    [
+      "5020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "SYRIA",
+      "3273"
+    ],
+    [
+      "5020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "SYRIA",
+      "3273"
+    ],
+    [
+      "5020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "SYRIA",
+      "3273"
+    ],
+    [
+      "5020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "SYRIA",
+      "3273"
+    ],
+    [
+      "5020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "SYRIA",
+      "3273"
+    ],
+    [
+      "5020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "SYRIA",
+      "3273"
+    ],
+    [
+      "5020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "SYRIA",
+      "3273"
+    ],
+    [
+      "5020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "SYRIA",
+      "3273"
+    ],
+    [
+      "5020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "SYRIA",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10200",
+      "2013",
+      "01",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14808",
+      "2013",
+      "02",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5040",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "LEBANON",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "459772",
+      "2013",
+      "01",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "165152",
+      "2013",
+      "02",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "197371",
+      "2013",
+      "03",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "48020",
+      "2013",
+      "04",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "77808",
+      "2013",
+      "05",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "171537",
+      "2013",
+      "06",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53063",
+      "2013",
+      "07",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "97599",
+      "2013",
+      "08",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "77053",
+      "2013",
+      "09",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "99558",
+      "2013",
+      "10",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "17716",
+      "2013",
+      "11",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5081",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5345",
+      "2013",
+      "12",
+      "ISRAEL",
+      "3273"
+    ],
+    [
+      "5110",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7500",
+      "2013",
+      "02",
+      "JORDAN",
+      "3273"
+    ],
+    [
+      "5110",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "JORDAN",
+      "3273"
+    ],
+    [
+      "5110",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "JORDAN",
+      "3273"
+    ],
+    [
+      "5110",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "JORDAN",
+      "3273"
+    ],
+    [
+      "5110",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "JORDAN",
+      "3273"
+    ],
+    [
+      "5110",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "JORDAN",
+      "3273"
+    ],
+    [
+      "5110",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "JORDAN",
+      "3273"
+    ],
+    [
+      "5110",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "JORDAN",
+      "3273"
+    ],
+    [
+      "5110",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "JORDAN",
+      "3273"
+    ],
+    [
+      "5110",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "JORDAN",
+      "3273"
+    ],
+    [
+      "5110",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "JORDAN",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "106670637",
+      "2013",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "97116929",
+      "2013",
+      "02",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "87721608",
+      "2013",
+      "03",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "113590117",
+      "2013",
+      "04",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "122727720",
+      "2013",
+      "05",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "119820234",
+      "2013",
+      "06",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "122299177",
+      "2013",
+      "07",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "131630129",
+      "2013",
+      "08",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "107619776",
+      "2013",
+      "09",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "120847300",
+      "2013",
+      "10",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "109100825",
+      "2013",
+      "11",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "-",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "112754732",
+      "2013",
+      "12",
+      "TOTAL FOR ALL COUNTRIES",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12148583",
+      "2013",
+      "01",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "11995987",
+      "2013",
+      "02",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8913362",
+      "2013",
+      "03",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9229346",
+      "2013",
+      "04",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "21391962",
+      "2013",
+      "05",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10027197",
+      "2013",
+      "06",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13818157",
+      "2013",
+      "07",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "15992103",
+      "2013",
+      "08",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12044039",
+      "2013",
+      "09",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13839083",
+      "2013",
+      "10",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9097337",
+      "2013",
+      "11",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "0003",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16056883",
+      "2013",
+      "12",
+      "EUROPEAN UNION",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "31611207",
+      "2013",
+      "01",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "27341023",
+      "2013",
+      "02",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "40099634",
+      "2013",
+      "03",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "56493211",
+      "2013",
+      "04",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "55622503",
+      "2013",
+      "05",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "55181289",
+      "2013",
+      "06",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53146089",
+      "2013",
+      "07",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "61227081",
+      "2013",
+      "08",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "50878139",
+      "2013",
+      "09",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "59109247",
+      "2013",
+      "10",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "45711148",
+      "2013",
+      "11",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "1XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36534678",
+      "2013",
+      "12",
+      "NORTH AMERICA",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12566638",
+      "2013",
+      "01",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12411185",
+      "2013",
+      "02",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9423317",
+      "2013",
+      "03",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9805212",
+      "2013",
+      "04",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "22206825",
+      "2013",
+      "05",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "11323541",
+      "2013",
+      "06",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14712877",
+      "2013",
+      "07",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16806805",
+      "2013",
+      "08",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12602488",
+      "2013",
+      "09",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14298922",
+      "2013",
+      "10",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9469693",
+      "2013",
+      "11",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "4XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16727958",
+      "2013",
+      "12",
+      "EUROPE",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1376195",
+      "2013",
+      "01",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "347376",
+      "2013",
+      "02",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "156522",
+      "2013",
+      "03",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "777149",
+      "2013",
+      "04",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1047269",
+      "2013",
+      "05",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1615369",
+      "2013",
+      "06",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "939487",
+      "2013",
+      "07",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "894893",
+      "2013",
+      "08",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "273592",
+      "2013",
+      "09",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "880659",
+      "2013",
+      "10",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1186073",
+      "2013",
+      "11",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "7XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "1946982",
+      "2013",
+      "12",
+      "AFRICA",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "58275359",
+      "2013",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "55041931",
+      "2013",
+      "02",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "35757351",
+      "2013",
+      "03",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "43691308",
+      "2013",
+      "04",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "40964597",
+      "2013",
+      "05",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "48340055",
+      "2013",
+      "06",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "49706747",
+      "2013",
+      "07",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "48452380",
+      "2013",
+      "08",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "40211610",
+      "2013",
+      "09",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "42820900",
+      "2013",
+      "10",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "50173563",
+      "2013",
+      "11",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "0014",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "56225350",
+      "2013",
+      "12",
+      "PACIFIC RIM COUNTRIES",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "60584097",
+      "2013",
+      "01",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "56924089",
+      "2013",
+      "02",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "37945649",
+      "2013",
+      "03",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "46384190",
+      "2013",
+      "04",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "43735020",
+      "2013",
+      "05",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "51528726",
+      "2013",
+      "06",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53260395",
+      "2013",
+      "07",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "52498057",
+      "2013",
+      "08",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "43578010",
+      "2013",
+      "09",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "46475289",
+      "2013",
+      "10",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "52588416",
+      "2013",
+      "11",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "5XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "57468525",
+      "2013",
+      "12",
+      "ASIA",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "90019",
+      "2013",
+      "01",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "65145",
+      "2013",
+      "02",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "59949",
+      "2013",
+      "03",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "91881",
+      "2013",
+      "04",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "106263",
+      "2013",
+      "05",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "118339",
+      "2013",
+      "06",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "200319",
+      "2013",
+      "07",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "93729",
+      "2013",
+      "08",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "105893",
+      "2013",
+      "09",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "58898",
+      "2013",
+      "10",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "76528",
+      "2013",
+      "11",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "0017",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "67034",
+      "2013",
+      "12",
+      "CAFTA-DR",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4387",
+      "2013",
+      "04",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3532",
+      "2013",
+      "06",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8624",
+      "2013",
+      "11",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "6XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "AUSTRALIA AND OCEANIA",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "31611207",
+      "2013",
+      "01",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "27341023",
+      "2013",
+      "02",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "40099634",
+      "2013",
+      "03",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "56493211",
+      "2013",
+      "04",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "55622503",
+      "2013",
+      "05",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "55181289",
+      "2013",
+      "06",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53146089",
+      "2013",
+      "07",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "61227081",
+      "2013",
+      "08",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "50878139",
+      "2013",
+      "09",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "59109247",
+      "2013",
+      "10",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "45711148",
+      "2013",
+      "11",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0020",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36534678",
+      "2013",
+      "12",
+      "NAFTA",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10978832",
+      "2013",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10165457",
+      "2013",
+      "02",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13217494",
+      "2013",
+      "03",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14848015",
+      "2013",
+      "04",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13135735",
+      "2013",
+      "05",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12761541",
+      "2013",
+      "06",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12860260",
+      "2013",
+      "07",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13451368",
+      "2013",
+      "08",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "11744368",
+      "2013",
+      "09",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13162725",
+      "2013",
+      "10",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10245271",
+      "2013",
+      "11",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0021",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9669595",
+      "2013",
+      "12",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53281506",
+      "2013",
+      "01",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "42754545",
+      "2013",
+      "02",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "57346275",
+      "2013",
+      "03",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "73900522",
+      "2013",
+      "04",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "82640279",
+      "2013",
+      "05",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "75573179",
+      "2013",
+      "06",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "75897946",
+      "2013",
+      "07",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "86760175",
+      "2013",
+      "08",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "65890440",
+      "2013",
+      "09",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "81237845",
+      "2013",
+      "10",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "62840676",
+      "2013",
+      "11",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0022",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "58067806",
+      "2013",
+      "12",
+      "OECD",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "33220760",
+      "2013",
+      "01",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "27491799",
+      "2013",
+      "02",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "35991181",
+      "2013",
+      "03",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "51301163",
+      "2013",
+      "04",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "63041198",
+      "2013",
+      "05",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53645492",
+      "2013",
+      "06",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "53162216",
+      "2013",
+      "07",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "64681035",
+      "2013",
+      "08",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "50256730",
+      "2013",
+      "09",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "58332825",
+      "2013",
+      "10",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "44765744",
+      "2013",
+      "11",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0023",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "41225718",
+      "2013",
+      "12",
+      "NATO",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10886019",
+      "2013",
+      "01",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10100312",
+      "2013",
+      "02",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13157545",
+      "2013",
+      "03",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14756134",
+      "2013",
+      "04",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13029472",
+      "2013",
+      "05",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12643202",
+      "2013",
+      "06",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12659941",
+      "2013",
+      "07",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13357639",
+      "2013",
+      "08",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "11638475",
+      "2013",
+      "09",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13103827",
+      "2013",
+      "10",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10168743",
+      "2013",
+      "11",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0024",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9602561",
+      "2013",
+      "12",
+      "LAFTA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10853409",
+      "2013",
+      "01",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9120706",
+      "2013",
+      "02",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6731652",
+      "2013",
+      "03",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8209791",
+      "2013",
+      "04",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14704495",
+      "2013",
+      "05",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8779733",
+      "2013",
+      "06",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10583358",
+      "2013",
+      "07",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "11098335",
+      "2013",
+      "08",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9173877",
+      "2013",
+      "09",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10756965",
+      "2013",
+      "10",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6832999",
+      "2013",
+      "11",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0025",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9916509",
+      "2013",
+      "12",
+      "EURO AREA",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "91265282",
+      "2013",
+      "01",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "83949741",
+      "2013",
+      "02",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "77592024",
+      "2013",
+      "03",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "102503642",
+      "2013",
+      "04",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "98838985",
+      "2013",
+      "05",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "106335073",
+      "2013",
+      "06",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "105702616",
+      "2013",
+      "07",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "113260317",
+      "2013",
+      "08",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "94003168",
+      "2013",
+      "09",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "105095681",
+      "2013",
+      "10",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "97963667",
+      "2013",
+      "11",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0026",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "93625307",
+      "2013",
+      "12",
+      "APEC",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4944403",
+      "2013",
+      "01",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7428299",
+      "2013",
+      "02",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7261047",
+      "2013",
+      "03",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "8348645",
+      "2013",
+      "04",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4159341",
+      "2013",
+      "05",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5469004",
+      "2013",
+      "06",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4389650",
+      "2013",
+      "07",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4627548",
+      "2013",
+      "08",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3754574",
+      "2013",
+      "09",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4087763",
+      "2013",
+      "10",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3816011",
+      "2013",
+      "11",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0027",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "3385569",
+      "2013",
+      "12",
+      "ASEAN",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "24641",
+      "2013",
+      "01",
+      "CACM",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "18099",
+      "2013",
+      "02",
+      "CACM",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "CACM",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "48210",
+      "2013",
+      "04",
+      "CACM",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "25868",
+      "2013",
+      "05",
+      "CACM",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "38539",
+      "2013",
+      "06",
+      "CACM",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "101609",
+      "2013",
+      "07",
+      "CACM",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "42330",
+      "2013",
+      "08",
+      "CACM",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "60339",
+      "2013",
+      "09",
+      "CACM",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36471",
+      "2013",
+      "10",
+      "CACM",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "42849",
+      "2013",
+      "11",
+      "CACM",
+      "3273"
+    ],
+    [
+      "0028",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6618",
+      "2013",
+      "12",
+      "CACM",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "20863936",
+      "2013",
+      "01",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "17268822",
+      "2013",
+      "02",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "26978626",
+      "2013",
+      "03",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "41771164",
+      "2013",
+      "04",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "42602871",
+      "2013",
+      "05",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "42587525",
+      "2013",
+      "06",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "40526158",
+      "2013",
+      "07",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "47979006",
+      "2013",
+      "08",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "39421318",
+      "2013",
+      "09",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "46029705",
+      "2013",
+      "10",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "35602748",
+      "2013",
+      "11",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "1220",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "26941672",
+      "2013",
+      "12",
+      "CANADA",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10747271",
+      "2013",
+      "01",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10072201",
+      "2013",
+      "02",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13121008",
+      "2013",
+      "03",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "14722047",
+      "2013",
+      "04",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13019632",
+      "2013",
+      "05",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12593764",
+      "2013",
+      "06",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12619931",
+      "2013",
+      "07",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13248075",
+      "2013",
+      "08",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "11456821",
+      "2013",
+      "09",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13079542",
+      "2013",
+      "10",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "10108400",
+      "2013",
+      "11",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2010",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9593006",
+      "2013",
+      "12",
+      "MEXICO",
+      "3273"
+    ],
+    [
+      "2050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6875",
+      "2013",
+      "01",
+      "GUATEMALA",
+      "3273"
+    ],
+    [
+      "2050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "GUATEMALA",
+      "3273"
+    ],
+    [
+      "2050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "GUATEMALA",
+      "3273"
+    ],
+    [
+      "2050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13000",
+      "2013",
+      "04",
+      "GUATEMALA",
+      "3273"
+    ],
+    [
+      "2050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5239",
+      "2013",
+      "05",
+      "GUATEMALA",
+      "3273"
+    ],
+    [
+      "2050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "GUATEMALA",
+      "3273"
+    ],
+    [
+      "2050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "12375",
+      "2013",
+      "07",
+      "GUATEMALA",
+      "3273"
+    ],
+    [
+      "2050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "GUATEMALA",
+      "3273"
+    ],
+    [
+      "2050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "GUATEMALA",
+      "3273"
+    ],
+    [
+      "2050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "GUATEMALA",
+      "3273"
+    ],
+    [
+      "2050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "GUATEMALA",
+      "3273"
+    ],
+    [
+      "2050",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "GUATEMALA",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "17766",
+      "2013",
+      "01",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "18099",
+      "2013",
+      "02",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "35210",
+      "2013",
+      "04",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "20629",
+      "2013",
+      "05",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "38539",
+      "2013",
+      "06",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "89234",
+      "2013",
+      "07",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "42330",
+      "2013",
+      "08",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "60339",
+      "2013",
+      "09",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36471",
+      "2013",
+      "10",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "19329",
+      "2013",
+      "11",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2190",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6618",
+      "2013",
+      "12",
+      "NICARAGUA",
+      "3273"
+    ],
+    [
+      "2230",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "23520",
+      "2013",
+      "11",
+      "COSTA RICA",
+      "3273"
+    ],
+    [
+      "2230",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "COSTA RICA",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2794",
+      "2013",
+      "01",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "02",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2450",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "HAITI",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "65378",
+      "2013",
+      "01",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "47046",
+      "2013",
+      "02",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "59949",
+      "2013",
+      "03",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "43671",
+      "2013",
+      "04",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "80395",
+      "2013",
+      "05",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "79800",
+      "2013",
+      "06",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "98710",
+      "2013",
+      "07",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "51399",
+      "2013",
+      "08",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "45554",
+      "2013",
+      "09",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "22427",
+      "2013",
+      "10",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "33679",
+      "2013",
+      "11",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "2470",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "60416",
+      "2013",
+      "12",
+      "DOMINICAN REPUBLIC",
+      "3273"
+    ],
+    [
+      "7880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7016",
+      "2013",
+      "02",
+      "MADAGASCAR",
+      "3273"
+    ],
+    [
+      "7880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "MADAGASCAR",
+      "3273"
+    ],
+    [
+      "7880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "MADAGASCAR",
+      "3273"
+    ],
+    [
+      "7880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "MADAGASCAR",
+      "3273"
+    ],
+    [
+      "7880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "MADAGASCAR",
+      "3273"
+    ],
+    [
+      "7880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "MADAGASCAR",
+      "3273"
+    ],
+    [
+      "7880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "MADAGASCAR",
+      "3273"
+    ],
+    [
+      "7880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "MADAGASCAR",
+      "3273"
+    ],
+    [
+      "7880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "MADAGASCAR",
+      "3273"
+    ],
+    [
+      "7880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "MADAGASCAR",
+      "3273"
+    ],
+    [
+      "7880",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2092",
+      "2013",
+      "12",
+      "MADAGASCAR",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7500",
+      "2013",
+      "01",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "20720",
+      "2013",
+      "02",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "4511",
+      "2013",
+      "06",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9073",
+      "2013",
+      "07",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "09",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "10",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7671",
+      "2013",
+      "11",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7910",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "SOUTH AFRICA",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "7511",
+      "2013",
+      "02",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "03",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "04",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5756",
+      "2013",
+      "05",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "34747",
+      "2013",
+      "07",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "08",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "6174",
+      "2013",
+      "09",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "41927",
+      "2013",
+      "10",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "5250",
+      "2013",
+      "11",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "7960",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "2739",
+      "2013",
+      "12",
+      "ZIMBABWE",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "393752",
+      "2013",
+      "01",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "65145",
+      "2013",
+      "02",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "59949",
+      "2013",
+      "03",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "91881",
+      "2013",
+      "04",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "106263",
+      "2013",
+      "05",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "118339",
+      "2013",
+      "06",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "200319",
+      "2013",
+      "07",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "93729",
+      "2013",
+      "08",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "105893",
+      "2013",
+      "09",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "58898",
+      "2013",
+      "10",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "76528",
+      "2013",
+      "11",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "2XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "67034",
+      "2013",
+      "12",
+      "CENTRAL AMERICA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "138748",
+      "2013",
+      "01",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "28111",
+      "2013",
+      "02",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "36537",
+      "2013",
+      "03",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "34087",
+      "2013",
+      "04",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9840",
+      "2013",
+      "05",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "49438",
+      "2013",
+      "06",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "40010",
+      "2013",
+      "07",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "109564",
+      "2013",
+      "08",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "181654",
+      "2013",
+      "09",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "24285",
+      "2013",
+      "10",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "60343",
+      "2013",
+      "11",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "3XXX",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "9555",
+      "2013",
+      "12",
+      "SOUTH AMERICA",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "16772",
+      "2013",
+      "04",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "05",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "06",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "07",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13580",
+      "2013",
+      "08",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "25947",
+      "2013",
+      "09",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "13600",
+      "2013",
+      "10",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "11",
+      "OPEC",
+      "3273"
+    ],
+    [
+      "0001",
+      "CEMENT AND CONCRETE PRODUCTS",
+      "0",
+      "2013",
+      "12",
+      "OPEC",
+      "3273"
+    ]
+  ]
+}

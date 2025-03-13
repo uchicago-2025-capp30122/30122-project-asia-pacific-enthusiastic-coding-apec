@@ -1,0 +1,6554 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 20:43:55 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a45ae430d2a56dfdd89eeaab52756b484d2a52f5474f03dfea646c161910d9348a5cb2d384a68f0b0e52919ab79f1f2cf5; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "93830",
+      "2010",
+      "03",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "04",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "05",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "2722",
+      "2010",
+      "06",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "08",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "100000",
+      "2010",
+      "09",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5200",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "UNITED ARAB EMIRATES",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "15136",
+      "2010",
+      "01",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "02",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "03",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "8360",
+      "2010",
+      "04",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "16000",
+      "2010",
+      "05",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "63166",
+      "2010",
+      "06",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "12904",
+      "2010",
+      "07",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "33371",
+      "2010",
+      "08",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5330",
+      "MOTOR VEHICLES",
+      "8272",
+      "2010",
+      "12",
+      "INDIA",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "5000",
+      "2010",
+      "02",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "03",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "04",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "05",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "06",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "123846",
+      "2010",
+      "08",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "8000",
+      "2010",
+      "10",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5490",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "THAILAND",
+      "3361"
+    ],
+    [
+      "5520",
+      "MOTOR VEHICLES",
+      "29352",
+      "2010",
+      "01",
+      "VIETNAM",
+      "3361"
+    ],
+    [
+      "5520",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "02",
+      "VIETNAM",
+      "3361"
+    ],
+    [
+      "5520",
+      "MOTOR VEHICLES",
+      "237448",
+      "2010",
+      "03",
+      "VIETNAM",
+      "3361"
+    ],
+    [
+      "5520",
+      "MOTOR VEHICLES",
+      "167995",
+      "2010",
+      "04",
+      "VIETNAM",
+      "3361"
+    ],
+    [
+      "5520",
+      "MOTOR VEHICLES",
+      "224059",
+      "2010",
+      "05",
+      "VIETNAM",
+      "3361"
+    ],
+    [
+      "5520",
+      "MOTOR VEHICLES",
+      "87689",
+      "2010",
+      "06",
+      "VIETNAM",
+      "3361"
+    ],
+    [
+      "5520",
+      "MOTOR VEHICLES",
+      "84818",
+      "2010",
+      "07",
+      "VIETNAM",
+      "3361"
+    ],
+    [
+      "5520",
+      "MOTOR VEHICLES",
+      "119210",
+      "2010",
+      "08",
+      "VIETNAM",
+      "3361"
+    ],
+    [
+      "5520",
+      "MOTOR VEHICLES",
+      "522492",
+      "2010",
+      "09",
+      "VIETNAM",
+      "3361"
+    ],
+    [
+      "5520",
+      "MOTOR VEHICLES",
+      "777869",
+      "2010",
+      "10",
+      "VIETNAM",
+      "3361"
+    ],
+    [
+      "5520",
+      "MOTOR VEHICLES",
+      "600944",
+      "2010",
+      "11",
+      "VIETNAM",
+      "3361"
+    ],
+    [
+      "5520",
+      "MOTOR VEHICLES",
+      "414370",
+      "2010",
+      "12",
+      "VIETNAM",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "23800",
+      "2010",
+      "11",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5570",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "MALAYSIA",
+      "3361"
+    ],
+    [
+      "5650",
+      "MOTOR VEHICLES",
+      "2100",
+      "2010",
+      "06",
+      "PHILIPPINES",
+      "3361"
+    ],
+    [
+      "5650",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "PHILIPPINES",
+      "3361"
+    ],
+    [
+      "5650",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "08",
+      "PHILIPPINES",
+      "3361"
+    ],
+    [
+      "5650",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "PHILIPPINES",
+      "3361"
+    ],
+    [
+      "5650",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "PHILIPPINES",
+      "3361"
+    ],
+    [
+      "5650",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "PHILIPPINES",
+      "3361"
+    ],
+    [
+      "5650",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "PHILIPPINES",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "8667228",
+      "2010",
+      "01",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "3694383",
+      "2010",
+      "02",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "3130829",
+      "2010",
+      "03",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "4302957",
+      "2010",
+      "04",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "4000396",
+      "2010",
+      "05",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "6006542",
+      "2010",
+      "06",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "7614682",
+      "2010",
+      "07",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "8611657",
+      "2010",
+      "08",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "7691802",
+      "2010",
+      "09",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "7382160",
+      "2010",
+      "10",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "10099586",
+      "2010",
+      "11",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5700",
+      "MOTOR VEHICLES",
+      "8966560",
+      "2010",
+      "12",
+      "CHINA",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "418599100",
+      "2010",
+      "01",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "375269308",
+      "2010",
+      "02",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "419064003",
+      "2010",
+      "03",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "590830308",
+      "2010",
+      "04",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "541092842",
+      "2010",
+      "05",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "663268022",
+      "2010",
+      "06",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "546263164",
+      "2010",
+      "07",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "588664639",
+      "2010",
+      "08",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "531883680",
+      "2010",
+      "09",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "524226391",
+      "2010",
+      "10",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "728244073",
+      "2010",
+      "11",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5800",
+      "MOTOR VEHICLES",
+      "623382141",
+      "2010",
+      "12",
+      "KOREA, SOUTH",
+      "3361"
+    ],
+    [
+      "5820",
+      "MOTOR VEHICLES",
+      "260000",
+      "2010",
+      "11",
+      "HONG KONG",
+      "3361"
+    ],
+    [
+      "5820",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "HONG KONG",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "682482",
+      "2010",
+      "01",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "1179458",
+      "2010",
+      "02",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "2070140",
+      "2010",
+      "03",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "1697070",
+      "2010",
+      "04",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "2392218",
+      "2010",
+      "05",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "1400664",
+      "2010",
+      "06",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "3092168",
+      "2010",
+      "07",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "4798626",
+      "2010",
+      "08",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "8270612",
+      "2010",
+      "09",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "7557109",
+      "2010",
+      "10",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "5251809",
+      "2010",
+      "11",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5830",
+      "MOTOR VEHICLES",
+      "3377012",
+      "2010",
+      "12",
+      "TAIWAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2549904919",
+      "2010",
+      "01",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2038707146",
+      "2010",
+      "02",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2836659860",
+      "2010",
+      "03",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2457919847",
+      "2010",
+      "04",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2301977167",
+      "2010",
+      "05",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2929574036",
+      "2010",
+      "06",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2836486132",
+      "2010",
+      "07",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2894400803",
+      "2010",
+      "08",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2229057990",
+      "2010",
+      "09",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "3084668503",
+      "2010",
+      "10",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "2992835126",
+      "2010",
+      "11",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "5880",
+      "MOTOR VEHICLES",
+      "3258849992",
+      "2010",
+      "12",
+      "JAPAN",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "1071027",
+      "2010",
+      "01",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "73769",
+      "2010",
+      "02",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "1180784",
+      "2010",
+      "03",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "97857",
+      "2010",
+      "04",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "688460",
+      "2010",
+      "05",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "416322",
+      "2010",
+      "06",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "205408",
+      "2010",
+      "07",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "161849",
+      "2010",
+      "08",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "286874",
+      "2010",
+      "09",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "328817",
+      "2010",
+      "10",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "229726",
+      "2010",
+      "11",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6021",
+      "MOTOR VEHICLES",
+      "361054",
+      "2010",
+      "12",
+      "AUSTRALIA",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "3000",
+      "2010",
+      "02",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "03",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "42804",
+      "2010",
+      "04",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "05",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "20926",
+      "2010",
+      "06",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "3582",
+      "2010",
+      "08",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "20911",
+      "2010",
+      "10",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "31000",
+      "2010",
+      "11",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "6141",
+      "MOTOR VEHICLES",
+      "3192",
+      "2010",
+      "12",
+      "NEW ZEALAND",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "9500",
+      "2010",
+      "05",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "06",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "08",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3070",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "VENEZUELA",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "19000",
+      "2010",
+      "04",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "05",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "06",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "08",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "24000",
+      "2010",
+      "10",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3370",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "CHILE",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "1118672",
+      "2010",
+      "01",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "213061",
+      "2010",
+      "02",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "380952",
+      "2010",
+      "03",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "121653",
+      "2010",
+      "04",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "640952",
+      "2010",
+      "05",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "1613250",
+      "2010",
+      "06",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "1445855",
+      "2010",
+      "07",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "3611604",
+      "2010",
+      "08",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "1631945",
+      "2010",
+      "09",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "1456012",
+      "2010",
+      "10",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "2452576",
+      "2010",
+      "11",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3510",
+      "MOTOR VEHICLES",
+      "2657182",
+      "2010",
+      "12",
+      "BRAZIL",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "45000",
+      "2010",
+      "06",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "278399",
+      "2010",
+      "07",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "53575",
+      "2010",
+      "08",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "217160",
+      "2010",
+      "09",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "55172",
+      "2010",
+      "11",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "3570",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "ARGENTINA",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "48976134",
+      "2010",
+      "01",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "45420001",
+      "2010",
+      "02",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "58236166",
+      "2010",
+      "03",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "83159909",
+      "2010",
+      "04",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "139070821",
+      "2010",
+      "05",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "106406711",
+      "2010",
+      "06",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "114432451",
+      "2010",
+      "07",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "50671661",
+      "2010",
+      "08",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "99862778",
+      "2010",
+      "09",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "121523766",
+      "2010",
+      "10",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "125739850",
+      "2010",
+      "11",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4010",
+      "MOTOR VEHICLES",
+      "93484050",
+      "2010",
+      "12",
+      "SWEDEN",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "147650",
+      "2010",
+      "02",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "03",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "04",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "05",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "06",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "96051",
+      "2010",
+      "08",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4039",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "NORWAY",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "4172873",
+      "2010",
+      "01",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "4272372",
+      "2010",
+      "02",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "5273148",
+      "2010",
+      "03",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "11654969",
+      "2010",
+      "04",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "23577508",
+      "2010",
+      "05",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "12100948",
+      "2010",
+      "06",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "8219119",
+      "2010",
+      "07",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "6753629",
+      "2010",
+      "08",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "4765278",
+      "2010",
+      "09",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "9639988",
+      "2010",
+      "10",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "9872518",
+      "2010",
+      "11",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4050",
+      "MOTOR VEHICLES",
+      "13353000",
+      "2010",
+      "12",
+      "FINLAND",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "136013",
+      "2010",
+      "01",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "02",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "03",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "211800",
+      "2010",
+      "04",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "05",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "06",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "197947",
+      "2010",
+      "07",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "4947450",
+      "2010",
+      "08",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "2699872",
+      "2010",
+      "09",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "163352",
+      "2010",
+      "10",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "2080250",
+      "2010",
+      "11",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4099",
+      "MOTOR VEHICLES",
+      "873892",
+      "2010",
+      "12",
+      "DENMARK",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "105315872",
+      "2010",
+      "01",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "175503406",
+      "2010",
+      "02",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "285848595",
+      "2010",
+      "03",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "197628333",
+      "2010",
+      "04",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "291370979",
+      "2010",
+      "05",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "263172142",
+      "2010",
+      "06",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "364597518",
+      "2010",
+      "07",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "265386213",
+      "2010",
+      "08",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "311829193",
+      "2010",
+      "09",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "378678465",
+      "2010",
+      "10",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "473058080",
+      "2010",
+      "11",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4120",
+      "MOTOR VEHICLES",
+      "331458043",
+      "2010",
+      "12",
+      "UNITED KINGDOM",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "2209134",
+      "2010",
+      "02",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "2209134",
+      "2010",
+      "03",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "1104567",
+      "2010",
+      "04",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "05",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "06",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "7250",
+      "2010",
+      "08",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4190",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "IRELAND",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "302981",
+      "2010",
+      "01",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "179350",
+      "2010",
+      "02",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "03",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "22457",
+      "2010",
+      "04",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "113778",
+      "2010",
+      "05",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "110004",
+      "2010",
+      "06",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "4354",
+      "2010",
+      "07",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "197000",
+      "2010",
+      "08",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "516112",
+      "2010",
+      "09",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "137579",
+      "2010",
+      "10",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4210",
+      "MOTOR VEHICLES",
+      "50977",
+      "2010",
+      "12",
+      "NETHERLANDS",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "11701797",
+      "2010",
+      "01",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "69654021",
+      "2010",
+      "02",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "74372618",
+      "2010",
+      "03",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "40085025",
+      "2010",
+      "04",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "100603205",
+      "2010",
+      "05",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "51983589",
+      "2010",
+      "06",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "36304254",
+      "2010",
+      "07",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "15438660",
+      "2010",
+      "08",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "54588127",
+      "2010",
+      "09",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "52055838",
+      "2010",
+      "10",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "64516389",
+      "2010",
+      "11",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4231",
+      "MOTOR VEHICLES",
+      "80146324",
+      "2010",
+      "12",
+      "BELGIUM",
+      "3361"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLES",
+      "180574",
+      "2010",
+      "02",
+      "MONACO",
+      "3361"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "03",
+      "MONACO",
+      "3361"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "04",
+      "MONACO",
+      "3361"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "05",
+      "MONACO",
+      "3361"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "06",
+      "MONACO",
+      "3361"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "MONACO",
+      "3361"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "08",
+      "MONACO",
+      "3361"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "MONACO",
+      "3361"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "MONACO",
+      "3361"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "MONACO",
+      "3361"
+    ],
+    [
+      "4272",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "MONACO",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "5807616",
+      "2010",
+      "01",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "8849626",
+      "2010",
+      "02",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "9270573",
+      "2010",
+      "03",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "4237910",
+      "2010",
+      "04",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "1745439",
+      "2010",
+      "05",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "3896319",
+      "2010",
+      "06",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "2738510",
+      "2010",
+      "07",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "5884850",
+      "2010",
+      "08",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "4623605",
+      "2010",
+      "09",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "9084601",
+      "2010",
+      "10",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "7575680",
+      "2010",
+      "11",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4279",
+      "MOTOR VEHICLES",
+      "7863463",
+      "2010",
+      "12",
+      "FRANCE",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "785288706",
+      "2010",
+      "01",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "892213668",
+      "2010",
+      "02",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "1419001190",
+      "2010",
+      "03",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "1429381893",
+      "2010",
+      "04",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "1411510859",
+      "2010",
+      "05",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "1517570475",
+      "2010",
+      "06",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "1804574211",
+      "2010",
+      "07",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "1402774754",
+      "2010",
+      "08",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "1219008983",
+      "2010",
+      "09",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "1781617686",
+      "2010",
+      "10",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "1773069284",
+      "2010",
+      "11",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4280",
+      "MOTOR VEHICLES",
+      "1847463036",
+      "2010",
+      "12",
+      "GERMANY",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "19154704",
+      "2010",
+      "01",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "16876889",
+      "2010",
+      "02",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "32865442",
+      "2010",
+      "03",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "32337338",
+      "2010",
+      "04",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "33106466",
+      "2010",
+      "05",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "19649899",
+      "2010",
+      "06",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "21654268",
+      "2010",
+      "07",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "13274321",
+      "2010",
+      "08",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "17857022",
+      "2010",
+      "09",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "10294842",
+      "2010",
+      "10",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "12068382",
+      "2010",
+      "11",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4330",
+      "MOTOR VEHICLES",
+      "44447800",
+      "2010",
+      "12",
+      "AUSTRIA",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "276404",
+      "2010",
+      "01",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "204300",
+      "2010",
+      "02",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "199239",
+      "2010",
+      "03",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "198602",
+      "2010",
+      "04",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "178365",
+      "2010",
+      "05",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "144465",
+      "2010",
+      "06",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "124700",
+      "2010",
+      "07",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "271092",
+      "2010",
+      "08",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "328089",
+      "2010",
+      "09",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "519244",
+      "2010",
+      "10",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "818613",
+      "2010",
+      "11",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "4351",
+      "MOTOR VEHICLES",
+      "349563",
+      "2010",
+      "12",
+      "CZECH REPUBLIC",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "270000",
+      "2010",
+      "01",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "02",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "03",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "04",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "05",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "06",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "08",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "11740",
+      "2010",
+      "10",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7290",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "EGYPT",
+      "3361"
+    ],
+    [
+      "7450",
+      "MOTOR VEHICLES",
+      "83945",
+      "2010",
+      "05",
+      "MALI",
+      "3361"
+    ],
+    [
+      "7450",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "06",
+      "MALI",
+      "3361"
+    ],
+    [
+      "7450",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "MALI",
+      "3361"
+    ],
+    [
+      "7450",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "08",
+      "MALI",
+      "3361"
+    ],
+    [
+      "7450",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "MALI",
+      "3361"
+    ],
+    [
+      "7450",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "MALI",
+      "3361"
+    ],
+    [
+      "7450",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "MALI",
+      "3361"
+    ],
+    [
+      "7450",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "MALI",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "20660442",
+      "2010",
+      "01",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "35246693",
+      "2010",
+      "02",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "53446466",
+      "2010",
+      "03",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "42562810",
+      "2010",
+      "04",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "31851611",
+      "2010",
+      "05",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "24497065",
+      "2010",
+      "06",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "25926472",
+      "2010",
+      "07",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "24250856",
+      "2010",
+      "08",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "71539408",
+      "2010",
+      "09",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "60160748",
+      "2010",
+      "10",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "49133621",
+      "2010",
+      "11",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4359",
+      "MOTOR VEHICLES",
+      "55646755",
+      "2010",
+      "12",
+      "SLOVAKIA",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "1057165",
+      "2010",
+      "01",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "5237761",
+      "2010",
+      "02",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "7572732",
+      "2010",
+      "03",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "5868104",
+      "2010",
+      "04",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "7738840",
+      "2010",
+      "05",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "4264975",
+      "2010",
+      "06",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "931401",
+      "2010",
+      "07",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "2207797",
+      "2010",
+      "08",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "1344579",
+      "2010",
+      "09",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "728062",
+      "2010",
+      "10",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "2878506",
+      "2010",
+      "11",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4370",
+      "MOTOR VEHICLES",
+      "8298359",
+      "2010",
+      "12",
+      "HUNGARY",
+      "3361"
+    ],
+    [
+      "4411",
+      "MOTOR VEHICLES",
+      "9220",
+      "2010",
+      "11",
+      "LIECHTENSTEIN",
+      "3361"
+    ],
+    [
+      "4411",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "LIECHTENSTEIN",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "5000",
+      "2010",
+      "05",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "06",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "35900",
+      "2010",
+      "08",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "204897",
+      "2010",
+      "10",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4419",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "SWITZERLAND",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "658389",
+      "2010",
+      "01",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "286074",
+      "2010",
+      "02",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "3395950",
+      "2010",
+      "03",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "04",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "05",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "83300",
+      "2010",
+      "06",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "08",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4550",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "POLAND",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "28437",
+      "2010",
+      "10",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4621",
+      "MOTOR VEHICLES",
+      "5000",
+      "2010",
+      "12",
+      "RUSSIA",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "348791",
+      "2010",
+      "02",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "335421",
+      "2010",
+      "03",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "04",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "23554",
+      "2010",
+      "05",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "999089",
+      "2010",
+      "06",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "1428586",
+      "2010",
+      "07",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "251715",
+      "2010",
+      "08",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "17926",
+      "2010",
+      "10",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "13615",
+      "2010",
+      "11",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4700",
+      "MOTOR VEHICLES",
+      "11918",
+      "2010",
+      "12",
+      "SPAIN",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "9927393",
+      "2010",
+      "01",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "14684120",
+      "2010",
+      "02",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "16423978",
+      "2010",
+      "03",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "22930864",
+      "2010",
+      "04",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "29278756",
+      "2010",
+      "05",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "35135764",
+      "2010",
+      "06",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "18918413",
+      "2010",
+      "07",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "24532670",
+      "2010",
+      "08",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "1453823",
+      "2010",
+      "09",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "180000",
+      "2010",
+      "10",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "117660",
+      "2010",
+      "11",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4710",
+      "MOTOR VEHICLES",
+      "100000",
+      "2010",
+      "12",
+      "PORTUGAL",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "17504763",
+      "2010",
+      "01",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "28245831",
+      "2010",
+      "02",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "70162533",
+      "2010",
+      "03",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "33320944",
+      "2010",
+      "04",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "41149410",
+      "2010",
+      "05",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "63485442",
+      "2010",
+      "06",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "50069229",
+      "2010",
+      "07",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "65116928",
+      "2010",
+      "08",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "69732101",
+      "2010",
+      "09",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "71445855",
+      "2010",
+      "10",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "74154539",
+      "2010",
+      "11",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4759",
+      "MOTOR VEHICLES",
+      "63769319",
+      "2010",
+      "12",
+      "ITALY",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "2950",
+      "2010",
+      "04",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "05",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "06",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "4000",
+      "2010",
+      "07",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "08",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4801",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "SERBIA",
+      "3361"
+    ],
+    [
+      "4840",
+      "MOTOR VEHICLES",
+      "125750",
+      "2010",
+      "06",
+      "GREECE",
+      "3361"
+    ],
+    [
+      "4840",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "GREECE",
+      "3361"
+    ],
+    [
+      "4840",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "08",
+      "GREECE",
+      "3361"
+    ],
+    [
+      "4840",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "GREECE",
+      "3361"
+    ],
+    [
+      "4840",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "GREECE",
+      "3361"
+    ],
+    [
+      "4840",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "GREECE",
+      "3361"
+    ],
+    [
+      "4840",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "GREECE",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "36650",
+      "2010",
+      "01",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "02",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "03",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "04",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "05",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "06",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "08",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4870",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "BULGARIA",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "37908994",
+      "2010",
+      "01",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "27683860",
+      "2010",
+      "02",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "27952029",
+      "2010",
+      "03",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "18440781",
+      "2010",
+      "04",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "17490226",
+      "2010",
+      "05",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "27966469",
+      "2010",
+      "06",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "9877284",
+      "2010",
+      "07",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "21127025",
+      "2010",
+      "08",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "13293027",
+      "2010",
+      "09",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "18003672",
+      "2010",
+      "10",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "42718647",
+      "2010",
+      "11",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "4890",
+      "MOTOR VEHICLES",
+      "28850702",
+      "2010",
+      "12",
+      "TURKEY",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "93338",
+      "2010",
+      "07",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "80236",
+      "2010",
+      "08",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "267869",
+      "2010",
+      "09",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5081",
+      "MOTOR VEHICLES",
+      "45891",
+      "2010",
+      "12",
+      "ISRAEL",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "13331",
+      "2010",
+      "04",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "05",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "06",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "08",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "09",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "5130",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "KUWAIT",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "8321716789",
+      "2010",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "8782471544",
+      "2010",
+      "02",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "11402906501",
+      "2010",
+      "03",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "10409357137",
+      "2010",
+      "04",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "10518381615",
+      "2010",
+      "05",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "11746722656",
+      "2010",
+      "06",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "9801894680",
+      "2010",
+      "07",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "11454503102",
+      "2010",
+      "08",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "10815662755",
+      "2010",
+      "09",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "12287569185",
+      "2010",
+      "10",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "11920361277",
+      "2010",
+      "11",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "-",
+      "MOTOR VEHICLES",
+      "11838247457",
+      "2010",
+      "12",
+      "TOTAL FOR ALL COUNTRIES",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "1030977902",
+      "2010",
+      "01",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "1299432037",
+      "2010",
+      "02",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "2038613185",
+      "2010",
+      "03",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "1904705525",
+      "2010",
+      "04",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "2111319591",
+      "2010",
+      "05",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "2103625937",
+      "2010",
+      "06",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "2450121433",
+      "2010",
+      "07",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "1881966846",
+      "2010",
+      "08",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "1860148970",
+      "2010",
+      "09",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "2496247952",
+      "2010",
+      "10",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "2595096987",
+      "2010",
+      "11",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "0003",
+      "MOTOR VEHICLES",
+      "2547316499",
+      "2010",
+      "12",
+      "EUROPEAN UNION",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "4160225401",
+      "2010",
+      "01",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "4946555926",
+      "2010",
+      "02",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "5941935030",
+      "2010",
+      "03",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "5371930983",
+      "2010",
+      "04",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "5406586349",
+      "2010",
+      "05",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "5909623879",
+      "2010",
+      "06",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "3778502653",
+      "2010",
+      "07",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "5902872539",
+      "2010",
+      "08",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "6014434648",
+      "2010",
+      "09",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "6059173500",
+      "2010",
+      "10",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "5376563923",
+      "2010",
+      "11",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "1XXX",
+      "MOTOR VEHICLES",
+      "5168641517",
+      "2010",
+      "12",
+      "NORTH AMERICA",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "1068886896",
+      "2010",
+      "01",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "1327444121",
+      "2010",
+      "02",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "2066565214",
+      "2010",
+      "03",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "1923149256",
+      "2010",
+      "04",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "2128814817",
+      "2010",
+      "05",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "2131592406",
+      "2010",
+      "06",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "2460002717",
+      "2010",
+      "07",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "1903225822",
+      "2010",
+      "08",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "1873441997",
+      "2010",
+      "09",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "2514484958",
+      "2010",
+      "10",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "2637824854",
+      "2010",
+      "11",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "4XXX",
+      "MOTOR VEHICLES",
+      "2576172201",
+      "2010",
+      "12",
+      "EUROPE",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "112516576",
+      "2010",
+      "01",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "89326372",
+      "2010",
+      "02",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "131588411",
+      "2010",
+      "03",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "59055716",
+      "2010",
+      "04",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "131938855",
+      "2010",
+      "05",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "103005932",
+      "2010",
+      "06",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "167812442",
+      "2010",
+      "07",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "147741743",
+      "2010",
+      "08",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "147855686",
+      "2010",
+      "09",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "87460955",
+      "2010",
+      "10",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "165888688",
+      "2010",
+      "11",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "7XXX",
+      "MOTOR VEHICLES",
+      "195368073",
+      "2010",
+      "12",
+      "AFRICA",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "2978924756",
+      "2010",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "2418927064",
+      "2010",
+      "02",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "3262105616",
+      "2010",
+      "03",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "3054890843",
+      "2010",
+      "04",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "2850151083",
+      "2010",
+      "05",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "3600688612",
+      "2010",
+      "06",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "3393661554",
+      "2010",
+      "07",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "3496641156",
+      "2010",
+      "08",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "2777190958",
+      "2010",
+      "09",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "3624183891",
+      "2010",
+      "10",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "3736975120",
+      "2010",
+      "11",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "0014",
+      "MOTOR VEHICLES",
+      "3894939951",
+      "2010",
+      "12",
+      "PACIFIC RIM COUNTRIES",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "2977898217",
+      "2010",
+      "01",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "2418855295",
+      "2010",
+      "02",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "3261256110",
+      "2010",
+      "03",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "3054939868",
+      "2010",
+      "04",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "2849702682",
+      "2010",
+      "05",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "3600404941",
+      "2010",
+      "06",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "3393647206",
+      "2010",
+      "07",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "3496832388",
+      "2010",
+      "08",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "2777794445",
+      "2010",
+      "09",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "3624620032",
+      "2010",
+      "10",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "3737315338",
+      "2010",
+      "11",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "5XXX",
+      "MOTOR VEHICLES",
+      "3895044238",
+      "2010",
+      "12",
+      "ASIA",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "1071027",
+      "2010",
+      "01",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "76769",
+      "2010",
+      "02",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "1180784",
+      "2010",
+      "03",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "140661",
+      "2010",
+      "04",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "688460",
+      "2010",
+      "05",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "437248",
+      "2010",
+      "06",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "205408",
+      "2010",
+      "07",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "165431",
+      "2010",
+      "08",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "286874",
+      "2010",
+      "09",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "349728",
+      "2010",
+      "10",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "260726",
+      "2010",
+      "11",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "6XXX",
+      "MOTOR VEHICLES",
+      "364246",
+      "2010",
+      "12",
+      "AUSTRALIA AND OCEANIA",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "4160225401",
+      "2010",
+      "01",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "4946555926",
+      "2010",
+      "02",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "5941935030",
+      "2010",
+      "03",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "5371930983",
+      "2010",
+      "04",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "5406586349",
+      "2010",
+      "05",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "5909623879",
+      "2010",
+      "06",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "3778502653",
+      "2010",
+      "07",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "5902872539",
+      "2010",
+      "08",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "6014434648",
+      "2010",
+      "09",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "6059173500",
+      "2010",
+      "10",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "5376563923",
+      "2010",
+      "11",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0020",
+      "MOTOR VEHICLES",
+      "5168641517",
+      "2010",
+      "12",
+      "NAFTA",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "1972003603",
+      "2010",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "2074544319",
+      "2010",
+      "02",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "2505362362",
+      "2010",
+      "03",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "2234755675",
+      "2010",
+      "04",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "2148155381",
+      "2010",
+      "05",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "2330582887",
+      "2010",
+      "06",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "1763040389",
+      "2010",
+      "07",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "2467542827",
+      "2010",
+      "08",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "2558352322",
+      "2010",
+      "09",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "2703630180",
+      "2010",
+      "10",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "2439007846",
+      "2010",
+      "11",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0021",
+      "MOTOR VEHICLES",
+      "2310853519",
+      "2010",
+      "12",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "8198650693",
+      "2010",
+      "01",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "8687872696",
+      "2010",
+      "02",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "11265404891",
+      "2010",
+      "03",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "10343987105",
+      "2010",
+      "04",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "10379159635",
+      "2010",
+      "05",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "11634495591",
+      "2010",
+      "06",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "9621549412",
+      "2010",
+      "07",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "11289409470",
+      "2010",
+      "08",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "10649373058",
+      "2010",
+      "09",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "12182898643",
+      "2010",
+      "10",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "11735719482",
+      "2010",
+      "11",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0022",
+      "MOTOR VEHICLES",
+      "11627450988",
+      "2010",
+      "12",
+      "OECD",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "3185923655",
+      "2010",
+      "01",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "4130709819",
+      "2010",
+      "02",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "5404934944",
+      "2010",
+      "03",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "4932205484",
+      "2010",
+      "04",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "5192136442",
+      "2010",
+      "05",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "5574134090",
+      "2010",
+      "06",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "4332879397",
+      "2010",
+      "07",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "5271477952",
+      "2010",
+      "08",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "5208888350",
+      "2010",
+      "09",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "5729816360",
+      "2010",
+      "10",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "5430198709",
+      "2010",
+      "11",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0023",
+      "MOTOR VEHICLES",
+      "5285327531",
+      "2010",
+      "12",
+      "NATO",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "1972003603",
+      "2010",
+      "01",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "2074544319",
+      "2010",
+      "02",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "2505362362",
+      "2010",
+      "03",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "2234755675",
+      "2010",
+      "04",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "2148155381",
+      "2010",
+      "05",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "2330582887",
+      "2010",
+      "06",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "1763040389",
+      "2010",
+      "07",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "2467542827",
+      "2010",
+      "08",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "2558352322",
+      "2010",
+      "09",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "2703630180",
+      "2010",
+      "10",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "2439007846",
+      "2010",
+      "11",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0024",
+      "MOTOR VEHICLES",
+      "2310853519",
+      "2010",
+      "12",
+      "LAFTA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "874521275",
+      "2010",
+      "01",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "1072780495",
+      "2010",
+      "02",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "1683360503",
+      "2010",
+      "03",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "1617638777",
+      "2010",
+      "04",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "1672960586",
+      "2010",
+      "05",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "1729554344",
+      "2010",
+      "06",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "1969837416",
+      "2010",
+      "07",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "1558482633",
+      "2010",
+      "08",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "1444084459",
+      "2010",
+      "09",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "1994635063",
+      "2010",
+      "10",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "1990521688",
+      "2010",
+      "11",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0025",
+      "MOTOR VEHICLES",
+      "2112852592",
+      "2010",
+      "12",
+      "EURO AREA",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "7139179509",
+      "2010",
+      "01",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "7365487990",
+      "2010",
+      "02",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "9204278094",
+      "2010",
+      "03",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "8427008821",
+      "2010",
+      "04",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "8256961491",
+      "2010",
+      "05",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "9510400180",
+      "2010",
+      "06",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "7172249025",
+      "2010",
+      "07",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "9399756751",
+      "2010",
+      "08",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "8792148098",
+      "2010",
+      "09",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "9684195697",
+      "2010",
+      "10",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "9114139987",
+      "2010",
+      "11",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0026",
+      "MOTOR VEHICLES",
+      "9064000838",
+      "2010",
+      "12",
+      "APEC",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "29352",
+      "2010",
+      "01",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "5000",
+      "2010",
+      "02",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "237448",
+      "2010",
+      "03",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "167995",
+      "2010",
+      "04",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "224059",
+      "2010",
+      "05",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "89789",
+      "2010",
+      "06",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "84818",
+      "2010",
+      "07",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "243056",
+      "2010",
+      "08",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "522492",
+      "2010",
+      "09",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "785869",
+      "2010",
+      "10",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "624744",
+      "2010",
+      "11",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "0027",
+      "MOTOR VEHICLES",
+      "414370",
+      "2010",
+      "12",
+      "ASEAN",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "2189340470",
+      "2010",
+      "01",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "2872224668",
+      "2010",
+      "02",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3436953620",
+      "2010",
+      "03",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3137315961",
+      "2010",
+      "04",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3259081420",
+      "2010",
+      "05",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3580699242",
+      "2010",
+      "06",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "2017186518",
+      "2010",
+      "07",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3438994891",
+      "2010",
+      "08",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3457931431",
+      "2010",
+      "09",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "3357023332",
+      "2010",
+      "10",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "2940063825",
+      "2010",
+      "11",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "1220",
+      "MOTOR VEHICLES",
+      "2860445180",
+      "2010",
+      "12",
+      "CANADA",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "1970884931",
+      "2010",
+      "01",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "2074331258",
+      "2010",
+      "02",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "2504981410",
+      "2010",
+      "03",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "2234615022",
+      "2010",
+      "04",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "2147504929",
+      "2010",
+      "05",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "2328924637",
+      "2010",
+      "06",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "1761316135",
+      "2010",
+      "07",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "2463877648",
+      "2010",
+      "08",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "2556503217",
+      "2010",
+      "09",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "2702150168",
+      "2010",
+      "10",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "2436500098",
+      "2010",
+      "11",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "2010",
+      "MOTOR VEHICLES",
+      "2308196337",
+      "2010",
+      "12",
+      "MEXICO",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "112246576",
+      "2010",
+      "01",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "89326372",
+      "2010",
+      "02",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "131588411",
+      "2010",
+      "03",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "59055716",
+      "2010",
+      "04",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "131854910",
+      "2010",
+      "05",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "103005932",
+      "2010",
+      "06",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "167812442",
+      "2010",
+      "07",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "147741743",
+      "2010",
+      "08",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "147855686",
+      "2010",
+      "09",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "87449215",
+      "2010",
+      "10",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "165888688",
+      "2010",
+      "11",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "7910",
+      "MOTOR VEHICLES",
+      "195368073",
+      "2010",
+      "12",
+      "SOUTH AFRICA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "1118672",
+      "2010",
+      "01",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "213061",
+      "2010",
+      "02",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "380952",
+      "2010",
+      "03",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "140653",
+      "2010",
+      "04",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "650452",
+      "2010",
+      "05",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "1658250",
+      "2010",
+      "06",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "1724254",
+      "2010",
+      "07",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "3665179",
+      "2010",
+      "08",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "1849105",
+      "2010",
+      "09",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "1480012",
+      "2010",
+      "10",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "2507748",
+      "2010",
+      "11",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "3XXX",
+      "MOTOR VEHICLES",
+      "2657182",
+      "2010",
+      "12",
+      "SOUTH AMERICA",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "93830",
+      "2010",
+      "03",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "13331",
+      "2010",
+      "04",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "9500",
+      "2010",
+      "05",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "2722",
+      "2010",
+      "06",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "07",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "08",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "100000",
+      "2010",
+      "09",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "10",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "11",
+      "OPEC",
+      "3361"
+    ],
+    [
+      "0001",
+      "MOTOR VEHICLES",
+      "0",
+      "2010",
+      "12",
+      "OPEC",
+      "3361"
+    ]
+  ]
+}

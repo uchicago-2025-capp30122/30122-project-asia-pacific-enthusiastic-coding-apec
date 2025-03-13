@@ -1,0 +1,632 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Wed, 12 Mar 2025 23:00:59 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a498596fd563a77a721fddd9a199765a6cca3925eaea103454dd9815ce2e7e78a610dcdc8eb8a59fb0fd14839610e57fcb; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "-",
+      "OIL AND GAS",
+      "22008298225",
+      "2014",
+      "02",
+      "TOTAL FOR ALL COUNTRIES",
+      "2111"
+    ],
+    [
+      "0001",
+      "OIL AND GAS",
+      "9829633917",
+      "2014",
+      "02",
+      "OPEC",
+      "2111"
+    ],
+    [
+      "0003",
+      "OIL AND GAS",
+      "22944199",
+      "2014",
+      "02",
+      "EUROPEAN UNION",
+      "2111"
+    ],
+    [
+      "0014",
+      "OIL AND GAS",
+      "48688141",
+      "2014",
+      "02",
+      "PACIFIC RIM COUNTRIES",
+      "2111"
+    ],
+    [
+      "0017",
+      "OIL AND GAS",
+      "38318180",
+      "2014",
+      "02",
+      "CAFTA-DR",
+      "2111"
+    ],
+    [
+      "0020",
+      "OIL AND GAS",
+      "10219961791",
+      "2014",
+      "02",
+      "NAFTA",
+      "2111"
+    ],
+    [
+      "0021",
+      "OIL AND GAS",
+      "6706217092",
+      "2014",
+      "02",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "2111"
+    ],
+    [
+      "0022",
+      "OIL AND GAS",
+      "10313579175",
+      "2014",
+      "02",
+      "OECD",
+      "2111"
+    ],
+    [
+      "0023",
+      "OIL AND GAS",
+      "7763992125",
+      "2014",
+      "02",
+      "NATO",
+      "2111"
+    ],
+    [
+      "0024",
+      "OIL AND GAS",
+      "6667834256",
+      "2014",
+      "02",
+      "LAFTA",
+      "2111"
+    ],
+    [
+      "0025",
+      "OIL AND GAS",
+      "11462995",
+      "2014",
+      "02",
+      "EURO AREA",
+      "2111"
+    ],
+    [
+      "0026",
+      "OIL AND GAS",
+      "10368644257",
+      "2014",
+      "02",
+      "APEC",
+      "2111"
+    ],
+    [
+      "0027",
+      "OIL AND GAS",
+      "74995468",
+      "2014",
+      "02",
+      "ASEAN",
+      "2111"
+    ],
+    [
+      "0028",
+      "OIL AND GAS",
+      "23343826",
+      "2014",
+      "02",
+      "CACM",
+      "2111"
+    ],
+    [
+      "1220",
+      "OIL AND GAS",
+      "7671251910",
+      "2014",
+      "02",
+      "CANADA",
+      "2111"
+    ],
+    [
+      "1XXX",
+      "OIL AND GAS",
+      "10219961791",
+      "2014",
+      "02",
+      "NORTH AMERICA",
+      "2111"
+    ],
+    [
+      "2010",
+      "OIL AND GAS",
+      "2548709881",
+      "2014",
+      "02",
+      "MEXICO",
+      "2111"
+    ],
+    [
+      "2050",
+      "OIL AND GAS",
+      "23343826",
+      "2014",
+      "02",
+      "GUATEMALA",
+      "2111"
+    ],
+    [
+      "2080",
+      "OIL AND GAS",
+      "0",
+      "2014",
+      "02",
+      "BELIZE",
+      "2111"
+    ],
+    [
+      "2250",
+      "OIL AND GAS",
+      "64656",
+      "2014",
+      "02",
+      "PANAMA",
+      "2111"
+    ],
+    [
+      "2360",
+      "OIL AND GAS",
+      "5000",
+      "2014",
+      "02",
+      "BAHAMAS",
+      "2111"
+    ],
+    [
+      "2470",
+      "OIL AND GAS",
+      "14974354",
+      "2014",
+      "02",
+      "DOMINICAN REPUBLIC",
+      "2111"
+    ],
+    [
+      "2740",
+      "OIL AND GAS",
+      "132307624",
+      "2014",
+      "02",
+      "TRINIDAD AND TOBAGO",
+      "2111"
+    ],
+    [
+      "2XXX",
+      "OIL AND GAS",
+      "170695460",
+      "2014",
+      "02",
+      "CENTRAL AMERICA",
+      "2111"
+    ],
+    [
+      "3010",
+      "OIL AND GAS",
+      "868900915",
+      "2014",
+      "02",
+      "COLOMBIA",
+      "2111"
+    ],
+    [
+      "3070",
+      "OIL AND GAS",
+      "2059117427",
+      "2014",
+      "02",
+      "VENEZUELA",
+      "2111"
+    ],
+    [
+      "3310",
+      "OIL AND GAS",
+      "723422052",
+      "2014",
+      "02",
+      "ECUADOR",
+      "2111"
+    ],
+    [
+      "3330",
+      "OIL AND GAS",
+      "72651062",
+      "2014",
+      "02",
+      "PERU",
+      "2111"
+    ],
+    [
+      "3510",
+      "OIL AND GAS",
+      "326604430",
+      "2014",
+      "02",
+      "BRAZIL",
+      "2111"
+    ],
+    [
+      "3570",
+      "OIL AND GAS",
+      "68428489",
+      "2014",
+      "02",
+      "ARGENTINA",
+      "2111"
+    ],
+    [
+      "3XXX",
+      "OIL AND GAS",
+      "4119124375",
+      "2014",
+      "02",
+      "SOUTH AMERICA",
+      "2111"
+    ],
+    [
+      "4010",
+      "OIL AND GAS",
+      "40436",
+      "2014",
+      "02",
+      "SWEDEN",
+      "2111"
+    ],
+    [
+      "4039",
+      "OIL AND GAS",
+      "62687168",
+      "2014",
+      "02",
+      "NORWAY",
+      "2111"
+    ],
+    [
+      "4120",
+      "OIL AND GAS",
+      "11440768",
+      "2014",
+      "02",
+      "UNITED KINGDOM",
+      "2111"
+    ],
+    [
+      "4210",
+      "OIL AND GAS",
+      "11453257",
+      "2014",
+      "02",
+      "NETHERLANDS",
+      "2111"
+    ],
+    [
+      "4279",
+      "OIL AND GAS",
+      "0",
+      "2014",
+      "02",
+      "FRANCE",
+      "2111"
+    ],
+    [
+      "4280",
+      "OIL AND GAS",
+      "6336",
+      "2014",
+      "02",
+      "GERMANY",
+      "2111"
+    ],
+    [
+      "4419",
+      "OIL AND GAS",
+      "2942",
+      "2014",
+      "02",
+      "SWITZERLAND",
+      "2111"
+    ],
+    [
+      "4621",
+      "OIL AND GAS",
+      "170250",
+      "2014",
+      "02",
+      "RUSSIA",
+      "2111"
+    ],
+    [
+      "4632",
+      "OIL AND GAS",
+      "0",
+      "2014",
+      "02",
+      "AZERBAIJAN",
+      "2111"
+    ],
+    [
+      "5050",
+      "OIL AND GAS",
+      "967288030",
+      "2014",
+      "02",
+      "IRAQ",
+      "2111"
+    ],
+    [
+      "4759",
+      "OIL AND GAS",
+      "3402",
+      "2014",
+      "02",
+      "ITALY",
+      "2111"
+    ],
+    [
+      "4890",
+      "OIL AND GAS",
+      "7149284",
+      "2014",
+      "02",
+      "TURKEY",
+      "2111"
+    ],
+    [
+      "4XXX",
+      "OIL AND GAS",
+      "92953843",
+      "2014",
+      "02",
+      "EUROPE",
+      "2111"
+    ],
+    [
+      "5130",
+      "OIL AND GAS",
+      "1203760050",
+      "2014",
+      "02",
+      "KUWAIT",
+      "2111"
+    ],
+    [
+      "5170",
+      "OIL AND GAS",
+      "4305539376",
+      "2014",
+      "02",
+      "SAUDI ARABIA",
+      "2111"
+    ],
+    [
+      "5200",
+      "OIL AND GAS",
+      "0",
+      "2014",
+      "02",
+      "UNITED ARAB EMIRATES",
+      "2111"
+    ],
+    [
+      "5210",
+      "OIL AND GAS",
+      "11472452",
+      "2014",
+      "02",
+      "YEMEN",
+      "2111"
+    ],
+    [
+      "5230",
+      "OIL AND GAS",
+      "0",
+      "2014",
+      "02",
+      "OMAN",
+      "2111"
+    ],
+    [
+      "5490",
+      "OIL AND GAS",
+      "27173013",
+      "2014",
+      "02",
+      "THAILAND",
+      "2111"
+    ],
+    [
+      "5520",
+      "OIL AND GAS",
+      "0",
+      "2014",
+      "02",
+      "VIETNAM",
+      "2111"
+    ],
+    [
+      "5600",
+      "OIL AND GAS",
+      "47822455",
+      "2014",
+      "02",
+      "INDONESIA",
+      "2111"
+    ],
+    [
+      "5700",
+      "OIL AND GAS",
+      "31895",
+      "2014",
+      "02",
+      "CHINA",
+      "2111"
+    ],
+    [
+      "5800",
+      "OIL AND GAS",
+      "833791",
+      "2014",
+      "02",
+      "KOREA, SOUTH",
+      "2111"
+    ],
+    [
+      "5XXX",
+      "OIL AND GAS",
+      "6563921062",
+      "2014",
+      "02",
+      "ASIA",
+      "2111"
+    ],
+    [
+      "6021",
+      "OIL AND GAS",
+      "0",
+      "2014",
+      "02",
+      "AUSTRALIA",
+      "2111"
+    ],
+    [
+      "6XXX",
+      "OIL AND GAS",
+      "0",
+      "2014",
+      "02",
+      "AUSTRALIA AND OCEANIA",
+      "2111"
+    ],
+    [
+      "7210",
+      "OIL AND GAS",
+      "12655677",
+      "2014",
+      "02",
+      "ALGERIA",
+      "2111"
+    ],
+    [
+      "7250",
+      "OIL AND GAS",
+      "0",
+      "2014",
+      "02",
+      "LIBYA",
+      "2111"
+    ],
+    [
+      "7380",
+      "OIL AND GAS",
+      "20838651",
+      "2014",
+      "02",
+      "EQUATORIAL GUINEA",
+      "2111"
+    ],
+    [
+      "7410",
+      "OIL AND GAS",
+      "10070726",
+      "2014",
+      "02",
+      "MAURITANIA",
+      "2111"
+    ],
+    [
+      "7530",
+      "OIL AND GAS",
+      "203463874",
+      "2014",
+      "02",
+      "NIGERIA",
+      "2111"
+    ],
+    [
+      "7550",
+      "OIL AND GAS",
+      "134447491",
+      "2014",
+      "02",
+      "GABON",
+      "2111"
+    ],
+    [
+      "7560",
+      "OIL AND GAS",
+      "105777844",
+      "2014",
+      "02",
+      "CHAD",
+      "2111"
+    ],
+    [
+      "7620",
+      "OIL AND GAS",
+      "354387431",
+      "2014",
+      "02",
+      "ANGOLA",
+      "2111"
+    ],
+    [
+      "7630",
+      "OIL AND GAS",
+      "0",
+      "2014",
+      "02",
+      "CONGO (BRAZZAVILLE)",
+      "2111"
+    ],
+    [
+      "7XXX",
+      "OIL AND GAS",
+      "841641694",
+      "2014",
+      "02",
+      "AFRICA",
+      "2111"
+    ]
+  ]
+}

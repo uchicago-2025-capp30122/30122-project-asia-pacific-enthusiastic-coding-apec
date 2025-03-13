@@ -1,0 +1,983 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 18:11:34 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a4635560cc97f27e4113ed691489a1b9eaaf3ec51d00ffa960fc23ec10fe8975ea34a56ac4eac51efcaa8b6645234fbef1; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5200",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "174328",
+      "2013",
+      "01",
+      "UNITED ARAB EMIRATES",
+      "3118"
+    ],
+    [
+      "5230",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "72696",
+      "2013",
+      "01",
+      "OMAN",
+      "3118"
+    ],
+    [
+      "5330",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "5418158",
+      "2013",
+      "01",
+      "INDIA",
+      "3118"
+    ],
+    [
+      "5350",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "419353",
+      "2013",
+      "01",
+      "PAKISTAN",
+      "3118"
+    ],
+    [
+      "5360",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "3260",
+      "2013",
+      "01",
+      "NEPAL",
+      "3118"
+    ],
+    [
+      "5380",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "233109",
+      "2013",
+      "01",
+      "BANGLADESH",
+      "3118"
+    ],
+    [
+      "5420",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "72548",
+      "2013",
+      "01",
+      "SRI LANKA",
+      "3118"
+    ],
+    [
+      "5490",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "6880614",
+      "2013",
+      "01",
+      "THAILAND",
+      "3118"
+    ],
+    [
+      "5520",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "1840707",
+      "2013",
+      "01",
+      "VIETNAM",
+      "3118"
+    ],
+    [
+      "5570",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "1816565",
+      "2013",
+      "01",
+      "MALAYSIA",
+      "3118"
+    ],
+    [
+      "5590",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "2435229",
+      "2013",
+      "01",
+      "SINGAPORE",
+      "3118"
+    ],
+    [
+      "5600",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "1116165",
+      "2013",
+      "01",
+      "INDONESIA",
+      "3118"
+    ],
+    [
+      "5650",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "1981469",
+      "2013",
+      "01",
+      "PHILIPPINES",
+      "3118"
+    ],
+    [
+      "5660",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "80569",
+      "2013",
+      "01",
+      "MACAU",
+      "3118"
+    ],
+    [
+      "5700",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "9864537",
+      "2013",
+      "01",
+      "CHINA",
+      "3118"
+    ],
+    [
+      "5800",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "5090583",
+      "2013",
+      "01",
+      "KOREA, SOUTH",
+      "3118"
+    ],
+    [
+      "5820",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "469414",
+      "2013",
+      "01",
+      "HONG KONG",
+      "3118"
+    ],
+    [
+      "5830",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "3551231",
+      "2013",
+      "01",
+      "TAIWAN",
+      "3118"
+    ],
+    [
+      "5880",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "3468044",
+      "2013",
+      "01",
+      "JAPAN",
+      "3118"
+    ],
+    [
+      "6021",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "572366",
+      "2013",
+      "01",
+      "AUSTRALIA",
+      "3118"
+    ],
+    [
+      "6141",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "31030",
+      "2013",
+      "01",
+      "NEW ZEALAND",
+      "3118"
+    ],
+    [
+      "2720",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "174897",
+      "2013",
+      "01",
+      "BARBADOS",
+      "3118"
+    ],
+    [
+      "2740",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "95130",
+      "2013",
+      "01",
+      "TRINIDAD AND TOBAGO",
+      "3118"
+    ],
+    [
+      "3010",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "1754324",
+      "2013",
+      "01",
+      "COLOMBIA",
+      "3118"
+    ],
+    [
+      "3120",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "86699",
+      "2013",
+      "01",
+      "GUYANA",
+      "3118"
+    ],
+    [
+      "3310",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "125242",
+      "2013",
+      "01",
+      "ECUADOR",
+      "3118"
+    ],
+    [
+      "3330",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "126833",
+      "2013",
+      "01",
+      "PERU",
+      "3118"
+    ],
+    [
+      "3350",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "245804",
+      "2013",
+      "01",
+      "BOLIVIA",
+      "3118"
+    ],
+    [
+      "3370",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "57817",
+      "2013",
+      "01",
+      "CHILE",
+      "3118"
+    ],
+    [
+      "3510",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "2511661",
+      "2013",
+      "01",
+      "BRAZIL",
+      "3118"
+    ],
+    [
+      "3530",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "6927",
+      "2013",
+      "01",
+      "PARAGUAY",
+      "3118"
+    ],
+    [
+      "3550",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "158716",
+      "2013",
+      "01",
+      "URUGUAY",
+      "3118"
+    ],
+    [
+      "3570",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "576947",
+      "2013",
+      "01",
+      "ARGENTINA",
+      "3118"
+    ],
+    [
+      "4010",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "981315",
+      "2013",
+      "01",
+      "SWEDEN",
+      "3118"
+    ],
+    [
+      "4039",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "248133",
+      "2013",
+      "01",
+      "NORWAY",
+      "3118"
+    ],
+    [
+      "4050",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "90480",
+      "2013",
+      "01",
+      "FINLAND",
+      "3118"
+    ],
+    [
+      "4099",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "986082",
+      "2013",
+      "01",
+      "DENMARK",
+      "3118"
+    ],
+    [
+      "4120",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "2359775",
+      "2013",
+      "01",
+      "UNITED KINGDOM",
+      "3118"
+    ],
+    [
+      "4190",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "44014",
+      "2013",
+      "01",
+      "IRELAND",
+      "3118"
+    ],
+    [
+      "4210",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "1829157",
+      "2013",
+      "01",
+      "NETHERLANDS",
+      "3118"
+    ],
+    [
+      "4231",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "2462187",
+      "2013",
+      "01",
+      "BELGIUM",
+      "3118"
+    ],
+    [
+      "4279",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "3264690",
+      "2013",
+      "01",
+      "FRANCE",
+      "3118"
+    ],
+    [
+      "4280",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "5321099",
+      "2013",
+      "01",
+      "GERMANY",
+      "3118"
+    ],
+    [
+      "4330",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "507700",
+      "2013",
+      "01",
+      "AUSTRIA",
+      "3118"
+    ],
+    [
+      "4351",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "172013",
+      "2013",
+      "01",
+      "CZECH REPUBLIC",
+      "3118"
+    ],
+    [
+      "6863",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "35111",
+      "2013",
+      "01",
+      "FIJI",
+      "3118"
+    ],
+    [
+      "7140",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "52835",
+      "2013",
+      "01",
+      "MOROCCO",
+      "3118"
+    ],
+    [
+      "7230",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "8944",
+      "2013",
+      "01",
+      "TUNISIA",
+      "3118"
+    ],
+    [
+      "7290",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "76727",
+      "2013",
+      "01",
+      "EGYPT",
+      "3118"
+    ],
+    [
+      "7530",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "6460",
+      "2013",
+      "01",
+      "NIGERIA",
+      "3118"
+    ],
+    [
+      "4419",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "784334",
+      "2013",
+      "01",
+      "SWITZERLAND",
+      "3118"
+    ],
+    [
+      "4490",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "49314",
+      "2013",
+      "01",
+      "LATVIA",
+      "3118"
+    ],
+    [
+      "4510",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "122310",
+      "2013",
+      "01",
+      "LITHUANIA",
+      "3118"
+    ],
+    [
+      "4550",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "1612906",
+      "2013",
+      "01",
+      "POLAND",
+      "3118"
+    ],
+    [
+      "4621",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "206538",
+      "2013",
+      "01",
+      "RUSSIA",
+      "3118"
+    ],
+    [
+      "4622",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "18701",
+      "2013",
+      "01",
+      "BELARUS",
+      "3118"
+    ],
+    [
+      "4623",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "271940",
+      "2013",
+      "01",
+      "UKRAINE",
+      "3118"
+    ],
+    [
+      "4641",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "38753",
+      "2013",
+      "01",
+      "MOLDOVA",
+      "3118"
+    ],
+    [
+      "4700",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "1834715",
+      "2013",
+      "01",
+      "SPAIN",
+      "3118"
+    ],
+    [
+      "4710",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "154174",
+      "2013",
+      "01",
+      "PORTUGAL",
+      "3118"
+    ],
+    [
+      "4759",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "19614205",
+      "2013",
+      "01",
+      "ITALY",
+      "3118"
+    ],
+    [
+      "4791",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "371845",
+      "2013",
+      "01",
+      "CROATIA",
+      "3118"
+    ],
+    [
+      "4792",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "35089",
+      "2013",
+      "01",
+      "SLOVENIA",
+      "3118"
+    ],
+    [
+      "4793",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "80774",
+      "2013",
+      "01",
+      "BOSNIA AND HERZEGOVINA",
+      "3118"
+    ],
+    [
+      "4794",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "53632",
+      "2013",
+      "01",
+      "MACEDONIA",
+      "3118"
+    ],
+    [
+      "4801",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "189167",
+      "2013",
+      "01",
+      "SERBIA",
+      "3118"
+    ],
+    [
+      "4840",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "410336",
+      "2013",
+      "01",
+      "GREECE",
+      "3118"
+    ],
+    [
+      "4850",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "451678",
+      "2013",
+      "01",
+      "ROMANIA",
+      "3118"
+    ],
+    [
+      "4870",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "212267",
+      "2013",
+      "01",
+      "BULGARIA",
+      "3118"
+    ],
+    [
+      "4890",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "1069776",
+      "2013",
+      "01",
+      "TURKEY",
+      "3118"
+    ],
+    [
+      "5040",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "56326",
+      "2013",
+      "01",
+      "LEBANON",
+      "3118"
+    ],
+    [
+      "5081",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "7900443",
+      "2013",
+      "01",
+      "ISRAEL",
+      "3118"
+    ],
+    [
+      "5110",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "53919",
+      "2013",
+      "01",
+      "JORDAN",
+      "3118"
+    ],
+    [
+      "5170",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "78153",
+      "2013",
+      "01",
+      "SAUDI ARABIA",
+      "3118"
+    ],
+    [
+      "-",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "313242308",
+      "2013",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "3118"
+    ],
+    [
+      "0003",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "42887351",
+      "2013",
+      "01",
+      "EUROPEAN UNION",
+      "3118"
+    ],
+    [
+      "1XXX",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "204728166",
+      "2013",
+      "01",
+      "NORTH AMERICA",
+      "3118"
+    ],
+    [
+      "4XXX",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "45849099",
+      "2013",
+      "01",
+      "EUROPE",
+      "3118"
+    ],
+    [
+      "7XXX",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "161310",
+      "2013",
+      "01",
+      "AFRICA",
+      "3118"
+    ],
+    [
+      "0014",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "30477202",
+      "2013",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "3118"
+    ],
+    [
+      "5XXX",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "53077420",
+      "2013",
+      "01",
+      "ASIA",
+      "3118"
+    ],
+    [
+      "0017",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "2356541",
+      "2013",
+      "01",
+      "CAFTA-DR",
+      "3118"
+    ],
+    [
+      "6XXX",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "638507",
+      "2013",
+      "01",
+      "AUSTRALIA AND OCEANIA",
+      "3118"
+    ],
+    [
+      "0020",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "204728166",
+      "2013",
+      "01",
+      "NAFTA",
+      "3118"
+    ],
+    [
+      "0021",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "61460755",
+      "2013",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3118"
+    ],
+    [
+      "0022",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "265630629",
+      "2013",
+      "01",
+      "OECD",
+      "3118"
+    ],
+    [
+      "0023",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "193409289",
+      "2013",
+      "01",
+      "NATO",
+      "3118"
+    ],
+    [
+      "0024",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "59093054",
+      "2013",
+      "01",
+      "LAFTA",
+      "3118"
+    ],
+    [
+      "0025",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "35567846",
+      "2013",
+      "01",
+      "EURO AREA",
+      "3118"
+    ],
+    [
+      "0026",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "244237308",
+      "2013",
+      "01",
+      "APEC",
+      "3118"
+    ],
+    [
+      "0027",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "16070749",
+      "2013",
+      "01",
+      "ASEAN",
+      "3118"
+    ],
+    [
+      "0028",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "1881837",
+      "2013",
+      "01",
+      "CACM",
+      "3118"
+    ],
+    [
+      "1220",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "151199383",
+      "2013",
+      "01",
+      "CANADA",
+      "3118"
+    ],
+    [
+      "2010",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "53528783",
+      "2013",
+      "01",
+      "MEXICO",
+      "3118"
+    ],
+    [
+      "2050",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "56953",
+      "2013",
+      "01",
+      "GUATEMALA",
+      "3118"
+    ],
+    [
+      "2110",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "968500",
+      "2013",
+      "01",
+      "EL SALVADOR",
+      "3118"
+    ],
+    [
+      "2150",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "239737",
+      "2013",
+      "01",
+      "HONDURAS",
+      "3118"
+    ],
+    [
+      "2190",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "139671",
+      "2013",
+      "01",
+      "NICARAGUA",
+      "3118"
+    ],
+    [
+      "2230",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "476976",
+      "2013",
+      "01",
+      "COSTA RICA",
+      "3118"
+    ],
+    [
+      "2410",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "499108",
+      "2013",
+      "01",
+      "JAMAICA",
+      "3118"
+    ],
+    [
+      "2450",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "11160",
+      "2013",
+      "01",
+      "HAITI",
+      "3118"
+    ],
+    [
+      "2470",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "474704",
+      "2013",
+      "01",
+      "DOMINICAN REPUBLIC",
+      "3118"
+    ],
+    [
+      "7910",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "16344",
+      "2013",
+      "01",
+      "SOUTH AFRICA",
+      "3118"
+    ],
+    [
+      "2XXX",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "3136836",
+      "2013",
+      "01",
+      "CENTRAL AMERICA",
+      "3118"
+    ],
+    [
+      "3XXX",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "5650970",
+      "2013",
+      "01",
+      "SOUTH AMERICA",
+      "3118"
+    ],
+    [
+      "0001",
+      "BAKERY AND TORTILLA PRODUCTS",
+      "384183",
+      "2013",
+      "01",
+      "OPEC",
+      "3118"
+    ]
+  ]
+}

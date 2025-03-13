@@ -1,0 +1,821 @@
+{
+  "headers": {
+    "cache-control": "max-age=60, must-revalidate",
+    "access-control-allow-origin": "*",
+    "access-control-allow-methods": "GET",
+    "access-control-allow-headers": "Origin, X-Requested-With, Content-Type, Accept",
+    "referrer-policy": "same-origin",
+    "content-security-policy": "default-src 'self'; img-src 'self' data:; object-src 'none'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; frame-ancestors 'none'; upgrade-insecure-requests; block-all-mixed-content",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/json;charset=utf-8",
+    "date": "Mon, 10 Mar 2025 18:11:50 GMT",
+    "keep-alive": "timeout=20",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "TS010383f0=01283c52a45b959293235f9db4b3724b1ac688fe1d331b11568896b08936bd367d66328efb23cfd0a1b974280df4787667c2ba0d84; Path=/; Domain=.api.census.gov; Secure; HttpOnly;",
+    "transfer-encoding": "chunked"
+  },
+  "body": [
+    [
+      "CTY_CODE",
+      "NAICS_LDESC",
+      "GEN_VAL_MO",
+      "YEAR",
+      "MONTH",
+      "CTY_NAME",
+      "NAICS"
+    ],
+    [
+      "5330",
+      "DAIRY PRODUCTS",
+      "10834706",
+      "2013",
+      "01",
+      "INDIA",
+      "3115"
+    ],
+    [
+      "5350",
+      "DAIRY PRODUCTS",
+      "67819",
+      "2013",
+      "01",
+      "PAKISTAN",
+      "3115"
+    ],
+    [
+      "5420",
+      "DAIRY PRODUCTS",
+      "140705",
+      "2013",
+      "01",
+      "SRI LANKA",
+      "3115"
+    ],
+    [
+      "5490",
+      "DAIRY PRODUCTS",
+      "2674365",
+      "2013",
+      "01",
+      "THAILAND",
+      "3115"
+    ],
+    [
+      "5520",
+      "DAIRY PRODUCTS",
+      "445190",
+      "2013",
+      "01",
+      "VIETNAM",
+      "3115"
+    ],
+    [
+      "5570",
+      "DAIRY PRODUCTS",
+      "483679",
+      "2013",
+      "01",
+      "MALAYSIA",
+      "3115"
+    ],
+    [
+      "5590",
+      "DAIRY PRODUCTS",
+      "437521",
+      "2013",
+      "01",
+      "SINGAPORE",
+      "3115"
+    ],
+    [
+      "5600",
+      "DAIRY PRODUCTS",
+      "73440",
+      "2013",
+      "01",
+      "INDONESIA",
+      "3115"
+    ],
+    [
+      "5650",
+      "DAIRY PRODUCTS",
+      "269851",
+      "2013",
+      "01",
+      "PHILIPPINES",
+      "3115"
+    ],
+    [
+      "5700",
+      "DAIRY PRODUCTS",
+      "1865157",
+      "2013",
+      "01",
+      "CHINA",
+      "3115"
+    ],
+    [
+      "5800",
+      "DAIRY PRODUCTS",
+      "1006711",
+      "2013",
+      "01",
+      "KOREA, SOUTH",
+      "3115"
+    ],
+    [
+      "5820",
+      "DAIRY PRODUCTS",
+      "4900",
+      "2013",
+      "01",
+      "HONG KONG",
+      "3115"
+    ],
+    [
+      "5830",
+      "DAIRY PRODUCTS",
+      "490883",
+      "2013",
+      "01",
+      "TAIWAN",
+      "3115"
+    ],
+    [
+      "5880",
+      "DAIRY PRODUCTS",
+      "464713",
+      "2013",
+      "01",
+      "JAPAN",
+      "3115"
+    ],
+    [
+      "6021",
+      "DAIRY PRODUCTS",
+      "10078609",
+      "2013",
+      "01",
+      "AUSTRALIA",
+      "3115"
+    ],
+    [
+      "6141",
+      "DAIRY PRODUCTS",
+      "62310694",
+      "2013",
+      "01",
+      "NEW ZEALAND",
+      "3115"
+    ],
+    [
+      "3010",
+      "DAIRY PRODUCTS",
+      "296374",
+      "2013",
+      "01",
+      "COLOMBIA",
+      "3115"
+    ],
+    [
+      "3310",
+      "DAIRY PRODUCTS",
+      "36847",
+      "2013",
+      "01",
+      "ECUADOR",
+      "3115"
+    ],
+    [
+      "3330",
+      "DAIRY PRODUCTS",
+      "699415",
+      "2013",
+      "01",
+      "PERU",
+      "3115"
+    ],
+    [
+      "3370",
+      "DAIRY PRODUCTS",
+      "2575194",
+      "2013",
+      "01",
+      "CHILE",
+      "3115"
+    ],
+    [
+      "3510",
+      "DAIRY PRODUCTS",
+      "21504",
+      "2013",
+      "01",
+      "BRAZIL",
+      "3115"
+    ],
+    [
+      "3550",
+      "DAIRY PRODUCTS",
+      "867000",
+      "2013",
+      "01",
+      "URUGUAY",
+      "3115"
+    ],
+    [
+      "3570",
+      "DAIRY PRODUCTS",
+      "1840144",
+      "2013",
+      "01",
+      "ARGENTINA",
+      "3115"
+    ],
+    [
+      "4000",
+      "DAIRY PRODUCTS",
+      "40790",
+      "2013",
+      "01",
+      "ICELAND",
+      "3115"
+    ],
+    [
+      "4010",
+      "DAIRY PRODUCTS",
+      "69762",
+      "2013",
+      "01",
+      "SWEDEN",
+      "3115"
+    ],
+    [
+      "4039",
+      "DAIRY PRODUCTS",
+      "1537867",
+      "2013",
+      "01",
+      "NORWAY",
+      "3115"
+    ],
+    [
+      "4050",
+      "DAIRY PRODUCTS",
+      "747462",
+      "2013",
+      "01",
+      "FINLAND",
+      "3115"
+    ],
+    [
+      "4099",
+      "DAIRY PRODUCTS",
+      "4972830",
+      "2013",
+      "01",
+      "DENMARK",
+      "3115"
+    ],
+    [
+      "4120",
+      "DAIRY PRODUCTS",
+      "4330390",
+      "2013",
+      "01",
+      "UNITED KINGDOM",
+      "3115"
+    ],
+    [
+      "4190",
+      "DAIRY PRODUCTS",
+      "6412446",
+      "2013",
+      "01",
+      "IRELAND",
+      "3115"
+    ],
+    [
+      "4210",
+      "DAIRY PRODUCTS",
+      "4550404",
+      "2013",
+      "01",
+      "NETHERLANDS",
+      "3115"
+    ],
+    [
+      "4231",
+      "DAIRY PRODUCTS",
+      "296363",
+      "2013",
+      "01",
+      "BELGIUM",
+      "3115"
+    ],
+    [
+      "4279",
+      "DAIRY PRODUCTS",
+      "14853925",
+      "2013",
+      "01",
+      "FRANCE",
+      "3115"
+    ],
+    [
+      "4280",
+      "DAIRY PRODUCTS",
+      "6259392",
+      "2013",
+      "01",
+      "GERMANY",
+      "3115"
+    ],
+    [
+      "4330",
+      "DAIRY PRODUCTS",
+      "461583",
+      "2013",
+      "01",
+      "AUSTRIA",
+      "3115"
+    ],
+    [
+      "6863",
+      "DAIRY PRODUCTS",
+      "28994",
+      "2013",
+      "01",
+      "FIJI",
+      "3115"
+    ],
+    [
+      "7290",
+      "DAIRY PRODUCTS",
+      "140117",
+      "2013",
+      "01",
+      "EGYPT",
+      "3115"
+    ],
+    [
+      "7490",
+      "DAIRY PRODUCTS",
+      "13565",
+      "2013",
+      "01",
+      "GHANA",
+      "3115"
+    ],
+    [
+      "7530",
+      "DAIRY PRODUCTS",
+      "14742",
+      "2013",
+      "01",
+      "NIGERIA",
+      "3115"
+    ],
+    [
+      "4419",
+      "DAIRY PRODUCTS",
+      "6423045",
+      "2013",
+      "01",
+      "SWITZERLAND",
+      "3115"
+    ],
+    [
+      "4470",
+      "DAIRY PRODUCTS",
+      "108651",
+      "2013",
+      "01",
+      "ESTONIA",
+      "3115"
+    ],
+    [
+      "4510",
+      "DAIRY PRODUCTS",
+      "617369",
+      "2013",
+      "01",
+      "LITHUANIA",
+      "3115"
+    ],
+    [
+      "4550",
+      "DAIRY PRODUCTS",
+      "1169715",
+      "2013",
+      "01",
+      "POLAND",
+      "3115"
+    ],
+    [
+      "4621",
+      "DAIRY PRODUCTS",
+      "64049",
+      "2013",
+      "01",
+      "RUSSIA",
+      "3115"
+    ],
+    [
+      "4623",
+      "DAIRY PRODUCTS",
+      "679860",
+      "2013",
+      "01",
+      "UKRAINE",
+      "3115"
+    ],
+    [
+      "4700",
+      "DAIRY PRODUCTS",
+      "5105575",
+      "2013",
+      "01",
+      "SPAIN",
+      "3115"
+    ],
+    [
+      "4710",
+      "DAIRY PRODUCTS",
+      "43211",
+      "2013",
+      "01",
+      "PORTUGAL",
+      "3115"
+    ],
+    [
+      "4759",
+      "DAIRY PRODUCTS",
+      "19972232",
+      "2013",
+      "01",
+      "ITALY",
+      "3115"
+    ],
+    [
+      "4791",
+      "DAIRY PRODUCTS",
+      "14976",
+      "2013",
+      "01",
+      "CROATIA",
+      "3115"
+    ],
+    [
+      "4793",
+      "DAIRY PRODUCTS",
+      "38437",
+      "2013",
+      "01",
+      "BOSNIA AND HERZEGOVINA",
+      "3115"
+    ],
+    [
+      "4801",
+      "DAIRY PRODUCTS",
+      "53530",
+      "2013",
+      "01",
+      "SERBIA",
+      "3115"
+    ],
+    [
+      "4840",
+      "DAIRY PRODUCTS",
+      "1834115",
+      "2013",
+      "01",
+      "GREECE",
+      "3115"
+    ],
+    [
+      "4850",
+      "DAIRY PRODUCTS",
+      "32929",
+      "2013",
+      "01",
+      "ROMANIA",
+      "3115"
+    ],
+    [
+      "4870",
+      "DAIRY PRODUCTS",
+      "1102216",
+      "2013",
+      "01",
+      "BULGARIA",
+      "3115"
+    ],
+    [
+      "4890",
+      "DAIRY PRODUCTS",
+      "1477585",
+      "2013",
+      "01",
+      "TURKEY",
+      "3115"
+    ],
+    [
+      "4910",
+      "DAIRY PRODUCTS",
+      "94738",
+      "2013",
+      "01",
+      "CYPRUS",
+      "3115"
+    ],
+    [
+      "5040",
+      "DAIRY PRODUCTS",
+      "5995",
+      "2013",
+      "01",
+      "LEBANON",
+      "3115"
+    ],
+    [
+      "5081",
+      "DAIRY PRODUCTS",
+      "1252356",
+      "2013",
+      "01",
+      "ISRAEL",
+      "3115"
+    ],
+    [
+      "-",
+      "DAIRY PRODUCTS",
+      "219673979",
+      "2013",
+      "01",
+      "TOTAL FOR ALL COUNTRIES",
+      "3115"
+    ],
+    [
+      "0003",
+      "DAIRY PRODUCTS",
+      "73050284",
+      "2013",
+      "01",
+      "EUROPEAN UNION",
+      "3115"
+    ],
+    [
+      "1XXX",
+      "DAIRY PRODUCTS",
+      "33897206",
+      "2013",
+      "01",
+      "NORTH AMERICA",
+      "3115"
+    ],
+    [
+      "4XXX",
+      "DAIRY PRODUCTS",
+      "83365447",
+      "2013",
+      "01",
+      "EUROPE",
+      "3115"
+    ],
+    [
+      "7XXX",
+      "DAIRY PRODUCTS",
+      "410822",
+      "2013",
+      "01",
+      "AFRICA",
+      "3115"
+    ],
+    [
+      "0014",
+      "DAIRY PRODUCTS",
+      "77486158",
+      "2013",
+      "01",
+      "PACIFIC RIM COUNTRIES",
+      "3115"
+    ],
+    [
+      "5XXX",
+      "DAIRY PRODUCTS",
+      "20517991",
+      "2013",
+      "01",
+      "ASIA",
+      "3115"
+    ],
+    [
+      "0017",
+      "DAIRY PRODUCTS",
+      "1919183",
+      "2013",
+      "01",
+      "CAFTA-DR",
+      "3115"
+    ],
+    [
+      "6XXX",
+      "DAIRY PRODUCTS",
+      "72418297",
+      "2013",
+      "01",
+      "AUSTRALIA AND OCEANIA",
+      "3115"
+    ],
+    [
+      "0020",
+      "DAIRY PRODUCTS",
+      "33897206",
+      "2013",
+      "01",
+      "NAFTA",
+      "3115"
+    ],
+    [
+      "0021",
+      "DAIRY PRODUCTS",
+      "17000841",
+      "2013",
+      "01",
+      "TWENTY LATIN AMERICAN REPUBLICS",
+      "3115"
+    ],
+    [
+      "0022",
+      "DAIRY PRODUCTS",
+      "192252826",
+      "2013",
+      "01",
+      "OECD",
+      "3115"
+    ],
+    [
+      "0023",
+      "DAIRY PRODUCTS",
+      "93457585",
+      "2013",
+      "01",
+      "NATO",
+      "3115"
+    ],
+    [
+      "0024",
+      "DAIRY PRODUCTS",
+      "15081658",
+      "2013",
+      "01",
+      "LAFTA",
+      "3115"
+    ],
+    [
+      "0025",
+      "DAIRY PRODUCTS",
+      "60740097",
+      "2013",
+      "01",
+      "EURO AREA",
+      "3115"
+    ],
+    [
+      "0026",
+      "DAIRY PRODUCTS",
+      "117841577",
+      "2013",
+      "01",
+      "APEC",
+      "3115"
+    ],
+    [
+      "0027",
+      "DAIRY PRODUCTS",
+      "4384046",
+      "2013",
+      "01",
+      "ASEAN",
+      "3115"
+    ],
+    [
+      "0028",
+      "DAIRY PRODUCTS",
+      "1697495",
+      "2013",
+      "01",
+      "CACM",
+      "3115"
+    ],
+    [
+      "1220",
+      "DAIRY PRODUCTS",
+      "25152026",
+      "2013",
+      "01",
+      "CANADA",
+      "3115"
+    ],
+    [
+      "2010",
+      "DAIRY PRODUCTS",
+      "8745180",
+      "2013",
+      "01",
+      "MEXICO",
+      "3115"
+    ],
+    [
+      "2050",
+      "DAIRY PRODUCTS",
+      "6057",
+      "2013",
+      "01",
+      "GUATEMALA",
+      "3115"
+    ],
+    [
+      "2110",
+      "DAIRY PRODUCTS",
+      "317435",
+      "2013",
+      "01",
+      "EL SALVADOR",
+      "3115"
+    ],
+    [
+      "2150",
+      "DAIRY PRODUCTS",
+      "161640",
+      "2013",
+      "01",
+      "HONDURAS",
+      "3115"
+    ],
+    [
+      "2190",
+      "DAIRY PRODUCTS",
+      "1212363",
+      "2013",
+      "01",
+      "NICARAGUA",
+      "3115"
+    ],
+    [
+      "2410",
+      "DAIRY PRODUCTS",
+      "808555",
+      "2013",
+      "01",
+      "JAMAICA",
+      "3115"
+    ],
+    [
+      "2470",
+      "DAIRY PRODUCTS",
+      "221688",
+      "2013",
+      "01",
+      "DOMINICAN REPUBLIC",
+      "3115"
+    ],
+    [
+      "7910",
+      "DAIRY PRODUCTS",
+      "242398",
+      "2013",
+      "01",
+      "SOUTH AFRICA",
+      "3115"
+    ],
+    [
+      "2XXX",
+      "DAIRY PRODUCTS",
+      "2727738",
+      "2013",
+      "01",
+      "CENTRAL AMERICA",
+      "3115"
+    ],
+    [
+      "3XXX",
+      "DAIRY PRODUCTS",
+      "6336478",
+      "2013",
+      "01",
+      "SOUTH AMERICA",
+      "3115"
+    ],
+    [
+      "0001",
+      "DAIRY PRODUCTS",
+      "51589",
+      "2013",
+      "01",
+      "OPEC",
+      "3115"
+    ]
+  ]
+}

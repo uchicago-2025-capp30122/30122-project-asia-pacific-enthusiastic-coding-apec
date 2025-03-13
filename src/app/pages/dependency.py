@@ -99,6 +99,7 @@ def bygroup_get_trade_data(naics):
     combined_df["GEN_VAL_MO"] = combined_df["GEN_VAL_MO"].astype(float)
 
     # filtered year and country and calculate toal import values.
+
     return combined_df[combined_df["CTY_CODE"].str.match(r"-|[1-7]\d{3}")
             ].groupby(["YEAR", "CTY_NAME"])["GEN_VAL_MO"].sum().reset_index()
 

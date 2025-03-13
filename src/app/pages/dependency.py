@@ -28,10 +28,8 @@ layout = html.Div(
         html.H4("Import dependency trend"),
         html.P(
             "In this graph, we analyze the trend of import dependency of each "
-            "item based from 2010. The y-axis of this scatter plot represents "
-            "the import , while the x-axis represents the year."
-            "The size of the circles indicates the total import volume "
-            "for each item."
+            "item based from 2010. The y-axis of this line graph represents "
+            "the import dependency, while the x-axis represents the year."
             ),
         html.P(
             "The thickest line represents the overall import dependency of the "

@@ -1,30 +1,36 @@
 import httpx
 import csv
-from get_trade_data import FetchException, combine_url_with_params, url_to_cache_key
 from pathlib import Path
 import json
 import time
 import os
 
 
+
+class FetchException(Exception):
+    """
+    Turn a httpx.Response into an exception.
+    """
+
+    def __init__(self, response: httpx.Response):
+        super().__init__(
+            f"{response.status_code} retrieving {response.url}: {response.text}"
+        )
+
+
 CACHE_DIR = Path(__file__).parent / "_cache"
 DATA_DIR = Path(__file__).parent / "data"
-
-# Tu API key de NASS
-#API_KEY = "42C4EE11-6E45-31EC-8B5E-ACFFEA269143"
 
 
 try:
     API_KEY = os.environ["API_KEY"]
 except KeyError:
        raise Exception(
-       "Please provide an API_KEY you can request one from https://quickstats.nass.usda.gov"
-    
+       "For getting the agricultural production data, please provide "
+       "an API_KEY. You can request one from https://quickstats.nass.usda.gov/api"
+       "Last update: March-2025"
     )
     
-
-# Base URL for the API
-#base_url = "https://quickstats.nass.usda.gov/api/api_GET/"
 
 # Parameters for the query
 params = {
@@ -43,12 +49,10 @@ def get_data_agri(url, params):
     
     time.sleep(0.5)
 
-    #response = httpx.get(url_fetch, timeout=30.0)
     response = httpx.get(url, params=params)
-
     if response.status_code == 200:
 
-        response_data = {"headers": dict(response.headers),  # save header in dict
+        response_data = {"headers": dict(response.headers), 
                             "body": response.json()
                             }
 
@@ -65,7 +69,6 @@ def get_data_agri(url, params):
                 
                 dict_final[NAICS]=row['Value']
 
-        #agriculture_NAICS = "agriculture_NAICS.csv"
         agriculture_NAICS = DATA_DIR / "agriculture_NAICS.csv"
         DATA_DIR.mkdir(exist_ok=True)
 
@@ -74,8 +77,8 @@ def get_data_agri(url, params):
         with open(agriculture_NAICS, mode="w") as file:
             writer = csv.writer(file)
             writer.writerow(["NAICS", "Production"])
-            # Value
+        
             for key, value in dict_final.items():
                 writer.writerow([key, value])
 
-    
+    raise FetchException(response)    

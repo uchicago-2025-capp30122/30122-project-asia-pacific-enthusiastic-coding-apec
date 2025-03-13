@@ -10,7 +10,6 @@ import csv
 import sys
 PARENT_DIR = Path(__file__).parent.parent.parent
 sys.path.append(str(PARENT_DIR))
-import get_trade_data
 
 
 # 0. Register as Dash page
@@ -74,6 +73,7 @@ def get_data_trade(country, exports: bool):
     """
     Upload data from JSON
     """
+
     if exports is True:
         value = "ALL_VAL_MO"
     elif exports is False:
@@ -83,7 +83,6 @@ def get_data_trade(country, exports: bool):
                         country, None)))
 
     df = pd.DataFrame(data["body"][1:], columns = data["body"][0])
-    #print(df)
     df[value] = df[value].astype(float)
 
     df_anual = df.groupby(["NAICS_LDESC", "CTY_NAME", "NAICS"], as_index=False)[value].sum()
@@ -111,15 +110,12 @@ def  get_trade_of_country(country: str):
 
     dict_final={}
     for NAIC in lst_NAICS:
-        #print(NAIC)
         if not NAIC.startswith("9"):
             dict_temporal={}
             if NAIC in dict_imports:
-                #print(dict_imports)
                 dict_temporal["imports"]=dict_imports[NAIC]["GEN_VAL_MO"]
                 dict_temporal["desciption"]=dict_imports[NAIC]["NAICS_LDESC"]
             else:
-                #print("We came from here")
                 dict_temporal["imports"]=0
 
             if NAIC in dict_exports:
@@ -145,7 +141,7 @@ for country in ids.COUNTRIES:
 
 
 
-# Definir opciones para los dropdowns
+# Define option for dropdwon
 COUNTRIES = list(trade_dict.keys())
 NAICS_CATEGORIES = [
     {"label": "11 - Agriculture and Livestock products", "value": "11"},
@@ -212,7 +208,7 @@ layout = html.Div([
 ])
 
 
-# 3. 📌 Callback principal para actualizar gráficos dinámicamente
+# 3. Callback for the graphics
 @callback(
     [Output('summary-graph', 'figure'), Output('import-graph', 'figure'), Output('export-graph', 'figure')],
     [Input('country-dropdown', 'value'), Input('tariff-dropdown', 'value'), Input('naics-dropdown', 'value')]
@@ -241,11 +237,13 @@ def update_graphs(selected_country, selected_tariff, selected_naics):
     )
 
 
-# 📌 Función para generar gráficos con elasticidades
+# Function for elasticities
 def create_import_export_figs(imports, exports, tariff, elasticity_imp, elasticity_exp, title_import, title_export):
     """
     Genera gráficos de importaciones y exportaciones considerando el efecto de un arancel con elasticidades.
     """
+
+    
     adjusted_imports = imports * (1 + elasticity_imp * tariff)
     taxes = tariff * adjusted_imports
     adjusted_exports = exports * (1 + elasticity_exp * tariff)

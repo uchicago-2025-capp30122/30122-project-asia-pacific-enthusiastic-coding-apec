@@ -1,6 +1,8 @@
 import pytest
-from src.app.pages.treemap import get_iso_alpha3, get_continent
+from unittest.mock import patch, Mock
 
+with patch("dash.register_page") as mock_register_page:
+    from src.app.pages.treemap import get_iso_alpha3, get_continent
 
 def test_get_iso_alpha3():
     assert get_iso_alpha3("United States") == "USA"

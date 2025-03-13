@@ -1,52 +1,27 @@
 import dash
 from dash import dcc, html, callback
 from dash.dependencies import Input, Output
-import plotly.express as pxc
+import plotly.express as px
 import pandas as pd
 import json
 from . import ids
 from pathlib import Path
 import csv
 import sys
-#import pycountry
-
-
-COUNTRIES=['AFGHANISTAN', 'ALBANIA', 'ALGERIA', 'ANDORRA', 'ANGOLA',  'ARGENTINA', 'ARMENIA', 'ARUBA', 
-               'AUSTRALIA', 'AUSTRIA', 'AZERBAIJAN', 'BAHAMAS', 'BAHRAIN', 'BANGLADESH', 'BARBADOS', 'BELARUS', 'BELGIUM', 
-               'BELIZE', 'BENIN', 'BERMUDA', 'BHUTAN', 'BOLIVIA', 'BOTSWANA', 'BRAZIL',  'BRUNEI', 
-               'BULGARIA', 'BURKINA FASO', 'BURUNDI', 'CABO VERDE', 'CAMBODIA', 'CAMEROON', 'CANADA', 'CAYMAN ISLANDS', 
-               'CHAD', 'CHILE', 'CHINA', 'COLOMBIA','COMOROS',  'COSTA RICA', 'CROATIA', 
-               'CUBA', 'CURACAO', 'CYPRUS', 'CZECH REPUBLIC', 'DENMARK', 'DJIBOUTI', 'DOMINICA', 'ECUADOR', 
-               'EGYPT', 'EL SALVADOR', 'ESTONIA', 'ESWATINI', 'ETHIOPIA', 
-               'FAROE ISLANDS', 'FINLAND', 'FRANCE',  'GABON',  'GAMBIA', 'GEORGIA', 'GERMANY', 'GHANA', 'GIBRALTAR', 'GREECE', 'GREENLAND', 'GRENADA', 'GUATEMALA', 'GUINEA', 'GUINEA-BISSAU',
-                'GUYANA', 'HAITI', 'HONDURAS', 'HONG KONG', 'HUNGARY', 'ICELAND', 'INDIA', 'INDONESIA', 'IRAN', 'IRAQ', 'IRELAND', 'ISRAEL', 'ITALY', 'JAMAICA', 
-                'JAPAN', 'JORDAN', 'KAZAKHSTAN', 'KENYA', 'KIRIBATI', 'KOREA, SOUTH', 'KOSOVO', 'KUWAIT',  'LAOS', 'LATVIA', 'LEBANON', 'LESOTHO', 
-                'LIBERIA', 'LIBYA', 'LIECHTENSTEIN', 'LITHUANIA', 'LUXEMBOURG', 'MACAU', 'MACEDONIA', 'MADAGASCAR', 'MALAWI', 'MALAYSIA', 'MALDIVES', 'MALI', 'MALTA', 
-                'MEXICO', 'MICRONESIA', 'MOLDOVA', 'MONACO', 'MONGOLIA', 'MONTENEGRO', 
-                'MOROCCO', 'MOZAMBIQUE', 'NAMIBIA', 'NAURU', 'NEPAL', 'NETHERLANDS', 'NEW CALEDONIA', 'NEW ZEALAND', 'NICARAGUA', 'NIGER', 'NIGERIA',   
-                'NORWAY', 'OMAN', 'PAKISTAN', 'PALAU', 'PANAMA',  'PARAGUAY', 'PERU', 'PHILIPPINES',  'POLAND', 'PORTUGAL', 
-                'QATAR', 'ROMANIA', 'RUSSIA', 'RWANDA', 'SAMOA', 'SAN MARINO', 'SAUDI ARABIA', 'SENEGAL', 'SERBIA', 'SEYCHELLES', 
-                'SIERRA LEONE', 'SINGAPORE', 'SLOVAKIA', 'SLOVENIA', 'SOMALIA', 'SOUTH AFRICA', 'SOUTH SUDAN', 'SPAIN', 'SRI LANKA',
-                'SUDAN', 'SURINAME', 'SWEDEN', 'SWITZERLAND', 'SYRIA', 'TAIWAN', 'TAJIKISTAN', 'TANZANIA', 'THAILAND', 'TIMOR-LESTE',
-                'TOGO',  'TONGA',  'TUNISIA', 'TURKEY', 'TURKMENISTAN',  'UGANDA', 
-                'UKRAINE', 'UNITED KINGDOM', 'URUGUAY', 'UZBEKISTAN',  'VENEZUELA', 'VIETNAM', 
-                'YEMEN', 'ZAMBIA', 'ZIMBABWE']
-
-
 PARENT_DIR = Path(__file__).parent.parent.parent
 sys.path.append(str(PARENT_DIR))
-#import get_trade_data
-#import extract_trade_simulation
+import get_trade_data
+
 
 # 0. Register as Dash page
 dash.register_page(__name__, path="/simulation",
                    title="Simulation",
                    name="Simulation")
 
-#1. Getting the initial data
+# 1. Getting the initial data
 
-#Elasticity prices
-elasticities = PARENT_DIR/ "data/elasticities.csv"
+# Elasticity prices
+elasticities = PARENT_DIR / "data/elasticities.csv"
 
 with open(elasticities, "r") as file:
     csv_reader = csv.DictReader(file)
@@ -59,9 +34,8 @@ with open(elasticities, "r") as file:
         dict_elas[row["Country"]] = dict_temporal
 
 
-
-#Classification countries
-countries = PARENT_DIR/ "data/classification_countries.csv"
+# Classification countries
+countries = PARENT_DIR / "data/classification_countries.csv"
 
 with open(countries, "r") as file:
     csv_reader = csv.DictReader(file)
@@ -71,22 +45,19 @@ with open(countries, "r") as file:
         for key, value in row.items():
             if key != "Economy":
                 if key == "Income group":
-                    if (row["Income group"] == "Lower middle income" or
-                        row["Income group"] == "Upper middle income"):
+                    if (row["Income group"] == "Lower middle income" or row[
+                            "Income group"] == "Upper middle income"):
                         dict_temporal[key] = "Middle income"
                     else:
                         dict_temporal[key] = value
                 else:
                     dict_temporal[key] = value
 
-        
         dict_countries[row["Economy"].upper()] = dict_temporal
 
 
-
-
-#Classification NAICS
-Class_NAICS = PARENT_DIR/ "data/code_NAICS_elasticity.csv"
+# Classification NAICS
+Class_NAICS = PARENT_DIR / "data/code_NAICS_elasticity.csv"
 
 with open(Class_NAICS, "r") as file:
     csv_reader = csv.DictReader(file)
@@ -98,18 +69,19 @@ with open(Class_NAICS, "r") as file:
                 dict_temporal[key] = value
         dict_NAICS[row["NAICS"]] = dict_temporal
 
-# 📌 Cargar datos desde el archivo JSON
 
-def get_data_trade(country, exports:bool):
+def get_data_trade(country, exports: bool):
+    """
+    Upload data from JSON
+    """
+    if exports is True:
+        value = "ALL_VAL_MO"
+    elif exports is False:
+        value = "GEN_VAL_MO"
 
-    if exports==True:
-        value="ALL_VAL_MO"
-    elif exports==False:
-        value="GEN_VAL_MO"
-    
     data = json.loads((get_trade_data.get_data_census("2024", None, exports, 
                         country, None)))
-    
+
     df = pd.DataFrame(data["body"][1:], columns = data["body"][0])
     #print(df)
     df[value] = df[value].astype(float)
@@ -167,7 +139,7 @@ def  get_trade_of_country(country: str):
 
 
 trade_dict={}
-for country in COUNTRIES:
+for country in ids.COUNTRIES:
     trade_country=get_trade_of_country(country)
     trade_dict[country]=trade_country
 

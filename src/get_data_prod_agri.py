@@ -4,21 +4,24 @@ from get_trade_data import FetchException, combine_url_with_params, url_to_cache
 from pathlib import Path
 import json
 import time
-#import os
+import os
 
 
 CACHE_DIR = Path(__file__).parent / "_cache"
 DATA_DIR = Path(__file__).parent / "data"
 
 # Tu API key de NASS
-API_KEY = "42C4EE11-6E45-31EC-8B5E-ACFFEA269143"
+#API_KEY = "42C4EE11-6E45-31EC-8B5E-ACFFEA269143"
 
 
-#try:
-    #API_KEY = os.environ["API_KEY"]
-#except KeyError:
- ##      "Please provide an API_KEY you can request one from https://quickstats.nass.usda.gov"
-   # )
+try:
+    API_KEY = os.environ["API_KEY"]
+except KeyError:
+       raise Exception(
+       "Please provide an API_KEY you can request one from https://quickstats.nass.usda.gov"
+    
+    )
+    
 
 # Base URL for the API
 #base_url = "https://quickstats.nass.usda.gov/api/api_GET/"

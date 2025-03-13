@@ -8,6 +8,7 @@ This function extract data of table sale sof the economic census for the 2022 Ye
 agregate it by NAIC of 4 digits. It store the information in a csv file in a directory data.
 Nevertheless, this information is not available anymore since goverment has started to quit some table from the web.
 
+
 https://www.cnbc.com/2025/02/06/some-census-bureau-data-now-appears-to-be-unavailable-to-the-public.html
 
 We used the previous stored csv for the rest of the application

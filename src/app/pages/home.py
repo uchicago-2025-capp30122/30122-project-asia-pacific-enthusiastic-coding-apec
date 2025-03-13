@@ -33,12 +33,16 @@ layout = html.Div(
                         html.Li(
                             "Trade Data: Extracted using Python scripts that "
                             "clean and process trade data, providing insights "
-                            "into the flow of goods."
+                            "into the flow of goods. Data is sourced from "
+                            "Census Bureau API: International Trade."
                         ),
                         html.Li(
                             "Production Data: Integrated production data "
                             "includes information about various industries "
-                            "and agricultural outputs."
+                            "and agricultural outputs. Data are sourced from"
+                            "Census Bureau API: 2022 Economic Census and USDA "
+                            "National Agricultural Statistics Service, "
+                            "Quick Stats API"
                         ),
                         html.Li(
                             "Market Concentration: We calculate the "

@@ -10,7 +10,7 @@ import csv
 import sys
 PARENT_DIR = Path(__file__).parent.parent.parent
 sys.path.append(str(PARENT_DIR))
-
+import get_trade_data
 
 # 0. Register as Dash page
 dash.register_page(__name__, path="/simulation",

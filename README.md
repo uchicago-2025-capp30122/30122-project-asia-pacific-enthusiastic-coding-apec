@@ -3,6 +3,8 @@
 This project investigates the economic impact of newly imposed tariffs and potential vulnerabilities in U.S. trade dependencies. Specifically, it addresses two key questions: 
 - (1) How do recent tariffs affect specific products and trading partners?
 - (2) Are there sectors where the U.S. is highly dependent on a small number of countries, posing economic risks?
+
+
 To analyze these issues, we developed an analytical dashboard integrating trade and production data with economic modeling. Using the North American Industry Classification System (NAICS), our study examines trade flows, production concentration, and supply chain resilience. The findings provide insights into the composition of U.S. imports and exports, highlighting sectors susceptible to supply disruptions. This research offers valuable information for policymakers and industry leaders seeking to enhance economic stability and trade policy effectiveness.
 
 [Short explanatory video](https://youtu.be/QslegtG212E)

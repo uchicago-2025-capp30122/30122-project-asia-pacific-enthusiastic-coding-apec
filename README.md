@@ -26,21 +26,21 @@ The classification of countries by income level was obtained from the World Bank
 # 4. How to Run
 
 The software cleans and fetches the data, then passes that information to a Dash application to visualize on your local machine. The software has six pages with visualizations: 
-i home page; 
-ii descriptive page with export and import world maps; 
-iii descriptive page with export and import tree maps, 
-iv simulation page about some hypothetical tariffs, 
-v dependency page with an import tendency trend; and 
-vi Herfindahl–Hirschman index.
+- i home page; 
+- ii descriptive page with export and import world maps; 
+- iii descriptive page with export and import tree maps, 
+- iv simulation page about some hypothetical tariffs, 
+- v dependency page with an import tendency trend; and 
+- vi Herfindahl–Hirschman index.
 The software can be run from a machine with Python installed. We describe in details on how to run the software on your local machine:
 Clone the Trade and Production Data in the United States Github Repository to your local machine terminal by running 
 git clone git@github.com:uchicago-2025-capp30122/30122-project-asia-pacific-enthusiastic-coding-apec.git
 Run “uv sync”
 Put the API_KEY for agriculture data (https://quickstats.nass.usda.gov/api)
 On Linux/MacOS:
-export API_KEY="str"
+-export API_KEY="str"
 On Windows:
-$env:API_KEY = "str"
+-$env:API_KEY = "str"
 Run “uv run src/app/app.py” to start the dash. The first time this is going to take between 5 to 10 minutes depending on your computer and internet connection.
 
 # 5. Application Structure
@@ -48,42 +48,42 @@ Run “uv run src/app/app.py” to start the dash. The first time this is going 
 Directory and Module Breakdown
 1. src/
 This is the main source directory containing all the essential code for the project.
-app/: The core application module responsible for running the analytical dashboard.
-app.py: The main entry point for the dashboard application.
-pages/: A subdirectory containing different analysis and visualization components.
-dependency.py: Analyzes trade dependencies.
-descriptive.py: Provides descriptive statistics and summary reports.
-hhi.py: Computes the Herfindahl-Hirschman Index (HHI) for trade concentration.
-home.py: The landing page of the dashboard.
-ids.py: Handles data identifiers and mapping.
-simulation.py: Runs simulations on trade impact.
-treemap.py: Generates treemap visualizations of trade data.
-data/: Stores raw and processed datasets, extraction scripts, and trade-related computations.
+- app/: The core application module responsible for running the analytical dashboard.
+- app.py: The main entry point for the dashboard application.
+- pages/: A subdirectory containing different analysis and visualization components.
+- dependency.py: Analyzes trade dependencies.
+- descriptive.py: Provides descriptive statistics and summary reports.
+- hhi.py: Computes the Herfindahl-Hirschman Index (HHI) for trade concentration.
+- home.py: The landing page of the dashboard.
+- ids.py: Handles data identifiers and mapping.
+- simulation.py: Runs simulations on trade impact.
+- treemap.py: Generates treemap visualizations of trade data.
+- data/: Stores raw and processed datasets, extraction scripts, and trade-related computations.
 agriculture_NAICS.csv, full_NAICS_production.csv, four_digits_NAICS.csv: Contain industry classification and production data.
 data_extracted.json: Stores extracted trade data for analysis.
 HHI_Import_dependency.png: A visualization related to trade dependencies.
 Scripts:
-extract_trade_simulation.py: Extracts and processes trade simulation data.
-get_data_prod_agri.py: Retrieves agricultural production data.
-get_trade_data.py: Collects and structures trade data.
-hhi_production.py: Computes HHI for production concentration.
-import_production.py: Handles import-related production calculations.
-request_api_census.py: Fetches trade data from the U.S. Census API.
-time_dropdown.py: Manages time-based dropdown selections for visualization.
+- extract_trade_simulation.py: Extracts and processes trade simulation data.
+- get_data_prod_agri.py: Retrieves agricultural production data.
+- get_trade_data.py: Collects and structures trade data.
+- hhi_production.py: Computes HHI for production concentration.
+- import_production.py: Handles import-related production calculations.
+- request_api_census.py: Fetches trade data from the U.S. Census API.
+- time_dropdown.py: Manages time-based dropdown selections for visualization.
 
 2. tests/
 Contains unit tests to ensure the correctness of the implementation.
-test_dependency.py: Tests trade dependency analysis.
-test_get_prod_agri.py: Verifies agricultural production data retrieval.
-test_get_trade_data.py: Checks the correctness of trade data processing.
-test_hhi.py: Ensures correct computation of the Herfindahl-Hirschman Index.
-test_treemap.py: Validates the treemap visualization module.
+- test_dependency.py: Tests trade dependency analysis.
+- test_get_prod_agri.py: Verifies agricultural production data retrieval.
+- test_get_trade_data.py: Checks the correctness of trade data processing.
+- test_hhi.py: Ensures correct computation of the Herfindahl-Hirschman Index.
+- test_treemap.py: Validates the treemap visualization module.
 
 3. Configuration & Setup Files
-.gitignore: Specifies files to be ignored by Git.
-.python-version: Specifies the Python version (3.13.1 in this case).
-pyproject.toml: Defines project dependencies and configurations.
-pytest.ini: Configures the pytest framework.
-README.md: Provides an overview and instructions for the project.
-uv.lock: Stores dependency versions for package management.
+- .gitignore: Specifies files to be ignored by Git.
+- .python-version: Specifies the Python version (3.13.1 in this case).
+- pyproject.toml: Defines project dependencies and configurations.
+- pytest.ini: Configures the pytest framework.
+- README.md: Provides an overview and instructions for the project.
+- uv.lock: Stores dependency versions for package management.
 
